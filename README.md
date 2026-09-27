@@ -32,13 +32,12 @@ Every message starts with the badge (emoji + `L<n> NAME`), so the channel can be
 - US State Department travel advisory for Latvia (level + full text) and the advisories RSS feed
 - US Embassy Riga security/other alerts
 - UK FCDO travel advice for Latvia, Estonia and Lithuania (content API: alert status + change history)
-- Canada, Australia and Germany travel advice pages for Latvia
-- EASA Conflict Zone Information Bulletins (airspace)
-- NATO news
+- Canada and Germany travel advice pages for Latvia
 
 **Regional news (feeds; only security-relevant items that mention the region pass)**
 - LSM (Latvia), ERR (Estonia), LRT (Lithuania) English services
-- Google News queries for Latvia/Baltic security and embassy movements
+- Google News queries for Latvia/Baltic security, embassy movements, airspace/NOTAM closures and NATO–Baltic news
+  (EASA's conflict-zone bulletin list is JavaScript-only and NATO's RSS is dead, so news queries cover those signals)
 
 **OSINT / breaking-news Telegram channels (read from public previews, no account needed)**
 - Clash Report, Disclose.tv (EN) · NEXTA Live, Meduza, ASTRA, Novaya Gazeta Europe (RU, independent) ·
