@@ -1,0 +1,66 @@
+name: Conflict Monitor
+
+on:
+  schedule:
+    # Every 30 minutes, offset from the top of the hour (GitHub's busiest, most-delayed slot).
+    # Each run decides for itself ("auto"): digest when the Riga local hour is a digest hour and none was
+    # sent in the last 3 h, otherwise a poll. Digest hours live in config.yaml (alerts.digest_hours_local).
+    - cron: "7,37 * * * *"
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: "poll | digest | test | check | auto"
+        type: choice
+        default: poll
+        options: [poll, digest, test, check, auto]
+
+# Never run two instances at once (they would race on the state files).
+concurrency:
+  group: conflict-monitor
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: Run monitor
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHANNEL_ID: ${{ secrets.TELEGRAM_CHANNEL_ID }}
+          CHANNEL_INVITE_LINK: ${{ secrets.CHANNEL_INVITE_LINK }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          TZ: Europe/Riga
+        run: |
+          MODE="${{ github.event.inputs.mode }}"
+          if [ -z "$MODE" ]; then MODE=auto; fi
+          echo "mode=$MODE"
+          python -m monitor "$MODE"
+
+      - name: Commit state
+        if: ${{ always() && github.event.inputs.mode != 'check' }}
+        run: |
+          git config user.name "conflict-monitor[bot]"
+          git config user.email "conflict-monitor@users.noreply.github.com"
+          git add state/
+          if git diff --cached --quiet; then
+            echo "no state changes"
+          else
+            git commit -m "state: $(date -u +%Y-%m-%dT%H:%MZ) [skip ci]"
+            # retry once in case a concurrent push happened
+            git push || (git pull --rebase && git push)
+          fi
