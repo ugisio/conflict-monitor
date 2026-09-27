@@ -1,0 +1,10 @@
+{
+ "health": {},
+ "last_digest": null,
+ "overall_level": 0,
+ "overall_since": "2026-09-27T19:46:39+00:00",
+ "pinned_message_id": 3,
+ "recent_levels": [],
+ "runs": 0,
+ "status_text": "📟 <b>CURRENT LEVEL: ⚪ L0 QUIET</b>\nNothing new. All monitored sources unchanged.\nUpdated Sun 27 Sep 22:46 · sources OK 0/0\nScale: ⚫5 Critical 🔴4 Urgent 🟠3 Elevated 🟡2 Watch 🟢1 Info ⚪0 Quiet"
+}
