@@ -1,0 +1,265 @@
+# Conflict Monitor — configuration
+# Edit this file to add/remove sources or tune the alert rules. No code changes needed.
+
+region:
+  name: Latvia / Baltics
+  timezone: Europe/Riga
+  # A news/OSINT post must mention at least one CORE keyword to be considered relevant.
+  core_keywords:
+    - latvia
+    - latvian
+    - riga
+    - rīga
+    - baltic
+    - baltics
+    - estonia
+    - lithuania
+    - kaliningrad
+    - suwałki
+    - suwalki
+    - belarus
+    - belarusian
+    - pskov
+    - ādaži
+    - adazi
+    - liepāja
+    - liepaja
+    - daugavpils
+    - латви
+    - риг
+    - балти
+    - прибалт
+    - эстони
+    - литв
+    - калининград
+    - беларус
+    - белорус
+    - сувалк
+    - псков
+    - ленинградск
+    - lettland
+    - baltikum
+  # CONTEXT keywords raise relevance only together with a core keyword.
+  context_keywords:
+    - nato
+    - нато
+    - russia
+    - росси
+    - kremlin
+    - кремл
+    - article 4
+    - article 5
+    - eastern flank
+
+telegram:
+  # Numeric id of the private channel the bot posts to (env TELEGRAM_CHANNEL_ID overrides). Not a secret.
+  channel_id: "-1004455291623"
+  # Optional invite link shown to people who /start the bot (env CHANNEL_INVITE_LINK overrides).
+  invite_link: ""
+
+alerts:
+  # Items at or above this level are posted to the channel immediately (with sound).
+  immediate_min_level: 3
+  # Items at or above this level are also sent as a direct message to every subscriber and pinned.
+  dm_min_level: 4
+  # The channel's "current level" is the highest item level seen within this window.
+  overall_window_hours: 72
+  # Post digest even when there is nothing new (proof of life).
+  digest_when_empty: true
+  digest_hours_local: [8, 20]
+
+scale:
+  0: {emoji: "⚪", name: "QUIET",    meaning: "Nothing new. All monitored sources unchanged."}
+  1: {emoji: "🟢", name: "INFO",     meaning: "Routine updates, minor wording edits, general news. No action."}
+  2: {emoji: "🟡", name: "WATCH",    meaning: "Notable development: security-related wording change, exercises or build-up, incidents (drones, sabotage), sharper rhetoric. Stay aware."}
+  3: {emoji: "🟠", name: "ELEVATED", meaning: "Advisory level raised, embassy reduces staff / authorized departure, security alert, several sources converge. Prepare: documents, cash, fuel, go-bag, agree a plan with family."}
+  4: {emoji: "🔴", name: "URGENT",   meaning: "Hard trigger: 'leave now' / ordered departure, airspace or border closure, mobilisation, NATO Article 4/5 invoked. Execute your plan."}
+  5: {emoji: "⚫", name: "CRITICAL", meaning: "Attack or incursion under way or imminent, state of emergency / martial law. Act on your plan immediately; follow official civil-defence instructions."}
+
+llm:
+  enabled_if_key_present: true
+  model: claude-haiku-4-5
+  max_items_per_call: 30
+
+sources:
+  # ---------- Official travel advisories (Latvia-specific) ----------
+  - id: us_state_latvia
+    name: US State Dept advisory (Latvia)
+    type: state_dept_advisory
+    url: https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/latvia-travel-advisory.html
+    tier: official
+
+  - id: us_state_rss
+    name: US State Dept advisories (feed)
+    type: rss
+    url: https://travel.state.gov/_res/rss/TAsTWs.xml
+    tier: official
+    include: [latvia, estonia, lithuania, russia, belarus, poland, finland]
+    max_age_days: 14
+
+  - id: us_embassy_riga
+    name: US Embassy Riga alerts
+    type: rss
+    url: https://lv.usembassy.gov/category/alert/feed/
+    fallback_html: https://lv.usembassy.gov/category/alert/
+    fallback_selector: "h2 a, h3 a, .entry-title a, article a[rel=bookmark]"
+    tier: official
+    base_level: 2
+    max_age_days: 30
+
+  - id: fcdo_latvia
+    name: UK FCDO travel advice (Latvia)
+    type: fcdo
+    url: https://www.gov.uk/api/content/foreign-travel-advice/latvia
+    page: https://www.gov.uk/foreign-travel-advice/latvia
+    tier: official
+
+  - id: fcdo_estonia
+    name: UK FCDO travel advice (Estonia)
+    type: fcdo
+    url: https://www.gov.uk/api/content/foreign-travel-advice/estonia
+    page: https://www.gov.uk/foreign-travel-advice/estonia
+    tier: official
+
+  - id: fcdo_lithuania
+    name: UK FCDO travel advice (Lithuania)
+    type: fcdo
+    url: https://www.gov.uk/api/content/foreign-travel-advice/lithuania
+    page: https://www.gov.uk/foreign-travel-advice/lithuania
+    tier: official
+
+  - id: canada_latvia
+    name: Canada travel advice (Latvia)
+    type: html_text
+    url: https://travel.gc.ca/destinations/latvia
+    selectors: ["h1", ".AdvisoryContainer", "#advisory", ".advisory-container", "#riskLevel"]
+    tier: official
+
+  - id: australia_latvia
+    name: Australia Smartraveller (Latvia)
+    type: html_text
+    url: https://www.smartraveller.gov.au/destinations/europe/latvia
+    selectors: [".advice-level", ".field--name-field-advice-level", "h1", ".overall-advice"]
+    tier: official
+
+  - id: germany_latvia
+    name: Germany Auswärtiges Amt (Lettland)
+    type: html_text
+    url: https://www.auswaertiges-amt.de/de/service/laender/lettland-node/lettlandsicherheit/206932
+    selectors: [".rich-text", "h1", ".c-teaser__title"]
+    tier: official
+
+  # ---------- Airspace / aviation ----------
+  - id: easa_czib
+    name: EASA Conflict Zone bulletins
+    type: html_links
+    url: https://www.easa.europa.eu/en/domains/air-operations/czibs
+    selector: "a[href*='czib'], a[href*='conflict-zone']"
+    include: [russia, belarus, baltic, kaliningrad, latvia, estonia, lithuania, finland, poland]
+    tier: official
+    base_level: 3
+
+  # ---------- Regional news (feeds) ----------
+  - id: lsm_en
+    name: LSM (Latvian public media, EN)
+    type: rss
+    url: https://eng.lsm.lv/rss/
+    tier: news
+    max_age_days: 3
+
+  - id: err_en
+    name: ERR News (Estonia, EN)
+    type: rss
+    url: https://news.err.ee/rss
+    tier: news
+    max_age_days: 3
+
+  - id: lrt_en
+    name: LRT (Lithuania, EN)
+    type: rss
+    url: https://www.lrt.lt/en/news-in-english?rss
+    tier: news
+    max_age_days: 3
+
+  - id: gnews_latvia_security
+    name: Google News — Latvia security
+    type: rss
+    url: "https://news.google.com/rss/search?q=(Latvia+OR+Baltic+OR+Kaliningrad)+(Russia+OR+Belarus+OR+NATO+OR+border+OR+military+OR+drone+OR+airspace)&hl=en&gl=LV&ceid=LV:en"
+    tier: news
+    max_age_days: 2
+
+  - id: gnews_embassy
+    name: Google News — embassies Baltics
+    type: rss
+    url: "https://news.google.com/rss/search?q=(embassy+OR+evacuat+OR+%22leave+now%22+OR+%22ordered+departure%22)+(Latvia+OR+Estonia+OR+Lithuania+OR+Baltic)&hl=en&gl=LV&ceid=LV:en"
+    tier: news
+    max_age_days: 2
+
+  - id: nato_news
+    name: NATO news
+    type: rss
+    url: https://www.nato.int/cps/en/natohq/news.htm?rss=true
+    tier: official
+    max_age_days: 3
+
+  # ---------- OSINT / breaking-news Telegram channels (public previews) ----------
+  # bias/notes are shown in the digest so readers know how to weigh a source.
+  - id: tg_clashreport
+    name: Clash Report
+    type: telegram
+    handle: clashreport
+    note: "EN, conflict news aggregator"
+    tier: osint
+
+  - id: tg_disclosetv
+    name: Disclose.tv
+    type: telegram
+    handle: disclosetv
+    note: "EN, fast breaking news, mixed reliability"
+    tier: osint
+
+  - id: tg_nexta
+    name: NEXTA Live
+    type: telegram
+    handle: nexta_live
+    note: "RU, Belarus opposition media — best coverage of Belarus border/military"
+    tier: osint
+
+  - id: tg_meduza
+    name: Meduza
+    type: telegram
+    handle: meduzalive
+    note: "RU, independent Russian media based in Riga"
+    tier: osint
+
+  - id: tg_astra
+    name: ASTRA
+    type: telegram
+    handle: astrapress
+    note: "RU, independent; incidents inside Russia (Pskov, Leningrad region, Kaliningrad)"
+    tier: osint
+
+  - id: tg_novaya
+    name: Novaya Gazeta Europe
+    type: telegram
+    handle: novaya_europe
+    note: "RU, independent Russian media in exile"
+    tier: osint
+
+  - id: tg_rybar
+    name: Rybar
+    type: telegram
+    handle: rybar
+    note: "RU, pro-Kremlin military blogger — adversary-side signal, treat claims with care"
+    tier: osint
+
+  # ---------- Prediction markets (crowd probability) ----------
+  - id: polymarket
+    name: Polymarket
+    type: polymarket
+    queries: ["Russia NATO", "Russia invade", "Baltic", "Latvia", "Estonia", "Lithuania", "Belarus", "Kaliningrad", "Article 5"]
+    include: [nato, baltic, latvia, estonia, lithuania, belarus, kaliningrad, poland, finland, "article 5"]
+    exclude: [ukraine ceasefire, zelensky, crimea]
+    move_watch_pp: 5      # probability move (percentage points) since last check → WATCH
+    move_elevated_pp: 15  # → ELEVATED
+    tier: market
