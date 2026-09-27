@@ -1,0 +1,21 @@
+{
+  "base_path": "/foreign-travel-advice/latvia",
+  "title": "Latvia travel advice",
+  "public_updated_at": "2026-04-10T09:29:28Z",
+  "updated_at": "2026-07-21T15:06:50+01:00",
+  "details": {
+    "alert_status": [],
+    "change_history": [
+      {"note": "Updated information on European Entry-Exit System (EES) ('Entry requirements' page).", "public_timestamp": "2026-04-10T09:29:28Z"},
+      {"note": "Updated information on security near the eastern border ('Safety and security' page).", "public_timestamp": "2026-02-01T10:00:00Z"}
+    ],
+    "summary": "",
+    "parts": [
+      {"slug": "warnings-and-insurance", "title": "Warnings and insurance", "body": "<p>Before you travel, check the entry requirements and safety pages. Follow local news and sign up for updates.</p>"},
+      {"slug": "entry-requirements", "title": "Entry requirements", "body": "<p>Entry rules.</p>"},
+      {"slug": "safety-and-security", "title": "Safety and security", "body": "<p>Terrorism. Crime. The land border with Belarus and Russia is closed at some crossings. Check before you travel.</p>"},
+      {"slug": "health", "title": "Health", "body": "<p>Health.</p>"},
+      {"slug": "getting-help", "title": "Getting help", "body": "<p>Help.</p>"}
+    ]
+  }
+}
