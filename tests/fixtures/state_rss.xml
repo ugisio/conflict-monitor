@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+  <title>Travel Advisories</title>
+  <link>https://travel.state.gov</link>
+  <item>
+    <title>Curaçao - Level 1: Exercise Normal Precautions</title>
+    <link>https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/curacao-travel-advisory.html</link>
+    <pubDate>Wed, 09 Sep 2026 00:00:00 GMT</pubDate>
+    <description>Exercise normal precautions in Curaçao.</description>
+  </item>
+  <item>
+    <title>Latvia - Level 1: Exercise Normal Precautions</title>
+    <link>https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/latvia-travel-advisory.html</link>
+    <pubDate>Tue, 08 Sep 2026 00:00:00 GMT</pubDate>
+    <description>Exercise normal precautions in Latvia.</description>
+  </item>
+  <item>
+    <title>Iraq - Level 4: Do Not Travel</title>
+    <link>https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/iraq-travel-advisory.html</link>
+    <pubDate>Sat, 29 Aug 2026 00:00:00 GMT</pubDate>
+    <description>Do not travel to Iraq.</description>
+  </item>
+</channel>
+</rss>
