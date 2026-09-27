@@ -27,6 +27,8 @@ def collect(cfg: dict, state: State, dry: bool = False) -> list[Item]:
     so that switching the monitor on does not flood the channel with old news."""
     new_items: list[Item] = []
     llm_on = llm.enabled(cfg)
+    current_ids = {s["id"] for s in cfg["sources"]}
+    state.status["health"] = {k: v for k, v in state.status.get("health", {}).items() if k in current_ids}
     for src in cfg["sources"]:
         fn = FETCHERS.get(src["type"])
         if not fn:
