@@ -16,7 +16,7 @@ from datetime import datetime, timedelta
 from .core import Item, State, load_config, local_tz, now_utc
 from .classify import classify, dedupe
 from .digest import build_digest
-from .fetchers import FETCHERS
+from .fetchers import FETCHERS, SoftFail
 from .telegram import Telegram, format_alert, format_status
 from . import llm
 
@@ -54,6 +54,9 @@ def collect(cfg: dict, state: State, dry: bool = False) -> list[Item]:
             tag = " (baselined)" if first_sight else ""
             print(f"[ok]   {src['id']:<22} fetched={len(fetched):<3} new_relevant={len(fresh)}{tag}")
             new_items += fresh
+        except SoftFail as e:
+            state.set_health(src["id"], True, error=str(e))
+            print(f"[note] {src['id']:<22} {e}")
         except Exception as e:
             state.set_health(src["id"], False, error=f"{type(e).__name__}: {e}")
             print(f"[FAIL] {src['id']:<22} {type(e).__name__}: {str(e)[:160]}")
