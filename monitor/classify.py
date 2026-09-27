@@ -58,6 +58,14 @@ _COMPILED = [(re.compile(p, re.I), lvl) for p, lvl in RULES]
 SOFT = re.compile(r"militar|defen[cs]e|\barmy\b|\btroops?\b|soldier|\bborder|security|\bnato\b|\bwar\b|weapon|missile|"
                   r"russia|kremlin|belarus|армия|военн|границ|безопасност|войск|оборон|росси|беларус|нато", re.I)
 
+# Planning / hypothetical framing: "preparing an evacuation plan", "exercise simulates border closure",
+# "could close airspace". A real signal, but one notch below the same words describing an actual event.
+HYPOTHETICAL = re.compile(
+    r"\b(plans?|planning|planned|prepar\w*|drill|drills|exercise|exercises|scenario|simulat\w*|contingency|"
+    r"in case of|would|could|might|may|hypothetical|table-?top|rehears\w*|"
+    r"план\w*|готов\w*|учени\w*|сценари\w*|отработ\w*|на случай)\b", re.I)
+
+
 # Baltic-specific words in a title strongly imply relevance for OSINT/news.
 def relevance(text: str, cfg: dict) -> tuple[bool, list[str]]:
     t = (text or "").lower()
@@ -103,6 +111,10 @@ def classify(item: Item, src: dict, cfg: dict, llm_enabled: bool = False) -> Ite
             # A generic keyword hit in a long OSINT post that only *mentions* the region: soften by one.
             if item.kind == "post" and lvl >= 2 and not relevance(item.title, cfg)[0]:
                 lvl -= 1
+            # Plans, drills and hypotheticals about a hard trigger are WATCH material, not an alarm.
+            if lvl >= 3 and HYPOTHETICAL.search(item.title):
+                lvl -= 1
+                item.reason += " · planning/hypothetical wording, softened"
         item.level = max(item.level, lvl, base if lvl >= 1 or tier == "official" else 0)
         if why:
             item.reason = (item.reason + " · " if item.reason else "") + f"matched “{why}”"
