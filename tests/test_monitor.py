@@ -61,6 +61,11 @@ def test_news_relevance_filter():
     it = Item(source_id="x", source_name="X", title="Latvia closes border with Belarus after incident", url="u")
     out = classify.classify(it, _src("osint"), CFG)
     assert out.level == 3                                             # OSINT capped at 3 without corroboration
+    it = Item(source_id="x", source_name="X", title="Poland and Lithuania preparing cross-border evacuation plan for Baltic states", url="u")
+    out = classify.classify(it, _src("news"), CFG)
+    assert out.level == 2 and "softened" in out.reason                # a plan, not an evacuation → WATCH
+    it = Item(source_id="x", source_name="X", title="Lithuania begins evacuation of border villages near Belarus", url="u")
+    assert classify.classify(it, _src("news"), CFG).level == 3         # an actual evacuation stays ELEVATED
 
 
 def test_official_source_min_level():
