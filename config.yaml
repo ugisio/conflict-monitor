@@ -135,13 +135,6 @@ sources:
     selectors: ["h1", ".AdvisoryContainer", "#advisory", ".advisory-container", "#riskLevel"]
     tier: official
 
-  - id: australia_latvia
-    name: Australia Smartraveller (Latvia)
-    type: html_text
-    url: https://www.smartraveller.gov.au/destinations/europe/latvia
-    selectors: [".advice-level", ".field--name-field-advice-level", "h1", ".overall-advice"]
-    tier: official
-
   - id: germany_latvia
     name: Germany Auswärtiges Amt (Lettland)
     type: html_text
@@ -149,15 +142,13 @@ sources:
     selectors: [".rich-text", "h1", ".c-teaser__title"]
     tier: official
 
-  # ---------- Airspace / aviation ----------
-  - id: easa_czib
-    name: EASA Conflict Zone bulletins
-    type: html_links
-    url: https://www.easa.europa.eu/en/domains/air-operations/czibs
-    selector: "a[href*='czib'], a[href*='conflict-zone']"
-    include: [russia, belarus, baltic, kaliningrad, latvia, estonia, lithuania, finland, poland]
-    tier: official
-    base_level: 3
+  # ---------- Airspace / aviation (EASA's bulletin list is JS-rendered, so news is used) ----------
+  - id: gnews_airspace
+    name: Google News — airspace / NOTAM
+    type: rss
+    url: "https://news.google.com/rss/search?q=(airspace+OR+NOTAM+OR+%22no-fly%22)+(closed+OR+closure+OR+restrict+OR+violat)+(Latvia+OR+Estonia+OR+Lithuania+OR+Baltic+OR+Kaliningrad+OR+Finland+OR+Poland)&hl=en&gl=LV&ceid=LV:en"
+    tier: news
+    max_age_days: 2
 
   # ---------- Regional news (feeds) ----------
   - id: lsm_en
@@ -195,12 +186,12 @@ sources:
     tier: news
     max_age_days: 2
 
-  - id: nato_news
-    name: NATO news
+  - id: gnews_nato
+    name: Google News — NATO & the Baltics
     type: rss
-    url: https://www.nato.int/cps/en/natohq/news.htm?rss=true
-    tier: official
-    max_age_days: 3
+    url: "https://news.google.com/rss/search?q=NATO+(Baltic+OR+Latvia+OR+Estonia+OR+Lithuania+OR+%22eastern+flank%22+OR+%22Article+4%22+OR+%22Article+5%22)&hl=en&gl=LV&ceid=LV:en"
+    tier: news
+    max_age_days: 2
 
   # ---------- OSINT / breaking-news Telegram channels (public previews) ----------
   # bias/notes are shown in the digest so readers know how to weigh a source.
