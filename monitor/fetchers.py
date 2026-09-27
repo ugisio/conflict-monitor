@@ -22,6 +22,11 @@ HEADERS = {"User-Agent": UA, "Accept-Language": "en-GB,en;q=0.9,ru;q=0.6,lv;q=0.
 TIMEOUT = 30
 
 
+class SoftFail(Exception):
+    """The source could not be read, but this is a known/benign condition (e.g. bot-blocking by a CDN)
+    and another source covers the same signal. Reported as a note, not as a failure."""
+
+
 def http_get(url: str, **kw) -> requests.Response:
     r = requests.get(url, headers=HEADERS, timeout=TIMEOUT, **kw)
     r.raise_for_status()
@@ -179,7 +184,14 @@ LEVEL_RE = re.compile(r"Level\s*([1-4])\s*[:\-–]\s*([^|<\n]+)", re.I)
 
 
 def fetch_state_dept_advisory(src: dict, state: State) -> list[Item]:
-    r = http_get(src["url"])
+    try:
+        r = http_get(src["url"])
+    except requests.HTTPError as e:
+        if e.response is not None and e.response.status_code in (403, 429, 503):
+            # travel.state.gov's CDN blocks some data-centre IPs. The advisories RSS feed (source
+            # us_state_rss) carries the full text of every updated advisory, so nothing is lost.
+            raise SoftFail(f"page blocked ({e.response.status_code}); relying on the advisories RSS feed")
+        raise
     soup = BeautifulSoup(r.text, "lxml")
     title = norm_ws((soup.find("h1") or soup.find("title")).get_text(" ")) if (soup.find("h1") or soup.find("title")) else ""
     m = LEVEL_RE.search(title) or LEVEL_RE.search(soup.get_text(" ")[:5000])
