@@ -13,7 +13,10 @@ RULES: list[tuple[str, int]] = [
     (r"\bmartial law\b|военное положение|karastāvokl", 5),
     (r"article 5 (has been|was|is) (invoked|triggered)|статья 5 (активирован|задействован)", 5),
     # ---- 4 URGENT
-    (r"ordered departure|depart(ure)? (of|for) (all|non-emergency)|leave (the country )?(now|immediately)|depart immediately|evacuat(e|ion|ing)", 4),
+    # Embassy staffing language, in the forms the State Department / FCDO actually use:
+    (r"ordered departure|order(ed|s)? (the )?departure|depart(ure)? (of|for) (all|non-emergency)|"
+     r"leave (the country |[a-z]+ )?(now|immediately)|depart immediately|evacuat(e|ion|ing)|"
+     r"(embassy|consulate)( in [a-z]+)? (has )?(suspended (all )?operations|closed|is closed)", 4),
     (r"\bdo not travel\b", 4),
     (r"airspace (is |has been |will be )?(closed|closure|shut)|clos(e|es|ed|ing|ure of) (its |the |all |national )?airspace|воздушн\w+ пространств\w+ (закрыт|закрыва)", 4),
     (r"border(s)? (is |are |has been |have been )?(closed|sealed)|clos(e|es|ed|ing) (its |the |all )?border|границ\w* (закрыт|закрыва|перекры)", 4),
@@ -24,7 +27,14 @@ RULES: list[tuple[str, int]] = [
     # Nuclear: only actual threats/use/deployment near us are URGENT. Policy talk about nuclear weapons is WATCH (below).
     (r"nuclear (strike|attack|alert)|threat(en|ens|ened)?s? (to use )?nuclear|nuclear threat|tactical nuclear weapons? (deploy|moved|transferred|stationed)|ядерн\w+ (удар|угроз)", 4),
     # ---- 3 ELEVATED
-    (r"authori[sz]ed departure|non-?emergency (u\.?s\.? )?(government )?(employees|personnel|staff)|reduc(e|ed|ing|tion of) (embassy |diplomatic )?staff|drawdown", 3),
+    (r"authori[sz]ed departure|authori[sz]e[ds]? (the )?(voluntary )?departure|voluntary departure|"
+     r"departure of (family members|eligible family|dependants|dependents|non-?emergency)|"
+     r"non-?emergency (u\.?s\.? )?(government )?(employees|personnel|staff)|"
+     r"reduc(e|es|ed|ing|tion of|tion in) (its |the |embassy )?(embassy |diplomatic |consular )?(staff|personnel|footprint|presence)|"
+     r"drawdown|minimum staffing|skeleton staff|"
+     r"suspend(ed|s|ing)? (routine |all |consular |visa |most )?(services|operations)|"
+     r"(consular|visa) services (are |have been |will be )?(suspended|limited|unavailable)|"
+     r"limited (staffing|capacity to (assist|provide))|ability to (provide|assist).{0,40}(limited|reduced)", 3),
     (r"reconsider travel|advise against all but essential travel|advise against all travel", 3),
     (r"\barticle 4\b|статья 4|статьи 4", 3),
     (r"security alert", 3),
@@ -88,6 +98,14 @@ def clean(text: str) -> str:
     return BACKGROUND.sub(" ", text or "")
 
 
+# Routine embassy closures ("closed in observance of Thanksgiving", "holiday closure") are INFO, not an alarm.
+ROUTINE_CLOSURE = re.compile(
+    r"holiday|in observance|thanksgiving|christmas|new year|independence day|labou?r day|memorial day|"
+    r"veterans day|presidents'? day|juneteenth|easter|midsummer|jāņi|ligo|līgo|closed (on|for) (monday|tuesday|wednesday|"
+    r"thursday|friday)|праздни|выходн", re.I)
+EMBASSY_WORDS = re.compile(r"embassy|consulate|посольств", re.I)
+
+
 # Baltic-specific words in a title strongly imply relevance for OSINT/news.
 def relevance(text: str, cfg: dict) -> tuple[bool, list[str]]:
     t = (text or "").lower()
@@ -128,6 +146,10 @@ def classify(item: Item, src: dict, cfg: dict, llm_enabled: bool = False) -> Ite
             lvl, why = (lvl_t, why_t) if lvl_t >= lvl_b else (lvl_b, why_b + " (in text)")
         else:
             lvl, why = score(text)
+        # "Embassy closed" because of a public holiday is routine, whatever the source.
+        if lvl >= 3 and EMBASSY_WORDS.search(why) and ROUTINE_CLOSURE.search(text):
+            lvl = 1
+            item.reason = (item.reason + " · " if item.reason else "") + "routine holiday closure"
         if tier in ("news", "osint"):
             if lvl == 0:
                 # ordinary regional news — keep only as an LLM candidate if it is security-adjacent
