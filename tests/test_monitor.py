@@ -87,6 +87,45 @@ def test_calibration_cases_from_first_night():
         assert classify.classify(Item(source_id="x", source_name="X", title=title, url="u"), _src("news"), CFG).level == want
 
 
+def test_background_ukraine_mentions_do_not_score():
+    """The LRT article that was graded L3 on 28 Sep: 'invasion' only appeared as background in the summary."""
+    it = Item(source_id="lrt", source_name="LRT", title="Russian language study falls, German rises in Lithuanian schools", url="u",
+              text="The share of pupils choosing Russian has fallen every year since Russia's full-scale invasion of Ukraine, "
+                   "while German and Spanish are rising, the education ministry said.")
+    assert classify.classify(it, _src("news"), CFG) is None          # ordinary news → dropped entirely
+    # body text can add at most WATCH, never an alert
+    it = Item(source_id="x", source_name="X", title="Latvian parliament debates school funding", url="u",
+              text="Officials also discussed a drone incursion into Latvia last week.")
+    assert classify.classify(it, _src("news"), CFG).level == 2
+    # …but the same thing in the headline is ELEVATED
+    it = Item(source_id="x", source_name="X", title="Russian drone incursion into Latvia confirmed by army", url="u")
+    assert classify.classify(it, _src("news"), CFG).level == 3
+    assert "invasion" not in classify.clean("since Russia's invasion of Ukraine, Latvia has")
+
+
+def test_corroboration_holds_lone_headlines():
+    a = Item(source_id="lsm", source_name="LSM", title="Russian drone incursion into Latvia confirmed by army", url="1", tier="news", level=3)
+    out = classify.corroborate([a], recent=[])
+    assert out[0].level == 2 and "single source" in out[0].reason
+    # a second, independent outlet with a different L3 story within the window → both stay ELEVATED
+    a = Item(source_id="lsm", source_name="LSM", title="Russian drone incursion into Latvia confirmed by army", url="1", tier="news", level=3)
+    b = Item(source_id="err", source_name="ERR", title="Estonia reports airspace violation by Russian jets", url="2", tier="news", level=3)
+    out = classify.corroborate([a, b], recent=[])
+    assert out[0].level == 3 and out[1].level == 3 and "corroborated by" in out[0].reason
+    # the same story from another outlet does NOT count as corroboration
+    c = Item(source_id="gn", source_name="Google News", title="Russian drone incursion into Latvia confirmed by army - Delfi", url="3", tier="news", level=3)
+    a = Item(source_id="lsm", source_name="LSM", title="Russian drone incursion into Latvia confirmed by army", url="1", tier="news", level=3)
+    out = classify.corroborate([a, c], recent=[])
+    assert out[0].level == 2
+    # earlier runs count too (raw_level ≥3 within the window), official sources are never held
+    from datetime import datetime, timezone
+    recent = [{"ts": datetime.now(timezone.utc).isoformat(), "raw_level": 3, "level": 2, "source": "ERR", "title_key": "estonia reports airspace violation russian jets"}]
+    a = Item(source_id="lsm", source_name="LSM", title="Russian drone incursion into Latvia confirmed by army", url="1", tier="news", level=3)
+    o = Item(source_id="us", source_name="US Embassy Riga alerts", title="Security Alert", url="4", tier="official", level=3)
+    out = classify.corroborate([a, o], recent=recent)
+    assert out[0].level == 3 and out[1].level == 3
+
+
 def test_title_key_and_cross_run_duplicates(tmp_path):
     a = "Lithuanian border municipalities warn of evacuation problems in event of Russian attack - The New Voice of Ukraine"
     b = "Lithuanian border municipalities warn of evacuation problems in event of Russian attack - english.nv.ua"
