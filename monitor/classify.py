@@ -30,7 +30,10 @@ RULES: list[tuple[str, int]] = [
     (r"security alert", 3),
     (r"(troop|force|military) (build[- ]?up|movement|concentration|deployment)|наращива\w+ (войск|сил|группировк)|переброск\w+ (войск|техник)", 3),
     (r"violat(e|ed|ion of) (latvian|estonian|lithuanian|nato|polish|finnish)? ?airspace|наруш\w+ воздушн\w+ пространств", 3),
-    (r"\bincursion\b|\binvasion\b|вторжени", 3),
+    # Incursions/invasions count only when aimed at our region (background mentions of Ukraine are stripped below).
+    (r"(incursion|invasion)s? (into|of|in) (latvia|estonia|lithuania|the baltics?|baltic|poland|finland|nato)|"
+     r"(latvian|estonian|lithuanian|baltic|polish|finnish|nato) (airspace |territory |border )?incursion|"
+     r"вторжени\w* (в|на) (латви|эстони|литв|прибалт|балти|польш|финлянд)", 3),
     (r"sabotage|диверси|hybrid attack|гибридн\w+ (атак|войн)", 3),
     (r"(explosion|blast|attack|strike|missile|shelling) .{0,80}(latvia|estonia|lithuania|baltic|kaliningrad|pskov|belarus)", 3),
     (r"(взрыв|атак|удар|ракет).{0,80}(латви|эстони|литв|прибалт|балти|калининград|псков|беларус)", 3),
@@ -70,6 +73,21 @@ HYPOTHETICAL = re.compile(
     r"план\w*|готов\w*|учени\w*|сценари\w*|отработ\w*|на случай|в случае|если\b|предлага\w*|обсужда\w*)\b", re.I)
 
 
+# Background references that appear in half of all Baltic news and say nothing about today's risk:
+# "since Russia's full-scale invasion of Ukraine", "the war in Ukraine", … Removed before scoring.
+BACKGROUND = re.compile(
+    r"(since |after |following |amid |because of |due to )?(the |russia'?s |moscow'?s )?(full[- ]scale |illegal |unprovoked |brutal )?"
+    r"(invasion|war|aggression|assault|attack) (of|in|on|against) ukraine|"
+    r"(since|after|following) (the |russia'?s )?(full[- ]scale )?invasion\b|"
+    r"russia'?s (full[- ]scale )?invasion\b|russia-ukraine war|war in ukraine|ukraine war|"
+    r"(полномасштабн\w+ )?(вторжени\w*|войн\w*|нападени\w*|агресси\w*) (росси\w+ )?(в|на|против) украин\w*|"
+    r"с начала (полномасштабн\w+ )?(вторжени\w*|войн\w*)", re.I)
+
+
+def clean(text: str) -> str:
+    return BACKGROUND.sub(" ", text or "")
+
+
 # Baltic-specific words in a title strongly imply relevance for OSINT/news.
 def relevance(text: str, cfg: dict) -> tuple[bool, list[str]]:
     t = (text or "").lower()
@@ -101,8 +119,15 @@ def classify(item: Item, src: dict, cfg: dict, llm_enabled: bool = False) -> Ite
         item.reason = "region: " + ", ".join(hits[:4])
 
     if item.level == 0 or tier in ("news", "osint"):
-        lvl, why = score(text)
         base = src.get("base_level", 0)
+        if tier in ("news", "osint"):
+            # The headline decides. Body/summary text (where background mentions live) can add at most WATCH.
+            lvl_t, why_t = score(clean(item.title))
+            lvl_b, why_b = score(clean(item.text))
+            lvl_b = min(lvl_b, 2)
+            lvl, why = (lvl_t, why_t) if lvl_t >= lvl_b else (lvl_b, why_b + " (in text)")
+        else:
+            lvl, why = score(text)
         if tier in ("news", "osint"):
             if lvl == 0:
                 # ordinary regional news — keep only as an LLM candidate if it is security-adjacent
@@ -129,6 +154,29 @@ def classify(item: Item, src: dict, cfg: dict, llm_enabled: bool = False) -> Ite
     if item.level == 0 and tier == "official":
         item.level = 1
     return item
+
+
+def corroborate(items: list[Item], recent: list[dict], hours: int = 6) -> list[Item]:
+    """News/OSINT items at L3 stay ELEVATED only when another *independent* source (different outlet,
+    different story) also reported something L3+ within the last `hours` — this run or earlier runs.
+    A lone headline is held at WATCH with a note. Official sources are never held."""
+    from datetime import datetime, timedelta, timezone
+    cutoff = (datetime.now(timezone.utc) - timedelta(hours=hours)).isoformat()
+    prior = [r for r in recent if r.get("ts", "") >= cutoff and r.get("raw_level", r.get("level", 0)) >= 3]
+    hot_now = [it for it in items if it.level >= 3]
+    for it in items:
+        if it.tier not in ("news", "osint") or it.level != 3:
+            continue
+        k = title_key(it.title)
+        witnesses = [r for r in prior if r.get("source") != it.source_name and r.get("title_key") != k]
+        witnesses += [o for o in hot_now if o is not it and o.source_name != it.source_name and title_key(o.title) != k]
+        if not witnesses:
+            it.level = 2
+            it.reason += " · single source, held at WATCH until another source corroborates"
+        else:
+            w = witnesses[0]
+            it.reason += " · corroborated by " + (w.get("source") if isinstance(w, dict) else w.source_name)
+    return items
 
 
 def title_key(t: str) -> str:
