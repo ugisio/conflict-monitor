@@ -175,10 +175,11 @@ class State:
         h["fail_streak"] = 0 if ok else h.get("fail_streak", 0) + 1
 
     # -- overall level --
-    def record_level(self, item: Item):
+    def record_level(self, item: Item, raw_level: int | None = None, title_key: str = ""):
         self.status.setdefault("recent_levels", []).append({
             "ts": now_utc().isoformat(timespec="seconds"), "level": item.level,
-            "title": item.title[:120], "source": item.source_name,
+            "raw_level": raw_level if raw_level is not None else item.level,   # level before corroboration/holds
+            "title": item.title[:120], "title_key": title_key, "source": item.source_name,
         })
 
     def overall_level(self, window_hours: int) -> tuple[int, Optional[dict]]:
