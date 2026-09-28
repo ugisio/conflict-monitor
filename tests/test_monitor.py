@@ -68,6 +68,34 @@ def test_news_relevance_filter():
     assert classify.classify(it, _src("news"), CFG).level == 3         # an actual evacuation stays ELEVATED
 
 
+def test_calibration_cases_from_first_night():
+    """Headlines that were graded L3 on the first night and should not have been."""
+    cases = {
+        "Lithuania moves to lift ban on nuclear weapons as ‘Russians do not attack the strong’ - euobserver.com": 2,
+        "Lithuanian border municipalities warn of evacuation problems in event of Russian attack - The New Voice of Ukraine": 2,
+        "Poland and Lithuania preparing cross-border evacuation plan for Baltic states - Euronews.com": 2,
+    }
+    for title, want in cases.items():
+        out = classify.classify(Item(source_id="x", source_name="X", title=title, url="u"), _src("news"), CFG)
+        assert out is not None and out.level == want, (title, out and out.level)
+    # …while the real thing keeps its level
+    real = {
+        "Russia threatens nuclear strike on Baltic states over Kaliningrad transit": 3,   # news cap
+        "US Embassy Riga: ordered departure of non-emergency personnel": 3,               # news cap
+    }
+    for title, want in real.items():
+        assert classify.classify(Item(source_id="x", source_name="X", title=title, url="u"), _src("news"), CFG).level == want
+
+
+def test_title_key_and_cross_run_duplicates(tmp_path):
+    a = "Lithuanian border municipalities warn of evacuation problems in event of Russian attack - The New Voice of Ukraine"
+    b = "Lithuanian border municipalities warn of evacuation problems in event of Russian attack - english.nv.ua"
+    assert classify.title_key(a) == classify.title_key(b)
+    st = tmp_state(tmp_path)
+    st.mark_title(classify.title_key(a))
+    assert st.title_seen(classify.title_key(b))
+
+
 def test_official_source_min_level():
     it = Item(source_id="x", source_name="X", title="Health – editorial change", url="u", kind="advisory_change")
     out = classify.classify(it, _src("official"), CFG)
