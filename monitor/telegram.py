@@ -147,15 +147,23 @@ def format_alert(item: Item, cfg: dict, tz) -> str:
         lines.append(f"<i>Why: {esc(item.reason)}</i>")
     if item.url:
         lines.append(f'<a href="{esc(item.url)}">Source</a>')
-    if item.level >= 3:
-        lines.append(f"\n<i>{esc(scale[item.level]['meaning'])}</i>")
+    if item.level >= 4:
+        # Only hard triggers carry the standing guidance, and it is labelled as the level's definition,
+        # never phrased as a statement about this particular item.
+        s = scale[item.level]
+        lines.append(f"\n<b>What L{item.level} means:</b> {esc(s['meaning'])}")
+        if s.get("action"):
+            lines.append(f"<b>Suggested action:</b> {esc(s['action'])}")
     return "\n".join(lines)
 
 
 def format_status(overall: int, since_row: dict | None, cfg: dict, tz, health_ok: int, health_total: int) -> str:
     scale = cfg["scale"]
     s = scale[overall]
-    lines = [f"📟 <b>CURRENT LEVEL: {s['emoji']} L{overall} {s['name']}</b>", esc(s["meaning"])]
+    lines = [f"📟 <b>CURRENT LEVEL: {s['emoji']} L{overall} {s['name']}</b>",
+             f"<b>Means:</b> {esc(s['meaning'])}"]
+    if s.get("action"):
+        lines.append(f"<b>Suggested action:</b> {esc(s['action'])}")
     if since_row:
         lines.append(f"Driven by: {esc(since_row.get('title', ''))} ({esc(since_row.get('source', ''))}, {fmt_time(since_row.get('ts'), tz)})")
     lines.append(f"Updated {fmt_time(None, tz)} · sources OK {health_ok}/{health_total}")
