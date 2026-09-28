@@ -97,6 +97,9 @@ sources:
     url: https://travel.state.gov/_res/rss/TAsTWs.xml
     tier: official
     include: [latvia, estonia, lithuania, russia, belarus, poland, finland]
+    # The feed's description carries the full advisory text. For these countries it is snapshotted and
+    # diffed sentence by sentence — the wording-change signal — since the advisory page itself blocks GitHub.
+    diff_titles: [Latvia, Estonia, Lithuania]
     max_age_days: 14
 
   - id: us_embassy_riga
