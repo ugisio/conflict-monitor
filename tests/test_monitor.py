@@ -199,6 +199,45 @@ def test_rss_filter_and_age(tmp_path):
     assert [i.title for i in items] == ["Latvia - Level 1: Exercise Normal Precautions"]
 
 
+def test_embassy_staffing_phrasings():
+    """The wording embassies actually use, buried in advisory text (official tier → full text is scored)."""
+    src = _src("official")
+    for text, want in {
+        "The Department has authorized the voluntary departure of family members of U.S. government employees.": 3,
+        "Routine consular services are suspended until further notice.": 3,
+        "The embassy has reduced its staff and its ability to provide services is limited.": 3,
+        "On 3 October the Department ordered the departure of non-emergency U.S. government employees.": 4,
+        "The Embassy in Riga has suspended operations.": 4,
+        "Embassy staff attended a reception with the defence minister.": 1,   # official min level, digest only
+        "The U.S. Embassy in Riga will be closed on Thursday, November 27 in observance of Thanksgiving.": 1,
+    }.items():
+        it = Item(source_id="o", source_name="O", title="Advisory text changed", url="u", text=text, kind="advisory_change")
+        assert classify.classify(it, src, CFG).level == want, text
+
+
+def test_rss_diff_mode_catches_wording_changes(tmp_path):
+    """The video's key signal: the advisory level stays the same, but the wording about embassy staff changes."""
+    st = tmp_state(tmp_path)
+    src = {"id": "us_state_rss", "name": "US State Dept advisories (feed)", "url": "u", "tier": "official",
+           "include": ["latvia"], "diff_titles": ["Latvia"]}
+    xml1 = (FIX / "state_rss.xml").read_text(encoding="utf-8")
+    xml2 = xml1.replace("Exercise normal precautions in Latvia.",
+                        "Exercise normal precautions in Latvia. The Department has authorized the voluntary departure of "
+                        "family members of U.S. government employees due to the security situation.")
+    with mock.patch.object(fetchers, "http_get", return_value=FakeResp(text=xml1)):
+        first = fetchers.fetch_rss(src, st)                      # first sighting: reported normally, baseline stored
+    assert [i.kind for i in first] == ["alert"]
+    with mock.patch.object(fetchers, "http_get", return_value=FakeResp(text=xml1)):
+        assert fetchers.fetch_rss(src, st) == []                 # unchanged text: silent
+    with mock.patch.object(fetchers, "http_get", return_value=FakeResp(text=xml2)):
+        changed = fetchers.fetch_rss(src, st)
+    assert len(changed) == 1 and changed[0].kind == "advisory_change"
+    assert "+ " in changed[0].text and "authorized the voluntary departure" in changed[0].text
+    out = classify.classify(changed[0], src, CFG)
+    assert out.level >= 3                                        # official wording change about staff → alert, no hold
+    assert classify.corroborate([out], recent=[])[0].level >= 3
+
+
 def test_polymarket_move(tmp_path):
     st = tmp_state(tmp_path)
     src = {"id": "polymarket", "name": "PM", "queries": ["x"], "include": ["nato"], "move_watch_pp": 5, "move_elevated_pp": 15}
