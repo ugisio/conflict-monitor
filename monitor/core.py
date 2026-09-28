@@ -94,6 +94,9 @@ class State:
             "last_digest": None, "recent_levels": [], "health": {}, "runs": 0,
         })
         self.subscribers: dict[str, Any] = self._load("subscribers.json", {"chat_ids": [], "last_update_id": 0})
+        # normalised headlines already reported (any source) → first-seen time; stops the same story
+        # arriving again from another outlet or a re-indexed Google News entry a few hours later
+        self.titles: dict[str, str] = self._load("titles.json", {})
 
     # -- io --
     def _load(self, name: str, default):
@@ -116,6 +119,15 @@ class State:
         self._save("pending.json", self.pending)
         self._save("status.json", self.status)
         self._save("subscribers.json", self.subscribers)
+        self._save("titles.json", self.titles)
+
+    # -- headline memory (cross-run, cross-source duplicate detection) --
+    def title_seen(self, key: str) -> bool:
+        return bool(key) and key in self.titles
+
+    def mark_title(self, key: str):
+        if key:
+            self.titles[key] = now_utc().isoformat(timespec="seconds")
 
     # -- seen --
     def is_seen(self, source_id: str, uid: str) -> bool:
@@ -130,6 +142,8 @@ class State:
             self.seen[sid] = {u: t for u, t in self.seen[sid].items() if t >= cutoff}
         cutoff_rl = (now_utc() - timedelta(days=14)).isoformat()
         self.status["recent_levels"] = [r for r in self.status.get("recent_levels", []) if r.get("ts", "") >= cutoff_rl][-300:]
+        cutoff_t = (now_utc() - timedelta(days=10)).isoformat()
+        self.titles = {k: t for k, t in self.titles.items() if t >= cutoff_t}
 
     # -- snapshots (last known content per source) --
     def get_snapshot(self, source_id: str) -> Optional[dict]:
