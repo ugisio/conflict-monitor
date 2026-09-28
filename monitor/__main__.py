@@ -14,7 +14,7 @@ import traceback
 from datetime import datetime, timedelta
 
 from .core import Item, State, load_config, local_tz, now_utc
-from .classify import classify, dedupe, title_key
+from .classify import classify, dedupe, title_key, corroborate
 from .digest import build_digest
 from .fetchers import FETCHERS, SoftFail
 from .telegram import Telegram, format_alert, format_status
@@ -68,11 +68,18 @@ def collect(cfg: dict, state: State, dry: bool = False) -> list[Item]:
     new_items = dedupe(new_items)
     if new_items:
         new_items = llm.grade(new_items, cfg)
+    for it in new_items:
+        it.raw_level = it.level                      # remember the pre-corroboration grade
+    new_items = corroborate(new_items, state.status.get("recent_levels", []))
     kept = [it for it in new_items if it.level >= 1]
     if not dry:
         for it in kept:
             state.mark_title(title_key(it.title))
     return kept
+
+
+def record(state: State, it: Item):
+    state.record_level(it, raw_level=getattr(it, "raw_level", it.level), title_key=title_key(it.title))
 
 
 def update_status_message(tg: Telegram, state: State, cfg: dict, tz, force: bool = False):
@@ -112,7 +119,7 @@ def run_poll(cfg: dict, state: State, tg: Telegram):
     imm = cfg["alerts"]["immediate_min_level"]
     dm_min = cfg["alerts"]["dm_min_level"]
     for it in sorted(items, key=lambda x: -x.level):
-        state.record_level(it)
+        record(state, it)
         if it.level >= imm:
             text = format_alert(it, cfg, tz)
             tg.send(text, silent=False, pin=(it.level >= dm_min))
@@ -132,7 +139,7 @@ def run_digest(cfg: dict, state: State, tg: Telegram, label: str | None = None):
     imm, dm_min = cfg["alerts"]["immediate_min_level"], cfg["alerts"]["dm_min_level"]
     fresh = collect(cfg, state)          # pick up anything since the last poll too
     for it in sorted(fresh, key=lambda x: -x.level):
-        state.record_level(it)
+        record(state, it)
         if it.level >= imm:              # urgent things never wait for the digest
             text = format_alert(it, cfg, tz)
             tg.send(text, pin=(it.level >= dm_min))
