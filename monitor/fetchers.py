@@ -102,6 +102,7 @@ def fetch_rss(src: dict, state: State) -> list[Item]:
     if not entries and src.get("fallback_html"):
         return fetch_html_links({**src, "url": src["fallback_html"], "selector": src.get("fallback_selector", "a")}, state)
 
+    diff_titles = [t.lower() for t in src.get("diff_titles", [])]
     for e in entries[:60]:
         title = norm_ws(getattr(e, "title", "") or "")
         link = getattr(e, "link", "") or ""
@@ -111,6 +112,22 @@ def fetch_rss(src: dict, state: State) -> list[Item]:
             continue
         if not matches_any(title + " " + summary, src.get("include")):
             continue
+        # Entries whose full text we track over time (e.g. the Latvia advisory inside the State Dept feed):
+        # the feed's description carries the whole advisory, so diff it like an official page.
+        if diff_titles and any(title.lower().startswith(t) for t in diff_titles):
+            key = f"{src['id']}::{title.split(' - ')[0].strip().lower()}"
+            h = stable_hash(summary)
+            prev = state.get_snapshot(key)
+            state.set_snapshot(key, {"hash": h, "text": summary[:20000], "meta": {"title": title}})
+            if prev is not None:
+                if prev.get("hash") == h:
+                    continue                                   # same text as last time: nothing new
+                items.append(Item(source_id=src["id"], source_name=src["name"],
+                                  title=f"{title} — advisory text changed", url=link,
+                                  text=text_diff(prev.get("text", ""), summary), published=published,
+                                  kind="advisory_change", tier="official", uid=stable_hash(key, h)))
+                continue
+            # first sighting: fall through and report it as a normal entry (baseline is stored)
         if too_old(published, src.get("max_age_days")):
             continue
         items.append(Item(source_id=src["id"], source_name=src["name"], title=title, url=link,
