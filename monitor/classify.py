@@ -21,7 +21,8 @@ RULES: list[tuple[str, int]] = [
     (r"\barticle 5\b|статья 5|статьи 5", 4),
     (r"state of emergency|чрезвычайн\w+ (положени|ситуаци)|ārkārtējā situācija", 4),
     (r"shelter in place|air[- ]raid (siren|alert|warning)|воздушн\w+ тревог", 4),
-    (r"nuclear (weapon|strike|threat|alert)|ядерн\w+ (удар|оруж|угроз)", 4),
+    # Nuclear: only actual threats/use/deployment near us are URGENT. Policy talk about nuclear weapons is WATCH (below).
+    (r"nuclear (strike|attack|alert)|threat(en|ens|ened)?s? (to use )?nuclear|nuclear threat|tactical nuclear weapons? (deploy|moved|transferred|stationed)|ядерн\w+ (удар|угроз)", 4),
     # ---- 3 ELEVATED
     (r"authori[sz]ed departure|non-?emergency (u\.?s\.? )?(government )?(employees|personnel|staff)|reduc(e|ed|ing|tion of) (embassy |diplomatic )?staff|drawdown", 3),
     (r"reconsider travel|advise against all but essential travel|advise against all travel", 3),
@@ -46,6 +47,7 @@ RULES: list[tuple[str, int]] = [
     (r"(security|safety) (situation|update|advice) (has )?(changed|updated)|warnings and insurance", 2),
     (r"navy|warship|submarine|fleet|военн\w+ корабл|флот", 2),
     (r"suwa[lł]ki|сувалк", 2),
+    (r"nuclear|ядерн", 2),
     # ---- 1 INFO
     (r"demonstration alert|weather alert|health alert|editorial change|entry requirements|entry-exit system|\bees\b|visa|passport", 1),
     (r"\bexercise\b|\btraining\b|\bdrill|\breservist|\bconscript|\bnbs\b|zemessardze|national guard|home guard", 1),
@@ -62,8 +64,10 @@ SOFT = re.compile(r"militar|defen[cs]e|\barmy\b|\btroops?\b|soldier|\bborder|sec
 # "could close airspace". A real signal, but one notch below the same words describing an actual event.
 HYPOTHETICAL = re.compile(
     r"\b(plans?|planning|planned|prepar\w*|drill|drills|exercise|exercises|scenario|simulat\w*|contingency|"
-    r"in case of|would|could|might|may|hypothetical|table-?top|rehears\w*|"
-    r"план\w*|готов\w*|учени\w*|сценари\w*|отработ\w*|на случай)\b", re.I)
+    r"in (the )?(case|event) of|if\b|should russia|were to|what if|would|could|might|may|hypothetical|table-?top|"
+    r"rehears\w*|warns? of|warned of|warning of|debate|proposal|proposes?|considers?|considering|moves? to|"
+    r"lift(s|ing)? (the )?ban|"
+    r"план\w*|готов\w*|учени\w*|сценари\w*|отработ\w*|на случай|в случае|если\b|предлага\w*|обсужда\w*)\b", re.I)
 
 
 # Baltic-specific words in a title strongly imply relevance for OSINT/news.
@@ -127,12 +131,18 @@ def classify(item: Item, src: dict, cfg: dict, llm_enabled: bool = False) -> Ite
     return item
 
 
+def title_key(t: str) -> str:
+    """Normalised headline for duplicate detection: publisher suffix ("… - Euronews") removed,
+    lower-cased, punctuation stripped, first 8 words longer than 3 letters."""
+    t = re.sub(r"\s+[-–|]\s+[^-–|]{2,40}$", "", t or "")      # drop trailing " - Publisher"
+    t = re.sub(r"[^a-zа-яėįųūąčęšžāēīōūģķļņ0-9 ]", " ", t.lower())
+    words = [w for w in t.split() if len(w) > 3][:8]
+    return " ".join(words)
+
+
 def dedupe(items: list[Item]) -> list[Item]:
     """Drop near-duplicate headlines across sources (keep the highest level / official one)."""
-    def key(t: str) -> str:
-        t = re.sub(r"[^a-zа-я0-9 ]", " ", t.lower())
-        words = [w for w in t.split() if len(w) > 3][:8]
-        return " ".join(words)
+    key = title_key
     best: dict[str, Item] = {}
     order = {"official": 0, "market": 1, "news": 2, "osint": 3}
     for it in items:
