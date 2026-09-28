@@ -14,7 +14,7 @@ import traceback
 from datetime import datetime, timedelta
 
 from .core import Item, State, load_config, local_tz, now_utc
-from .classify import classify, dedupe
+from .classify import classify, dedupe, title_key
 from .digest import build_digest
 from .fetchers import FETCHERS, SoftFail
 from .telegram import Telegram, format_alert, format_status
@@ -48,8 +48,11 @@ def collect(cfg: dict, state: State, dry: bool = False) -> list[Item]:
                 it.tier = src.get("tier", it.tier)
                 it.note = it.note or src.get("note", "")
                 c = classify(it, src, cfg, llm_enabled=llm_on)
-                if c is not None:
-                    fresh.append(c)
+                if c is None:
+                    continue
+                if c.kind in ("news", "post", "alert") and state.title_seen(title_key(c.title)):
+                    continue                      # same story already reported (another outlet / re-indexed)
+                fresh.append(c)
             if not dry:
                 state.seen.setdefault(src["id"], {})  # remember that this source has been baselined
             state.set_health(src["id"], True, n_items=len(fetched))
@@ -65,7 +68,11 @@ def collect(cfg: dict, state: State, dry: bool = False) -> list[Item]:
     new_items = dedupe(new_items)
     if new_items:
         new_items = llm.grade(new_items, cfg)
-    return [it for it in new_items if it.level >= 1]
+    kept = [it for it in new_items if it.level >= 1]
+    if not dry:
+        for it in kept:
+            state.mark_title(title_key(it.title))
+    return kept
 
 
 def update_status_message(tg: Telegram, state: State, cfg: dict, tz, force: bool = False):
@@ -164,7 +171,8 @@ def run_check(cfg: dict, state: State):
 def run_test(cfg: dict, state: State, tg: Telegram):
     tz = local_tz(cfg)
     scale = cfg["scale"]
-    demo = "\n".join(f"{scale[i]['emoji']} <b>L{i} {scale[i]['name']}</b> — {scale[i]['meaning']}" for i in range(5, -1, -1))
+    demo = "\n".join(f"{scale[i]['emoji']} <b>L{i} {scale[i]['name']}</b> — {scale[i]['meaning']} <i>Action: {scale[i].get('action', '')}</i>"
+                     for i in range(5, -1, -1))
     tg.send(f"🛰 <b>CONFLICT MONITOR — test message</b> · {datetime.now(tz).strftime('%a %d %b %H:%M')}\n"
             f"Bot is connected and can post here.\n\n<b>Alert scale</b>\n{demo}\n\n"
             f"Monitoring {len(cfg['sources'])} sources. Digests at "
