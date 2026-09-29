@@ -17,5 +17,43 @@
   "uid": "2c7c4dfe1e6b83a3",
   "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQVTdxQ0I4MXI1RkFIZWhsWGF5QUpSYnMyVEtIakdNaWZqTlkyckc0c05KMXpVNlh2SDdoUU1iOEtGS0QxbDhWeVVHVEJVZ2ZPSW5veTRaV0o0LTRsN3dqUk80UkZwNmZNMDJVRERhQVBUSHItRUs4M1pyOEpRR0F5eFg1TGVhb18yb1FWQURNWGNfb3RoUnJnUUVnMXpmQ0VITDFsdlluTmlQX0pETGRNWTlkemFwSmZUZWhwWU1iWEJtVWo5OEwyVTRmVDVWTkVUZlRvNWZlWWZ3NzE1RklqR3lVandkaFh2QjctclpJLTZFOHRabVp4MDFtTVdYVEpsWHhZTWoxQlBUb3FXWWfSAZMCQVVfeXFMT3YzczVpUGlVZWhpWjNLUUlRUUlwekVvSVJoUVBVX1ZNdEt2SG5rY08xd0xKdDJuaWx1SzZydnlXVHMxU0hyQmhISDg5UngxVGhsNHB2VjM4d3E0OGRyN1pZRk5TYTlKRWNsSU5oNjRVakI0S21TVTRseV83MjBoX2doMkF6aDJ0VmNtQl81MXdaOTJSblhmaWp2c3NMc2FWbjBVMHZodHNhdDNYUVUwVUc0XzVscTExWmUwellMeWNOLTdCRTE4dGQ5b0RyeVR4MXpIMmpWWWd2cGRvSlc1eEFiODRlelZVMWdVY3dKQjhNZ2tXN3M4SmRxQ056THVlbEVzczlhb1R2akZEdWxCVkRUcmc?oc=5",
   "warning": true
+ },
+ {
+  "first_seen": "2026-09-29T18:01:34+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-09-29T16:45:03+00:00",
+  "reason": "region: estonia, nato, russia · matched “sabotage”",
+  "source_id": "gnews_nato",
+  "source_name": "Google News — NATO & the Baltics",
+  "summary": "",
+  "text": "NATO and EU allies support Estonia after 'sabotage' blamed on Russia Le Monde.fr",
+  "tier": "news",
+  "title": "NATO and EU allies support Estonia after 'sabotage' blamed on Russia - Le Monde.fr",
+  "uid": "6a0e7ed269de26b9",
+  "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxONGZUdUZnLWExSWtITGNtb1NTcWhiR2M1ZXFaRDNrTTkzclI5NlFVVHk4Sm9mbzk2X3F0ejhIYlFqX2N6Vy1mWVRaUFF4aGJHODF3X1E3cVBKd1JpQkFUUjdfSm5JSlhLSnFOM2RLWlZwenQzeVM0M3I4Z21DSHdxNDlENERURDJTZjJxQXA3RElNbTdMNGlQNXNzLV9zM252R1k3TjRqT0hpeU1kU090R1RkZ3ZaS09CcmZjdS1TaS1GVzNjVXJxLWxjcDhRQnh0dEE?oc=5",
+  "warning": false
+ },
+ {
+  "first_seen": "2026-09-29T18:01:34+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": true,
+  "published": "2026-09-29T17:46:01+00:00",
+  "reason": "official warning about Russia / NATO · matched “official warning”",
+  "source_id": "gnews_nato",
+  "source_name": "Google News — NATO & the Baltics",
+  "summary": "",
+  "text": "The Czech Prime Minister stated that his country is prepared to respond to a Russian attack UA.NEWS",
+  "tier": "news",
+  "title": "The Czech Prime Minister stated that his country is prepared to respond to a Russian attack - UA.NEWS",
+  "uid": "e1e9e3fcd7ee0d2d",
+  "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOV1dkeTkxUW5USEFfUHZUbENzSmFHb0NmYTgzak9qTlNZZEIxaGZwUGZ6UW15dy0zeDE1bVZZQkJyWWFYOVR3a1BnMjZFb3M5c1RUcWkxbW1FWHlqTkdxX2pyYWdDWHlNM0lobTdRdHFQTVpaWWtRQnh5NHhJc2xpVXo2S2VHMDM1UkVsSUlGQUs0WVZO?oc=5",
+  "warning": true
  }
 ]
