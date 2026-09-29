@@ -69,14 +69,14 @@ alerts:
   digest_hours_local: [8, 20]
 
 scale:
-  # "meaning" = what the level means. "action" = the standing suggestion for that level.
-  # Shown in the pinned status and the legend; alerts at L4+ repeat them with explicit labels.
-  0: {emoji: "⚪", name: "QUIET",    meaning: "Nothing new. All monitored sources unchanged.", action: "Nothing."}
-  1: {emoji: "🟢", name: "INFO",     meaning: "Routine updates, minor wording edits, general regional news.", action: "Nothing."}
-  2: {emoji: "🟡", name: "WATCH",    meaning: "Notable development: security-related wording change, exercises or build-up, incidents (drones, sabotage), plans or drills for a hard trigger, sharper rhetoric.", action: "Stay aware."}
-  3: {emoji: "🟠", name: "ELEVATED", meaning: "An official travel advisory raised, an embassy reducing staff / authorized departure, an official security alert, or several independent sources pointing the same way.", action: "Review your plan; make sure documents and essentials are in order."}
-  4: {emoji: "🔴", name: "URGENT",   meaning: "Hard trigger: 'leave now' / ordered departure, airspace or border closure, mobilisation, NATO Article 4/5 invoked.", action: "Execute your plan."}
-  5: {emoji: "⚫", name: "CRITICAL", meaning: "Attack or incursion under way or imminent; state of emergency / martial law.", action: "Act on your plan immediately; follow official civil-defence instructions."}
+  # "meaning" = what kind of event puts the monitor at this level (shown only in the level guide and legend).
+  # "action" = the standing suggestion for that level (shown with the current level and on L4+ alerts).
+  0: {emoji: "⚪", name: "QUIET",    meaning: "Nothing new — all monitored sources unchanged.", action: "Nothing."}
+  1: {emoji: "🟢", name: "INFO",     meaning: "Routine: minor advisory edits, holiday closures, general regional news.", action: "Nothing."}
+  2: {emoji: "🟡", name: "WATCH",    meaning: "Notable but not an alarm: security-related wording changes, exercises or build-up, incidents (drones, sabotage, arson), drills or plans for a hard trigger, threats and rhetoric.", action: "Stay aware."}
+  3: {emoji: "🟠", name: "ELEVATED", meaning: "Reached when an official source acts (a travel advisory is raised, an embassy reduces staff or authorises departures, an embassy security alert is issued) or when a serious report (airspace violation, troop build-up, official nuclear threat) is confirmed by a second independent outlet.", action: "Review your plan; make sure documents and essentials are in order."}
+  4: {emoji: "🔴", name: "URGENT",   meaning: "Reached on a hard trigger: 'leave now' / ordered departure, an embassy suspending operations, airspace or border closure, mobilisation, NATO Article 4/5 invoked.", action: "Execute your plan."}
+  5: {emoji: "⚫", name: "CRITICAL", meaning: "Reached when an attack or incursion is under way or imminent, or a state of emergency / martial law is declared.", action: "Act on your plan immediately; follow official civil-defence instructions."}
 
 llm:
   enabled_if_key_present: true
