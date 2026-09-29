@@ -97,8 +97,10 @@ def test_background_ukraine_mentions_do_not_score():
     it = Item(source_id="x", source_name="X", title="Latvian parliament debates school funding", url="u",
               text="Officials also discussed a drone incursion into Latvia last week.")
     assert classify.classify(it, _src("news"), CFG).level == 2
-    # …but the same thing in the headline is ELEVATED
+    # …but the same thing in the headline is ELEVATED (a drone incursion is an incident → WATCH; troops are not)
     it = Item(source_id="x", source_name="X", title="Russian drone incursion into Latvia confirmed by army", url="u")
+    assert classify.classify(it, _src("news"), CFG).level == 2
+    it = Item(source_id="x", source_name="X", title="Russian military incursion into Latvia confirmed by army", url="u")
     assert classify.classify(it, _src("news"), CFG).level == 3
     assert "invasion" not in classify.clean("since Russia's invasion of Ukraine, Latvia has")
 
@@ -374,3 +376,48 @@ def test_digest_catches_up_after_missed_slot(tmp_path):
         assert not m.digest_due(CFG, st)                               # nothing due overnight
         FakeDT._now = datetime(2026, 9, 30, 8, 7, tzinfo=tz)
         assert m.digest_due(CFG, st) and m.digest_label(CFG) == "Morning digest"
+
+
+def test_official_warnings_are_kept_and_posted_silently(tmp_path):
+    """Senior officials' warnings about Russian action against NATO/Europe (owner's examples, 29 Sep) are relevant
+    without a Baltic keyword, graded WATCH, flagged, and posted on arrival without an alarm."""
+    belgium = ("BREAKING: Belgiums Chief of Defence Frederik Vansina has said Russia could occupy a small party of NATO "
+               "territory in a large escalation of directly attack infrastructure on NATO territory in a false flag attack "
+               "using Ukrainian drones. That would be an article 5…")
+    tusk = ("Polish Prime Minister Donald Tusk: “Poland is facing very difficult weeks and months ahead due to increasing "
+            "aggressive Russian actions, our security services are doing everything in their power to stop actions "
+            "expanding to Polish territory.”")
+    for post in (belgium, tusk):
+        it = Item(source_id="tg", source_name="Clash Report", title=post[:140] + "…", url="https://t.me/x/1", text=post, kind="post")
+        out = classify.classify(it, _src("osint"), CFG)
+        assert out is not None and out.warning and out.level == 2, post[:60]
+    for title, want in {
+        "Russia could attack a Nato country within months, Danish intelligence says": True,
+        "German defence minister Pistorius: Russia could be ready to attack NATO by 2029": True,
+        "NATO chief calls for calm as intel agency warns Russia may ramp up hybrid attacks - ABC News": True,
+        "Poland requests Article 4 consultations after Russian drones shot down": False,   # relevant anyway (Article 4 is core)
+        "Defence minister opens new kindergarten in Poznań": None,                          # dropped
+        "Tusk: Poland to raise defence spending to 5% of GDP": None,
+        "India warns new US tariffs over Russian oil could impact ties": None,
+        "Finnish president Stubb: Russia is not going to attack Finland": None,
+    }.items():
+        it = Item(source_id="x", source_name="X", title=title, url="u", text="", kind="news")
+        out = classify.classify(it, _src("news"), CFG)
+        if want is None:
+            assert out is None, title
+        else:
+            assert out is not None and out.warning == want and out.level >= 2, title
+    # the alert header marks it, and the poll posts it immediately but silently
+    it = Item(source_id="x", source_name="X", title="Rutte: NATO must be ready for war with Russia within five years", url="u", kind="news")
+    out = classify.classify(it, _src("news"), CFG)
+    assert format_alert(out, CFG, local_tz(CFG)).startswith("🗣 <b>OFFICIAL WARNING</b> · 🟡 <b>L2 WATCH</b>")
+    from monitor import __main__ as m
+    st = tmp_state(tmp_path)
+    sent = []
+    class TG(Telegram):
+        def send(self, text, chat_id=None, silent=False, pin=False):
+            sent.append((text[:40], silent)); return 1
+        def sync_subscribers(self, *a, **k): pass
+    with mock.patch.object(m, "collect", return_value=[out]):
+        m.run_poll(CFG, st, TG())
+    assert any(t.startswith("🗣") and silent for t, silent in sent)
