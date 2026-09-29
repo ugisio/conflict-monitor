@@ -156,17 +156,45 @@ def format_alert(item: Item, cfg: dict, tz) -> str:
         lines.append(f"<i>Why: {esc(item.reason)}</i>")
     if item.url:
         lines.append(f'<a href="{esc(item.url)}">Source</a>')
-    if item.level >= 4:
-        # Only hard triggers carry the standing guidance, and it is labelled as the level's definition,
-        # never phrased as a statement about this particular item.
-        s = scale[item.level]
-        lines.append(f"\n<b>What L{item.level} means:</b> {esc(s['meaning'])}")
-        if s.get("action"):
-            lines.append(f"<b>Suggested action:</b> {esc(s['action'])}")
+    if item.level >= 4 and scale[item.level].get("action"):
+        # Hard triggers carry the standing suggestion for their level. The level *definitions* live in the
+        # pinned level guide, never inline — inline they read like claims about this particular item.
+        lines.append(f"\n<b>Suggested action at L{item.level}:</b> {esc(scale[item.level]['action'])}")
     return "\n".join(lines)
 
 
-def format_status(overall: int, since_row: dict | None, cfg: dict, tz, health_ok: int, health_total: int) -> str:
+def guide_text(cfg: dict) -> str:
+    """The one message that defines the levels. Linked from the status and every alert."""
+    scale = cfg["scale"]
+    a = cfg["alerts"]
+    rows = []
+    for i in range(5, -1, -1):
+        s = scale[i]
+        rows.append(f"{s['emoji']} <b>L{i} {s['name']}</b> — {esc(s['meaning'])}\n"
+                    f"      <i>Suggested action: {esc(s.get('action', '—'))}</i>")
+    hours = " and ".join(f"{h:02d}:00" for h in a["digest_hours_local"])
+    return ("📖 <b>LEVEL GUIDE — what the levels mean</b>\n\n" + "\n".join(rows) +
+            f"\n\n<b>How to read the channel</b>\n"
+            f"• Every alert says <i>Why</i> it got its level — the matched wording and the sources.\n"
+            f"• The pinned <b>CURRENT LEVEL</b> is the highest level of the last {a.get('overall_window_hours', 72)} h "
+            f"and names the latest item at that level.\n"
+            f"• L{a['immediate_min_level']}+ is posted immediately; L{a['dm_min_level']}+ is also pinned and sent as a direct message "
+            f"to everyone who sent /start to the bot; everything else waits for the digests at {hours}.\n"
+            f"• News and OSINT alone never exceed L3 and need a second outlet to stay at L3; official advisories are "
+            f"diffed word by word and are never held back.")
+
+
+def guide_link(state: State, cfg: dict) -> str:
+    """HTML link to the level-guide message in the channel, or '' if it has not been posted yet."""
+    mid = state.status.get("guide_message_id")
+    chan = str(cfg.get("telegram", {}).get("channel_id") or os.environ.get("TELEGRAM_CHANNEL_ID") or "")
+    if not mid or not chan.startswith("-100"):
+        return ""
+    return f'<a href="https://t.me/c/{chan[4:]}/{mid}">📖 Level guide</a>'
+
+
+def format_status(overall: int, since_row: dict | None, cfg: dict, tz, health_ok: int, health_total: int,
+                  guide: str = "") -> str:
     scale = cfg["scale"]
     s = scale[overall]
     head = f"📟 <b>CURRENT LEVEL: {s['emoji']} L{overall} {s['name']}.</b>"
@@ -184,12 +212,16 @@ def format_status(overall: int, since_row: dict | None, cfg: dict, tz, health_ok
         held = (f" · at L{overall} since {fmt_time(since_row.get('since'), tz)}"
                 f" ({n} item{'s' if n != 1 else ''} at this level in {window} h)") if n > 1 else ""
         lines.append(f"{src} · {fmt_time(since_row.get('ts'), tz)}{held}")
+        # Why THIS item got the level — the matched wording and corroboration, never the generic definition.
+        if since_row.get("reason"):
+            lines.append(f"<b>Why L{overall}:</b> {esc(since_row['reason'])}")
     else:
         lines.append(head)
-    lines.append(f"<b>Means:</b> {esc(s['meaning'])}")
+        lines.append(esc(s["meaning"]))
     if s.get("action"):
-        lines.append(f"<b>Suggested action:</b> {esc(s['action'])}")
-    lines.append(f"Level = highest of the last {window} h · updated {fmt_time(None, tz)} · sources OK {health_ok}/{health_total}")
+        lines.append(f"<b>Suggested action at L{overall}:</b> {esc(s['action'])}")
+    tail = f"Level = highest of the last {window} h · updated {fmt_time(None, tz)} · sources OK {health_ok}/{health_total}"
+    lines.append(f"{tail} · {guide}" if guide else tail)
     lines.append(legend(scale))
     return "\n".join(lines)
 
