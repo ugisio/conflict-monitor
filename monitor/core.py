@@ -179,13 +179,22 @@ class State:
         self.status.setdefault("recent_levels", []).append({
             "ts": now_utc().isoformat(timespec="seconds"), "level": item.level,
             "raw_level": raw_level if raw_level is not None else item.level,   # level before corroboration/holds
-            "title": item.title[:120], "title_key": title_key, "source": item.source_name,
+            "title": item.title[:200], "title_key": title_key, "source": item.source_name, "url": item.url,
         })
 
     def overall_level(self, window_hours: int) -> tuple[int, Optional[dict]]:
+        """Highest level recorded inside the window. The row returned is the *latest* item at that level
+        (the most current reason), annotated with `since` (when the level was first reached in the window)
+        and `n` (how many items sit at that level in the window)."""
         cutoff = (now_utc() - timedelta(hours=window_hours)).isoformat()
-        best, best_row = 0, None
-        for r in self.status.get("recent_levels", []):
-            if r.get("ts", "") >= cutoff and r.get("level", 0) > best:
-                best, best_row = r["level"], r
-        return best, best_row
+        rows = [r for r in self.status.get("recent_levels", []) if r.get("ts", "") >= cutoff]
+        if not rows:
+            return 0, None
+        best = max(r.get("level", 0) for r in rows)
+        if best <= 0:
+            return 0, None
+        at_best = sorted((r for r in rows if r.get("level", 0) == best), key=lambda r: r.get("ts", ""))
+        row = dict(at_best[-1])
+        row["since"] = at_best[0].get("ts", "")
+        row["n"] = len(at_best)
+        return best, row
