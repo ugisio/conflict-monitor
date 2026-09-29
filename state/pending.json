@@ -1,1 +1,56 @@
-[]
+[
+ {
+  "first_seen": "2026-09-29T08:21:09+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-09-29T07:36:00+00:00",
+  "reason": "region: estonia, russia · matched “sabotage (in text)”",
+  "source_id": "err_en",
+  "source_name": "ERR News (Estonia, EN)",
+  "summary": "",
+  "text": "Based on ISS intelligence, there are grounds to state with full confidence that the arson attack on the Milrem building in Tallinn on August 15 was an act of sabotage commissioned by Russian special services, the government said in a press release.",
+  "tier": "news",
+  "title": "Estonia: Russia responsible for arson attack on defense contractor Milrem",
+  "uid": "d7b248f993ed78a1",
+  "url": "https://news.err.ee/1610151220/estonia-russia-responsible-for-arson-attack-on-defense-contractor-milrem"
+ },
+ {
+  "first_seen": "2026-09-29T08:21:10+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-09-28T02:17:08+00:00",
+  "reason": "region: latvia · matched “drone”",
+  "source_id": "gnews_latvia_security",
+  "source_name": "Google News — Latvia security",
+  "summary": "",
+  "text": "Latvia reiterates its position on Ukrainian drones / Article LSM",
+  "tier": "news",
+  "title": "Latvia reiterates its position on Ukrainian drones / Article - LSM",
+  "uid": "7c39a91a81b1a9f8",
+  "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPblNQcXFGaVo5Y1Jra2ZQZTh6WU9GODlpOU81R2p3aUdYVjNJQ0Q5MHZFYzRucUIzd01lNTNTWGZfTFNqNU11RHJTMzJUdjh2aHJYeXVwTDVreVJaT2ZTdXVyODRhbUNFS1lYY29UQklUd191VHgxZlZLd0xGaUEtSEFSZFRjemJDSXJKdnBSakFmaG51TktxZXJHeDI5NF9OSDBEWlo0UllFelpDaS0tX2xoNkp4U0U?oc=5"
+ },
+ {
+  "first_seen": "2026-09-29T08:21:14+00:00",
+  "kind": "post",
+  "lang": "ru",
+  "level": 2,
+  "note": "RU, independent; incidents inside Russia (Pskov, Leningrad region, Kaliningrad)",
+  "posted": false,
+  "published": "2026-09-29T07:47:05+00:00",
+  "reason": "region: риг, росси · matched “диверси (in text)”",
+  "source_id": "tg_astra",
+  "source_name": "ASTRA",
+  "summary": "",
+  "text": "Жительницу Забайкалья приговорили к 24 годам колонии. Это рекордный приговор для женщин по делам о госизмене 2-й Восточный окружной военный суд приговорил жительницу Краснокаменска Екатерину Маловечкину к 24 годам колонии общего режима. Ее признали виновной в госизмене, диверсии, участии в террористической организации, незаконном изготовлении и хранении взрывчатых веществ, а также легализации денежных средств. По версии следствия и суда, в начале 2025 года Маловечкина установила связь с «Легионом \"Свобода России\"». С марта по июнь она, как утверждается, расклеивала в Краснокаменске листовки с символикой организации. Позже женщина согласилась за деньги пройти обучение и совершить диверсию на железной дороге. Следствие утверждает, что в мае–августе 2025 года Маловечкина изготовила как минимум два самодельных взрывных устройства. Мощность одного из них оценивалась примерно в 5 кг в тротиловом эквиваленте. 24 августа она, по версии суда, заложила устройство между шпалами на Забайкальской железной дороге и привела его в действие. В результате взрыва были разрушены две железобетонные шпалы и поврежден железнодорожный вагон. На суде Маловечкина полностью признала вину. Помимо 24 лет колонии, ей назначили штрафы и два года ограничения свободы после освобождения. До уголовного дела 51-летняя Маловечкина работала социальным работником в центре реабилитации несовершеннолетних «Доброта», а также торговым представителем в нескольких компаниях. В 2016 году она искала работу в Арбитражном с",
+  "tier": "osint",
+  "title": "Жительницу Забайкалья приговорили к 24 годам колонии. Это рекордный приговор для женщин по делам о госизмене 2-й Восточный окружной военный …",
+  "uid": "bd3421d96ca425d4",
+  "url": "https://t.me/astrapress/126672"
+ }
+]
