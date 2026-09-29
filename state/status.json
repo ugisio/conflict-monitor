@@ -5,200 +5,200 @@
    "error": "",
    "fail_streak": 0,
    "items_last": 0,
-   "last_ok": "2026-09-29T11:31:10+00:00",
-   "last_run": "2026-09-29T11:31:10+00:00",
+   "last_ok": "2026-09-29T12:01:28+00:00",
+   "last_run": "2026-09-29T12:01:28+00:00",
    "ok": true
   },
   "err_en": {
-   "error": "",
-   "fail_streak": 0,
+   "error": "HTTPError: 403 Client Error: Forbidden for url: https://news.err.ee/rss",
+   "fail_streak": 1,
    "items_last": 47,
    "last_ok": "2026-09-29T11:31:14+00:00",
-   "last_run": "2026-09-29T11:31:14+00:00",
-   "ok": true
+   "last_run": "2026-09-29T12:01:30+00:00",
+   "ok": false
   },
   "fcdo_estonia": {
    "error": "",
    "fail_streak": 0,
    "items_last": 0,
-   "last_ok": "2026-09-29T11:31:08+00:00",
-   "last_run": "2026-09-29T11:31:08+00:00",
+   "last_ok": "2026-09-29T12:01:27+00:00",
+   "last_run": "2026-09-29T12:01:27+00:00",
    "ok": true
   },
   "fcdo_latvia": {
    "error": "",
    "fail_streak": 0,
    "items_last": 0,
-   "last_ok": "2026-09-29T11:31:07+00:00",
-   "last_run": "2026-09-29T11:31:07+00:00",
+   "last_ok": "2026-09-29T12:01:26+00:00",
+   "last_run": "2026-09-29T12:01:26+00:00",
    "ok": true
   },
   "fcdo_lithuania": {
    "error": "",
    "fail_streak": 0,
    "items_last": 0,
-   "last_ok": "2026-09-29T11:31:08+00:00",
-   "last_run": "2026-09-29T11:31:08+00:00",
+   "last_ok": "2026-09-29T12:01:27+00:00",
+   "last_run": "2026-09-29T12:01:27+00:00",
    "ok": true
   },
   "germany_latvia": {
    "error": "",
    "fail_streak": 0,
    "items_last": 0,
-   "last_ok": "2026-09-29T11:31:11+00:00",
-   "last_run": "2026-09-29T11:31:11+00:00",
+   "last_ok": "2026-09-29T12:01:29+00:00",
+   "last_run": "2026-09-29T12:01:29+00:00",
    "ok": true
   },
   "gnews_airspace": {
    "error": "",
    "fail_streak": 0,
    "items_last": 0,
-   "last_ok": "2026-09-29T11:31:12+00:00",
-   "last_run": "2026-09-29T11:31:12+00:00",
+   "last_ok": "2026-09-29T12:01:30+00:00",
+   "last_run": "2026-09-29T12:01:30+00:00",
    "ok": true
   },
   "gnews_embassy": {
    "error": "",
    "fail_streak": 0,
    "items_last": 1,
-   "last_ok": "2026-09-29T11:31:17+00:00",
-   "last_run": "2026-09-29T11:31:17+00:00",
+   "last_ok": "2026-09-29T12:01:33+00:00",
+   "last_run": "2026-09-29T12:01:33+00:00",
    "ok": true
   },
   "gnews_flank_warnings": {
    "error": "",
    "fail_streak": 0,
-   "items_last": 17,
-   "last_ok": "2026-09-29T11:31:19+00:00",
-   "last_run": "2026-09-29T11:31:19+00:00",
+   "items_last": 19,
+   "last_ok": "2026-09-29T12:01:35+00:00",
+   "last_run": "2026-09-29T12:01:35+00:00",
    "ok": true
   },
   "gnews_latvia_security": {
    "error": "",
    "fail_streak": 0,
-   "items_last": 27,
-   "last_ok": "2026-09-29T11:31:16+00:00",
-   "last_run": "2026-09-29T11:31:16+00:00",
+   "items_last": 28,
+   "last_ok": "2026-09-29T12:01:32+00:00",
+   "last_run": "2026-09-29T12:01:32+00:00",
    "ok": true
   },
   "gnews_nato": {
    "error": "",
    "fail_streak": 0,
-   "items_last": 33,
-   "last_ok": "2026-09-29T11:31:18+00:00",
-   "last_run": "2026-09-29T11:31:18+00:00",
+   "items_last": 35,
+   "last_ok": "2026-09-29T12:01:33+00:00",
+   "last_run": "2026-09-29T12:01:33+00:00",
    "ok": true
   },
   "gnews_official_warnings": {
    "error": "",
    "fail_streak": 0,
    "items_last": 1,
-   "last_ok": "2026-09-29T11:31:18+00:00",
-   "last_run": "2026-09-29T11:31:18+00:00",
+   "last_ok": "2026-09-29T12:01:34+00:00",
+   "last_run": "2026-09-29T12:01:34+00:00",
    "ok": true
   },
   "lrt_en": {
    "error": "",
    "fail_streak": 0,
    "items_last": 13,
-   "last_ok": "2026-09-29T11:31:15+00:00",
-   "last_run": "2026-09-29T11:31:15+00:00",
+   "last_ok": "2026-09-29T12:01:32+00:00",
+   "last_run": "2026-09-29T12:01:32+00:00",
    "ok": true
   },
   "lsm_en": {
    "error": "",
    "fail_streak": 0,
    "items_last": 28,
-   "last_ok": "2026-09-29T11:31:13+00:00",
-   "last_run": "2026-09-29T11:31:13+00:00",
+   "last_ok": "2026-09-29T12:01:30+00:00",
+   "last_run": "2026-09-29T12:01:30+00:00",
    "ok": true
   },
   "polymarket": {
    "error": "",
    "fail_streak": 0,
    "items_last": 0,
-   "last_ok": "2026-09-29T11:31:33+00:00",
-   "last_run": "2026-09-29T11:31:33+00:00",
+   "last_ok": "2026-09-29T12:01:43+00:00",
+   "last_run": "2026-09-29T12:01:43+00:00",
    "ok": true
   },
   "tg_astra": {
    "error": "",
    "fail_streak": 0,
    "items_last": 11,
-   "last_ok": "2026-09-29T11:31:23+00:00",
-   "last_run": "2026-09-29T11:31:23+00:00",
+   "last_ok": "2026-09-29T12:01:38+00:00",
+   "last_run": "2026-09-29T12:01:38+00:00",
    "ok": true
   },
   "tg_clashreport": {
    "error": "",
    "fail_streak": 0,
    "items_last": 19,
-   "last_ok": "2026-09-29T11:31:20+00:00",
-   "last_run": "2026-09-29T11:31:20+00:00",
+   "last_ok": "2026-09-29T12:01:36+00:00",
+   "last_run": "2026-09-29T12:01:36+00:00",
    "ok": true
   },
   "tg_disclosetv": {
    "error": "",
    "fail_streak": 0,
    "items_last": 3,
-   "last_ok": "2026-09-29T11:31:21+00:00",
-   "last_run": "2026-09-29T11:31:21+00:00",
+   "last_ok": "2026-09-29T12:01:36+00:00",
+   "last_run": "2026-09-29T12:01:36+00:00",
    "ok": true
   },
   "tg_meduza": {
    "error": "",
    "fail_streak": 0,
    "items_last": 19,
-   "last_ok": "2026-09-29T11:31:22+00:00",
-   "last_run": "2026-09-29T11:31:22+00:00",
+   "last_ok": "2026-09-29T12:01:37+00:00",
+   "last_run": "2026-09-29T12:01:37+00:00",
    "ok": true
   },
   "tg_nexta": {
    "error": "",
    "fail_streak": 0,
    "items_last": 20,
-   "last_ok": "2026-09-29T11:31:21+00:00",
-   "last_run": "2026-09-29T11:31:21+00:00",
+   "last_ok": "2026-09-29T12:01:37+00:00",
+   "last_run": "2026-09-29T12:01:37+00:00",
    "ok": true
   },
   "tg_novaya": {
    "error": "",
    "fail_streak": 0,
    "items_last": 18,
-   "last_ok": "2026-09-29T11:31:23+00:00",
-   "last_run": "2026-09-29T11:31:23+00:00",
+   "last_ok": "2026-09-29T12:01:39+00:00",
+   "last_run": "2026-09-29T12:01:39+00:00",
    "ok": true
   },
   "tg_rybar": {
    "error": "",
    "fail_streak": 0,
    "items_last": 16,
-   "last_ok": "2026-09-29T11:31:24+00:00",
-   "last_run": "2026-09-29T11:31:24+00:00",
+   "last_ok": "2026-09-29T12:01:40+00:00",
+   "last_run": "2026-09-29T12:01:40+00:00",
    "ok": true
   },
   "us_embassy_riga": {
    "error": "",
    "fail_streak": 0,
    "items_last": 0,
-   "last_ok": "2026-09-29T11:31:07+00:00",
-   "last_run": "2026-09-29T11:31:07+00:00",
+   "last_ok": "2026-09-29T12:01:26+00:00",
+   "last_run": "2026-09-29T12:01:26+00:00",
    "ok": true
   },
   "us_state_latvia": {
    "error": "page blocked (403); relying on the advisories RSS feed",
    "fail_streak": 0,
    "items_last": 0,
-   "last_ok": "2026-09-29T11:31:05+00:00",
-   "last_run": "2026-09-29T11:31:05+00:00",
+   "last_ok": "2026-09-29T12:01:25+00:00",
+   "last_run": "2026-09-29T12:01:25+00:00",
    "ok": true
   },
   "us_state_rss": {
    "error": "",
    "fail_streak": 0,
    "items_last": 0,
-   "last_ok": "2026-09-29T11:31:06+00:00",
-   "last_run": "2026-09-29T11:31:06+00:00",
+   "last_ok": "2026-09-29T12:01:26+00:00",
+   "last_run": "2026-09-29T12:01:26+00:00",
    "ok": true
   }
  },
@@ -623,8 +623,48 @@
    "title_key": "defense minister martin herem shoots most popular ministers",
    "ts": "2026-09-29T11:31:36+00:00",
    "url": "https://news.err.ee/1610151184/new-defense-minister-martin-herem-shoots-to-top-of-most-popular-ministers-ranking"
+  },
+  {
+   "level": 2,
+   "raw_level": 2,
+   "reason": "region: kaliningrad, russia · matched “nuclear”",
+   "source": "Google News — Latvia security",
+   "title": "Russia warns of nuclear response to any Kaliningrad blockade - Anadolu Ajansı",
+   "title_key": "russia warns nuclear response kaliningrad blockade",
+   "ts": "2026-09-29T12:01:43+00:00",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOLW81RVlKZHZCUVVLV1RVUDVLMXNzbVNocHlYWVc1Rk1qUTBRa1htX3hPbXpzZGF0ODFsNXFqTFlIREN5S1pSNnMtekprQk5tSzBsWUo0YzF6bVBsd0wyd2MzWEdlVDFMYlZfdlNVbmNXZVIwQWI2SzQ1ZXRlWUFvdjd2WTNFSTRFYUg2WlNiR2ozVnVSX0hvTnhQOUlwQQ?oc=5"
+  },
+  {
+   "level": 2,
+   "raw_level": 2,
+   "reason": "region: kaliningrad, russia · matched “nuclear”",
+   "source": "Google News — Latvia security",
+   "title": "Russia warns UK of ‘nuclear response’ over Kaliningrad threats - The News International",
+   "title_key": "russia warns nuclear response over kaliningrad threats",
+   "ts": "2026-09-29T12:01:43+00:00",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSy1IN3lnWkhpaHZvNk5yLVJJNFNWazhPLTZaRDJ0c09EbEkyaW9SOXhoQ0EtNDNWeExJRTdhd244bm5ieFJqOXlSdlNaLVpKLVprZ2dMVXQ1b2FhVVo5YlJSWnpFLVBzb3FQUGppN1d1MGdlSVZSd1ozMlZSNXdTbWIwU09BdzR0Rm5PcjhpQWtpTXR5QTFfRkZzaHFZcXpMMXJsdtIBoAFBVV95cUxNNDhVQ3V5LUxOOGNWT2w5QjlZa0p6bk82RncyZkt1eTdkbGdYNVBRSV9aejZMS2x2dVNGUXNlT3lLU2NLQlZ2dURldVVxWUVaMDhhczh4UkIzNTdJT0hzcHBBQ0NZeTk2TDNuQ1pJY0tYT0Q1X21FdWxxRTlZczVybWhjQzdhM3l4Umx1Mno0OTVidXJTVUJ1aFZQMlNuM21I?oc=5"
+  },
+  {
+   "level": 2,
+   "raw_level": 2,
+   "reason": "region: estonia, nato, kremlin · planning/hypothetical wording, softened · matched “attack on Estonia”",
+   "source": "Google News — NATO & the Baltics",
+   "title": "Kremlin told an attack on Estonia could ignite a wider NATO conflict - London Business News",
+   "title_key": "kremlin told attack estonia could ignite wider nato",
+   "ts": "2026-09-29T12:01:43+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWlE0RmVFYXBxOTNta1dFeVdSR3k4T2U0QU5pVU80QmFYWlpURV9rY1ZuLVBRUWVuY2k4OHdXLTctb0dnbGdVWUxlQmpYZUlvTFhrdmwxVVdqMmVjWEdIVGI4bDdNWVdwSy00THBKOVVDdWNIVWVHbmlMdE9QNFNVZFdtUTBrN2s0Z1QxVExneHNsdVVaa1NSa0I1MmVGMEhmbmo4?oc=5"
+  },
+  {
+   "level": 2,
+   "raw_level": 2,
+   "reason": "region: estonia, nato, russia · matched “sabotage”",
+   "source": "Google News — NATO & the Baltics",
+   "title": "NATO, EU allies rally to Estonia after ‘sabotage’ blamed on Russia - The Australian",
+   "title_key": "nato allies rally estonia after sabotage blamed russia",
+   "ts": "2026-09-29T12:01:43+00:00",
+   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQVmltMXdQQlFkTVBxU1BZRWxFaExydXJSWUhJdzBVU0Jtd3lMZDJCN0VUckZkMXRuMVAyOUFacFE2WHVFZkVQN2RqUnlxRFNKb3JqUXJCRUpmTExOdm1pd1VucEhmSno1UVdydjhqRldfWnNWRU1qbnVIWnNqczRsNDBId0pzdFZJazl2UE9zNlhIYVdoaEdQQ0s0a3RpNWo3UFhCN0JzV3lIOXZOQjF1QmlrVUx5V3Ayc0tNa2ZJYzBGc21vdFBPOWw5aHl0MnM1c1liRi1iWVhGSzQ3eWNsY0k5ckVfMk9YMzFCWlBJU2p3RnJG?oc=5"
   }
  ],
- "runs": 18,
- "status_text": "📟 <b>CURRENT LEVEL: 🟡 L2 WATCH.</b> Top NATO commander says Russian hybrid campaign ‘isn’t working’\n<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPLWdtRER5bkRzTmxDZXdYSDl0X2NuN2VONGREeG03QU1KQ2pRdS12X1h1N3oyVkdsaU9fX1h6dk42RGJxVzRiNlN0akhzb2tjT2JsRXBRZFRBQUJNZUNsYWJlM2ZPTkU0d09GMGsxbkFpR3ZkWnNUQjBXVVp6SDVnMXdwbXAwWlBRaEVadG40NjYxaDVTUXhKRjd3WERweWxhUkRiMjNyaUdqdjg5dGVQLUFmRW3SAboBQVVfeXFMTnhxOVhEWXI0MnZJcjNYOGt6M2NseGRiY2lOUFhtaFotMVl1aG1lUS1KaVl0TjBVMWdRRmEyZjBrV0Fxalp6RDJpeWdWWWhVbTZ0dVpLeDR0SmNDakdwU0NjNUZVTWZiZU5FR2JFUnQ5VWVaWF96bmgzeXloOUNpTUs2ZlJqNEdKUFh2eEpkWjBTRV9lam1oSXBCUy0zdnRWNWFIWGlvVDNlSmYxRFdjNG1xS1JJN2hycXpR?oc=5\">Al Arabiya English via Google News — eastern flank (PL/FI/NATO)</a> · Tue 29 Sep 14:31 · at L2 since Sun 27 Sep 23:01 (45 items at this level in 72 h)\n<b>Why L2:</b> official warning about Russia / NATO · matched “official warning”\n<b>Suggested action at L2:</b> Stay aware.\nLevel = highest of the last 72 h · updated Tue 29 Sep 14:31 · sources OK 25/25 · <a href=\"https://t.me/c/4455291623/25\">📖 Level guide</a>\nScale: ⚫5 Critical 🔴4 Urgent 🟠3 Elevated 🟡2 Watch 🟢1 Info ⚪0 Quiet"
+ "runs": 19,
+ "status_text": "📟 <b>CURRENT LEVEL: 🟡 L2 WATCH.</b> NATO, EU allies rally to Estonia after ‘sabotage’ blamed on Russia\n<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxQVmltMXdQQlFkTVBxU1BZRWxFaExydXJSWUhJdzBVU0Jtd3lMZDJCN0VUckZkMXRuMVAyOUFacFE2WHVFZkVQN2RqUnlxRFNKb3JqUXJCRUpmTExOdm1pd1VucEhmSno1UVdydjhqRldfWnNWRU1qbnVIWnNqczRsNDBId0pzdFZJazl2UE9zNlhIYVdoaEdQQ0s0a3RpNWo3UFhCN0JzV3lIOXZOQjF1QmlrVUx5V3Ayc0tNa2ZJYzBGc21vdFBPOWw5aHl0MnM1c1liRi1iWVhGSzQ3eWNsY0k5ckVfMk9YMzFCWlBJU2p3RnJG?oc=5\">The Australian via Google News — NATO &amp; the Baltics</a> · Tue 29 Sep 15:01 · at L2 since Sun 27 Sep 23:01 (49 items at this level in 72 h)\n<b>Why L2:</b> region: estonia, nato, russia · matched “sabotage”\n<b>Suggested action at L2:</b> Stay aware.\nLevel = highest of the last 72 h · updated Tue 29 Sep 15:01 · sources OK 24/25 · <a href=\"https://t.me/c/4455291623/25\">📖 Level guide</a>\nScale: ⚫5 Critical 🔴4 Urgent 🟠3 Elevated 🟡2 Watch 🟢1 Info ⚪0 Quiet"
 }
