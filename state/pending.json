@@ -70,5 +70,41 @@
   "title": "Следователь ФСБ заявил Гершковичу, что если бы силовики не нашли доказательств для его ареста, журналиста «просто отравили бы» Следователь Ф…",
   "uid": "d78e3242d55786a7",
   "url": "https://t.me/novaya_europe/67666"
+ },
+ {
+  "first_seen": "2026-09-29T09:31:13+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 3,
+  "note": "",
+  "posted": true,
+  "published": "2026-09-29T07:44:03+00:00",
+  "reason": "region: lithuania, nato · matched “Nuclear Threat” · corroborated by LRT (Lithuania, EN)",
+  "source_id": "gnews_nato",
+  "source_name": "Google News — NATO & the Baltics",
+  "summary": "",
+  "text": "Nuclear Threats Against Lithuania Signal New Pressure Campaign on NATO - Oj Odessa Journal",
+  "tier": "news",
+  "title": "Nuclear Threats Against Lithuania Signal New Pressure Campaign on NATO - Oj - Odessa Journal",
+  "uid": "aef8e414b5b9f9f4",
+  "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQktTS0NHZHhtZ0ZHcW5pVkpycS1EV3N3RHBQcDJSbnAzSnA1Y29OWW9qMXF2RUZGVUExMlNRYlpwYnRKME1MMk9vQUp6TTlNaUp0TU0tdTh5ek1KY1AxRDMyd1Z1cHB5WXNJX2RlRm5IRk9OTUNuR2RHTklxWE1jLVdrNFVoeDd2eFBsSmJ2YjJEU29vSFQyVUNIZw?oc=5"
+ },
+ {
+  "first_seen": "2026-09-29T09:31:14+00:00",
+  "kind": "post",
+  "lang": "ru",
+  "level": 2,
+  "note": "RU, Belarus opposition media — best coverage of Belarus border/military",
+  "posted": false,
+  "published": "2026-09-29T09:05:01+00:00",
+  "reason": "region: латви, эстони, росси · matched “диверси (in text)”",
+  "source_id": "tg_nexta",
+  "source_name": "NEXTA Live",
+  "summary": "",
+  "text": "⚡️ Эстония обвинила Россию в поджоге военного завода Премьер-министр Эстонии Кристен Михал заявил, что поджог предприятия Milrem Robotics в Таллинне был диверсией, организованной российскими спецслужбами. К такому выводу пришёл Департамент полиции безопасности после расследования. Поджог произошёл в ночь на 15 августа. Кристен Михал сказал, что диверсия является частью более широкой кампании России, направленной на снижение поддержки Украины. В сентябре Латвия передала Эстонии троих подозреваемых в поджоге. Суд отправил их под стражу. Milrem Robotics разрабатывает наземные беспилотники THeMIS.",
+  "tier": "osint",
+  "title": "⚡️ Эстония обвинила Россию в поджоге военного завода Премьер-министр Эстонии Кристен Михал заявил, что поджог предприятия Milrem Robotics в …",
+  "uid": "24ea7f4e2fa66e99",
+  "url": "https://t.me/nexta_live/124194"
  }
 ]
