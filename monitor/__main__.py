@@ -103,14 +103,41 @@ def update_status_message(tg: Telegram, state: State, cfg: dict, tz, force: bool
     state.status["overall_level"] = overall
 
 
-def digest_recently_sent(state: State, hours: int = 3) -> bool:
+def latest_digest_slot(cfg: dict) -> datetime | None:
+    """The most recent digest slot (08:00 / 20:00 local, today or yesterday) that has already passed."""
+    tz = local_tz(cfg)
+    now = datetime.now(tz)
+    slots = [now.replace(hour=h, minute=0, second=0, microsecond=0) - timedelta(days=d)
+             for d in (0, 1) for h in cfg["alerts"]["digest_hours_local"]]
+    passed = [t for t in slots if t <= now]
+    return max(passed) if passed else None
+
+
+def digest_due(cfg: dict, state: State) -> bool:
+    """A digest is due once the latest slot has passed and no digest has been sent since that slot.
+    Runs are not guaranteed to land inside the slot hour (GitHub's scheduler skips and delays runs),
+    so whichever run comes first after the slot sends it."""
+    slot = latest_digest_slot(cfg)
+    if slot is None:
+        return False
     last = state.status.get("last_digest")
     if not last:
-        return False
+        return True
     try:
-        return datetime.fromisoformat(last) > now_utc() - timedelta(hours=hours)
+        return datetime.fromisoformat(last).astimezone(slot.tzinfo) < slot
     except Exception:
-        return False
+        return True
+
+
+def digest_label(cfg: dict) -> str:
+    slot = latest_digest_slot(cfg)
+    tz = local_tz(cfg)
+    if slot is None:
+        return "Digest"
+    label = "Morning digest" if slot.hour < 14 else "Evening digest"
+    if datetime.now(tz) - slot > timedelta(hours=1):
+        label += f" (for {slot.strftime('%H:%M')}, delayed)"
+    return label
 
 
 def run_poll(cfg: dict, state: State, tg: Telegram):
@@ -154,8 +181,7 @@ def run_digest(cfg: dict, state: State, tg: Telegram, label: str | None = None):
         state.status["last_digest"] = now_utc().isoformat(timespec="seconds")
         state.save()
         return
-    hour = datetime.now(tz).hour
-    label = label or ("Morning digest" if hour < 14 else "Evening digest")
+    label = label or digest_label(cfg)
     bottom = llm.bottom_line(items, overall, cfg) if items else ""
     tg.send(build_digest(items, state, cfg, tz, overall, row, bottom, label), silent=False)
     update_status_message(tg, state, cfg, tz)
@@ -199,10 +225,8 @@ def main(argv: list[str]):
     if not os.environ.get("CHANNEL_INVITE_LINK") and tcfg.get("invite_link"):
         os.environ["CHANNEL_INVITE_LINK"] = tcfg["invite_link"]
     if mode == "auto":
-        hour = datetime.now(local_tz(cfg)).hour
-        due = hour in cfg["alerts"]["digest_hours_local"] and not digest_recently_sent(state)
-        mode = "digest" if due else "poll"
-        print(f"auto → {mode} (local hour {hour})")
+        mode = "digest" if digest_due(cfg, state) else "poll"
+        print(f"auto → {mode} (local time {datetime.now(local_tz(cfg)).strftime('%H:%M')})")
     try:
         if mode == "poll":
             run_poll(cfg, state, tg)
