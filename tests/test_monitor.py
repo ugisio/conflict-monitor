@@ -107,19 +107,25 @@ def test_corroboration_holds_lone_headlines():
     a = Item(source_id="lsm", source_name="LSM", title="Russian drone incursion into Latvia confirmed by army", url="1", tier="news", level=3)
     out = classify.corroborate([a], recent=[])
     assert out[0].level == 2 and "single source" in out[0].reason
-    # a second, independent outlet with a different L3 story within the window → both stay ELEVATED
+    # a second, independent outlet reporting the SAME event in its own words → both stay ELEVATED
     a = Item(source_id="lsm", source_name="LSM", title="Russian drone incursion into Latvia confirmed by army", url="1", tier="news", level=3)
-    b = Item(source_id="err", source_name="ERR", title="Estonia reports airspace violation by Russian jets", url="2", tier="news", level=3)
+    b = Item(source_id="err", source_name="ERR", title="Army confirms Russian drone crossed into Latvia near Daugavpils", url="2", tier="news", level=3)
     out = classify.corroborate([a, b], recent=[])
     assert out[0].level == 3 and out[1].level == 3 and "corroborated by" in out[0].reason
-    # the same story from another outlet does NOT count as corroboration
+    # an unrelated L3 story from another outlet is NOT corroboration (a siren test cannot confirm a nuclear threat)
+    a = Item(source_id="lsm", source_name="LSM", title="Russian drone incursion into Latvia confirmed by army", url="1", tier="news", level=3)
+    u = Item(source_id="lrt", source_name="LRT", title="Lithuania to test air raid sirens on Tuesday", url="5", tier="news", level=3)
+    out = classify.corroborate([a, u], recent=[])
+    assert out[0].level == 2 and out[1].level == 2
+    # the same headline re-indexed by another aggregator does NOT count either
     c = Item(source_id="gn", source_name="Google News", title="Russian drone incursion into Latvia confirmed by army - Delfi", url="3", tier="news", level=3)
     a = Item(source_id="lsm", source_name="LSM", title="Russian drone incursion into Latvia confirmed by army", url="1", tier="news", level=3)
     out = classify.corroborate([a, c], recent=[])
     assert out[0].level == 2
     # earlier runs count too (raw_level ≥3 within the window), official sources are never held
     from datetime import datetime, timezone
-    recent = [{"ts": datetime.now(timezone.utc).isoformat(), "raw_level": 3, "level": 2, "source": "ERR", "title_key": "estonia reports airspace violation russian jets"}]
+    recent = [{"ts": datetime.now(timezone.utc).isoformat(), "raw_level": 3, "level": 2, "source": "ERR",
+               "title": "Drone from Russia crashed in eastern Latvia, army says", "title_key": "drone from russia crashed eastern latvia army says"}]
     a = Item(source_id="lsm", source_name="LSM", title="Russian drone incursion into Latvia confirmed by army", url="1", tier="news", level=3)
     o = Item(source_id="us", source_name="US Embassy Riga alerts", title="Security Alert", url="4", tier="official", level=3)
     out = classify.corroborate([a, o], recent=recent)
@@ -300,16 +306,27 @@ def test_status_message_layout(tmp_path):
     from monitor.telegram import format_status
     row = {"title": "Poland and Lithuania preparing cross-border evacuation plan - Euronews.com", "level": 2,
            "source": "Google News — Latvia security", "url": "https://news.example/1",
-           "ts": "2026-09-27T20:01:33+00:00", "since": "2026-09-27T20:01:33+00:00", "n": 3}
-    text = format_status(2, row, CFG, local_tz(CFG), 23, 23)
+           "ts": "2026-09-27T20:01:33+00:00", "since": "2026-09-27T20:01:33+00:00", "n": 3,
+           "reason": "region: lithuania · planning/hypothetical wording, softened · matched “evacuation”"}
+    text = format_status(2, row, CFG, local_tz(CFG), 23, 23, guide='<a href="https://t.me/c/1/2">📖 Level guide</a>')
     lines = text.split("\n")
     assert lines[0] == ("📟 <b>CURRENT LEVEL: 🟡 L2 WATCH.</b> Poland and Lithuania preparing cross-border evacuation plan")
     assert lines[1].startswith('<a href="https://news.example/1">Euronews.com via Google News — Latvia security</a>')
     assert "at L2 since Sun 27 Sep 23:01 (3 items at this level in 72 h)" in lines[1]
-    assert lines[2].startswith("<b>Means:</b>") and lines[3].startswith("<b>Suggested action:</b>")
-    assert "highest of the last 72 h" in lines[4]
+    # the generic level definition is never inline (it read like a claim about the item); the item's own reason is
+    assert lines[2].startswith("<b>Why L2:</b>") and "evacuation" in lines[2]
+    assert lines[3] == "<b>Suggested action at L2:</b> Stay aware."
+    assert "highest of the last 72 h" in lines[4] and "Level guide" in lines[4]
+    assert "Means" not in text and "embassy" not in text.lower()
     quiet = format_status(0, None, CFG, local_tz(CFG), 23, 23).split("\n")
-    assert quiet[0] == "📟 <b>CURRENT LEVEL: ⚪ L0 QUIET.</b>" and quiet[1].startswith("<b>Means:</b>")
+    assert quiet[0] == "📟 <b>CURRENT LEVEL: ⚪ L0 QUIET.</b>" and quiet[1].startswith("Nothing new")
+    # L4 alerts carry only the suggested action, not the definition
+    from monitor.telegram import format_alert, guide_text
+    it = Item(source_id="o", source_name="O", title="Latvia - Level 4: Do Not Travel — advisory text changed", url="u",
+              text="+ ordered departure", kind="advisory_change", tier="official", level=4, reason="matched “ordered departure”")
+    a = format_alert(it, CFG, local_tz(CFG))
+    assert "<b>Suggested action at L4:</b> Execute your plan." in a and "means" not in a.lower()
+    assert "LEVEL GUIDE" in guide_text(CFG) and "L3 ELEVATED" in guide_text(CFG)
 
 
 def test_digest_catches_up_after_missed_slot(tmp_path):
