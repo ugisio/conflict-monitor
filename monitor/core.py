@@ -63,6 +63,7 @@ class Item:
     note: str = ""
     lang: str = "en"
     posted: bool = False
+    warning: bool = False                # a senior official's public warning about Russian action against NATO/Europe
     first_seen: str = field(default_factory=lambda: now_utc().isoformat(timespec="seconds"))
 
     def __post_init__(self):
