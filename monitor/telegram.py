@@ -128,6 +128,15 @@ def fmt_time(iso: str | None, tz) -> str:
     return d.astimezone(tz).strftime("%a %d %b %H:%M")
 
 
+def split_publisher(title: str) -> tuple[str, str]:
+    """'Headline - Publisher' (Google News style) → ('Headline', 'Publisher'); otherwise (title, '')."""
+    if " - " in title:
+        head, pub = title.rsplit(" - ", 1)
+        if 0 < len(pub.strip()) <= 40 and head.strip():
+            return head.strip(), pub.strip()
+    return title.strip(), ""
+
+
 def badge(level: int, scale: dict) -> str:
     s = scale[max(0, min(5, level))]
     return f"{s['emoji']} <b>L{level} {s['name']}</b>"
@@ -160,13 +169,27 @@ def format_alert(item: Item, cfg: dict, tz) -> str:
 def format_status(overall: int, since_row: dict | None, cfg: dict, tz, health_ok: int, health_total: int) -> str:
     scale = cfg["scale"]
     s = scale[overall]
-    lines = [f"📟 <b>CURRENT LEVEL: {s['emoji']} L{overall} {s['name']}</b>",
-             f"<b>Means:</b> {esc(s['meaning'])}"]
+    head = f"📟 <b>CURRENT LEVEL: {s['emoji']} L{overall} {s['name']}.</b>"
+    window = cfg["alerts"].get("overall_window_hours", 72)
+    lines = []
+    if since_row:
+        # Level line reads as one sentence: "CURRENT LEVEL: L2 WATCH. <latest headline at that level>"
+        headline, publisher = split_publisher(since_row.get("title", ""))
+        lines.append(f"{head} {esc(headline)}")
+        src = esc(since_row.get("source", ""))
+        if publisher:
+            src = f"{esc(publisher)} via {src}"
+        src = f'<a href="{esc(since_row["url"])}">{src}</a>' if since_row.get("url") else src
+        n = since_row.get("n", 1)
+        held = (f" · at L{overall} since {fmt_time(since_row.get('since'), tz)}"
+                f" ({n} item{'s' if n != 1 else ''} at this level in {window} h)") if n > 1 else ""
+        lines.append(f"{src} · {fmt_time(since_row.get('ts'), tz)}{held}")
+    else:
+        lines.append(head)
+    lines.append(f"<b>Means:</b> {esc(s['meaning'])}")
     if s.get("action"):
         lines.append(f"<b>Suggested action:</b> {esc(s['action'])}")
-    if since_row:
-        lines.append(f"Driven by: {esc(since_row.get('title', ''))} ({esc(since_row.get('source', ''))}, {fmt_time(since_row.get('ts'), tz)})")
-    lines.append(f"Updated {fmt_time(None, tz)} · sources OK {health_ok}/{health_total}")
+    lines.append(f"Level = highest of the last {window} h · updated {fmt_time(None, tz)} · sources OK {health_ok}/{health_total}")
     lines.append(legend(scale))
     return "\n".join(lines)
 
