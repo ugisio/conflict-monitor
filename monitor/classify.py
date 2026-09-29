@@ -94,6 +94,12 @@ RHETORIC = re.compile(
     r"пропаганд|телевед|госсми|госканал|пропагандист", re.I)
 
 
+# Hybrid incidents (arson, sabotage, vandalism, cyber) are WATCH even when a headline calls them an "attack";
+# the L3 attack rule is for kinetic events (explosions, missiles, shelling, strikes).
+INCIDENT = re.compile(r"arson|sabotage|vandal|graffiti|cyber|hack(ed|ers?|ing)|поджог|диверси|кибер", re.I)
+KINETIC = re.compile(r"explosion|blast|missile|shelling|air ?strike|bomb|взрыв|ракет|обстрел", re.I)
+
+
 # Background references that appear in half of all Baltic news and say nothing about today's risk:
 # "since Russia's full-scale invasion of Ukraine", "the war in Ukraine", … Removed before scoring.
 BACKGROUND = re.compile(
@@ -180,6 +186,9 @@ def classify(item: Item, src: dict, cfg: dict, llm_enabled: bool = False) -> Ite
             elif lvl >= 3 and RHETORIC.search(item.title):
                 lvl -= 1
                 item.reason += " · rhetoric / commentary, softened"
+            if lvl == 3 and INCIDENT.search(item.title) and not KINETIC.search(item.title):
+                lvl = 2
+                item.reason += " · hybrid incident (sabotage/arson/cyber) → WATCH"
         item.level = max(item.level, lvl, base if lvl >= 1 or tier == "official" else 0)
         if why:
             item.reason = (item.reason + " · " if item.reason else "") + f"matched “{why}”"
