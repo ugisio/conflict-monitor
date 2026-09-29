@@ -163,6 +163,7 @@ def run_poll(cfg: dict, state: State, tg: Telegram):
     items = collect(cfg, state)
     imm = cfg["alerts"]["immediate_min_level"]
     dm_min = cfg["alerts"]["dm_min_level"]
+    warn_now = cfg["alerts"].get("immediate_warnings", True)
     for it in sorted(items, key=lambda x: -x.level):
         record(state, it)
         if it.level >= imm:
@@ -170,6 +171,9 @@ def run_poll(cfg: dict, state: State, tg: Telegram):
             tg.send(text, silent=False, pin=(it.level >= dm_min))
             if it.level >= dm_min:
                 tg.dm_all(state, text)
+            it.posted = True
+        elif warn_now and it.warning:
+            tg.send(alert_text(it, cfg, tz, state), silent=True)   # on arrival, but no alarm sound
             it.posted = True
         state.add_pending(it)
     update_status_message(tg, state, cfg, tz)
@@ -183,6 +187,7 @@ def run_digest(cfg: dict, state: State, tg: Telegram, label: str | None = None):
     tz = local_tz(cfg)
     ensure_guide(tg, state, cfg)
     imm, dm_min = cfg["alerts"]["immediate_min_level"], cfg["alerts"]["dm_min_level"]
+    warn_now = cfg["alerts"].get("immediate_warnings", True)
     fresh = collect(cfg, state)          # pick up anything since the last poll too
     for it in sorted(fresh, key=lambda x: -x.level):
         record(state, it)
@@ -191,6 +196,9 @@ def run_digest(cfg: dict, state: State, tg: Telegram, label: str | None = None):
             tg.send(text, pin=(it.level >= dm_min))
             if it.level >= dm_min:
                 tg.dm_all(state, text)
+            it.posted = True
+        elif warn_now and it.warning:
+            tg.send(alert_text(it, cfg, tz, state), silent=True)
             it.posted = True
         state.add_pending(it)
     items = state.take_pending()
