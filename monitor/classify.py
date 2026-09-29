@@ -11,7 +11,8 @@ RULES: list[tuple[str, int]] = [
     (r"\b(attack|invasion|incursion|strike)s? (on|against|into) (latvia|estonia|lithuania|the baltics?|nato territory)", 5),
     (r"(вторжени|нападени|удар(ы|ов)?) (в|на|по) (латви|эстони|литв|прибалт|балти)", 5),
     (r"\bmartial law\b|военное положение|karastāvokl", 5),
-    (r"article 5 (has been|was|is) (invoked|triggered)|статья 5 (активирован|задействован)", 5),
+    (r"(invok|trigger|activat)\w* (nato'?s? )?article 5|article 5 (is |has been |was |were )?(invoked|triggered|activated)|"
+     r"статья 5 (активирован|задействован)|(задейств|активир)\w* стать[юи] 5", 5),
     # ---- 4 URGENT
     # Embassy staffing language, in the forms the State Department / FCDO actually use:
     (r"ordered departure|order(ed|s)? (the )?departure|depart(ure)? (of|for) (all|non-emergency)|"
@@ -21,7 +22,7 @@ RULES: list[tuple[str, int]] = [
     (r"airspace (is |has been |will be )?(closed|closure|shut)|clos(e|es|ed|ing|ure of) (its |the |all |national )?airspace|воздушн\w+ пространств\w+ (закрыт|закрыва)", 4),
     (r"border(s)? (is |are |has been |have been )?(closed|sealed)|clos(e|es|ed|ing) (its |the |all )?border|границ\w* (закрыт|закрыва|перекры)", 4),
     (r"(general |partial )?mobili[sz]ation|мобилизац", 4),
-    (r"\barticle 5\b|статья 5|статьи 5", 4),
+    (r"article 5 consultations|(request|call|ask)\w* (for )?(nato'?s? )?article 5|консультаци\w* по стать[еи] 5", 4),
     (r"state of emergency|чрезвычайн\w+ (положени|ситуаци)|ārkārtējā situācija", 4),
     (r"shelter in place|air[- ]raid (siren|alert|warning)|воздушн\w+ тревог", 4),
     # Nuclear: only actual threats/use/deployment near us are URGENT. Policy talk about nuclear weapons is WATCH (below).
@@ -39,7 +40,8 @@ RULES: list[tuple[str, int]] = [
      r"(consular|visa) services (are |have been |will be )?(suspended|limited|unavailable)|"
      r"limited (staffing|capacity to (assist|provide))|ability to (provide|assist).{0,40}(limited|reduced)", 3),
     (r"reconsider travel|advise against all but essential travel|advise against all travel", 3),
-    (r"\barticle 4\b|статья 4|статьи 4", 3),
+    (r"(invok|trigger|request|call|ask)\w* (for )?(nato'?s? )?article 4|article 4 (is |has been |was |were )?(invoked|triggered|consultations|talks|meeting)|"
+     r"(задейств|активир|запрос)\w* стать[юи] 4|консультаци\w* по стать[еи] 4", 3),
     (r"security alert", 3),
     (r"(troop|force|military) (build[- ]?up|movement|concentration|deployment)|наращива\w+ (войск|сил|группировк)|переброск\w+ (войск|техник)", 3),
     (r"violat(e|ed|ion of) (latvian|estonian|lithuanian|nato|polish|finnish)? ?airspace|наруш\w+ воздушн\w+ пространств", 3),
@@ -94,9 +96,47 @@ RHETORIC = re.compile(
     r"пропаганд|телевед|госсми|госканал|пропагандист", re.I)
 
 
+# "Official warnings": a head of state/government, defence or foreign minister, chief of defence, intelligence
+# chief or NATO leadership publicly warning about Russian action against NATO/Europe. These are relevant even
+# without a Baltic keyword (the whole eastern flank is our neighbourhood) and are always at least WATCH.
+SENIOR = re.compile(
+    r"prime minister|\bpm\b|president|chancellor|defen[cs]e (minister|secretary|chief)|"
+    r"chief of (the )?(defen[cs]e|general staff|staff|army|armed forces)|commander[- ]in[- ]chief|"
+    r"(army|military|navy|air force) (chief|commander|head)|\bgeneral\b|admiral|"
+    r"\bintelligence\b|spy (chief|agency)|security (service|council)|foreign minister|"
+    r"\b(bnd|mi6|mi5|cia|sis|säpo|supo|sab|kapo|vsd|abw|nsa)\b|nato('s)? (secretary|chief|commander|head)|"
+    r"\brutte\b|saceur|\b(putin|lavrov|medvedev|peskov|shoigu|belousov|gerasimov|lukashenko)\b|"
+    r"\b(tusk|merz|macron|starmer|stubb|frederiksen|kristersson|støre|store|orpo|nausėda|nauseda|"
+    r"rinkēvičs|rinkevics|siliņa|silina|kallas|michal|karis|pistorius|healey|kubilius|von der leyen|zelensky|budanov)\b|"
+    r"премьер|президент|министр обороны|глав\w+ (генштаба|разведки|минобороны)|генерал|канцлер", re.I)
+ESCALATION = re.compile(
+    r"attack(s|ed|ing)? (on|against|into) (nato|europe|the alliance|a nato|poland|finland|the baltics?|our)|"
+    r"occup(y|ies|ied|ation)|false[- ]flag|war (with|against|on) (nato|russia|europe|the west)|"
+    r"prepar(e|es|ed|ing) for (a )?(war|conflict|attack)|ready for (a )?war|"
+    r"(must|should|has to|have to|need to|needs to) (be )?(prepare|ready|brace)|"
+    r"test(s|ing)? (nato|the alliance|article 5)|article (4|5)|difficult (weeks|months|times|period)|"
+    r"aggressive russian|russian (aggression|threat|attack|provocation)|"
+    r"(russia|moscow|kremlin|putin) (could|may|might|will|would|is preparing to|is ready to|plans? to|wants? to|intends? to) "
+    r"(attack|strike|occupy|invade|test|seize|move|provoke|hit)|"
+    r"escalat|within (the next )?(\d+ |a few |several |two |three |five )?(years?|months?|weeks?|days?)\b|by 20(2[6-9]|3\d)|"
+    r"\bhybrid\b|shadow war|sabotage campaign|\bwarn(s|ed|ing)?\b|предупре(дил|ждает)|"
+    r"нападени|напад(ет|ут)|атак(а|ует|овать)|оккуп|войн[аыуе] с|готов\w* к войне|ближайшие (недели|месяцы)|"
+    r"агресси|провокаци|эскалац", re.I)
+RUSSIA = re.compile(r"russia|moscow|kremlin|putin|росси|кремл|путин|москв|\bnato\b|article [45]|eastern flank|нато", re.I)
+NOT_WARNING = re.compile(r"tariff|oil price|gas price|energy price|inflation|trade deal|grain|election result|"
+                         r"visa|tourist|football|hockey|eurovision", re.I)
+
+
+def official_warning(text: str) -> bool:
+    """A senior figure + an escalation phrase + Russia/NATO in the same headline/opening text (not economics/sport)."""
+    t = text or ""
+    return bool(RUSSIA.search(t) and SENIOR.search(t) and ESCALATION.search(t) and not NOT_WARNING.search(t))
+
+
 # Hybrid incidents (arson, sabotage, vandalism, cyber) are WATCH even when a headline calls them an "attack";
 # the L3 attack rule is for kinetic events (explosions, missiles, shelling, strikes).
-INCIDENT = re.compile(r"arson|sabotage|vandal|graffiti|cyber|hack(ed|ers?|ing)|поджог|диверси|кибер", re.I)
+INCIDENT = re.compile(r"arson|sabotage|vandal|graffiti|cyber|hack(ed|ers?|ing)|drone incursion|drones? (cross|crossed|enter|entered|violat|stray)|"
+                      r"поджог|диверси|кибер|дрон\w* (пересек|наруш|залет)", re.I)
 KINETIC = re.compile(r"explosion|blast|missile|shelling|air ?strike|bomb|взрыв|ракет|обстрел", re.I)
 
 
@@ -146,12 +186,17 @@ def classify(item: Item, src: dict, cfg: dict, llm_enabled: bool = False) -> Ite
     text = f"{item.title}\n{item.text}"
     tier = src.get("tier", "news")
 
-    # Official Latvia-specific sources are always relevant; news/OSINT must mention the region.
+    # Official Latvia-specific sources are always relevant; news/OSINT must mention the region — or be a senior
+    # official's warning about Russian action against NATO/Europe (headline, or the opening of an OSINT post).
     if tier in ("news", "osint"):
         ok, hits = relevance(text, cfg)
-        if not ok:
+        head = item.title if item.kind != "post" else f"{item.title} {item.text[:400]}"
+        item.warning = official_warning(head)
+        if not ok and not item.warning:
             return None
-        item.reason = "region: " + ", ".join(hits[:4])
+        item.reason = ("region: " + ", ".join(hits[:4])) if ok else "official warning about Russia / NATO"
+        if ok and item.warning:
+            item.reason += " · official warning"
 
     if item.level == 0 or tier in ("news", "osint"):
         base = src.get("base_level", 0)
@@ -168,6 +213,9 @@ def classify(item: Item, src: dict, cfg: dict, llm_enabled: bool = False) -> Ite
             lvl = 1
             item.reason = (item.reason + " · " if item.reason else "") + "routine holiday closure"
         if tier in ("news", "osint"):
+            if item.warning:
+                lvl = max(lvl, 2)             # a senior official's warning is always at least WATCH
+                why = why or "official warning"
             if lvl == 0:
                 # ordinary regional news — keep only as an LLM candidate if it is security-adjacent
                 if llm_enabled and SOFT.search(text):
@@ -177,7 +225,7 @@ def classify(item: Item, src: dict, cfg: dict, llm_enabled: bool = False) -> Ite
             # Unverified sources cannot by themselves produce URGENT/CRITICAL; cap at 3 without LLM confirmation.
             lvl = min(lvl, 3)
             # A generic keyword hit in a long OSINT post that only *mentions* the region: soften by one.
-            if item.kind == "post" and lvl >= 2 and not relevance(item.title, cfg)[0]:
+            if item.kind == "post" and lvl >= 2 and not item.warning and not relevance(item.title, cfg)[0]:
                 lvl -= 1
             # Plans, drills and hypotheticals about a hard trigger are WATCH material, not an alarm.
             if lvl >= 3 and HYPOTHETICAL.search(item.title):
