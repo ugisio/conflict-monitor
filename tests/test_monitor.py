@@ -271,3 +271,73 @@ def test_alert_and_digest_format(tmp_path):
 def test_dry_run_send():
     tg = Telegram(token="", channel="@x")
     assert tg.dry and tg.send("hello") > 0
+
+
+# ---------------------------------------------------------------- status message & digest timing
+
+def test_overall_level_uses_latest_item_and_reports_since(tmp_path):
+    """The pinned status names the *latest* item at the top level, says since when that level has held,
+    and how many items hold it — not the oldest item in the window."""
+    from datetime import datetime, timedelta, timezone
+    st = tmp_state(tmp_path)
+    now = datetime.now(timezone.utc)
+    st.status["recent_levels"] = [
+        {"ts": (now - timedelta(hours=50)).isoformat(timespec="seconds"), "level": 2, "title": "Old L2 - Euronews.com",
+         "source": "Google News — Latvia security", "url": "https://x/old"},
+        {"ts": (now - timedelta(hours=5)).isoformat(timespec="seconds"), "level": 1, "title": "Info item", "source": "ERR"},
+        {"ts": (now - timedelta(hours=2)).isoformat(timespec="seconds"), "level": 2, "title": "New L2 - LSM",
+         "source": "Google News — Latvia security", "url": "https://x/new"},
+        {"ts": (now - timedelta(hours=100)).isoformat(timespec="seconds"), "level": 4, "title": "Expired L4", "source": "X"},
+    ]
+    level, row = st.overall_level(72)
+    assert level == 2
+    assert row["title"] == "New L2 - LSM" and row["url"] == "https://x/new"
+    assert row["since"].startswith((now - timedelta(hours=50)).isoformat(timespec="seconds")[:13])
+    assert row["n"] == 2
+
+
+def test_status_message_layout(tmp_path):
+    from monitor.telegram import format_status
+    row = {"title": "Poland and Lithuania preparing cross-border evacuation plan - Euronews.com", "level": 2,
+           "source": "Google News — Latvia security", "url": "https://news.example/1",
+           "ts": "2026-09-27T20:01:33+00:00", "since": "2026-09-27T20:01:33+00:00", "n": 3}
+    text = format_status(2, row, CFG, local_tz(CFG), 23, 23)
+    lines = text.split("\n")
+    assert lines[0] == ("📟 <b>CURRENT LEVEL: 🟡 L2 WATCH.</b> Poland and Lithuania preparing cross-border evacuation plan")
+    assert lines[1].startswith('<a href="https://news.example/1">Euronews.com via Google News — Latvia security</a>')
+    assert "at L2 since Sun 27 Sep 23:01 (3 items at this level in 72 h)" in lines[1]
+    assert lines[2].startswith("<b>Means:</b>") and lines[3].startswith("<b>Suggested action:</b>")
+    assert "highest of the last 72 h" in lines[4]
+    quiet = format_status(0, None, CFG, local_tz(CFG), 23, 23).split("\n")
+    assert quiet[0] == "📟 <b>CURRENT LEVEL: ⚪ L0 QUIET.</b>" and quiet[1].startswith("<b>Means:</b>")
+
+
+def test_digest_catches_up_after_missed_slot(tmp_path):
+    """Scheduled runs are not guaranteed to land inside the 08:00/20:00 hour, so a digest is due on the
+    first run after a slot until one has been sent for it — and never twice for the same slot."""
+    from datetime import datetime, timedelta
+    from monitor import __main__ as m
+    tz = local_tz(CFG)
+    st = tmp_state(tmp_path)
+
+    class FakeDT(datetime):
+        _now = None
+
+        @classmethod
+        def now(cls, tz=None):
+            return cls._now.astimezone(tz) if tz else cls._now
+
+    with mock.patch.object(m, "datetime", FakeDT):
+        FakeDT._now = datetime(2026, 9, 29, 10, 32, tzinfo=tz)      # 10:32, no run landed at 08:xx
+        assert m.digest_due(CFG, st)                                   # never sent → due
+        assert m.digest_label(CFG) == "Morning digest (for 08:00, delayed)"
+        st.status["last_digest"] = datetime(2026, 9, 29, 10, 33, tzinfo=tz).isoformat(timespec="seconds")
+        FakeDT._now = datetime(2026, 9, 29, 15, 7, tzinfo=tz)
+        assert not m.digest_due(CFG, st)                               # 08:00 slot already covered
+        FakeDT._now = datetime(2026, 9, 29, 20, 7, tzinfo=tz)
+        assert m.digest_due(CFG, st) and m.digest_label(CFG) == "Evening digest"
+        st.status["last_digest"] = datetime(2026, 9, 29, 20, 8, tzinfo=tz).isoformat(timespec="seconds")
+        FakeDT._now = datetime(2026, 9, 30, 4, 48, tzinfo=tz)
+        assert not m.digest_due(CFG, st)                               # nothing due overnight
+        FakeDT._now = datetime(2026, 9, 30, 8, 7, tzinfo=tz)
+        assert m.digest_due(CFG, st) and m.digest_label(CFG) == "Morning digest"
