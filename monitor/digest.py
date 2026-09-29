@@ -30,6 +30,8 @@ def build_digest(items: list[Item], state: State, cfg: dict, tz, overall: int, s
             lines += ["", f"{scale[lvl]['emoji']} <b>L{lvl} {scale[lvl]['name']}</b>"]
             for it in sorted(by_level[lvl], key=lambda x: (x.tier != "official", x.published or ""), reverse=False)[:15]:
                 flag = " 🔔" if it.posted else ""
+                if getattr(it, "warning", False):
+                    flag = " 🗣" + flag
                 link = f' — <a href="{esc(it.url)}">{esc(it.source_name)}</a>' if it.url else f" — {esc(it.source_name)}"
                 body = esc(it.summary or it.title)
                 lines.append(f"• {body}{link}{flag}")
@@ -52,5 +54,5 @@ def build_digest(items: list[Item], state: State, cfg: dict, tz, overall: int, s
     if failing:
         names = {s["id"]: s["name"] for s in cfg["sources"]}
         lines.append(f"⚠️ <i>Sources failing: {esc(', '.join(names.get(f, f) for f in failing))}</i>")
-    lines += ["", f"<i>Sources OK {ok}/{total} · 🔔 = already alerted</i>", legend(scale)]
+    lines += ["", f"<i>Sources OK {ok}/{total} · 🔔 = already posted · 🗣 = official warning</i>", legend(scale)]
     return "\n".join(lines)
