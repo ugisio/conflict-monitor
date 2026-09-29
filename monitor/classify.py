@@ -25,7 +25,10 @@ RULES: list[tuple[str, int]] = [
     (r"state of emergency|чрезвычайн\w+ (положени|ситуаци)|ārkārtējā situācija", 4),
     (r"shelter in place|air[- ]raid (siren|alert|warning)|воздушн\w+ тревог", 4),
     # Nuclear: only actual threats/use/deployment near us are URGENT. Policy talk about nuclear weapons is WATCH (below).
-    (r"nuclear (strike|attack|alert)|threat(en|ens|ened)?s? (to use )?nuclear|nuclear threat|tactical nuclear weapons? (deploy|moved|transferred|stationed)|ядерн\w+ (удар|угроз)", 4),
+    (r"nuclear (strike|attack|alert)|threat(en|ens|ened)?s? (to use )?nuclear|nuclear threat|"
+     r"tactical nuclear weapons? (deploy|moved|transferred|stationed)|"
+     r"(moves?|moving|moved|deploys?|deploying|deployed|transfers?|transferred|stations?|stationed) (its )?(tactical )?nuclear (weapons?|warheads?|missiles?)|"
+     r"ядерн\w+ (удар|угроз)", 4),
     # ---- 3 ELEVATED
     (r"authori[sz]ed departure|authori[sz]e[ds]? (the )?(voluntary )?departure|voluntary departure|"
      r"departure of (family members|eligible family|dependants|dependents|non-?emergency)|"
@@ -44,12 +47,12 @@ RULES: list[tuple[str, int]] = [
     (r"(incursion|invasion)s? (into|of|in) (latvia|estonia|lithuania|the baltics?|baltic|poland|finland|nato)|"
      r"(latvian|estonian|lithuanian|baltic|polish|finnish|nato) (airspace |territory |border )?incursion|"
      r"вторжени\w* (в|на) (латви|эстони|литв|прибалт|балти|польш|финлянд)", 3),
-    (r"sabotage|диверси|hybrid attack|гибридн\w+ (атак|войн)", 3),
     (r"(explosion|blast|attack|strike|missile|shelling) .{0,80}(latvia|estonia|lithuania|baltic|kaliningrad|pskov|belarus)", 3),
     (r"(взрыв|атак|удар|ракет).{0,80}(латви|эстони|литв|прибалт|балти|калининград|псков|беларус)", 3),
     (r"embassy (closes|closed|closing|suspend)|посольств\w+ (закрыва|приостанав)", 3),
     (r"nato (deploys|reinforces|sends).{0,60}(baltic|latvia|estonia|lithuania)", 3),
     # ---- 2 WATCH
+    (r"sabotage|диверси|hybrid attack|гибридн\w+ (атак|войн)|arson|поджог", 2),
     (r"\bdrone|\buav\b|беспилотник|\bдрон|\bбпла\b", 2),
     (r"cyber ?attack|кибератак|gps (jamming|spoofing)|глушени", 2),
     (r"military exercise|exercises?\b.{0,40}(russia|belarus|zapad|nato)|учени[яй]|zapad|запад-20", 2),
@@ -76,11 +79,19 @@ SOFT = re.compile(r"militar|defen[cs]e|\barmy\b|\btroops?\b|soldier|\bborder|sec
 # Planning / hypothetical framing: "preparing an evacuation plan", "exercise simulates border closure",
 # "could close airspace". A real signal, but one notch below the same words describing an actual event.
 HYPOTHETICAL = re.compile(
-    r"\b(plans?|planning|planned|prepar\w*|drill|drills|exercise|exercises|scenario|simulat\w*|contingency|"
+    r"\b(plans?|planning|planned|prepar\w*|drill|drills|exercise|exercises|tests?|testing|scenario|simulat\w*|contingency|"
     r"in (the )?(case|event) of|if\b|should russia|were to|what if|would|could|might|may|hypothetical|table-?top|"
     r"rehears\w*|warns? of|warned of|warning of|debate|proposal|proposes?|considers?|considering|moves? to|"
     r"lift(s|ing)? (the )?ban|"
     r"план\w*|готов\w*|учени\w*|сценари\w*|отработ\w*|на случай|в случае|если\b|предлага\w*|обсужда\w*)\b", re.I)
+
+
+# Threats voiced by state media, pundits and propagandists, and analysis/opinion pieces about them, are
+# rhetoric (WATCH), not an official act. Threats by the government itself are not softened.
+RHETORIC = re.compile(
+    r"state[- ](media|tv|television|run|controlled)|propagand|pundit|tv (host|show|anchor)|talk[- ]show|blogger|"
+    r"columnist|op-ed|opinion|analysis|explainer|explained|rhetoric|\bsignals?\b|pressure campaign|"
+    r"пропаганд|телевед|госсми|госканал|пропагандист", re.I)
 
 
 # Background references that appear in half of all Baltic news and say nothing about today's risk:
@@ -166,6 +177,9 @@ def classify(item: Item, src: dict, cfg: dict, llm_enabled: bool = False) -> Ite
             if lvl >= 3 and HYPOTHETICAL.search(item.title):
                 lvl -= 1
                 item.reason += " · planning/hypothetical wording, softened"
+            elif lvl >= 3 and RHETORIC.search(item.title):
+                lvl -= 1
+                item.reason += " · rhetoric / commentary, softened"
         item.level = max(item.level, lvl, base if lvl >= 1 or tier == "official" else 0)
         if why:
             item.reason = (item.reason + " · " if item.reason else "") + f"matched “{why}”"
@@ -179,9 +193,9 @@ def classify(item: Item, src: dict, cfg: dict, llm_enabled: bool = False) -> Ite
 
 
 def corroborate(items: list[Item], recent: list[dict], hours: int = 6) -> list[Item]:
-    """News/OSINT items at L3 stay ELEVATED only when another *independent* source (different outlet,
-    different story) also reported something L3+ within the last `hours` — this run or earlier runs.
-    A lone headline is held at WATCH with a note. Official sources are never held."""
+    """News/OSINT items at L3 stay ELEVATED only when another *independent* outlet reported the *same story*
+    in its own words (not a re-indexed copy of the same headline) with an L3+ grade within the last `hours` —
+    this run or earlier runs. A lone headline is held at WATCH with a note. Official sources are never held."""
     from datetime import datetime, timedelta, timezone
     cutoff = (datetime.now(timezone.utc) - timedelta(hours=hours)).isoformat()
     prior = [r for r in recent if r.get("ts", "") >= cutoff and r.get("raw_level", r.get("level", 0)) >= 3]
@@ -190,8 +204,10 @@ def corroborate(items: list[Item], recent: list[dict], hours: int = 6) -> list[I
         if it.tier not in ("news", "osint") or it.level != 3:
             continue
         k = title_key(it.title)
-        witnesses = [r for r in prior if r.get("source") != it.source_name and r.get("title_key") != k]
-        witnesses += [o for o in hot_now if o is not it and o.source_name != it.source_name and title_key(o.title) != k]
+        witnesses = [r for r in prior if r.get("source") != it.source_name and r.get("title_key") != k
+                     and same_story(it.title, r.get("title", ""))]
+        witnesses += [o for o in hot_now if o is not it and o.source_name != it.source_name and title_key(o.title) != k
+                      and same_story(it.title, o.title)]
         if not witnesses:
             it.level = 2
             it.reason += " · single source, held at WATCH until another source corroborates"
@@ -199,6 +215,25 @@ def corroborate(items: list[Item], recent: list[dict], hours: int = 6) -> list[I
             w = witnesses[0]
             it.reason += " · corroborated by " + (w.get("source") if isinstance(w, dict) else w.source_name)
     return items
+
+
+_GENERIC = {"russi", "ukrai", "lithu", "eston", "latvi", "balti", "polan", "polis", "finla", "finni", "belar",
+            "kalin", "europ", "kreml", "mosco", "gover", "minis", "presi", "offic", "repor", "again", "about",
+            "their", "there", "would", "could", "shoul", "state", "after", "warns", "warni", "threa", "secur",
+            "milit", "defen", "attac", "count", "regio", "citiz", "peopl", "natio", "borde"}
+
+
+def story_stems(title: str) -> set[str]:
+    """Crude topic fingerprint of a headline: 5-letter stems of its content words, minus region/generic words."""
+    t = re.sub(r"\s+[-–|]\s+[^-–|]{2,40}$", "", (title or "").lower())
+    return {w[:5] for w in re.findall(r"[a-zа-яё]{5,}", t)} - _GENERIC
+
+
+def same_story(a: str, b: str) -> bool:
+    """Two headlines are about the same story when they share a distinctive content word
+    ("nuclear"/"nuclear", "arson"/"arson", "milrem"/"milrem"). Region names and generic security words
+    don't count, so 'air-raid siren test' cannot corroborate 'nuclear threats'."""
+    return bool(story_stems(a) & story_stems(b))
 
 
 def title_key(t: str) -> str:
