@@ -131,5 +131,24 @@
   "uid": "3999037cc1267304",
   "url": "https://t.me/nexta_live/124226",
   "warning": false
+ },
+ {
+  "first_seen": "2026-09-29T23:31:13+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": true,
+  "published": "2026-09-29T23:18:00+00:00",
+  "reason": "official warning about Russia / NATO · matched “escalat”",
+  "source_id": "gnews_flank_warnings",
+  "source_name": "Google News — eastern flank (PL/FI/NATO)",
+  "summary": "",
+  "text": "Polish PM Tusk warns of ‘difficult months’ as Russia escalates The New Voice of Ukraine",
+  "tier": "news",
+  "title": "Polish PM Tusk warns of ‘difficult months’ as Russia escalates - The New Voice of Ukraine",
+  "uid": "0ed98a923dfdd120",
+  "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbERXcEdSYzJCaHI2Zk1EM1c1Xy1pb0VvbGs1dzRtTXd3eVBueXowTjVFSUJEVE1Nb3o5US1KOEFScXNweno5eWRMNXV5QVFLUnlwNGVEb3RrT0VWbFhwSzlGbGpDbEZIWXMwREJ2a1lWMXRUSUlYd2FDU25Da3Y0aUd2M0VnSGdDV3FidTR4LS1QT2pRb2w2UklhdmVodknSAZsBQVVfeXFMT2FXX3RqRVpyNmprLW5pRm5TS3dpUFBYWG9oMTNtbm1MT0dpaEN0RkNyYjVlM1g0ZXU3WmQ4di1XNm5ZU2lPWnVLWW9yRG90SU1CYlZJTlc2dUlhOFdHX2RBN3N3dHN5b2pZSkJvOTZrSUU2WHRWVm5rX1d6Z01Ya2VFMVo4UzFtNUltZVcwS0dDU2xFVXVjaXhIU0E?oc=5",
+  "warning": true
  }
 ]
