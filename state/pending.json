@@ -996,5 +996,43 @@
   "uid": "4f4611b3a4d58021",
   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNzJaRHhVNGJfOUNqWHYtTlpIdDhidURXTU0xZnZVMTJfRExxZEVQclV3OUFobmVpVk0xeHBhVHotTU9rYzdWUlV1N1BLeHZVQ29XSVBpMl81TnBMVkxmZDNzcVVmcmZ4LW9UUmZFVWR0WjVxbkgyc2ZTWW1BZk8xZHY2Vjc0bmVwZXNYbWIzRkxMenNEYXRvZjNsZGRsWVRfU3pR?oc=5",
   "warning": false
+ },
+ {
+  "first_seen": "2026-09-29T15:04:41+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-09-29T13:24:35+00:00",
+  "reason": "region: estonia, russia · matched “arson”",
+  "source_id": "gnews_latvia_security",
+  "source_name": "Google News — Latvia security",
+  "summary": "",
+  "text": "Estonia: Russia responsible for arson at Milrem facility bnn-news.com",
+  "tier": "news",
+  "title": "Estonia: Russia responsible for arson at Milrem facility - bnn-news.com",
+  "uid": "3bb33fcc3c4bf0bf",
+  "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVTVWYkUzNXVLcjFoc1ZCRTB3NThWQWlYbGNZbjZ6MG5UZHZiRlB3SFpFZ1RJekJqVjdhOEhxOUpDU1hBN0YtbTBzY0FvUDZteC11ZTBDNnlvc2JwQWFmMUkxd0lCU0FLd3Izb3R2cHk3TnlsTjZGeFlRRzNzTzZmWTZJdHB0REJreldj?oc=5",
+  "warning": false
+ },
+ {
+  "first_seen": "2026-09-29T15:04:42+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-09-29T14:59:00+00:00",
+  "reason": "region: estonia, nato, russia · matched “arson”",
+  "source_id": "gnews_nato",
+  "source_name": "Google News — NATO & the Baltics",
+  "summary": "",
+  "text": "Estonia says Russia behind arson attack as Nato allies offer support The Independent",
+  "tier": "news",
+  "title": "Estonia says Russia behind arson attack as Nato allies offer support - The Independent",
+  "uid": "ffe7302dbfc4f808",
+  "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMnZHal90RnlhWXQ0NGhDSW40ZEpyMFk0QjhOenFBWUlsb1UzMnQ5TEJYMTIzeVFPbkp1RHpiZWZ6bkg1OWptX3BsN21QcUZzbnN4UmhZNzFScEVOX3YwSXJwREllMDc1SmJxYjE0S1drZW1aUk16bGtOc0pEYXRtUDZRcUNIckRpdGFfY0hNYjBhNE45eEVxUA?oc=5",
+  "warning": false
  }
 ]
