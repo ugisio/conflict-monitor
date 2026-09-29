@@ -17,7 +17,7 @@ from .core import Item, State, load_config, local_tz, now_utc
 from .classify import classify, dedupe, title_key, corroborate
 from .digest import build_digest
 from .fetchers import FETCHERS, SoftFail
-from .telegram import Telegram, format_alert, format_status
+from .telegram import Telegram, format_alert, format_status, guide_text, guide_link
 from . import llm
 
 
@@ -82,13 +82,30 @@ def record(state: State, it: Item):
     state.record_level(it, raw_level=getattr(it, "raw_level", it.level), title_key=title_key(it.title))
 
 
+def ensure_guide(tg: Telegram, state: State, cfg: dict):
+    """Post the level-guide message once and remember its id so status/alerts can link to it."""
+    if state.status.get("guide_message_id") or tg.dry:
+        return
+    mid = tg.send(guide_text(cfg), silent=True)
+    if mid:
+        state.status["guide_message_id"] = mid
+
+
+def alert_text(item: Item, cfg: dict, tz, state: State) -> str:
+    text = format_alert(item, cfg, tz)
+    link = guide_link(state, cfg)
+    return f"{text}\n{link}" if link else text
+
+
 def update_status_message(tg: Telegram, state: State, cfg: dict, tz, force: bool = False):
     """Keep one pinned 'CURRENT LEVEL' message in the channel. Edited in place while the level is unchanged;
     re-posted (with sound when the level rises) whenever the level changes."""
+    ensure_guide(tg, state, cfg)
     overall, row = state.overall_level(cfg["alerts"]["overall_window_hours"])
     prev = state.status.get("overall_level", 0)
     health = state.status.get("health", {})
-    text = format_status(overall, row, cfg, tz, sum(1 for h in health.values() if h.get("ok")), len(health))
+    text = format_status(overall, row, cfg, tz, sum(1 for h in health.values() if h.get("ok")), len(health),
+                         guide=guide_link(state, cfg))
     state.status["status_text"] = text
     mid = state.status.get("pinned_message_id")
     changed = overall != prev
@@ -142,13 +159,14 @@ def digest_label(cfg: dict) -> str:
 
 def run_poll(cfg: dict, state: State, tg: Telegram):
     tz = local_tz(cfg)
+    ensure_guide(tg, state, cfg)
     items = collect(cfg, state)
     imm = cfg["alerts"]["immediate_min_level"]
     dm_min = cfg["alerts"]["dm_min_level"]
     for it in sorted(items, key=lambda x: -x.level):
         record(state, it)
         if it.level >= imm:
-            text = format_alert(it, cfg, tz)
+            text = alert_text(it, cfg, tz, state)
             tg.send(text, silent=False, pin=(it.level >= dm_min))
             if it.level >= dm_min:
                 tg.dm_all(state, text)
@@ -163,12 +181,13 @@ def run_poll(cfg: dict, state: State, tg: Telegram):
 
 def run_digest(cfg: dict, state: State, tg: Telegram, label: str | None = None):
     tz = local_tz(cfg)
+    ensure_guide(tg, state, cfg)
     imm, dm_min = cfg["alerts"]["immediate_min_level"], cfg["alerts"]["dm_min_level"]
     fresh = collect(cfg, state)          # pick up anything since the last poll too
     for it in sorted(fresh, key=lambda x: -x.level):
         record(state, it)
         if it.level >= imm:              # urgent things never wait for the digest
-            text = format_alert(it, cfg, tz)
+            text = alert_text(it, cfg, tz, state)
             tg.send(text, pin=(it.level >= dm_min))
             if it.level >= dm_min:
                 tg.dm_all(state, text)
@@ -203,13 +222,10 @@ def run_check(cfg: dict, state: State):
 
 def run_test(cfg: dict, state: State, tg: Telegram):
     tz = local_tz(cfg)
-    scale = cfg["scale"]
-    demo = "\n".join(f"{scale[i]['emoji']} <b>L{i} {scale[i]['name']}</b> — {scale[i]['meaning']} <i>Action: {scale[i].get('action', '')}</i>"
-                     for i in range(5, -1, -1))
     tg.send(f"🛰 <b>CONFLICT MONITOR — test message</b> · {datetime.now(tz).strftime('%a %d %b %H:%M')}\n"
-            f"Bot is connected and can post here.\n\n<b>Alert scale</b>\n{demo}\n\n"
-            f"Monitoring {len(cfg['sources'])} sources. Digests at "
+            f"Bot is connected and can post here. Monitoring {len(cfg['sources'])} sources. Digests at "
             f"{' and '.join(f'{h:02d}:00' for h in cfg['alerts']['digest_hours_local'])} ({cfg['region']['timezone']}).")
+    ensure_guide(tg, state, cfg)
     update_status_message(tg, state, cfg, tz, force=True)
     tg.sync_subscribers(state, os.environ.get("CHANNEL_INVITE_LINK"))
     state.save()
