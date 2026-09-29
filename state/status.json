@@ -4,188 +4,188 @@
    "error": "",
    "fail_streak": 0,
    "items_last": 0,
-   "last_ok": "2026-09-29T01:48:41+00:00",
-   "last_run": "2026-09-29T01:48:41+00:00",
+   "last_ok": "2026-09-29T07:35:32+00:00",
+   "last_run": "2026-09-29T07:35:32+00:00",
    "ok": true
   },
   "err_en": {
    "error": "",
    "fail_streak": 0,
    "items_last": 45,
-   "last_ok": "2026-09-29T01:48:44+00:00",
-   "last_run": "2026-09-29T01:48:44+00:00",
+   "last_ok": "2026-09-29T07:35:35+00:00",
+   "last_run": "2026-09-29T07:35:35+00:00",
    "ok": true
   },
   "fcdo_estonia": {
    "error": "",
    "fail_streak": 0,
    "items_last": 0,
-   "last_ok": "2026-09-29T01:48:41+00:00",
-   "last_run": "2026-09-29T01:48:41+00:00",
+   "last_ok": "2026-09-29T07:35:31+00:00",
+   "last_run": "2026-09-29T07:35:31+00:00",
    "ok": true
   },
   "fcdo_latvia": {
    "error": "",
    "fail_streak": 0,
    "items_last": 0,
-   "last_ok": "2026-09-29T01:48:40+00:00",
-   "last_run": "2026-09-29T01:48:40+00:00",
+   "last_ok": "2026-09-29T07:35:31+00:00",
+   "last_run": "2026-09-29T07:35:31+00:00",
    "ok": true
   },
   "fcdo_lithuania": {
    "error": "",
    "fail_streak": 0,
    "items_last": 0,
-   "last_ok": "2026-09-29T01:48:41+00:00",
-   "last_run": "2026-09-29T01:48:41+00:00",
+   "last_ok": "2026-09-29T07:35:32+00:00",
+   "last_run": "2026-09-29T07:35:32+00:00",
    "ok": true
   },
   "germany_latvia": {
    "error": "",
    "fail_streak": 0,
    "items_last": 0,
-   "last_ok": "2026-09-29T01:48:42+00:00",
-   "last_run": "2026-09-29T01:48:42+00:00",
+   "last_ok": "2026-09-29T07:35:33+00:00",
+   "last_run": "2026-09-29T07:35:33+00:00",
    "ok": true
   },
   "gnews_airspace": {
    "error": "",
    "fail_streak": 0,
    "items_last": 0,
-   "last_ok": "2026-09-29T01:48:43+00:00",
-   "last_run": "2026-09-29T01:48:43+00:00",
+   "last_ok": "2026-09-29T07:35:34+00:00",
+   "last_run": "2026-09-29T07:35:34+00:00",
    "ok": true
   },
   "gnews_embassy": {
    "error": "",
    "fail_streak": 0,
    "items_last": 0,
-   "last_ok": "2026-09-29T01:48:46+00:00",
-   "last_run": "2026-09-29T01:48:46+00:00",
+   "last_ok": "2026-09-29T07:35:37+00:00",
+   "last_run": "2026-09-29T07:35:37+00:00",
    "ok": true
   },
   "gnews_latvia_security": {
    "error": "",
    "fail_streak": 0,
-   "items_last": 18,
-   "last_ok": "2026-09-29T01:48:45+00:00",
-   "last_run": "2026-09-29T01:48:45+00:00",
+   "items_last": 21,
+   "last_ok": "2026-09-29T07:35:36+00:00",
+   "last_run": "2026-09-29T07:35:36+00:00",
    "ok": true
   },
   "gnews_nato": {
    "error": "",
    "fail_streak": 0,
-   "items_last": 28,
-   "last_ok": "2026-09-29T01:48:47+00:00",
-   "last_run": "2026-09-29T01:48:47+00:00",
+   "items_last": 27,
+   "last_ok": "2026-09-29T07:35:37+00:00",
+   "last_run": "2026-09-29T07:35:37+00:00",
    "ok": true
   },
   "lrt_en": {
    "error": "",
    "fail_streak": 0,
    "items_last": 10,
-   "last_ok": "2026-09-29T01:48:45+00:00",
-   "last_run": "2026-09-29T01:48:45+00:00",
+   "last_ok": "2026-09-29T07:35:35+00:00",
+   "last_run": "2026-09-29T07:35:35+00:00",
    "ok": true
   },
   "lsm_en": {
    "error": "",
    "fail_streak": 0,
-   "items_last": 19,
-   "last_ok": "2026-09-29T01:48:44+00:00",
-   "last_run": "2026-09-29T01:48:44+00:00",
+   "items_last": 26,
+   "last_ok": "2026-09-29T07:35:34+00:00",
+   "last_run": "2026-09-29T07:35:34+00:00",
    "ok": true
   },
   "polymarket": {
    "error": "",
    "fail_streak": 0,
    "items_last": 0,
-   "last_ok": "2026-09-29T01:48:54+00:00",
-   "last_run": "2026-09-29T01:48:54+00:00",
+   "last_ok": "2026-09-29T07:35:44+00:00",
+   "last_run": "2026-09-29T07:35:44+00:00",
    "ok": true
   },
   "tg_astra": {
    "error": "",
    "fail_streak": 0,
-   "items_last": 10,
-   "last_ok": "2026-09-29T01:48:49+00:00",
-   "last_run": "2026-09-29T01:48:49+00:00",
+   "items_last": 8,
+   "last_ok": "2026-09-29T07:35:40+00:00",
+   "last_run": "2026-09-29T07:35:40+00:00",
    "ok": true
   },
   "tg_clashreport": {
    "error": "",
    "fail_streak": 0,
    "items_last": 20,
-   "last_ok": "2026-09-29T01:48:47+00:00",
-   "last_run": "2026-09-29T01:48:47+00:00",
+   "last_ok": "2026-09-29T07:35:38+00:00",
+   "last_run": "2026-09-29T07:35:38+00:00",
    "ok": true
   },
   "tg_disclosetv": {
    "error": "",
    "fail_streak": 0,
    "items_last": 3,
-   "last_ok": "2026-09-29T01:48:48+00:00",
-   "last_run": "2026-09-29T01:48:48+00:00",
+   "last_ok": "2026-09-29T07:35:38+00:00",
+   "last_run": "2026-09-29T07:35:38+00:00",
    "ok": true
   },
   "tg_meduza": {
    "error": "",
    "fail_streak": 0,
    "items_last": 19,
-   "last_ok": "2026-09-29T01:48:49+00:00",
-   "last_run": "2026-09-29T01:48:49+00:00",
+   "last_ok": "2026-09-29T07:35:39+00:00",
+   "last_run": "2026-09-29T07:35:39+00:00",
    "ok": true
   },
   "tg_nexta": {
    "error": "",
    "fail_streak": 0,
    "items_last": 20,
-   "last_ok": "2026-09-29T01:48:48+00:00",
-   "last_run": "2026-09-29T01:48:48+00:00",
+   "last_ok": "2026-09-29T07:35:39+00:00",
+   "last_run": "2026-09-29T07:35:39+00:00",
    "ok": true
   },
   "tg_novaya": {
    "error": "",
    "fail_streak": 0,
-   "items_last": 17,
-   "last_ok": "2026-09-29T01:48:50+00:00",
-   "last_run": "2026-09-29T01:48:50+00:00",
+   "items_last": 16,
+   "last_ok": "2026-09-29T07:35:41+00:00",
+   "last_run": "2026-09-29T07:35:41+00:00",
    "ok": true
   },
   "tg_rybar": {
    "error": "",
    "fail_streak": 0,
-   "items_last": 17,
-   "last_ok": "2026-09-29T01:48:51+00:00",
-   "last_run": "2026-09-29T01:48:51+00:00",
+   "items_last": 16,
+   "last_ok": "2026-09-29T07:35:41+00:00",
+   "last_run": "2026-09-29T07:35:41+00:00",
    "ok": true
   },
   "us_embassy_riga": {
    "error": "",
    "fail_streak": 0,
    "items_last": 0,
-   "last_ok": "2026-09-29T01:48:39+00:00",
-   "last_run": "2026-09-29T01:48:39+00:00",
+   "last_ok": "2026-09-29T07:35:30+00:00",
+   "last_run": "2026-09-29T07:35:30+00:00",
    "ok": true
   },
   "us_state_latvia": {
    "error": "page blocked (403); relying on the advisories RSS feed",
    "fail_streak": 0,
    "items_last": 0,
-   "last_ok": "2026-09-29T01:48:39+00:00",
-   "last_run": "2026-09-29T01:48:39+00:00",
+   "last_ok": "2026-09-29T07:35:29+00:00",
+   "last_run": "2026-09-29T07:35:29+00:00",
    "ok": true
   },
   "us_state_rss": {
    "error": "",
    "fail_streak": 0,
    "items_last": 0,
-   "last_ok": "2026-09-29T01:48:39+00:00",
-   "last_run": "2026-09-29T01:48:39+00:00",
+   "last_ok": "2026-09-29T07:35:30+00:00",
+   "last_run": "2026-09-29T07:35:30+00:00",
    "ok": true
   }
  },
- "last_digest": null,
+ "last_digest": "2026-09-29T07:35:47+00:00",
  "overall_level": 2,
  "overall_since": "2026-09-28T21:52:02+00:00",
  "pinned_message_id": 16,
@@ -366,8 +366,44 @@
    "title": "27 сентября в Нью-Йорке у штаб-квартиры ООН прошла акция в поддержку российских активистов Юлии Емельяновой и Мансура Мо",
    "title_key": "сентября йорке штаб квартиры прошла акция поддержку российских",
    "ts": "2026-09-29T01:48:54+00:00"
+  },
+  {
+   "level": 2,
+   "raw_level": 2,
+   "source": "LRT (Lithuania, EN)",
+   "title": "I worry about Russian miscalculation in Baltics – interview with Britain’s top general",
+   "title_key": "worry about russian miscalculation baltics",
+   "ts": "2026-09-29T07:35:44+00:00",
+   "url": "https://www.lrt.lt/en/news-in-english/19/3066114/i-worry-about-russian-miscalculation-in-baltics-interview-with-britain-s-top-general"
+  },
+  {
+   "level": 2,
+   "raw_level": 3,
+   "source": "LRT (Lithuania, EN)",
+   "title": "Lithuania to test air raid sirens on Tuesday",
+   "title_key": "lithuania test raid sirens tuesday",
+   "ts": "2026-09-29T07:35:44+00:00",
+   "url": "https://www.lrt.lt/en/news-in-english/19/3067027/lithuania-to-test-air-raid-sirens-on-tuesday"
+  },
+  {
+   "level": 2,
+   "raw_level": 2,
+   "source": "Google News — Latvia security",
+   "title": "Drone that crashed in Latvia confirmed as Ukrainian / Article - LSM",
+   "title_key": "drone that crashed latvia confirmed ukrainian article",
+   "ts": "2026-09-29T07:35:44+00:00",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNjZjcDBOYm5sMGFwNHdLYUtmNnQ0cUdTT0M4emxHaFVabV9BdFV4ckJFcmZ3cndrLW5sWW95SWJEWjRRVXlZeDAteGVxeHdrOTBsWGpncEt0V1F4eXNubVdlbDRmcG5vRHFZNmVwNkhPUGVBYWxoSTBjVzFaVEtBbjRxSk91Z29zaVlpR2YxbVRiZjdVR1JnNGVsdlgwZ2hHbkxSNzFSYUpXYVYtVXJ2T2dzU1Y?oc=5"
+  },
+  {
+   "level": 2,
+   "raw_level": 2,
+   "source": "Google News — NATO & the Baltics",
+   "title": "Suwałki holds evacuation drill amid Russian threat concerns - UA.NEWS",
+   "title_key": "suwa holds evacuation drill amid russian threat concerns",
+   "ts": "2026-09-29T07:35:44+00:00",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQczNJRVlVTEo2OWZEcUtvU09PaURGaTVGbC0zSVZXS2hRWDVVc3BhVm1SX0liOEU1YmtuemlrcFAwV3JSblU4Y3lfcGd4NXNHSDVpeUFPdjkxS2dhbjlGai10Nms1V3lKOXF3elJxNTVhc1pXQllra3hzOVF3a3MxaFVrQVNrU3R1bVFOME9ybEJQOVdfWTJtXzVnbEt1UkxXUUp1RTBFNA?oc=5"
   }
  ],
- "runs": 8,
- "status_text": "📟 <b>CURRENT LEVEL: 🟡 L2 WATCH</b>\n<b>Means:</b> Notable development: security-related wording change, exercises or build-up, incidents (drones, sabotage), plans or drills for a hard trigger, sharper rhetoric.\n<b>Suggested action:</b> Stay aware.\nDriven by: Poland and Lithuania preparing cross-border evacuation plan for Baltic states - Euronews.com (Google News — Latvia security, Sun 27 Sep 23:01)\nUpdated Tue 29 Sep 04:48 · sources OK 23/23\nScale: ⚫5 Critical 🔴4 Urgent 🟠3 Elevated 🟡2 Watch 🟢1 Info ⚪0 Quiet"
+ "runs": 9,
+ "status_text": "📟 <b>CURRENT LEVEL: 🟡 L2 WATCH.</b> Suwałki holds evacuation drill amid Russian threat concerns\n<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQczNJRVlVTEo2OWZEcUtvU09PaURGaTVGbC0zSVZXS2hRWDVVc3BhVm1SX0liOEU1YmtuemlrcFAwV3JSblU4Y3lfcGd4NXNHSDVpeUFPdjkxS2dhbjlGai10Nms1V3lKOXF3elJxNTVhc1pXQllra3hzOVF3a3MxaFVrQVNrU3R1bVFOME9ybEJQOVdfWTJtXzVnbEt1UkxXUUp1RTBFNA?oc=5\">UA.NEWS via Google News — NATO &amp; the Baltics</a> · Tue 29 Sep 10:35 · at L2 since Sun 27 Sep 23:01 (26 items at this level in 72 h)\n<b>Means:</b> Notable development: security-related wording change, exercises or build-up, incidents (drones, sabotage), plans or drills for a hard trigger, sharper rhetoric.\n<b>Suggested action:</b> Stay aware.\nLevel = highest of the last 72 h · updated Tue 29 Sep 10:35 · sources OK 23/23\nScale: ⚫5 Critical 🔴4 Urgent 🟠3 Elevated 🟡2 Watch 🟢1 Info ⚪0 Quiet"
 }
