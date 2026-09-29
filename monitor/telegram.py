@@ -145,7 +145,10 @@ def badge(level: int, scale: dict) -> str:
 def format_alert(item: Item, cfg: dict, tz) -> str:
     scale = cfg["scale"]
     when = fmt_time(item.published or item.first_seen, tz)
-    lines = [f"{badge(item.level, scale)} · {esc(item.source_name)} · {when}", f"<b>{esc(item.title)}</b>"]
+    head = badge(item.level, scale)
+    if getattr(item, "warning", False):
+        head = f"🗣 <b>OFFICIAL WARNING</b> · {head}"
+    lines = [f"{head} · {esc(item.source_name)} · {when}", f"<b>{esc(item.title)}</b>"]
     if item.summary:
         lines.append(esc(item.summary))
     elif item.text and item.kind in ("advisory_change", "alert", "market"):
