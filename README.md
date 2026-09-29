@@ -56,7 +56,7 @@ every 30 min (GitHub Actions cron)
   ─► rule-based severity (EN/RU regexes) ─► [optional Claude grading] ─► dedupe
   ─► level ≥3: post now (+DM/pin if ≥4)   ─► everything: queue for digest
   ─► update pinned CURRENT LEVEL           ─► commit state/ back to the repo
-08:00 / 20:00 Riga: the same run also posts the digest of queued items
+08:00 / 20:00 Riga: the first run after each of these times also posts the digest of queued items
 ```
 
 State (what has been seen, last advisory texts, pending digest items, subscribers) lives in `state/*.json`
@@ -82,6 +82,27 @@ a source that fails three runs in a row is flagged in the digest.
 If the repo is **private**, GitHub's free minutes (2,000/month) comfortably cover the 30-minute schedule; a public
 repo has unlimited minutes. GitHub pauses schedules in repos with no activity for 60 days — the state commits count as
 activity, but if it ever pauses, re-enable it in the Actions tab.
+
+### The GitHub cron is not reliable — add an external trigger
+
+GitHub only *tries* to run the `schedule`; under load it delays or silently drops runs, and in practice this repo saw
+about one run every 4–6 hours instead of every 30 minutes. The digest logic copes (a missed 08:00 digest is sent by the
+next run, labelled "delayed"), but for genuine 30-minute polling let a free external cron service start the workflow
+via `workflow_dispatch`:
+
+1. GitHub → *Settings → Developer settings → Personal access tokens → Fine-grained tokens → Generate new token*:
+   repository access = only `conflict-monitor`, permission **Actions: Read and write** (Metadata is added automatically),
+   expiry as long as allowed. Copy the token — it is shown once.
+2. On a cron service (e.g. https://cron-job.org, free) create a job every 30 minutes:
+   * URL `https://api.github.com/repos/ugisio/conflict-monitor/actions/workflows/monitor.yml/dispatches`, method **POST**
+   * headers `Authorization: Bearer <the token>`, `Accept: application/vnd.github+json`,
+     `X-GitHub-Api-Version: 2022-11-28`, `Content-Type: application/json`
+   * body `{"ref":"main","inputs":{"mode":"auto"}}`
+   A `204 No Content` response means the run was queued. The GitHub cron stays as a backup; the `concurrency` group
+   makes sure two runs never overlap.
+
+The token can only start this repo's workflows — it cannot read the bot token or change code — so the blast radius
+if the cron service leaked it is "someone runs the monitor more often".
 
 ## Local use
 
