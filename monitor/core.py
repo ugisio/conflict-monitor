@@ -180,6 +180,7 @@ class State:
             "ts": now_utc().isoformat(timespec="seconds"), "level": item.level,
             "raw_level": raw_level if raw_level is not None else item.level,   # level before corroboration/holds
             "title": item.title[:200], "title_key": title_key, "source": item.source_name, "url": item.url,
+            "reason": (item.reason or "")[:300],
         })
 
     def overall_level(self, window_hours: int) -> tuple[int, Optional[dict]]:
