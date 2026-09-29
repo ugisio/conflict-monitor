@@ -132,6 +132,22 @@ def test_corroboration_holds_lone_headlines():
     assert out[0].level == 3 and out[1].level == 3
 
 
+def test_rhetoric_and_incidents_are_watch_not_elevated():
+    """Today's false-highs (29 Sep): state-media nuclear rhetoric and an arson attack both read as L3."""
+    for title, want in {
+        "Nuclear Threats Against Lithuania Signal New Pressure Campaign on NATO - Odessa Journal": 2,
+        "Why Russian State Media Threatened Lithuania with a Nuclear Strike - lansinginstitute": 2,
+        "Estonia slams Russian 'sabotage' after arson attack on defence company Milrem Robotics - Euronews": 2,
+        "ISS chief: Milrem arson was first successful Russian attack on Estonia this year": 2,
+        "Lithuania to test air raid sirens on Tuesday": 2,
+        "Kremlin: Russia will respond to NATO troops in Baltics with nuclear strike": 3,      # official threat
+        "Explosion at ammunition depot near Daugavpils, Latvia, army says": 3,               # kinetic
+    }.items():
+        it = Item(source_id="x", source_name="X", title=title, url="u", text="", kind="news")
+        out = classify.classify(it, _src("news"), CFG)
+        assert out is not None and out.level == want, f"{title} → L{out.level if out else None}"
+
+
 def test_title_key_and_cross_run_duplicates(tmp_path):
     a = "Lithuanian border municipalities warn of evacuation problems in event of Russian attack - The New Voice of Ukraine"
     b = "Lithuanian border municipalities warn of evacuation problems in event of Russian attack - english.nv.ua"
