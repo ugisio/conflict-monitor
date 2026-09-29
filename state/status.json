@@ -5,200 +5,200 @@
    "error": "",
    "fail_streak": 0,
    "items_last": 0,
-   "last_ok": "2026-09-29T12:01:28+00:00",
-   "last_run": "2026-09-29T12:01:28+00:00",
+   "last_ok": "2026-09-29T12:31:08+00:00",
+   "last_run": "2026-09-29T12:31:08+00:00",
    "ok": true
   },
   "err_en": {
-   "error": "HTTPError: 403 Client Error: Forbidden for url: https://news.err.ee/rss",
-   "fail_streak": 1,
+   "error": "",
+   "fail_streak": 0,
    "items_last": 47,
-   "last_ok": "2026-09-29T11:31:14+00:00",
-   "last_run": "2026-09-29T12:01:30+00:00",
-   "ok": false
+   "last_ok": "2026-09-29T12:31:11+00:00",
+   "last_run": "2026-09-29T12:31:11+00:00",
+   "ok": true
   },
   "fcdo_estonia": {
    "error": "",
    "fail_streak": 0,
    "items_last": 0,
-   "last_ok": "2026-09-29T12:01:27+00:00",
-   "last_run": "2026-09-29T12:01:27+00:00",
+   "last_ok": "2026-09-29T12:31:08+00:00",
+   "last_run": "2026-09-29T12:31:08+00:00",
    "ok": true
   },
   "fcdo_latvia": {
    "error": "",
    "fail_streak": 0,
    "items_last": 0,
-   "last_ok": "2026-09-29T12:01:26+00:00",
-   "last_run": "2026-09-29T12:01:26+00:00",
+   "last_ok": "2026-09-29T12:31:07+00:00",
+   "last_run": "2026-09-29T12:31:07+00:00",
    "ok": true
   },
   "fcdo_lithuania": {
    "error": "",
    "fail_streak": 0,
    "items_last": 0,
-   "last_ok": "2026-09-29T12:01:27+00:00",
-   "last_run": "2026-09-29T12:01:27+00:00",
+   "last_ok": "2026-09-29T12:31:08+00:00",
+   "last_run": "2026-09-29T12:31:08+00:00",
    "ok": true
   },
   "germany_latvia": {
    "error": "",
    "fail_streak": 0,
    "items_last": 0,
-   "last_ok": "2026-09-29T12:01:29+00:00",
-   "last_run": "2026-09-29T12:01:29+00:00",
+   "last_ok": "2026-09-29T12:31:09+00:00",
+   "last_run": "2026-09-29T12:31:09+00:00",
    "ok": true
   },
   "gnews_airspace": {
    "error": "",
    "fail_streak": 0,
    "items_last": 0,
-   "last_ok": "2026-09-29T12:01:30+00:00",
-   "last_run": "2026-09-29T12:01:30+00:00",
+   "last_ok": "2026-09-29T12:31:10+00:00",
+   "last_run": "2026-09-29T12:31:10+00:00",
    "ok": true
   },
   "gnews_embassy": {
    "error": "",
    "fail_streak": 0,
    "items_last": 1,
-   "last_ok": "2026-09-29T12:01:33+00:00",
-   "last_run": "2026-09-29T12:01:33+00:00",
+   "last_ok": "2026-09-29T12:31:12+00:00",
+   "last_run": "2026-09-29T12:31:12+00:00",
    "ok": true
   },
   "gnews_flank_warnings": {
    "error": "",
    "fail_streak": 0,
    "items_last": 19,
-   "last_ok": "2026-09-29T12:01:35+00:00",
-   "last_run": "2026-09-29T12:01:35+00:00",
+   "last_ok": "2026-09-29T12:31:15+00:00",
+   "last_run": "2026-09-29T12:31:15+00:00",
    "ok": true
   },
   "gnews_latvia_security": {
    "error": "",
    "fail_streak": 0,
-   "items_last": 28,
-   "last_ok": "2026-09-29T12:01:32+00:00",
-   "last_run": "2026-09-29T12:01:32+00:00",
+   "items_last": 32,
+   "last_ok": "2026-09-29T12:31:11+00:00",
+   "last_run": "2026-09-29T12:31:11+00:00",
    "ok": true
   },
   "gnews_nato": {
    "error": "",
    "fail_streak": 0,
    "items_last": 35,
-   "last_ok": "2026-09-29T12:01:33+00:00",
-   "last_run": "2026-09-29T12:01:33+00:00",
+   "last_ok": "2026-09-29T12:31:13+00:00",
+   "last_run": "2026-09-29T12:31:13+00:00",
    "ok": true
   },
   "gnews_official_warnings": {
    "error": "",
    "fail_streak": 0,
    "items_last": 1,
-   "last_ok": "2026-09-29T12:01:34+00:00",
-   "last_run": "2026-09-29T12:01:34+00:00",
+   "last_ok": "2026-09-29T12:31:14+00:00",
+   "last_run": "2026-09-29T12:31:14+00:00",
    "ok": true
   },
   "lrt_en": {
    "error": "",
    "fail_streak": 0,
    "items_last": 13,
-   "last_ok": "2026-09-29T12:01:32+00:00",
-   "last_run": "2026-09-29T12:01:32+00:00",
+   "last_ok": "2026-09-29T12:31:11+00:00",
+   "last_run": "2026-09-29T12:31:11+00:00",
    "ok": true
   },
   "lsm_en": {
    "error": "",
    "fail_streak": 0,
-   "items_last": 28,
-   "last_ok": "2026-09-29T12:01:30+00:00",
-   "last_run": "2026-09-29T12:01:30+00:00",
+   "items_last": 29,
+   "last_ok": "2026-09-29T12:31:10+00:00",
+   "last_run": "2026-09-29T12:31:10+00:00",
    "ok": true
   },
   "polymarket": {
    "error": "",
    "fail_streak": 0,
    "items_last": 0,
-   "last_ok": "2026-09-29T12:01:43+00:00",
-   "last_run": "2026-09-29T12:01:43+00:00",
+   "last_ok": "2026-09-29T12:31:22+00:00",
+   "last_run": "2026-09-29T12:31:22+00:00",
    "ok": true
   },
   "tg_astra": {
    "error": "",
    "fail_streak": 0,
    "items_last": 11,
-   "last_ok": "2026-09-29T12:01:38+00:00",
-   "last_run": "2026-09-29T12:01:38+00:00",
+   "last_ok": "2026-09-29T12:31:17+00:00",
+   "last_run": "2026-09-29T12:31:17+00:00",
    "ok": true
   },
   "tg_clashreport": {
    "error": "",
    "fail_streak": 0,
-   "items_last": 19,
-   "last_ok": "2026-09-29T12:01:36+00:00",
-   "last_run": "2026-09-29T12:01:36+00:00",
+   "items_last": 20,
+   "last_ok": "2026-09-29T12:31:15+00:00",
+   "last_run": "2026-09-29T12:31:15+00:00",
    "ok": true
   },
   "tg_disclosetv": {
    "error": "",
    "fail_streak": 0,
    "items_last": 3,
-   "last_ok": "2026-09-29T12:01:36+00:00",
-   "last_run": "2026-09-29T12:01:36+00:00",
+   "last_ok": "2026-09-29T12:31:16+00:00",
+   "last_run": "2026-09-29T12:31:16+00:00",
    "ok": true
   },
   "tg_meduza": {
    "error": "",
    "fail_streak": 0,
    "items_last": 19,
-   "last_ok": "2026-09-29T12:01:37+00:00",
-   "last_run": "2026-09-29T12:01:37+00:00",
+   "last_ok": "2026-09-29T12:31:17+00:00",
+   "last_run": "2026-09-29T12:31:17+00:00",
    "ok": true
   },
   "tg_nexta": {
    "error": "",
    "fail_streak": 0,
    "items_last": 20,
-   "last_ok": "2026-09-29T12:01:37+00:00",
-   "last_run": "2026-09-29T12:01:37+00:00",
+   "last_ok": "2026-09-29T12:31:16+00:00",
+   "last_run": "2026-09-29T12:31:16+00:00",
    "ok": true
   },
   "tg_novaya": {
    "error": "",
    "fail_streak": 0,
    "items_last": 18,
-   "last_ok": "2026-09-29T12:01:39+00:00",
-   "last_run": "2026-09-29T12:01:39+00:00",
+   "last_ok": "2026-09-29T12:31:18+00:00",
+   "last_run": "2026-09-29T12:31:18+00:00",
    "ok": true
   },
   "tg_rybar": {
    "error": "",
    "fail_streak": 0,
    "items_last": 16,
-   "last_ok": "2026-09-29T12:01:40+00:00",
-   "last_run": "2026-09-29T12:01:40+00:00",
+   "last_ok": "2026-09-29T12:31:19+00:00",
+   "last_run": "2026-09-29T12:31:19+00:00",
    "ok": true
   },
   "us_embassy_riga": {
    "error": "",
    "fail_streak": 0,
    "items_last": 0,
-   "last_ok": "2026-09-29T12:01:26+00:00",
-   "last_run": "2026-09-29T12:01:26+00:00",
+   "last_ok": "2026-09-29T12:31:07+00:00",
+   "last_run": "2026-09-29T12:31:07+00:00",
    "ok": true
   },
   "us_state_latvia": {
    "error": "page blocked (403); relying on the advisories RSS feed",
    "fail_streak": 0,
    "items_last": 0,
-   "last_ok": "2026-09-29T12:01:25+00:00",
-   "last_run": "2026-09-29T12:01:25+00:00",
+   "last_ok": "2026-09-29T12:31:06+00:00",
+   "last_run": "2026-09-29T12:31:06+00:00",
    "ok": true
   },
   "us_state_rss": {
    "error": "",
    "fail_streak": 0,
    "items_last": 0,
-   "last_ok": "2026-09-29T12:01:26+00:00",
-   "last_run": "2026-09-29T12:01:26+00:00",
+   "last_ok": "2026-09-29T12:31:07+00:00",
+   "last_run": "2026-09-29T12:31:07+00:00",
    "ok": true
   }
  },
@@ -663,8 +663,58 @@
    "title_key": "nato allies rally estonia after sabotage blamed russia",
    "ts": "2026-09-29T12:01:43+00:00",
    "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQVmltMXdQQlFkTVBxU1BZRWxFaExydXJSWUhJdzBVU0Jtd3lMZDJCN0VUckZkMXRuMVAyOUFacFE2WHVFZkVQN2RqUnlxRFNKb3JqUXJCRUpmTExOdm1pd1VucEhmSno1UVdydjhqRldfWnNWRU1qbnVIWnNqczRsNDBId0pzdFZJazl2UE9zNlhIYVdoaEdQQ0s0a3RpNWo3UFhCN0JzV3lIOXZOQjF1QmlrVUx5V3Ayc0tNa2ZJYzBGc21vdFBPOWw5aHl0MnM1c1liRi1iWVhGSzQ3eWNsY0k5ckVfMk9YMzFCWlBJU2p3RnJG?oc=5"
+  },
+  {
+   "level": 2,
+   "raw_level": 2,
+   "reason": "region: latvia, estonia, russia · matched “Arson”",
+   "source": "Google News — Latvia security",
+   "title": "Estonia Accuses Russian Special Services of Arson Against Military Robot Manufacturer: Suspects are Citizens of Latvia - Inbox.lv",
+   "title_key": "estonia accuses russian special services arson against military",
+   "ts": "2026-09-29T12:31:22+00:00",
+   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNTVUxVHY5VHlLRlM1cnZ0V3dReFA5WUpoSGxlTm4xb0dTTjBqdTZXb2ZoUXRyR0hKRzFqcDhmU3k4dHU0bWFDYUtXYUZzQWk5bGhCSXdEWGtpcDBQWHZhYXVURTJsTzM5d3ZrczBHSUt0QUxUVXhVUENWcWJzSDVnY29pQjhnN3JVaUR5QWY5STJEazdpQzNaV2Fyd1NYMi1CZzJROTVEeEUtUTktMWo0cEd3WGxlOXJ3TWtyYmdISHV0NVEyX0txTlBGbDE1eG9uWGMwTzdaQzdIdm5qdm5zSDRMOE1oZGcwSGotakFMN1U?oc=5"
+  },
+  {
+   "level": 2,
+   "raw_level": 2,
+   "reason": "official warning about Russia / NATO · matched “Hybrid Attack”",
+   "source": "Google News — eastern flank (PL/FI/NATO)",
+   "title": "NATO Chief Says Not All Responses to Russian Hybrid Attacks Will Be Public - united24media.com",
+   "title_key": "nato chief says responses russian hybrid attacks will",
+   "ts": "2026-09-29T12:31:22+00:00",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNR1lLZzVGUks2WDZ4UVR2bmg3ZkxOejYzOTFGMHlCMDdBTURWMk5fWk51Z2R6MTZpQm5fM1JzRmh0eXJ4YVUyNU5EN01FbGVoVFU5N1A1ZTNaN01FWFh2b0dSc1NxUVd6a292VFNXQ1QzaTd1el9FWU1EQnNBZ3M2ZEdSUGRWR3NQMzZfNlJ1ZFFGd0p2WW0tTXZlT3k5amRwVzBfTzlBal9rbnFwTFhuV253?oc=5"
+  },
+  {
+   "level": 2,
+   "raw_level": 2,
+   "reason": "region: latvia, latvian, estonia, russia · matched “arson”",
+   "source": "Clash Report",
+   "title": "Estonia said Russian intelligence ordered an August arson attack on defense contractor Milrem Robotics, which supplies unmanned ground vehic…",
+   "title_key": "estonia said russian intelligence ordered august arson attack",
+   "ts": "2026-09-29T12:31:23+00:00",
+   "url": "https://t.me/ClashReport/98849"
+  },
+  {
+   "level": 2,
+   "raw_level": 2,
+   "reason": "region: эстони, росси, кремл · matched “поджог”",
+   "source": "Novaya Gazeta Europe",
+   "title": "Эстония обвинила российские спецслужбы в поджоге здания Milrem Robotics Пожар в здании оборонной компании Milrem Robotics был преднамеренным…",
+   "title_key": "эстония обвинила российские спецслужбы поджоге здания milrem robotics",
+   "ts": "2026-09-29T12:31:23+00:00",
+   "url": "https://t.me/novaya_europe/67676"
+  },
+  {
+   "level": 1,
+   "raw_level": 1,
+   "reason": "region: литв, росси · matched “диверси”",
+   "source": "NEXTA Live",
+   "title": "ЕС обсуждает включение ГРУ в список террористических организаций Инициатива появилась после серии диверсий и других гибридных атак в Европе,…",
+   "title_key": "обсуждает включение список террористических организаций инициатива появилась после",
+   "ts": "2026-09-29T12:31:23+00:00",
+   "url": "https://t.me/nexta_live/124204"
   }
  ],
- "runs": 19,
- "status_text": "📟 <b>CURRENT LEVEL: 🟡 L2 WATCH.</b> NATO, EU allies rally to Estonia after ‘sabotage’ blamed on Russia\n<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxQVmltMXdQQlFkTVBxU1BZRWxFaExydXJSWUhJdzBVU0Jtd3lMZDJCN0VUckZkMXRuMVAyOUFacFE2WHVFZkVQN2RqUnlxRFNKb3JqUXJCRUpmTExOdm1pd1VucEhmSno1UVdydjhqRldfWnNWRU1qbnVIWnNqczRsNDBId0pzdFZJazl2UE9zNlhIYVdoaEdQQ0s0a3RpNWo3UFhCN0JzV3lIOXZOQjF1QmlrVUx5V3Ayc0tNa2ZJYzBGc21vdFBPOWw5aHl0MnM1c1liRi1iWVhGSzQ3eWNsY0k5ckVfMk9YMzFCWlBJU2p3RnJG?oc=5\">The Australian via Google News — NATO &amp; the Baltics</a> · Tue 29 Sep 15:01 · at L2 since Sun 27 Sep 23:01 (49 items at this level in 72 h)\n<b>Why L2:</b> region: estonia, nato, russia · matched “sabotage”\n<b>Suggested action at L2:</b> Stay aware.\nLevel = highest of the last 72 h · updated Tue 29 Sep 15:01 · sources OK 24/25 · <a href=\"https://t.me/c/4455291623/25\">📖 Level guide</a>\nScale: ⚫5 Critical 🔴4 Urgent 🟠3 Elevated 🟡2 Watch 🟢1 Info ⚪0 Quiet"
+ "runs": 20,
+ "status_text": "📟 <b>CURRENT LEVEL: 🟡 L2 WATCH.</b> Эстония обвинила российские спецслужбы в поджоге здания Milrem Robotics Пожар в здании оборонной компании Milrem Robotics был преднамеренным…\n<a href=\"https://t.me/novaya_europe/67676\">Novaya Gazeta Europe</a> · Tue 29 Sep 15:31 · at L2 since Sun 27 Sep 23:01 (53 items at this level in 72 h)\n<b>Why L2:</b> region: эстони, росси, кремл · matched “поджог”\n<b>Suggested action at L2:</b> Stay aware.\nLevel = highest of the last 72 h · updated Tue 29 Sep 15:31 · sources OK 25/25 · <a href=\"https://t.me/c/4455291623/25\">📖 Level guide</a>\nScale: ⚫5 Critical 🔴4 Urgent 🟠3 Elevated 🟡2 Watch 🟢1 Info ⚪0 Quiet"
 }
