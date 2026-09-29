@@ -106,5 +106,41 @@
   "title": "⚡️ Эстония обвинила Россию в поджоге военного завода Премьер-министр Эстонии Кристен Михал заявил, что поджог предприятия Milrem Robotics в …",
   "uid": "24ea7f4e2fa66e99",
   "url": "https://t.me/nexta_live/124194"
+ },
+ {
+  "first_seen": "2026-09-29T10:31:14+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 3,
+  "note": "",
+  "posted": true,
+  "published": "2026-09-29T09:29:02+00:00",
+  "reason": "region: estonia, russia · matched “sabotage” · corroborated by LRT (Lithuania, EN)",
+  "source_id": "gnews_nato",
+  "source_name": "Google News — NATO & the Baltics",
+  "summary": "",
+  "text": "Estonia slams Russian 'sabotage' after arson attack on defence company Milrem Robotics Euronews.com",
+  "tier": "news",
+  "title": "Estonia slams Russian 'sabotage' after arson attack on defence company Milrem Robotics - Euronews.com",
+  "uid": "c4fc27b6b478239d",
+  "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOWmdCdkQyeXY0TDc5OV8yZGc3dEV5aThmaDl3VXVXd1BYVHRTY2NkWEhoZXdYUFdFdFdRa3RmUGowckVqNFNKM2Nra2dHNXVUMml4UjlfLThaUm9HNVB0T0t3MVFFZUxaMlVnM3BLNEZLM3ZrQkpGbkRvelRQYUZyS0Fqay13S1d5M05lLXRicHEwTkg5eC1QTWlKN1FiYXo4ZGdkZjZKT291Qi10eDBMTUszbkY1V3BOa1dsWA?oc=5"
+ },
+ {
+  "first_seen": "2026-09-29T10:31:15+00:00",
+  "kind": "post",
+  "lang": "ru",
+  "level": 2,
+  "note": "RU, Belarus opposition media — best coverage of Belarus border/military",
+  "posted": false,
+  "published": "2026-09-29T10:23:01+00:00",
+  "reason": "region: латви, балти, эстони, литв · matched “ядерн”",
+  "source_id": "tg_nexta",
+  "source_name": "NEXTA Live",
+  "summary": "",
+  "text": "Великобритания предложила Финляндии и странам Балтии «ядерный зонтик» Основой системы сдерживания должны стать британские атомные подводные лодки. По словам главнокомандующего ВМС Великобритании Гвина Дженкинса, новое ядерное сдерживание будет распространяться на подразделения JEF и не потребует активации 5-й статьи НАТО. В JEF входят Великобритания, Финляндия, Швеция, Норвегия, Дания, Исландия, Эстония, Латвия, Литва и Нидерланды.",
+  "tier": "osint",
+  "title": "Великобритания предложила Финляндии и странам Балтии «ядерный зонтик» Основой системы сдерживания должны стать британские атомные подводные …",
+  "uid": "795c72902b4e79e3",
+  "url": "https://t.me/nexta_live/124198"
  }
 ]
