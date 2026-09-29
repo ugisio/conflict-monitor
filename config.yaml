@@ -39,6 +39,14 @@ region:
     - ленинградск
     - lettland
     - baltikum
+    # alliance-wide events are always our business, whichever country they start in
+    - article 4
+    - article 5
+    - eastern flank
+    - статья 4
+    - статья 5
+    - статьи 4
+    - статьи 5
   # CONTEXT keywords raise relevance only together with a core keyword.
   context_keywords:
     - nato
@@ -47,9 +55,6 @@ region:
     - росси
     - kremlin
     - кремл
-    - article 4
-    - article 5
-    - eastern flank
 
 telegram:
   # Numeric id of the private channel the bot posts to (env TELEGRAM_CHANNEL_ID overrides). Not a secret.
@@ -64,6 +69,10 @@ alerts:
   dm_min_level: 4
   # The channel's "current level" is the highest item level seen within this window.
   overall_window_hours: 72
+  # Senior officials' public warnings about Russian action against NATO/Europe (a PM, defence minister, chief of
+  # defence, intelligence chief, NATO leadership) are WATCH, but posted on arrival — silently — instead of waiting
+  # for the digest. Set false to keep them digest-only.
+  immediate_warnings: true
   # Post digest even when there is nothing new (proof of life).
   digest_when_empty: true
   digest_hours_local: [8, 20]
@@ -195,6 +204,23 @@ sources:
     name: Google News — NATO & the Baltics
     type: rss
     url: "https://news.google.com/rss/search?q=NATO+(Baltic+OR+Latvia+OR+Estonia+OR+Lithuania+OR+%22eastern+flank%22+OR+%22Article+4%22+OR+%22Article+5%22)&hl=en&gl=LV&ceid=LV:en"
+    tier: news
+    max_age_days: 2
+
+  # ---------- Official warnings (senior officials on Russian action against NATO/Europe) ----------
+  # Relevance is decided by the "official warning" detector (a senior figure + an escalation phrase + Russia),
+  # so these do not need a Baltic keyword. Everything else these queries return is dropped as usual.
+  - id: gnews_official_warnings
+    name: Google News — official warnings
+    type: rss
+    url: "https://news.google.com/rss/search?q=Russia%20%28%22defence%20chief%22%20OR%20%22chief%20of%20defence%22%20OR%20%22defence%20minister%22%20OR%20%22prime%20minister%22%20OR%20%22intelligence%20chief%22%20OR%20Rutte%29%20%28warns%20OR%20%22could%20attack%22%20OR%20%22prepare%20for%20war%22%20OR%20%22false%20flag%22%20OR%20%22Article%205%22%29&hl=en&gl=LV&ceid=LV:en"
+    tier: news
+    max_age_days: 2
+
+  - id: gnews_flank_warnings
+    name: Google News — eastern flank (PL/FI/NATO)
+    type: rss
+    url: "https://news.google.com/rss/search?q=%28Poland%20OR%20Finland%20OR%20NATO%29%20%28Tusk%20OR%20Stubb%20OR%20Rutte%20OR%20%22defence%20minister%22%20OR%20general%29%20Russia%20%28attack%20OR%20provocation%20OR%20hybrid%20OR%20drones%20OR%20escalation%20OR%20warns%29&hl=en&gl=LV&ceid=LV:en"
     tier: news
     max_age_days: 2
 
