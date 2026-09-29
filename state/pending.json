@@ -142,5 +142,23 @@
   "title": "Великобритания предложила Финляндии и странам Балтии «ядерный зонтик» Основой системы сдерживания должны стать британские атомные подводные …",
   "uid": "795c72902b4e79e3",
   "url": "https://t.me/nexta_live/124198"
+ },
+ {
+  "first_seen": "2026-09-29T10:43:41+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-09-29T10:30:00+00:00",
+  "reason": "region: estonia, russia · matched “attack on Estonia” · single source, held at WATCH until another source corroborates",
+  "source_id": "err_en",
+  "source_name": "ERR News (Estonia, EN)",
+  "summary": "",
+  "text": "The arson attack on the Milrem building was the first successful attack in Estonia this year carried out on behalf of Russian special services, Internal Security Service (ISS) chief Margo Palloson has said.",
+  "tier": "news",
+  "title": "ISS chief: Milrem arson was first successful Russian attack on Estonia this year",
+  "uid": "4ac89fcd70781bac",
+  "url": "https://news.err.ee/1610151406/iss-chief-milrem-arson-was-first-successful-russian-attack-on-estonia-this-year"
  }
 ]
