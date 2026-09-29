@@ -22,7 +22,11 @@ Claude API key adds AI-written summaries and finer triage of news/OSINT posts.
 * Level **3+** → posted to the channel immediately, with notification.
 * Level **4+** → also pinned and sent as a **direct message** to everyone who has sent `/start` to the bot.
 * Level **1–2** → collected into the **digests** at 08:00 and 20:00 (Europe/Riga).
-* A pinned **📟 CURRENT LEVEL** message shows the highest level seen in the last 72 h and is kept up to date.
+* 🗣 **Official warnings** — a head of government, defence/foreign minister, chief of defence, intelligence chief or
+  NATO leadership publicly warning about Russian action against NATO/Europe — are WATCH but are posted **on arrival,
+  silently** (`alerts.immediate_warnings`), even when they don't mention the Baltics.
+* A pinned **📟 CURRENT LEVEL** message shows the highest level seen in the last 72 h, names the latest item at that
+  level and says *why* it got the level. The level definitions live in one pinned **📖 Level guide** message.
 
 Every message starts with the badge (emoji + `L<n> NAME`), so the channel can be scanned at a glance.
 
