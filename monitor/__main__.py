@@ -14,7 +14,7 @@ import traceback
 from datetime import datetime, timedelta
 
 from .core import Item, State, load_config, local_tz, now_utc
-from .classify import classify, dedupe, title_key, corroborate
+from .classify import classify, dedupe, title_key, corroborate, cluster
 from .digest import build_digest
 from .fetchers import FETCHERS, SoftFail
 from .telegram import Telegram, format_alert, format_status, guide_text, guide_link
@@ -71,6 +71,7 @@ def collect(cfg: dict, state: State, dry: bool = False) -> list[Item]:
     for it in new_items:
         it.raw_level = it.level                      # remember the pre-corroboration grade
     new_items = corroborate(new_items, state.status.get("recent_levels", []))
+    new_items = cluster(new_items, state.stories)     # further reports of a known story are folded, not re-alerted
     kept = [it for it in new_items if it.level >= 1]
     if not dry:
         for it in kept:
@@ -165,6 +166,9 @@ def run_poll(cfg: dict, state: State, tg: Telegram):
     dm_min = cfg["alerts"]["dm_min_level"]
     warn_now = cfg["alerts"].get("immediate_warnings", True)
     for it in sorted(items, key=lambda x: -x.level):
+        if it.repeat_of:
+            state.add_pending(it)            # counted in the digest, never re-alerted
+            continue
         record(state, it)
         if it.level >= imm:
             text = alert_text(it, cfg, tz, state)
@@ -190,6 +194,9 @@ def run_digest(cfg: dict, state: State, tg: Telegram, label: str | None = None):
     warn_now = cfg["alerts"].get("immediate_warnings", True)
     fresh = collect(cfg, state)          # pick up anything since the last poll too
     for it in sorted(fresh, key=lambda x: -x.level):
+        if it.repeat_of:
+            state.add_pending(it)
+            continue
         record(state, it)
         if it.level >= imm:              # urgent things never wait for the digest
             text = alert_text(it, cfg, tz, state)
