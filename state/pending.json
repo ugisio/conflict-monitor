@@ -229,5 +229,26 @@
   "uid": "8894b2109af6b99d",
   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQXJCU05yWjB2RkhSV0NBRlllWHpsUUhSTlR2czZ2Ulp4OTlYVW5mVUYyNUFuSmhwS25uU2hhN3JoaG1URUNmX3ZET2VDWFNveDM5bThsRHd4VEtJY1diWVgtTDRzZWVWUlRnbERvLU1CYXlCSE4tcEdGaG5yRGpEVXRWMk8zY1hDZHJVSDByZ2s1eGJaaHQ5Y1NIQWI?oc=5",
   "warning": true
+ },
+ {
+  "first_seen": "2026-09-30T20:31:17+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-09-30T20:08:29+00:00",
+  "reason": "region: kaliningrad, nato, russia · matched “nuclear” · another report of a story already in the channel",
+  "repeat_of": "NATO Chief Rutte Dismisses Russia’s Nuclear Threats Over Kaliningrad - Межа. Новини України.",
+  "repeats": 0,
+  "source_id": "gnews_latvia_security",
+  "source_name": "Google News — Latvia security",
+  "summary": "",
+  "text": "Russia warns NATO a Kaliningrad blockade could prompt nuclear response Los Angeles Times",
+  "tier": "news",
+  "title": "Russia warns NATO a Kaliningrad blockade could prompt nuclear response - Los Angeles Times",
+  "uid": "9e526dd400e54426",
+  "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWVJEZGN5M1hpNkwwRzFlSmVxaFNUQTVSZXJXbUhPQ3g4c0F5aHMyX2VVYjY5dURhOW5NTWpRQkdjRWZCcVNhTnl5Uzd4aEZfWnpBd0U0dElEVW0wOGRKc0FjX2M3S2ZuRWNLcmVOSERnS01hXzRSZVpDZXJraWl2VEVkVzc1NE9DX0Zkb0h0R09PbnQ0eWRhanQ4eEpCUG5pdU1IT3FrSmhNWmZJN2Qyc181QjFUUHZrSV9vdzRYSQ?oc=5",
+  "warning": false
  }
 ]
