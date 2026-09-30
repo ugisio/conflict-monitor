@@ -1,1 +1,21 @@
-[]
+[
+ {
+  "first_seen": "2026-09-30T06:01:29+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-09-30T05:20:00+00:00",
+  "reason": "region: kaliningrad, nato, russia · matched “nuclear”",
+  "source_id": "gnews_latvia_security",
+  "source_name": "Google News — Latvia security",
+  "summary": "",
+  "text": "NATO slams Russia’s ‘irresponsible nuclear rhetoric’ over Kaliningrad TVP World",
+  "tier": "news",
+  "title": "NATO slams Russia’s ‘irresponsible nuclear rhetoric’ over Kaliningrad - TVP World",
+  "uid": "ddf79fe72cf12a73",
+  "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWEdJMDhCNVk4RldtcFBQaW9IUmdqWklnV1R5RjlHTS1XMHhNTzBnRmxrVFhYamJ2Zk5wYzYySy1nYlBjUWJqdWNiNTItaDQ1aWJFRWUwdWdvWGI4dVRfOTFheEo4QWpTR1VJYi01c1hHLW1TX19iLUZMa2MzUGduNS1XRnprY01Qek5oOENaQWlfZDBYZXZIVWUxVWM0VldwTDJsRlRvVHE?oc=5",
+  "warning": false
+ }
+]
