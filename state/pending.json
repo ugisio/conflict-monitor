@@ -55,5 +55,43 @@
   "uid": "2a37dc4f4ccf62bf",
   "url": "https://t.me/meduzalive/148558",
   "warning": false
+ },
+ {
+  "first_seen": "2026-09-30T07:31:14+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-09-30T07:18:00+00:00",
+  "reason": "region: baltic · matched “Navy”",
+  "source_id": "err_en",
+  "source_name": "ERR News (Estonia, EN)",
+  "summary": "",
+  "text": "The Joint Expeditionary Force (JEF), established to strengthen the security of 10 countries in the Nordic and Baltic region, will form new combat units centered on British military capabilities and nuclear deterrence, Royal Navy chief Gwyn Jenkins said.",
+  "tier": "news",
+  "title": "Royal Navy chief: JEF to create new combat units and get UK nuclear deterrence",
+  "uid": "aedef706365d91e2",
+  "url": "https://news.err.ee/1610152213/royal-navy-chief-jef-to-create-new-combat-units-and-get-uk-nuclear-deterrence",
+  "warning": false
+ },
+ {
+  "first_seen": "2026-09-30T07:31:15+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-09-30T06:58:00+00:00",
+  "reason": "region: lithuania · planning/hypothetical wording, softened · matched “mobilisation”",
+  "source_id": "lrt_en",
+  "source_name": "LRT (Lithuania, EN)",
+  "summary": "",
+  "text": "Lithuania plans to activate its state reserve for the first time during the Vytis Vault 2026 mobilisation exercise, using stocks of oil, groats and flour to feed some participants.",
+  "tier": "news",
+  "title": "Lithuania plans first activation of state reserve during mobilisation exercise",
+  "uid": "ae2e8eb57098b8f3",
+  "url": "https://www.lrt.lt/en/news-in-english/19/3068092/lithuania-plans-first-activation-of-state-reserve-during-mobilisation-exercise",
+  "warning": false
  }
 ]
