@@ -5,200 +5,200 @@
    "error": "",
    "fail_streak": 0,
    "items_last": 0,
-   "last_ok": "2026-09-30T14:31:16+00:00",
-   "last_run": "2026-09-30T14:31:16+00:00",
+   "last_ok": "2026-09-30T15:01:31+00:00",
+   "last_run": "2026-09-30T15:01:31+00:00",
    "ok": true
   },
   "err_en": {
-   "error": "",
-   "fail_streak": 0,
+   "error": "HTTPError: 403 Client Error: Forbidden for url: https://news.err.ee/rss",
+   "fail_streak": 1,
    "items_last": 50,
    "last_ok": "2026-09-30T14:31:20+00:00",
-   "last_run": "2026-09-30T14:31:20+00:00",
-   "ok": true
+   "last_run": "2026-09-30T15:01:35+00:00",
+   "ok": false
   },
   "fcdo_estonia": {
    "error": "",
    "fail_streak": 0,
    "items_last": 0,
-   "last_ok": "2026-09-30T14:31:14+00:00",
-   "last_run": "2026-09-30T14:31:14+00:00",
+   "last_ok": "2026-09-30T15:01:30+00:00",
+   "last_run": "2026-09-30T15:01:30+00:00",
    "ok": true
   },
   "fcdo_latvia": {
    "error": "",
    "fail_streak": 0,
    "items_last": 0,
-   "last_ok": "2026-09-30T14:31:14+00:00",
-   "last_run": "2026-09-30T14:31:14+00:00",
+   "last_ok": "2026-09-30T15:01:30+00:00",
+   "last_run": "2026-09-30T15:01:30+00:00",
    "ok": true
   },
   "fcdo_lithuania": {
    "error": "",
    "fail_streak": 0,
    "items_last": 0,
-   "last_ok": "2026-09-30T14:31:15+00:00",
-   "last_run": "2026-09-30T14:31:15+00:00",
+   "last_ok": "2026-09-30T15:01:31+00:00",
+   "last_run": "2026-09-30T15:01:31+00:00",
    "ok": true
   },
   "germany_latvia": {
    "error": "",
    "fail_streak": 0,
    "items_last": 0,
-   "last_ok": "2026-09-30T14:31:17+00:00",
-   "last_run": "2026-09-30T14:31:17+00:00",
+   "last_ok": "2026-09-30T15:01:33+00:00",
+   "last_run": "2026-09-30T15:01:33+00:00",
    "ok": true
   },
   "gnews_airspace": {
    "error": "",
    "fail_streak": 0,
    "items_last": 0,
-   "last_ok": "2026-09-30T14:31:18+00:00",
-   "last_run": "2026-09-30T14:31:18+00:00",
+   "last_ok": "2026-09-30T15:01:33+00:00",
+   "last_run": "2026-09-30T15:01:33+00:00",
    "ok": true
   },
   "gnews_embassy": {
    "error": "",
    "fail_streak": 0,
    "items_last": 2,
-   "last_ok": "2026-09-30T14:31:22+00:00",
-   "last_run": "2026-09-30T14:31:22+00:00",
+   "last_ok": "2026-09-30T15:01:37+00:00",
+   "last_run": "2026-09-30T15:01:37+00:00",
    "ok": true
   },
   "gnews_flank_warnings": {
    "error": "",
    "fail_streak": 0,
-   "items_last": 33,
-   "last_ok": "2026-09-30T14:31:24+00:00",
-   "last_run": "2026-09-30T14:31:24+00:00",
+   "items_last": 32,
+   "last_ok": "2026-09-30T15:01:40+00:00",
+   "last_run": "2026-09-30T15:01:40+00:00",
    "ok": true
   },
   "gnews_latvia_security": {
    "error": "",
    "fail_streak": 0,
-   "items_last": 43,
-   "last_ok": "2026-09-30T14:31:21+00:00",
-   "last_run": "2026-09-30T14:31:21+00:00",
+   "items_last": 41,
+   "last_ok": "2026-09-30T15:01:36+00:00",
+   "last_run": "2026-09-30T15:01:36+00:00",
    "ok": true
   },
   "gnews_nato": {
    "error": "",
    "fail_streak": 0,
-   "items_last": 41,
-   "last_ok": "2026-09-30T14:31:22+00:00",
-   "last_run": "2026-09-30T14:31:22+00:00",
+   "items_last": 42,
+   "last_ok": "2026-09-30T15:01:38+00:00",
+   "last_run": "2026-09-30T15:01:38+00:00",
    "ok": true
   },
   "gnews_official_warnings": {
    "error": "",
    "fail_streak": 0,
-   "items_last": 2,
-   "last_ok": "2026-09-30T14:31:23+00:00",
-   "last_run": "2026-09-30T14:31:23+00:00",
+   "items_last": 3,
+   "last_ok": "2026-09-30T15:01:39+00:00",
+   "last_run": "2026-09-30T15:01:39+00:00",
    "ok": true
   },
   "lrt_en": {
    "error": "",
    "fail_streak": 0,
-   "items_last": 21,
-   "last_ok": "2026-09-30T14:31:20+00:00",
-   "last_run": "2026-09-30T14:31:20+00:00",
+   "items_last": 23,
+   "last_ok": "2026-09-30T15:01:36+00:00",
+   "last_run": "2026-09-30T15:01:36+00:00",
    "ok": true
   },
   "lsm_en": {
    "error": "",
    "fail_streak": 0,
    "items_last": 46,
-   "last_ok": "2026-09-30T14:31:19+00:00",
-   "last_run": "2026-09-30T14:31:19+00:00",
+   "last_ok": "2026-09-30T15:01:34+00:00",
+   "last_run": "2026-09-30T15:01:34+00:00",
    "ok": true
   },
   "polymarket": {
    "error": "",
    "fail_streak": 0,
    "items_last": 0,
-   "last_ok": "2026-09-30T14:31:34+00:00",
-   "last_run": "2026-09-30T14:31:34+00:00",
+   "last_ok": "2026-09-30T15:01:48+00:00",
+   "last_run": "2026-09-30T15:01:48+00:00",
    "ok": true
   },
   "tg_astra": {
    "error": "",
    "fail_streak": 0,
-   "items_last": 16,
-   "last_ok": "2026-09-30T14:31:28+00:00",
-   "last_run": "2026-09-30T14:31:28+00:00",
+   "items_last": 17,
+   "last_ok": "2026-09-30T15:01:43+00:00",
+   "last_run": "2026-09-30T15:01:43+00:00",
    "ok": true
   },
   "tg_clashreport": {
    "error": "",
    "fail_streak": 0,
    "items_last": 20,
-   "last_ok": "2026-09-30T14:31:25+00:00",
-   "last_run": "2026-09-30T14:31:25+00:00",
+   "last_ok": "2026-09-30T15:01:40+00:00",
+   "last_run": "2026-09-30T15:01:40+00:00",
    "ok": true
   },
   "tg_disclosetv": {
    "error": "",
    "fail_streak": 0,
    "items_last": 4,
-   "last_ok": "2026-09-30T14:31:25+00:00",
-   "last_run": "2026-09-30T14:31:25+00:00",
+   "last_ok": "2026-09-30T15:01:41+00:00",
+   "last_run": "2026-09-30T15:01:41+00:00",
    "ok": true
   },
   "tg_meduza": {
    "error": "",
    "fail_streak": 0,
    "items_last": 18,
-   "last_ok": "2026-09-30T14:31:27+00:00",
-   "last_run": "2026-09-30T14:31:27+00:00",
+   "last_ok": "2026-09-30T15:01:42+00:00",
+   "last_run": "2026-09-30T15:01:42+00:00",
    "ok": true
   },
   "tg_nexta": {
    "error": "",
    "fail_streak": 0,
    "items_last": 19,
-   "last_ok": "2026-09-30T14:31:26+00:00",
-   "last_run": "2026-09-30T14:31:26+00:00",
+   "last_ok": "2026-09-30T15:01:41+00:00",
+   "last_run": "2026-09-30T15:01:41+00:00",
    "ok": true
   },
   "tg_novaya": {
    "error": "",
    "fail_streak": 0,
    "items_last": 18,
-   "last_ok": "2026-09-30T14:31:29+00:00",
-   "last_run": "2026-09-30T14:31:29+00:00",
+   "last_ok": "2026-09-30T15:01:43+00:00",
+   "last_run": "2026-09-30T15:01:43+00:00",
    "ok": true
   },
   "tg_rybar": {
    "error": "",
    "fail_streak": 0,
    "items_last": 13,
-   "last_ok": "2026-09-30T14:31:30+00:00",
-   "last_run": "2026-09-30T14:31:30+00:00",
+   "last_ok": "2026-09-30T15:01:44+00:00",
+   "last_run": "2026-09-30T15:01:44+00:00",
    "ok": true
   },
   "us_embassy_riga": {
    "error": "",
    "fail_streak": 0,
    "items_last": 0,
-   "last_ok": "2026-09-30T14:31:13+00:00",
-   "last_run": "2026-09-30T14:31:13+00:00",
+   "last_ok": "2026-09-30T15:01:29+00:00",
+   "last_run": "2026-09-30T15:01:29+00:00",
    "ok": true
   },
   "us_state_latvia": {
    "error": "page blocked (403); relying on the advisories RSS feed",
    "fail_streak": 0,
    "items_last": 0,
-   "last_ok": "2026-09-30T14:31:12+00:00",
-   "last_run": "2026-09-30T14:31:12+00:00",
+   "last_ok": "2026-09-30T15:01:28+00:00",
+   "last_run": "2026-09-30T15:01:28+00:00",
    "ok": true
   },
   "us_state_rss": {
    "error": "",
    "fail_streak": 0,
    "items_last": 0,
-   "last_ok": "2026-09-30T14:31:13+00:00",
-   "last_run": "2026-09-30T14:31:13+00:00",
+   "last_ok": "2026-09-30T15:01:29+00:00",
+   "last_run": "2026-09-30T15:01:29+00:00",
    "ok": true
   }
  },
@@ -1663,8 +1663,18 @@
    "title_key": "нато призвало россию прекратить безответственную ядерную риторику альянс",
    "ts": "2026-09-30T14:31:34+00:00",
    "url": "https://t.me/novaya_europe/67720"
+  },
+  {
+   "level": 1,
+   "raw_level": 1,
+   "reason": "region: беларус, росси · matched “угроз (in text)”",
+   "source": "Novaya Gazeta Europe",
+   "title": "Россия и пять стран СНГ договорились обмениваться данными о людях и организациях, которых они считают экстремистскими и террористическими Ге…",
+   "title_key": "россия пять стран договорились обмениваться данными людях организациях",
+   "ts": "2026-09-30T15:01:48+00:00",
+   "url": "https://t.me/novaya_europe/67721"
   }
  ],
- "runs": 77,
- "status_text": "📟 <b>CURRENT LEVEL: 🟠 L3 ELEVATED.</b> Russia sends NATO new nuclear threat over Kaliningrad as tensions rise\n<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPLVBfSnp5ZmgwLTFFRjU0T3RuY1huSEdRZXl2ZGJNV0JjSERXeHVROF9KWGEwM01VbDZucjhJTzlaNXZDRVF3MFN4M3djUklCMzdSQnRKaFR1WHhCTkpDTHZaSnQ0VWpvM1UxV2lFLTBNcVREbzJxYXgtX3RhcXVoWC1KRVhuV0FUbWw0NENCNjloMXRnOTJ2a3N4Q2plb2NpRkV3UEpybm8?oc=5\">The Kyiv Independent via Google News — Latvia security</a> · Wed 30 Sep 17:31 · at L3 since Wed 30 Sep 16:01 (4 items at this level in 72 h)\n<b>Why L3:</b> region: kaliningrad, nato, russia · matched “nuclear threat” · corroborated by Google News — NATO &amp; the Baltics\n<b>Suggested action at L3:</b> Review your plan; make sure documents and essentials are in order.\nLevel = highest of the last 72 h · updated Wed 30 Sep 17:31 · sources OK 25/25 · <a href=\"https://t.me/c/4455291623/25\">📖 Level guide</a>\nScale: ⚫5 Critical 🔴4 Urgent 🟠3 Elevated 🟡2 Watch 🟢1 Info ⚪0 Quiet"
+ "runs": 78,
+ "status_text": "📟 <b>CURRENT LEVEL: 🟠 L3 ELEVATED.</b> Russia sends NATO new nuclear threat over Kaliningrad as tensions rise\n<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPLVBfSnp5ZmgwLTFFRjU0T3RuY1huSEdRZXl2ZGJNV0JjSERXeHVROF9KWGEwM01VbDZucjhJTzlaNXZDRVF3MFN4M3djUklCMzdSQnRKaFR1WHhCTkpDTHZaSnQ0VWpvM1UxV2lFLTBNcVREbzJxYXgtX3RhcXVoWC1KRVhuV0FUbWw0NENCNjloMXRnOTJ2a3N4Q2plb2NpRkV3UEpybm8?oc=5\">The Kyiv Independent via Google News — Latvia security</a> · Wed 30 Sep 17:31 · at L3 since Wed 30 Sep 16:01 (4 items at this level in 72 h)\n<b>Why L3:</b> region: kaliningrad, nato, russia · matched “nuclear threat” · corroborated by Google News — NATO &amp; the Baltics\n<b>Suggested action at L3:</b> Review your plan; make sure documents and essentials are in order.\nLevel = highest of the last 72 h · updated Wed 30 Sep 18:01 · sources OK 24/25 · <a href=\"https://t.me/c/4455291623/25\">📖 Level guide</a>\nScale: ⚫5 Critical 🔴4 Urgent 🟠3 Elevated 🟡2 Watch 🟢1 Info ⚪0 Quiet"
 }
