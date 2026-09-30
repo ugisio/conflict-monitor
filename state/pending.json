@@ -271,5 +271,26 @@
   "uid": "12d73e3fba0b5cd6",
   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOZGNtN3BiaGtBZExCTXNjSzhGUU1NZlJsV0Z3SEVZOC1tYlA2c3VhZlFHSlV6Y3hzZE9uU1BSajVKaUhtc1JqN284ZFZRdzJrNFFHUDdydXlZdzBYTWVHMDlZVTNXdXpKZ2JucXl1em03NXNZdHMyT0gyam5IU2Q5Rjdhd2pfanZrdzAzdThYcnVmdm1Pc3FGTVZsV1lUZU9ZMGFJVUtzWGp2NW9BVFFScF9YcnZRQTZNWXZsRm5KeGIyNG1KTHZLdGRCNXU?oc=5",
   "warning": true
+ },
+ {
+  "first_seen": "2026-09-30T22:31:08+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-09-30T20:49:08+00:00",
+  "reason": "region: kaliningrad, nato, russia · matched “threat” · another report of a story already in the channel",
+  "repeat_of": "NATO Chief Rutte Dismisses Russia’s Nuclear Threats Over Kaliningrad - Межа. Новини України.",
+  "repeats": 0,
+  "source_id": "gnews_latvia_security",
+  "source_name": "Google News — Latvia security",
+  "summary": "",
+  "text": "Russia makes nuclear weapons threat to NATO over Kaliningrad NewsNation",
+  "tier": "news",
+  "title": "Russia makes nuclear weapons threat to NATO over Kaliningrad - NewsNation",
+  "uid": "04dc9ba61ba7712e",
+  "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUXpWb081YUp3Q3pkLTRTMEN4R1Rtb1JlSmFoQnVaMFVxWVJDY2c3OVc0TVphQ2xYZDNBZm1zU29BYkJhdThQVEVzbjAxX1R5d0NrOHEyeWpRWUtjZkRzeHZST1BZU2VObC12UTZxYUZzY0Z6dFlMQkhQQWxPcDh0aVl4Y0J1MXFxNWRQYU9SMXhBRGR4WEhFR1RKZHhEZ9IBowFBVV95cUxQX2t0Ym11VUpmajlPUFdMTW9Vd3I1bzNZdFpta0lGdk1TQ18zQTRBdHVPTmpPUDNnektQTGVHbmZ6cEI3Q00xd2lpSlRHVXpMLUhTQi03b0ZWRnRVaDM0Z2tfNEprNjRDbXNMdEdoSzRwTWM0U3lLYXVpOU9mYnRUeko2cGd5V2JBRTVhZUpvN2JnUG5SQ01XWjVkMHlsMWlXZXlN?oc=5",
+  "warning": false
  }
 ]
