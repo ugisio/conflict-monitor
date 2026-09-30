@@ -281,7 +281,7 @@ sources:
     type: polymarket
     queries: ["Russia NATO", "Russia invade", "Baltic", "Latvia", "Estonia", "Lithuania", "Belarus", "Kaliningrad", "Article 5"]
     include: [nato, baltic, latvia, estonia, lithuania, belarus, kaliningrad, poland, finland, "article 5"]
-    exclude: [ukraine ceasefire, zelensky, crimea]
+    exclude: [ukraine ceasefire, zelensky, crimea, election, parliament, seats, saeima, seimas, riigikogu, coalition, prime minister of]
     move_watch_pp: 5      # probability move (percentage points) since last check → WATCH
     move_elevated_pp: 15  # → ELEVATED
     tier: market
