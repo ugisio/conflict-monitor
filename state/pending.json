@@ -1,1 +1,44 @@
-[]
+[
+ {
+  "first_seen": "2026-09-30T17:31:15+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-09-30T16:56:46+00:00",
+  "reason": "region: kaliningrad, nato, russia · matched “Nuclear”",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "gnews_official_warnings",
+  "source_name": "Google News — official warnings",
+  "summary": "",
+  "text": "Russia Warns NATO It Will Use Nuclear Weapons If It Cuts Off Kaliningrad: how 16 outlets framed it NewsCord",
+  "tier": "news",
+  "title": "Russia Warns NATO It Will Use Nuclear Weapons If It Cuts Off Kaliningrad: how 16 outlets framed it - NewsCord",
+  "uid": "9a8c034b940ebdaa",
+  "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPcG9jV2tuWkswYWRzUk1qYU5LdGtWbjZFZ2trMTBBTmtveGlLUXFPVTA0V09vWWUtVkdGY3pvN2FFUTd3M29YUkdjVzBsaGIwSEJtM3FERDZpbUxxMGJRZ19yclY4X1c3aXoyNVlwY0VKZ1IwZWNkSFlRRmg1UVhOeEZLT0otd3ZMOEtTdmMwRGlPdGFpWGVyZ1lRVG9Eamk2NEpWNDg4aWhsbTh0TmVFUGN6QWRRbnRBb0h1VDlCT2R5anRweXY5aXdiRDZQLUZwMkUyQ3pxUlc3NmVtNXBn?oc=5",
+  "warning": false
+ },
+ {
+  "first_seen": "2026-09-30T17:31:18+00:00",
+  "kind": "post",
+  "lang": "ru",
+  "level": 2,
+  "note": "RU, independent Russian media based in Riga",
+  "posted": false,
+  "published": "2026-09-30T17:30:51+00:00",
+  "reason": "region: латви · matched “ядерн”",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "tg_meduza",
+  "source_name": "Meduza",
+  "summary": "",
+  "text": "Президент Латвии Эдгар Ринкевич напомнил о возможности размещения ядерного оружия на территории страны «В наших законах нет юридических препятствий для размещения ядерного оружия в Латвии», — сказал он. При этом Ринкевич отметил, что сейчас никаких конкретных переговоров о размещении ядерного оружия в Латвии не ведется. ——— Великобритания 29 сентября предложила распространить свою ядерную защиту на страны Балтии и Северной Европы. Речь идет о дополнительном механизме сдерживания, который будет действовать независимо от НАТО. @meduzalive",
+  "tier": "osint",
+  "title": "Президент Латвии Эдгар Ринкевич напомнил о возможности размещения ядерного оружия на территории страны «В наших законах нет юридических преп…",
+  "uid": "a2482da637302dd7",
+  "url": "https://t.me/meduzalive/148595",
+  "warning": false
+ }
+]
