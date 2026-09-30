@@ -207,5 +207,43 @@
   "uid": "ca009e1ded75c5e9",
   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBnYzR3OUJyUVkwTjItbkdMYUEtc2FNcWVNV1dMb04xLW13OFI2WDh1NDBpY1F0U0dSWFJmbXBDUTA3Y3ItcWNhMHRjNA?oc=5",
   "warning": false
+ },
+ {
+  "first_seen": "2026-09-30T02:31:16+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": true,
+  "published": "2026-09-30T02:20:07+00:00",
+  "reason": "official warning about Russia / NATO · matched “official warning”",
+  "source_id": "gnews_nato",
+  "source_name": "Google News — NATO & the Baltics",
+  "summary": "",
+  "text": "Putin's shadow war is testing NATO's restraint The Korea Times",
+  "tier": "news",
+  "title": "Putin's shadow war is testing NATO's restraint - The Korea Times",
+  "uid": "4f5f0de7adaea93c",
+  "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcDZSUTludHpqdEFlc05HVUFMUHA0cGd0TVJESHV6LTg3Z0VkUTdERm85TThfSkcxd1BQN1EwRFJsaXV3eXZFbkZhLWZFS2g2ZVd3a0otYi1PSmc4YjZGcnlkU2U1ZG5QejZzelhYQXB1aGZfR2dwWGg1S0pFaWVnYko5cy12SnZsU1dQTmMwVlFwV3dHTG5VcjFmVElta1FKTjR3R1FwZlM3aGdRWDFjU1R0c9IBmgFBVV95cUxOeVg3NkVsYXNrVEc5ZEJ2SlR5ZjZnY1c1dEpYTTcwRlF6dXpocTd2dG4tajhySW1WRWxvVXByd210cG9VQjV0ZS10Q01jeFpnelZNNzlUNFdSWEM2MGpnbVVzaTNaZTM2bkszYVJ6RVlLRHRPWm80ZzkyUWdxUXFPSUxuQmw1ckpzX2VoX013cW9nd3V6YmtGa2Zn?oc=5",
+  "warning": true
+ },
+ {
+  "first_seen": "2026-09-30T02:31:18+00:00",
+  "kind": "post",
+  "lang": "en",
+  "level": 2,
+  "note": "EN, conflict news aggregator",
+  "posted": true,
+  "published": "2026-09-30T02:13:18+00:00",
+  "reason": "official warning about Russia / NATO · matched “official warning”",
+  "source_id": "tg_clashreport",
+  "source_name": "Clash Report",
+  "summary": "",
+  "text": "CIA Director Ratcliffe warned Moscow during his late-August visit that Russia's economy could collapse \"just as the Soviet Union did at the end of the Cold War\" if the war continues. Putin reportedly canceled a planned meeting with Ratcliffe after receiving the assessment. The US message: The battlefield is heading toward stalemate, but Russia can't sustain the war economically. Source: FAZ",
+  "tier": "osint",
+  "title": "CIA Director Ratcliffe warned Moscow during his late-August visit that Russia's economy could collapse \"just as the Soviet Union did at the …",
+  "uid": "6fe2fb3b028c7ba6",
+  "url": "https://t.me/ClashReport/98969",
+  "warning": true
  }
 ]
