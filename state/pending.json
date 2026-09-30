@@ -124,5 +124,26 @@
   "uid": "1ab047167bcc8e3b",
   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTThGYUhwdjd0WjNSOE81Q3VnenI1VUJ3MVZlOUVnblJ3VUFLU1J5OHpsUU1qd3NGeTYwZFVGY0I5VHNOWnlfUG9Tc2RpZVJsTXpXdVJocE9GbjBaVFl4SEZGeWcyMFpNclBycjlDb3dlVEVPWXBZdDlZajduc2pPR280ZFljUjhZb2ZTZ0t5RUVmODZfaFhLSWRkRFU4d1FPSWx2UTNELWVHUXNhMFBwa0hJQnJ6d3fSAbwBQVVfeXFMTVpadmhBdEsxWnI5TTYxWFY0WndkbnFKMWtKcTlQY3RXN2sxNUFBNVBWT3kyU1lSemtOYnI5V0VWOThvejVfQ1JxdXRiSDlxOWRTNW9WUF9HMW1UV2oyS25GLW41c25rTXNMTnl0bER5OFBTeDUyM1BTWTFMbmFBRjNLLWxhN3czeVI4U0dXZXRWNExmOVlFZGZ5QWRKaWtaS0VtZUxpYW9IS0V1YlUtbE9XY0lrdmVsRmZoekc?oc=5",
   "warning": false
+ },
+ {
+  "first_seen": "2026-09-30T19:31:24+00:00",
+  "kind": "post",
+  "lang": "ru",
+  "level": 1,
+  "note": "RU, Belarus opposition media — best coverage of Belarus border/military",
+  "posted": false,
+  "published": "2026-09-30T19:02:54+00:00",
+  "reason": "region: латви, нато · matched “дрон”",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "tg_nexta",
+  "source_name": "NEXTA Live",
+  "summary": "",
+  "text": "В Чехии тестируют дроны и системы борьбы с ними для будущих закупок армии В учениях «Drone Shield 2026» участвуют более 70 компаний из 17 стран, а также военные наблюдатели из стран НАТО, включая США, Словакию и Латвию. Военные проверяют дроны-разведчики, беспилотники со сбросом гранат и системы «последней мили», которые самостоятельно наводят боеприпас на цель на финальном этапе полёта. Отдельное внимание уделяют защите от РЭБ. Некоторые беспилотники могут работать при подавлении связи и обходиться без GPS, используя оптическое наведение.",
+  "tier": "osint",
+  "title": "В Чехии тестируют дроны и системы борьбы с ними для будущих закупок армии В учениях «Drone Shield 2026» участвуют более 70 компаний из 17 ст…",
+  "uid": "0a970e73ff42a466",
+  "url": "https://t.me/nexta_live/124268",
+  "warning": false
  }
 ]
