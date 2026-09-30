@@ -292,5 +292,26 @@
   "uid": "04dc9ba61ba7712e",
   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUXpWb081YUp3Q3pkLTRTMEN4R1Rtb1JlSmFoQnVaMFVxWVJDY2c3OVc0TVphQ2xYZDNBZm1zU29BYkJhdThQVEVzbjAxX1R5d0NrOHEyeWpRWUtjZkRzeHZST1BZU2VObC12UTZxYUZzY0Z6dFlMQkhQQWxPcDh0aVl4Y0J1MXFxNWRQYU9SMXhBRGR4WEhFR1RKZHhEZ9IBowFBVV95cUxQX2t0Ym11VUpmajlPUFdMTW9Vd3I1bzNZdFpta0lGdk1TQ18zQTRBdHVPTmpPUDNnektQTGVHbmZ6cEI3Q00xd2lpSlRHVXpMLUhTQi03b0ZWRnRVaDM0Z2tfNEprNjRDbXNMdEdoSzRwTWM0U3lLYXVpOU9mYnRUeko2cGd5V2JBRTVhZUpvN2JnUG5SQ01XWjVkMHlsMWlXZXlN?oc=5",
   "warning": false
+ },
+ {
+  "first_seen": "2026-09-30T23:01:27+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-09-30T22:36:04+00:00",
+  "reason": "region: kaliningrad, nato, russia · matched “threatens” · another report of a story already in the channel",
+  "repeat_of": "NATO Chief Rutte Dismisses Russia’s Nuclear Threats Over Kaliningrad - Межа. Новини України.",
+  "repeats": 0,
+  "source_id": "gnews_latvia_security",
+  "source_name": "Google News — Latvia security",
+  "summary": "",
+  "text": "Russia threatens NATO over potential Kaliningrad isolation UA.NEWS",
+  "tier": "news",
+  "title": "Russia threatens NATO over potential Kaliningrad isolation - UA.NEWS",
+  "uid": "cfe73a370f9af143",
+  "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORW52bzJsUWpsbi16VTRITllPcEktTU8zZzVLQ2N3eFdEbGk0RFlsZUhCbWFwX1lnc0UtZkc3VGRWNTRzZjA1SGF5cHBGQy1zZGl5Rk5CaUJCM0t6QnhGcWJWV3FrQkdlMy05ZTNNNkJxYnFMeXJPcUl1R0FleWsxRk9mdDdEVnRVUF9vblZ3VkxfTTZNT2FWTUFnYW9tZVFNUzB1cFFHak1qOE40VHR3VlVzYw?oc=5",
+  "warning": false
  }
 ]
