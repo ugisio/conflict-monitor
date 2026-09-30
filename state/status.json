@@ -5,200 +5,200 @@
    "error": "",
    "fail_streak": 0,
    "items_last": 0,
-   "last_ok": "2026-09-30T15:01:31+00:00",
-   "last_run": "2026-09-30T15:01:31+00:00",
+   "last_ok": "2026-09-30T15:31:08+00:00",
+   "last_run": "2026-09-30T15:31:08+00:00",
    "ok": true
   },
   "err_en": {
-   "error": "HTTPError: 403 Client Error: Forbidden for url: https://news.err.ee/rss",
-   "fail_streak": 1,
+   "error": "",
+   "fail_streak": 0,
    "items_last": 50,
-   "last_ok": "2026-09-30T14:31:20+00:00",
-   "last_run": "2026-09-30T15:01:35+00:00",
-   "ok": false
+   "last_ok": "2026-09-30T15:31:11+00:00",
+   "last_run": "2026-09-30T15:31:11+00:00",
+   "ok": true
   },
   "fcdo_estonia": {
    "error": "",
    "fail_streak": 0,
    "items_last": 0,
-   "last_ok": "2026-09-30T15:01:30+00:00",
-   "last_run": "2026-09-30T15:01:30+00:00",
+   "last_ok": "2026-09-30T15:31:08+00:00",
+   "last_run": "2026-09-30T15:31:08+00:00",
    "ok": true
   },
   "fcdo_latvia": {
    "error": "",
    "fail_streak": 0,
    "items_last": 0,
-   "last_ok": "2026-09-30T15:01:30+00:00",
-   "last_run": "2026-09-30T15:01:30+00:00",
+   "last_ok": "2026-09-30T15:31:07+00:00",
+   "last_run": "2026-09-30T15:31:07+00:00",
    "ok": true
   },
   "fcdo_lithuania": {
    "error": "",
    "fail_streak": 0,
    "items_last": 0,
-   "last_ok": "2026-09-30T15:01:31+00:00",
-   "last_run": "2026-09-30T15:01:31+00:00",
+   "last_ok": "2026-09-30T15:31:08+00:00",
+   "last_run": "2026-09-30T15:31:08+00:00",
    "ok": true
   },
   "germany_latvia": {
    "error": "",
    "fail_streak": 0,
    "items_last": 0,
-   "last_ok": "2026-09-30T15:01:33+00:00",
-   "last_run": "2026-09-30T15:01:33+00:00",
+   "last_ok": "2026-09-30T15:31:10+00:00",
+   "last_run": "2026-09-30T15:31:10+00:00",
    "ok": true
   },
   "gnews_airspace": {
    "error": "",
    "fail_streak": 0,
    "items_last": 0,
-   "last_ok": "2026-09-30T15:01:33+00:00",
-   "last_run": "2026-09-30T15:01:33+00:00",
+   "last_ok": "2026-09-30T15:31:10+00:00",
+   "last_run": "2026-09-30T15:31:10+00:00",
    "ok": true
   },
   "gnews_embassy": {
    "error": "",
    "fail_streak": 0,
    "items_last": 2,
-   "last_ok": "2026-09-30T15:01:37+00:00",
-   "last_run": "2026-09-30T15:01:37+00:00",
+   "last_ok": "2026-09-30T15:31:13+00:00",
+   "last_run": "2026-09-30T15:31:13+00:00",
    "ok": true
   },
   "gnews_flank_warnings": {
    "error": "",
    "fail_streak": 0,
    "items_last": 32,
-   "last_ok": "2026-09-30T15:01:40+00:00",
-   "last_run": "2026-09-30T15:01:40+00:00",
+   "last_ok": "2026-09-30T15:31:15+00:00",
+   "last_run": "2026-09-30T15:31:15+00:00",
    "ok": true
   },
   "gnews_latvia_security": {
    "error": "",
    "fail_streak": 0,
-   "items_last": 41,
-   "last_ok": "2026-09-30T15:01:36+00:00",
-   "last_run": "2026-09-30T15:01:36+00:00",
+   "items_last": 42,
+   "last_ok": "2026-09-30T15:31:12+00:00",
+   "last_run": "2026-09-30T15:31:12+00:00",
    "ok": true
   },
   "gnews_nato": {
    "error": "",
    "fail_streak": 0,
-   "items_last": 42,
-   "last_ok": "2026-09-30T15:01:38+00:00",
-   "last_run": "2026-09-30T15:01:38+00:00",
+   "items_last": 39,
+   "last_ok": "2026-09-30T15:31:14+00:00",
+   "last_run": "2026-09-30T15:31:14+00:00",
    "ok": true
   },
   "gnews_official_warnings": {
    "error": "",
    "fail_streak": 0,
-   "items_last": 3,
-   "last_ok": "2026-09-30T15:01:39+00:00",
-   "last_run": "2026-09-30T15:01:39+00:00",
+   "items_last": 4,
+   "last_ok": "2026-09-30T15:31:14+00:00",
+   "last_run": "2026-09-30T15:31:14+00:00",
    "ok": true
   },
   "lrt_en": {
    "error": "",
    "fail_streak": 0,
    "items_last": 23,
-   "last_ok": "2026-09-30T15:01:36+00:00",
-   "last_run": "2026-09-30T15:01:36+00:00",
+   "last_ok": "2026-09-30T15:31:12+00:00",
+   "last_run": "2026-09-30T15:31:12+00:00",
    "ok": true
   },
   "lsm_en": {
    "error": "",
    "fail_streak": 0,
    "items_last": 46,
-   "last_ok": "2026-09-30T15:01:34+00:00",
-   "last_run": "2026-09-30T15:01:34+00:00",
+   "last_ok": "2026-09-30T15:31:11+00:00",
+   "last_run": "2026-09-30T15:31:11+00:00",
    "ok": true
   },
   "polymarket": {
    "error": "",
    "fail_streak": 0,
    "items_last": 0,
-   "last_ok": "2026-09-30T15:01:48+00:00",
-   "last_run": "2026-09-30T15:01:48+00:00",
+   "last_ok": "2026-09-30T15:31:23+00:00",
+   "last_run": "2026-09-30T15:31:23+00:00",
    "ok": true
   },
   "tg_astra": {
    "error": "",
    "fail_streak": 0,
    "items_last": 17,
-   "last_ok": "2026-09-30T15:01:43+00:00",
-   "last_run": "2026-09-30T15:01:43+00:00",
+   "last_ok": "2026-09-30T15:31:18+00:00",
+   "last_run": "2026-09-30T15:31:18+00:00",
    "ok": true
   },
   "tg_clashreport": {
    "error": "",
    "fail_streak": 0,
    "items_last": 20,
-   "last_ok": "2026-09-30T15:01:40+00:00",
-   "last_run": "2026-09-30T15:01:40+00:00",
+   "last_ok": "2026-09-30T15:31:16+00:00",
+   "last_run": "2026-09-30T15:31:16+00:00",
    "ok": true
   },
   "tg_disclosetv": {
    "error": "",
    "fail_streak": 0,
    "items_last": 4,
-   "last_ok": "2026-09-30T15:01:41+00:00",
-   "last_run": "2026-09-30T15:01:41+00:00",
+   "last_ok": "2026-09-30T15:31:16+00:00",
+   "last_run": "2026-09-30T15:31:16+00:00",
    "ok": true
   },
   "tg_meduza": {
    "error": "",
    "fail_streak": 0,
    "items_last": 18,
-   "last_ok": "2026-09-30T15:01:42+00:00",
-   "last_run": "2026-09-30T15:01:42+00:00",
+   "last_ok": "2026-09-30T15:31:18+00:00",
+   "last_run": "2026-09-30T15:31:18+00:00",
    "ok": true
   },
   "tg_nexta": {
    "error": "",
    "fail_streak": 0,
-   "items_last": 19,
-   "last_ok": "2026-09-30T15:01:41+00:00",
-   "last_run": "2026-09-30T15:01:41+00:00",
+   "items_last": 18,
+   "last_ok": "2026-09-30T15:31:17+00:00",
+   "last_run": "2026-09-30T15:31:17+00:00",
    "ok": true
   },
   "tg_novaya": {
    "error": "",
    "fail_streak": 0,
    "items_last": 18,
-   "last_ok": "2026-09-30T15:01:43+00:00",
-   "last_run": "2026-09-30T15:01:43+00:00",
+   "last_ok": "2026-09-30T15:31:19+00:00",
+   "last_run": "2026-09-30T15:31:19+00:00",
    "ok": true
   },
   "tg_rybar": {
    "error": "",
    "fail_streak": 0,
    "items_last": 13,
-   "last_ok": "2026-09-30T15:01:44+00:00",
-   "last_run": "2026-09-30T15:01:44+00:00",
+   "last_ok": "2026-09-30T15:31:20+00:00",
+   "last_run": "2026-09-30T15:31:20+00:00",
    "ok": true
   },
   "us_embassy_riga": {
    "error": "",
    "fail_streak": 0,
    "items_last": 0,
-   "last_ok": "2026-09-30T15:01:29+00:00",
-   "last_run": "2026-09-30T15:01:29+00:00",
+   "last_ok": "2026-09-30T15:31:07+00:00",
+   "last_run": "2026-09-30T15:31:07+00:00",
    "ok": true
   },
   "us_state_latvia": {
    "error": "page blocked (403); relying on the advisories RSS feed",
    "fail_streak": 0,
    "items_last": 0,
-   "last_ok": "2026-09-30T15:01:28+00:00",
-   "last_run": "2026-09-30T15:01:28+00:00",
+   "last_ok": "2026-09-30T15:31:06+00:00",
+   "last_run": "2026-09-30T15:31:06+00:00",
    "ok": true
   },
   "us_state_rss": {
    "error": "",
    "fail_streak": 0,
    "items_last": 0,
-   "last_ok": "2026-09-30T15:01:29+00:00",
-   "last_run": "2026-09-30T15:01:29+00:00",
+   "last_ok": "2026-09-30T15:31:07+00:00",
+   "last_run": "2026-09-30T15:31:07+00:00",
    "ok": true
   }
  },
@@ -1673,8 +1673,78 @@
    "title_key": "россия пять стран договорились обмениваться данными людях организациях",
    "ts": "2026-09-30T15:01:48+00:00",
    "url": "https://t.me/novaya_europe/67721"
+  },
+  {
+   "level": 3,
+   "raw_level": 3,
+   "reason": "region: kaliningrad, nato, russia · matched “nuclear threat” · corroborated by Google News — NATO & the Baltics",
+   "source": "Google News — Latvia security",
+   "title": "\"Putin will never be able to defeat NATO\": Rutte on Russia's nuclear threats regarding Kaliningrad - LIGA.net",
+   "title_key": "putin will never able defeat nato rutte russia",
+   "ts": "2026-09-30T15:31:23+00:00",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPYjNaV3Q2ZlN3bm1kVFBDQXZObzlKOWMzaHRPM0Q1dWw0RlFGYzl4emRROHJkRnVzUHJrN0hOMkI0VTI0ektMWVVSRzR3SWplZXN1ekthZlh1Y2pseEJteVd6YVNDTHphVUxYYnFfSjdNOGQzeDRGcy1ndE9hclMyaFVBYVhyc201WHEzQlJBM2RUTXR0d2VtM2hGSkRmdTZsVG55b1EtaWkyQUs4TGNTREhMXzZCWFBGZzlYT0NiU0ZwRW1TTjhF0gHMAUFVX3lxTFAyYkVFbmRfU3JJclNrazlyeE5jQ2tHcGJKM2JYeDhiUkJqUV9YaDNQaHZBNmJQNDdRSVpXTkxDaGRINmdITGV6a0lES3JKT09jS25xU01LalJvMmdSN2FZNy1Zd2gyWUxPdG1LUzJXSDFnLXJZTnRKdE1iRDQwQ2VnczdvV2FqUGxZWkNaVWdBdmZOdHgtcFBPMDJMcmtlcU0za181YzhheHYxMnRHWTRtVVN2aGtOSXpaRHQ3QnRGUURXRnZhdHZJSG9sYw?oc=5"
+  },
+  {
+   "level": 3,
+   "raw_level": 3,
+   "reason": "region: kaliningrad, nato, russia · official warning · matched “Nuclear Threat” · corroborated by Google News — Latvia security",
+   "source": "Google News — official warnings",
+   "title": "Russia Warns NATO of Nuclear Threat to Kaliningrad; Rutte Reassures No Imminent Danger - Forth.News",
+   "title_key": "russia warns nato nuclear threat kaliningrad rutte reassures",
+   "ts": "2026-09-30T15:31:24+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE95ck5lWENBUEtoS0pBQmRyeVJnNlpZSWxoM3I4N19TVjd3MFhGQk1jNE1MTDlkWElvVjM5YzdQZ1hfZmJ2VGVnenp4aEF5amNaMFFqeGQ1RVJ4eE13WWFQZEdn?oc=5"
+  },
+  {
+   "level": 2,
+   "raw_level": 2,
+   "reason": "region: kaliningrad, russia · planning/hypothetical wording, softened · matched “nuclear strike”",
+   "source": "Google News — Latvia security",
+   "title": "Russia is ready for a nuclear strike in case of blockade of Kaliningrad - Inbox.lv",
+   "title_key": "russia ready nuclear strike case blockade kaliningrad",
+   "ts": "2026-09-30T15:31:25+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQ1Q1MndWUk51Vk51OFVaNm1JZFdJaTQwMW51MTR0ZDdfWlpLcHdFOU9vZTFoZ3FGYXpNWFdtQkswd2RtdVhnSXlwQ1dQQnhlWjZ5MUVqYVFaN0lFUkFoYUlPRDV4a3pTWUtRN0MwZ2o0aXpvODMzRFV2eFFHSENTTFNaZGlQWUdyVVFwNlYyUXp3WHMzMXNmVzJVaDNDVlJBOG1rcGtxdXoxbGRGb1drZkFpaw?oc=5"
+  },
+  {
+   "level": 2,
+   "raw_level": 2,
+   "reason": "region: baltic, nato · matched “Nuclear”",
+   "source": "Google News — Latvia security",
+   "title": "Moscow Sends Nuclear Warning to NATO as Tensions Rise in the Baltic - The Moscow Times",
+   "title_key": "moscow sends nuclear warning nato tensions rise baltic",
+   "ts": "2026-09-30T15:31:25+00:00",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNTUJaMVhCTHpjRVZjNHF1SGJ0M1p2eVFUd0d3VEpXNEZmaHFPS05jLUtFd1pJMXl4LUZyUm53MU9pUUNmTkttcGQ1MlRweGhHRmVuancxNDJKZWNFM2JlREpCdFFkQ214azJHcktDRFhQOU54RXRSLWJjWFN6dXd6ZkdocVdQMXJkalBwYXBfSUlFbFEwQWN5VE12MGcwSWtIbkc3R0hfVmdQUmRwNmhhcUs1RXNLMFk?oc=5"
+  },
+  {
+   "level": 2,
+   "raw_level": 2,
+   "reason": "region: kaliningrad, russia · matched “threaten”",
+   "source": "Google News — Latvia security",
+   "title": "What is Kaliningrad and why does Russia threaten with nuclear weapons to defend it? - Demócrata",
+   "title_key": "what kaliningrad does russia threaten with nuclear weapons",
+   "ts": "2026-09-30T15:31:25+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdlc3RFJCa1hIZk5FdVduMGR4Q2dzUlJsLXRhdDBUblc1eDV0c01mYm1fRkNYYjJnUWRfUTRxVTlLZVlELVB5Q21KWm5tckFwdmZSMFZKTVJQWEduNWlpcVE3X0V5dmdzM2loNm5JYlh5ZkNwUW1XT1I4dEVfQ0JoUi15RHhNdjNENXRLZF92aUNsM3o0NEllbGJPYllpM1l2b1VmTzc0QlpIai1kMk9wUjRJR2syUzhPbExjOTVkQ0JNbWfSAcgBQVVfeXFMT05UbmlFbFdSdkNZVU5XNTg0b1VpQjNXN3hFUVlvTXZ4Z3Z3X0FMdnpOQ0lxb1FIQWVaSDZsUnRJa1dpSDN0clkwV3E5VUhiYWxQWkNMZDdxMmdGeG5tTVZNZ29Va0t4RENhQ2V0WjJHUGgtQWF5b0d2RGVLUnd4TUtDTS1YdXd3TE9oME5WMWpVZmNqaWs5WU5UeGhSRENUYVpESzY4U204YmQ3LW81eklsWXBqS3J2TVJQMVhldFE0ZFhtMGdFemc?oc=5"
+  },
+  {
+   "level": 2,
+   "raw_level": 2,
+   "reason": "region: kaliningrad, nato, russia · matched “threatens”",
+   "source": "Google News — Latvia security",
+   "title": "Russia threatens with nuclear weapons if NATO blocks Kaliningrad - Diari ARA",
+   "title_key": "russia threatens with nuclear weapons nato blocks kaliningrad",
+   "ts": "2026-09-30T15:31:25+00:00",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZEt3QlR6Q0ZlWWp3cm1LcEExTGN2UEVCUWtYM2FlVWtjZENobmZudU9oaV9xWkNoVW5POWZPM0YzSm1PeWs3YVlOQ2V5bDZCbkx5TFQzM0REWFdNalduNzRsUk1xaWNKVnc4dGd2VTJvQTk4R0FJR04zWjg2SWxjQ0lTbE5CNi00bUFONXVHamhINlFvNHl6akdkX1Q3UFF0bVA3RWVWWDBnSnJvODdwRVB3?oc=5"
+  },
+  {
+   "level": 2,
+   "raw_level": 2,
+   "reason": "official warning about Russia / NATO · matched “threat”",
+   "source": "Google News — NATO & the Baltics",
+   "title": "No imminent Russian threat to NATO territory, Rutte says - Latest news from Azerbaijan",
+   "title_key": "imminent russian threat nato territory rutte says",
+   "ts": "2026-09-30T15:31:25+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPazlOX3ZRTnRXQ3Q4TGZSb0dqODB3SUR3OElFYlhsVDB4WnZfVlpLbUtwcUJ2Z3ozcy05NGpIWWJNRnlxLVRXSDRpV2RSZGJaT190YlBsd1dSTC1mZ0ZHU3U0SGRITDBCV2txQ1F6X0lBNDFpSE1MQ2F6ZlpMWWNDWHVR?oc=5"
   }
  ],
- "runs": 78,
- "status_text": "📟 <b>CURRENT LEVEL: 🟠 L3 ELEVATED.</b> Russia sends NATO new nuclear threat over Kaliningrad as tensions rise\n<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPLVBfSnp5ZmgwLTFFRjU0T3RuY1huSEdRZXl2ZGJNV0JjSERXeHVROF9KWGEwM01VbDZucjhJTzlaNXZDRVF3MFN4M3djUklCMzdSQnRKaFR1WHhCTkpDTHZaSnQ0VWpvM1UxV2lFLTBNcVREbzJxYXgtX3RhcXVoWC1KRVhuV0FUbWw0NENCNjloMXRnOTJ2a3N4Q2plb2NpRkV3UEpybm8?oc=5\">The Kyiv Independent via Google News — Latvia security</a> · Wed 30 Sep 17:31 · at L3 since Wed 30 Sep 16:01 (4 items at this level in 72 h)\n<b>Why L3:</b> region: kaliningrad, nato, russia · matched “nuclear threat” · corroborated by Google News — NATO &amp; the Baltics\n<b>Suggested action at L3:</b> Review your plan; make sure documents and essentials are in order.\nLevel = highest of the last 72 h · updated Wed 30 Sep 18:01 · sources OK 24/25 · <a href=\"https://t.me/c/4455291623/25\">📖 Level guide</a>\nScale: ⚫5 Critical 🔴4 Urgent 🟠3 Elevated 🟡2 Watch 🟢1 Info ⚪0 Quiet"
+ "runs": 79,
+ "status_text": "📟 <b>CURRENT LEVEL: 🟠 L3 ELEVATED.</b> Russia Warns NATO of Nuclear Threat to Kaliningrad; Rutte Reassures No Imminent Danger\n<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE95ck5lWENBUEtoS0pBQmRyeVJnNlpZSWxoM3I4N19TVjd3MFhGQk1jNE1MTDlkWElvVjM5YzdQZ1hfZmJ2VGVnenp4aEF5amNaMFFqeGQ1RVJ4eE13WWFQZEdn?oc=5\">Forth.News via Google News — official warnings</a> · Wed 30 Sep 18:31 · at L3 since Wed 30 Sep 16:01 (6 items at this level in 72 h)\n<b>Why L3:</b> region: kaliningrad, nato, russia · official warning · matched “Nuclear Threat” · corroborated by Google News — Latvia security\n<b>Suggested action at L3:</b> Review your plan; make sure documents and essentials are in order.\nLevel = highest of the last 72 h · updated Wed 30 Sep 18:31 · sources OK 25/25 · <a href=\"https://t.me/c/4455291623/25\">📖 Level guide</a>\nScale: ⚫5 Critical 🔴4 Urgent 🟠3 Elevated 🟡2 Watch 🟢1 Info ⚪0 Quiet"
 }
