@@ -5,207 +5,207 @@
    "error": "",
    "fail_streak": 0,
    "items_last": 0,
-   "last_ok": "2026-09-30T12:31:16+00:00",
-   "last_run": "2026-09-30T12:31:16+00:00",
+   "last_ok": "2026-09-30T13:01:30+00:00",
+   "last_run": "2026-09-30T13:01:30+00:00",
    "ok": true
   },
   "err_en": {
    "error": "",
    "fail_streak": 0,
    "items_last": 50,
-   "last_ok": "2026-09-30T12:31:20+00:00",
-   "last_run": "2026-09-30T12:31:20+00:00",
+   "last_ok": "2026-09-30T13:01:34+00:00",
+   "last_run": "2026-09-30T13:01:34+00:00",
    "ok": true
   },
   "fcdo_estonia": {
    "error": "",
    "fail_streak": 0,
    "items_last": 0,
-   "last_ok": "2026-09-30T12:31:14+00:00",
-   "last_run": "2026-09-30T12:31:14+00:00",
+   "last_ok": "2026-09-30T13:01:29+00:00",
+   "last_run": "2026-09-30T13:01:29+00:00",
    "ok": true
   },
   "fcdo_latvia": {
    "error": "",
    "fail_streak": 0,
    "items_last": 0,
-   "last_ok": "2026-09-30T12:31:13+00:00",
-   "last_run": "2026-09-30T12:31:13+00:00",
+   "last_ok": "2026-09-30T13:01:29+00:00",
+   "last_run": "2026-09-30T13:01:29+00:00",
    "ok": true
   },
   "fcdo_lithuania": {
    "error": "",
    "fail_streak": 0,
    "items_last": 0,
-   "last_ok": "2026-09-30T12:31:15+00:00",
-   "last_run": "2026-09-30T12:31:15+00:00",
+   "last_ok": "2026-09-30T13:01:29+00:00",
+   "last_run": "2026-09-30T13:01:29+00:00",
    "ok": true
   },
   "germany_latvia": {
    "error": "",
    "fail_streak": 0,
    "items_last": 0,
-   "last_ok": "2026-09-30T12:31:17+00:00",
-   "last_run": "2026-09-30T12:31:17+00:00",
+   "last_ok": "2026-09-30T13:01:31+00:00",
+   "last_run": "2026-09-30T13:01:31+00:00",
    "ok": true
   },
   "gnews_airspace": {
    "error": "",
    "fail_streak": 0,
    "items_last": 0,
-   "last_ok": "2026-09-30T12:31:18+00:00",
-   "last_run": "2026-09-30T12:31:18+00:00",
+   "last_ok": "2026-09-30T13:01:32+00:00",
+   "last_run": "2026-09-30T13:01:32+00:00",
    "ok": true
   },
   "gnews_embassy": {
    "error": "",
    "fail_streak": 0,
-   "items_last": 1,
-   "last_ok": "2026-09-30T12:31:21+00:00",
-   "last_run": "2026-09-30T12:31:21+00:00",
+   "items_last": 2,
+   "last_ok": "2026-09-30T13:01:36+00:00",
+   "last_run": "2026-09-30T13:01:36+00:00",
    "ok": true
   },
   "gnews_flank_warnings": {
    "error": "",
    "fail_streak": 0,
-   "items_last": 33,
-   "last_ok": "2026-09-30T12:31:24+00:00",
-   "last_run": "2026-09-30T12:31:24+00:00",
+   "items_last": 32,
+   "last_ok": "2026-09-30T13:01:38+00:00",
+   "last_run": "2026-09-30T13:01:38+00:00",
    "ok": true
   },
   "gnews_latvia_security": {
    "error": "",
    "fail_streak": 0,
    "items_last": 43,
-   "last_ok": "2026-09-30T12:31:21+00:00",
-   "last_run": "2026-09-30T12:31:21+00:00",
+   "last_ok": "2026-09-30T13:01:35+00:00",
+   "last_run": "2026-09-30T13:01:35+00:00",
    "ok": true
   },
   "gnews_nato": {
    "error": "",
    "fail_streak": 0,
-   "items_last": 39,
-   "last_ok": "2026-09-30T12:31:22+00:00",
-   "last_run": "2026-09-30T12:31:22+00:00",
+   "items_last": 38,
+   "last_ok": "2026-09-30T13:01:37+00:00",
+   "last_run": "2026-09-30T13:01:37+00:00",
    "ok": true
   },
   "gnews_official_warnings": {
    "error": "",
    "fail_streak": 0,
    "items_last": 2,
-   "last_ok": "2026-09-30T12:31:23+00:00",
-   "last_run": "2026-09-30T12:31:23+00:00",
+   "last_ok": "2026-09-30T13:01:38+00:00",
+   "last_run": "2026-09-30T13:01:38+00:00",
    "ok": true
   },
   "lrt_en": {
    "error": "",
    "fail_streak": 0,
-   "items_last": 21,
-   "last_ok": "2026-09-30T12:31:20+00:00",
-   "last_run": "2026-09-30T12:31:20+00:00",
+   "items_last": 20,
+   "last_ok": "2026-09-30T13:01:34+00:00",
+   "last_run": "2026-09-30T13:01:34+00:00",
    "ok": true
   },
   "lsm_en": {
    "error": "",
    "fail_streak": 0,
-   "items_last": 41,
-   "last_ok": "2026-09-30T12:31:19+00:00",
-   "last_run": "2026-09-30T12:31:19+00:00",
+   "items_last": 42,
+   "last_ok": "2026-09-30T13:01:33+00:00",
+   "last_run": "2026-09-30T13:01:33+00:00",
    "ok": true
   },
   "polymarket": {
    "error": "",
    "fail_streak": 0,
    "items_last": 0,
-   "last_ok": "2026-09-30T12:31:32+00:00",
-   "last_run": "2026-09-30T12:31:32+00:00",
+   "last_ok": "2026-09-30T13:01:48+00:00",
+   "last_run": "2026-09-30T13:01:48+00:00",
    "ok": true
   },
   "tg_astra": {
    "error": "",
    "fail_streak": 0,
-   "items_last": 15,
-   "last_ok": "2026-09-30T12:31:28+00:00",
-   "last_run": "2026-09-30T12:31:28+00:00",
+   "items_last": 16,
+   "last_ok": "2026-09-30T13:01:42+00:00",
+   "last_run": "2026-09-30T13:01:42+00:00",
    "ok": true
   },
   "tg_clashreport": {
    "error": "",
    "fail_streak": 0,
-   "items_last": 20,
-   "last_ok": "2026-09-30T12:31:25+00:00",
-   "last_run": "2026-09-30T12:31:25+00:00",
+   "items_last": 18,
+   "last_ok": "2026-09-30T13:01:39+00:00",
+   "last_run": "2026-09-30T13:01:39+00:00",
    "ok": true
   },
   "tg_disclosetv": {
    "error": "",
    "fail_streak": 0,
    "items_last": 4,
-   "last_ok": "2026-09-30T12:31:25+00:00",
-   "last_run": "2026-09-30T12:31:25+00:00",
+   "last_ok": "2026-09-30T13:01:40+00:00",
+   "last_run": "2026-09-30T13:01:40+00:00",
    "ok": true
   },
   "tg_meduza": {
    "error": "",
    "fail_streak": 0,
    "items_last": 20,
-   "last_ok": "2026-09-30T12:31:27+00:00",
-   "last_run": "2026-09-30T12:31:27+00:00",
+   "last_ok": "2026-09-30T13:01:41+00:00",
+   "last_run": "2026-09-30T13:01:41+00:00",
    "ok": true
   },
   "tg_nexta": {
    "error": "",
    "fail_streak": 0,
    "items_last": 20,
-   "last_ok": "2026-09-30T12:31:26+00:00",
-   "last_run": "2026-09-30T12:31:26+00:00",
+   "last_ok": "2026-09-30T13:01:41+00:00",
+   "last_run": "2026-09-30T13:01:41+00:00",
    "ok": true
   },
   "tg_novaya": {
    "error": "",
    "fail_streak": 0,
    "items_last": 17,
-   "last_ok": "2026-09-30T12:31:28+00:00",
-   "last_run": "2026-09-30T12:31:28+00:00",
+   "last_ok": "2026-09-30T13:01:43+00:00",
+   "last_run": "2026-09-30T13:01:43+00:00",
    "ok": true
   },
   "tg_rybar": {
    "error": "",
    "fail_streak": 0,
    "items_last": 12,
-   "last_ok": "2026-09-30T12:31:29+00:00",
-   "last_run": "2026-09-30T12:31:29+00:00",
+   "last_ok": "2026-09-30T13:01:44+00:00",
+   "last_run": "2026-09-30T13:01:44+00:00",
    "ok": true
   },
   "us_embassy_riga": {
    "error": "",
    "fail_streak": 0,
    "items_last": 0,
-   "last_ok": "2026-09-30T12:31:12+00:00",
-   "last_run": "2026-09-30T12:31:12+00:00",
+   "last_ok": "2026-09-30T13:01:28+00:00",
+   "last_run": "2026-09-30T13:01:28+00:00",
    "ok": true
   },
   "us_state_latvia": {
    "error": "page blocked (403); relying on the advisories RSS feed",
    "fail_streak": 0,
    "items_last": 0,
-   "last_ok": "2026-09-30T12:31:11+00:00",
-   "last_run": "2026-09-30T12:31:11+00:00",
+   "last_ok": "2026-09-30T13:01:27+00:00",
+   "last_run": "2026-09-30T13:01:27+00:00",
    "ok": true
   },
   "us_state_rss": {
    "error": "",
    "fail_streak": 0,
    "items_last": 0,
-   "last_ok": "2026-09-30T12:31:12+00:00",
-   "last_run": "2026-09-30T12:31:12+00:00",
+   "last_ok": "2026-09-30T13:01:28+00:00",
+   "last_run": "2026-09-30T13:01:28+00:00",
    "ok": true
   }
  },
  "last_digest": "2026-09-30T05:01:43+00:00",
- "overall_level": 2,
- "overall_since": "2026-09-29T10:43:50+00:00",
- "pinned_message_id": 26,
+ "overall_level": 3,
+ "overall_since": "2026-09-30T13:01:50+00:00",
+ "pinned_message_id": 60,
  "recent_levels": [
   {
    "level": 2,
@@ -1493,8 +1493,58 @@
    "title_key": "will ready entire arsenal russia warns nato nuclear",
    "ts": "2026-09-30T12:31:32+00:00",
    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNUGQ2NHlSSEFLOGVpQVU1V1BXMXFwbm9DdmdzZHQ4WWJ5NlFGdlpad3pyODhTblRXS1VRSE9jOTg0c2RWQVB2RnRuaU1jSlYzelgyOGNaRDZ0NW45OXdkVnRmd25ySmJLZ01RWEk4SFQ2TmgxSHhpaExTZHlLelBFdWdZV3d0ZDhaZEZUMnp0aUZlZmJ6YlN0NldGM3RtaVUwdHAzZk1GZHFnUFhGTlFVQ3pQaU5fbThiQVpfSE5EY2dJcnhLYjZMTjk3RWRZSGs3bzVoc1lTZG9UcFZFSGxZ0gHkAUFVX3lxTE40dThnUUpiNzNOSm1DRHRNeUo0TUdmQ0o3MzdjNDJyNm9lZkpnOE9RZnUxRDhudlBBX0hsYnlBa25zWm9ZUGg5NWFodHpWWFFfeHh0MWRhM1RTUjQxbW8tSFZ5RnRnRnJiclFCRjdFNGJQUTlqVW50cy1yb0I0RkYtM2xyUlV0ckxwVkxuQ3ZzUmF1QWYwVFliSndCYXFHNVJpZ3ctS2M1UVV3Y24xMmFJRHhseEJLcG9rOW9LeUVMNGhjcXhtNDU4a1pPajZCZDVNNlU1ZFhvbEMwUDdIcVlPRWktbQ?oc=5"
+  },
+  {
+   "level": 3,
+   "raw_level": 3,
+   "reason": "region: latvia, baltic · matched “deploying nuclear weapons” · corroborated by Google News — Latvia security",
+   "source": "Google News — NATO & the Baltics",
+   "title": "“We have no legal obstacles” – Rinkēvičs on deploying nuclear weapons in Latvia - Baltic News Network",
+   "title_key": "have legal obstacles rinkēvičs deploying nuclear weapons latvia",
+   "ts": "2026-09-30T13:01:48+00:00",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPY3Y4NmtiUFdxcG43WUFhT1Z1OXM5LXd5WUVZT0VNRTBOanduVEViN3RaM2Y1d2F4MHVyV1FQU0VVd0VVVGZRazgxRGFqa1hjTHJDWkE0cjA4MlVmOGhXc01HTlRPajlvRmpQUlB1WDQ2RmhuMHNILVZWRlV2aVVrcHFheHY0dkluT1ZLWmpBRU1YNEJMcENYeHMza29Ua2U0blJJYktB?oc=5"
+  },
+  {
+   "level": 2,
+   "raw_level": 2,
+   "reason": "region: baltic, kaliningrad, nato, russia · matched “Nuclear”",
+   "source": "Google News — Latvia security",
+   "title": "Russia Warns NATO of Nuclear Response Over Kaliningrad as Baltic Tensions Rise - The Diplomatic Insight",
+   "title_key": "russia warns nato nuclear response over kaliningrad baltic",
+   "ts": "2026-09-30T13:01:48+00:00",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQUxLZ3FPQmt4cmRHM0VOWFgycG9Qck9BdWNvZFVPQ0pnM2J5STVucEhwc1l0MjdvOTZaeTdkN3RLT3ZXSUNBZmRTVmd4NlhXb3hlaFAzZEZqSjBiN2tFaEstTDAyeUQyMmVXTFJId3dDbGgxcUpuY0p2SldiT3c4bENMYmVsbDZwZHBaTWVR?oc=5"
+  },
+  {
+   "level": 2,
+   "raw_level": 2,
+   "reason": "region: baltic, nato, russia · matched “nuclear”",
+   "source": "Google News — Latvia security",
+   "title": "Russia issues NATO nuclear warning amid Baltic tensions - RTE.ie",
+   "title_key": "russia issues nato nuclear warning amid baltic tensions",
+   "ts": "2026-09-30T13:01:48+00:00",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUE5nSnMzYjJaNHRlX2ZzcGxHU1FtUHhhVWZDa1E3MDRpYjVraDhHYU1ZTGh4Yk9Gb3JmLUFzXzFwSUc3bENZLTFNUTh2ZTVBeVZhMDFMNGNuQjhHSzJJXzBlQWtYTy1QaFRxbTdGMGJhMWY1dDJhWk9wa2VqXzRRVGxVMV8tLWdOUmF4RzQ1dGFNeVRZbnU2Rnotb0RzSkU?oc=5"
+  },
+  {
+   "level": 2,
+   "raw_level": 2,
+   "reason": "official warning about Russia / NATO · matched “nuclear”",
+   "source": "Google News — eastern flank (PL/FI/NATO)",
+   "title": "Live - Euronews Defence Summit: Bulgarian PM warns of Russian 'nuclear risk' - Euronews.com",
+   "title_key": "live euronews defence summit bulgarian warns russian nuclear",
+   "ts": "2026-09-30T13:01:48+00:00",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQ29senpGTnk1alk1dWJULTJWUDZFendXMUtLNGVOOF9zRkRJd1pFQ1V0aHdPZUtXLXlvbFZTbVBZVTRzSGxiMS1sekYzWFpubVRhek1hX2xuRWNWejltY3ZJUDY5RzU5MDczMmxqQ1BOWkVGbXdEaWRJYWw0VWpqc2hXYU1BLTRncldiQmw1MzFCM2VVcmlRRUJfNzh1aEZ6RmYyeTZZbHlITDZHazE3NEJkLWRJUQ?oc=5"
+  },
+  {
+   "level": 1,
+   "raw_level": 1,
+   "reason": "region: latvia, latvian · matched “NBS (in text)”",
+   "source": "LSM (Latvian public media, EN)",
+   "title": "Latvia signs to buy 'Morana' artillery system in trilateral agreement",
+   "title_key": "latvia signs morana artillery system trilateral agreement",
+   "ts": "2026-09-30T13:01:49+00:00",
+   "url": "https://eng.lsm.lv/article/society/defence/30.09.2026-latvia-signs-to-buy-morana-artillery-system-in-trilateral-agreement.a665504/?utm_source=rss&utm_campaign=rss&utm_medium=links"
   }
  ],
- "runs": 73,
- "status_text": "📟 <b>CURRENT LEVEL: 🟡 L2 WATCH.</b> ‘Will be ready to use entire arsenal’: Russia warns Nato of nuclear response if Kaliningrad is isolated\n<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxNUGQ2NHlSSEFLOGVpQVU1V1BXMXFwbm9DdmdzZHQ4WWJ5NlFGdlpad3pyODhTblRXS1VRSE9jOTg0c2RWQVB2RnRuaU1jSlYzelgyOGNaRDZ0NW45OXdkVnRmd25ySmJLZ01RWEk4SFQ2TmgxSHhpaExTZHlLelBFdWdZV3d0ZDhaZEZUMnp0aUZlZmJ6YlN0NldGM3RtaVUwdHAzZk1GZHFnUFhGTlFVQ3pQaU5fbThiQVpfSE5EY2dJcnhLYjZMTjk3RWRZSGs3bzVoc1lTZG9UcFZFSGxZ0gHkAUFVX3lxTE40dThnUUpiNzNOSm1DRHRNeUo0TUdmQ0o3MzdjNDJyNm9lZkpnOE9RZnUxRDhudlBBX0hsYnlBa25zWm9ZUGg5NWFodHpWWFFfeHh0MWRhM1RTUjQxbW8tSFZ5RnRnRnJiclFCRjdFNGJQUTlqVW50cy1yb0I0RkYtM2xyUlV0ckxwVkxuQ3ZzUmF1QWYwVFliSndCYXFHNVJpZ3ctS2M1UVV3Y24xMmFJRHhseEJLcG9rOW9LeUVMNGhjcXhtNDU4a1pPajZCZDVNNlU1ZFhvbEMwUDdIcVlPRWktbQ?oc=5\">Firstpost via Google News — Latvia security</a> · Wed 30 Sep 15:31 · at L2 since Sun 27 Sep 23:01 (124 items at this level in 72 h)\n<b>Why L2:</b> region: kaliningrad, nato, russia · matched “nuclear”\n<b>Suggested action at L2:</b> Stay aware.\nLevel = highest of the last 72 h · updated Wed 30 Sep 15:31 · sources OK 25/25 · <a href=\"https://t.me/c/4455291623/25\">📖 Level guide</a>\nScale: ⚫5 Critical 🔴4 Urgent 🟠3 Elevated 🟡2 Watch 🟢1 Info ⚪0 Quiet"
+ "runs": 74,
+ "status_text": "📟 <b>CURRENT LEVEL: 🟠 L3 ELEVATED.</b> “We have no legal obstacles” – Rinkēvičs on deploying nuclear weapons in Latvia\n<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPY3Y4NmtiUFdxcG43WUFhT1Z1OXM5LXd5WUVZT0VNRTBOanduVEViN3RaM2Y1d2F4MHVyV1FQU0VVd0VVVGZRazgxRGFqa1hjTHJDWkE0cjA4MlVmOGhXc01HTlRPajlvRmpQUlB1WDQ2RmhuMHNILVZWRlV2aVVrcHFheHY0dkluT1ZLWmpBRU1YNEJMcENYeHMza29Ua2U0blJJYktB?oc=5\">Baltic News Network via Google News — NATO &amp; the Baltics</a> · Wed 30 Sep 16:01\n<b>Why L3:</b> region: latvia, baltic · matched “deploying nuclear weapons” · corroborated by Google News — Latvia security\n<b>Suggested action at L3:</b> Review your plan; make sure documents and essentials are in order.\nLevel = highest of the last 72 h · updated Wed 30 Sep 16:01 · sources OK 25/25 · <a href=\"https://t.me/c/4455291623/25\">📖 Level guide</a>\nScale: ⚫5 Critical 🔴4 Urgent 🟠3 Elevated 🟡2 Watch 🟢1 Info ⚪0 Quiet"
 }
