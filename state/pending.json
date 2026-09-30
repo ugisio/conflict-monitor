@@ -245,5 +245,24 @@
   "uid": "faadaca03b3ba1f2",
   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQOHRYMEE0SmNRTXE3Z1p6VkhlcDRyekZRMHdzeHQwYnNzanJEUFVMUlV0aVNtaUdSc0JqODNaLUNDUFRtTzY0Uk9acTJzN1ppZWpXanRrU1JOckVxRzFzVjBval9WSG5obXRETUJsTzNkdlpKTjNxSzV5azFxX2ZUWVNZdXJBbHhXa04zbC1LeXpDWVdSUlhETWJLR2lLRFVvX1dhM21nTUZ0dEV4cExwMnN3R0dWZ1JXeDBJ?oc=5",
   "warning": false
+ },
+ {
+  "first_seen": "2026-09-30T09:31:13+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-09-30T09:04:00+00:00",
+  "reason": "region: estonia, russia · matched “hybrid attack (in text)”",
+  "source_id": "err_en",
+  "source_name": "ERR News (Estonia, EN)",
+  "summary": "",
+  "text": "The Internal Security Service (ISS) has headed off a significant number of Russian-planned hybrid attacks inside Estonia in recent years, the authority's director general said.",
+  "tier": "news",
+  "title": "ISS director: We have prevented 'significant' number of Russian attacks",
+  "uid": "fa7a5f62fc98c6a2",
+  "url": "https://news.err.ee/1610152138/iss-director-we-have-prevented-significant-number-of-russian-attacks",
+  "warning": false
  }
 ]
