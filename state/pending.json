@@ -17,5 +17,43 @@
   "uid": "ddf79fe72cf12a73",
   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWEdJMDhCNVk4RldtcFBQaW9IUmdqWklnV1R5RjlHTS1XMHhNTzBnRmxrVFhYamJ2Zk5wYzYySy1nYlBjUWJqdWNiNTItaDQ1aWJFRWUwdWdvWGI4dVRfOTFheEo4QWpTR1VJYi01c1hHLW1TX19iLUZMa2MzUGduNS1XRnprY01Qek5oOENaQWlfZDBYZXZIVWUxVWM0VldwTDJsRlRvVHE?oc=5",
   "warning": false
+ },
+ {
+  "first_seen": "2026-09-30T07:01:25+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-09-30T06:52:07+00:00",
+  "reason": "region: latvia, latvian, baltic, russia · matched “nuclear”",
+  "source_id": "lsm_en",
+  "source_name": "LSM (Latvian public media, EN)",
+  "summary": "",
+  "text": "In response to potential Russian threats, Britain has committed to providing nuclear protection to the members of the Joint Response Force (JRF), including the Baltic states, reports Latvian Television.",
+  "tier": "news",
+  "title": "Britain pledges nuclear deterrent to defence of Baltic",
+  "uid": "87992b58a46e96ae",
+  "url": "https://eng.lsm.lv/article/society/defence/30.09.2026-britain-pledges-nuclear-deterrent-to-defence-of-baltic.a665412/?utm_source=rss&utm_campaign=rss&utm_medium=links",
+  "warning": false
+ },
+ {
+  "first_seen": "2026-09-30T07:01:35+00:00",
+  "kind": "post",
+  "lang": "ru",
+  "level": 2,
+  "note": "RU, independent Russian media based in Riga",
+  "posted": false,
+  "published": "2026-09-30T06:47:01+00:00",
+  "reason": "region: риг, калининград, нато, росси · planning/hypothetical wording, softened · matched “ядерным удар”",
+  "source_id": "tg_meduza",
+  "source_name": "Meduza",
+  "summary": "",
+  "text": "Посольство России в Ирландии пригрозило ядерным ударом в случае изоляции Калининграда В телеграм-канале дипмиссии опубликовали пост, посвященный заявлениям европейских политиков об усилении российских гибридных атак в странах ЕС. По словам дипломатов, у России «нет никаких планов для обострения ситуации с Европой», а «безответственная и близорукая европейская политическая элита ведет опасную игру». Посольство обвинило Евросоюз и НАТО в том, что они наращивают военную активность вдоль западной границы России, в том числе проводят военные учения. Дипломаты также указали на «поступающую информацию» о подготовке НАТО к воздушной и морской блокаде Калининградской области. О чем идет речь, дипмиссия не уточнила. Как недавно заявил министр иностранных дел России Сергей Лавров, если Запад нападет на нас, мы ответим, и это будет совершенно другая война — и очень короткая. Не должно быть никаких сомнений в том, что Россия будет готова использовать весь свой арсенал, включая ядерное оружие, для защиты своей территории, если страны НАТО попытаются изолировать Калининградскую область от остальной территории страны, — добавили в посольстве, призвав Европу отнестись к этому вопросу серьезно. @meduzalive",
+  "tier": "osint",
+  "title": "Посольство России в Ирландии пригрозило ядерным ударом в случае изоляции Калининграда В телеграм-канале дипмиссии опубликовали пост, посвяще…",
+  "uid": "2a37dc4f4ccf62bf",
+  "url": "https://t.me/meduzalive/148558",
+  "warning": false
  }
 ]
