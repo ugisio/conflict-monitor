@@ -1043,5 +1043,24 @@
   "uid": "7f187b96a07027a9",
   "url": "https://t.me/meduzalive/148594",
   "warning": false
+ },
+ {
+  "first_seen": "2026-09-30T16:58:54+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-09-30T16:33:34+00:00",
+  "reason": "region: kaliningrad, nato, russia · matched “threatens”",
+  "source_id": "gnews_latvia_security",
+  "source_name": "Google News — Latvia security",
+  "summary": "",
+  "text": "Russia formally threatens NATO with nuclear weapons over ‘attempt to isolate Kaliningrad’ The New Voice of Ukraine",
+  "tier": "news",
+  "title": "Russia formally threatens NATO with nuclear weapons over ‘attempt to isolate Kaliningrad’ - The New Voice of Ukraine",
+  "uid": "dae33b31109b52e9",
+  "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVkZ4YUJ5cXZlVGE5V0RyQ25Ed2VtalJfUF9ENTdFTHREb2hoY2V1QTJya1ltQmZ2YTM4SVVaSmJHWEJ5cHpLNi1pUzBWZUQyLTdXdXZWa2Y1d19fSUpEaE94MjRzQUpneE1oSndwNjdNYmJQYl94Nk5hQ3I1REVZQzNfZkg0ZjhjU1d4RjZuQUVwNHBObkxXakFrV29fSEFaQU0yakpha2jSAaQBQVVfeXFMTk1EYjhrZEpPdUR0R3ZNaldvQ09kYnlQRWJxVXFKc0VCLWhwM0I1NTJDNmE0ZGtoa2UtajlCcnd2X3lOMmptc3FubW1JempxSU10R2pDTHJ1alFRLW93Tzd0NHA2VnNrdUdicmwxdVVuNFVxTUtXaUhnRi1WZ0pRck1vRGx2bElUeUdPODhTTGdoaUU3S2xkX2p1dTlUY0ZIR3k5REQ?oc=5",
+  "warning": false
  }
 ]
