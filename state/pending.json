@@ -1005,5 +1005,43 @@
   "uid": "3c8f7da889a9487f",
   "url": "https://t.me/nexta_live/124259",
   "warning": true
+ },
+ {
+  "first_seen": "2026-09-30T16:31:18+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": true,
+  "published": "2026-09-30T16:12:28+00:00",
+  "reason": "region: kaliningrad, nato, russia · official warning · matched “threat”",
+  "source_id": "gnews_official_warnings",
+  "source_name": "Google News — official warnings",
+  "summary": "",
+  "text": "Mark Rutte says that NATO is not facing an imminent threat, while Russia warns the Alliance regarding Kaliningrad Informat.ro",
+  "tier": "news",
+  "title": "Mark Rutte says that NATO is not facing an imminent threat, while Russia warns the Alliance regarding Kaliningrad - Informat.ro",
+  "uid": "59bf4402bd00a300",
+  "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSDlSSmt1dl9oZjlBOWF0NW8zSnFDWktsWkpTeUQxLXp0SFNyWVlzckJiLUFvZktPcGktZFZBQnlVR3BYcm1zQ1hRNW84dEtRTTctV3lid2NfYVlHbkwtLWdSc3BKdkdKRzlaOGdvZ3p5TEQ4bTFENUJTUmtXeFFpNEl1WFBERVh5eVJYUGJLRQ?oc=5",
+  "warning": true
+ },
+ {
+  "first_seen": "2026-09-30T16:31:21+00:00",
+  "kind": "post",
+  "lang": "ru",
+  "level": 1,
+  "note": "RU, independent Russian media based in Riga",
+  "posted": false,
+  "published": "2026-09-30T16:18:28+00:00",
+  "reason": "region: беларус, росси · matched “угроз (in text)”",
+  "source_id": "tg_meduza",
+  "source_name": "Meduza",
+  "summary": "",
+  "text": "Россия договорилась обмениваться данными об экстремистах и террористах с пятью странами СНГ Соответствующее соглашение подписали генпрокуроры России, Беларуси, Казахстана, Киргизии, Таджикистана и Узбекистана. Теперь страны будут оперативно обмениваться информацией о террористических и экстремистских организациях и отдельных людях, которых власти считают угрозой безопасности. Обмен также коснется сведений о посягательствах на нарушение суверенитета государств или о возможных террористических атаках. @meduzalive",
+  "tier": "osint",
+  "title": "Россия договорилась обмениваться данными об экстремистах и террористах с пятью странами СНГ Соответствующее соглашение подписали генпрокурор…",
+  "uid": "7f187b96a07027a9",
+  "url": "https://t.me/meduzalive/148594",
+  "warning": false
  }
 ]
