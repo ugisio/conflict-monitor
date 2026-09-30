@@ -64,6 +64,8 @@ class Item:
     lang: str = "en"
     posted: bool = False
     warning: bool = False                # a senior official's public warning about Russian action against NATO/Europe
+    repeat_of: str = ""                  # headline of the already-reported story this item is another report of
+    repeats: int = 0                     # how many further reports of this story were folded into it (digest only)
     first_seen: str = field(default_factory=lambda: now_utc().isoformat(timespec="seconds"))
 
     def __post_init__(self):
@@ -98,6 +100,9 @@ class State:
         # normalised headlines already reported (any source) → first-seen time; stops the same story
         # arriving again from another outlet or a re-indexed Google News entry a few hours later
         self.titles: dict[str, str] = self._load("titles.json", {})
+        # stories already reported (topic fingerprint + level + first headline): further reports of the same story
+        # from other outlets are folded instead of alerting again
+        self.stories: list[dict] = self._load("stories.json", [])
 
     # -- io --
     def _load(self, name: str, default):
@@ -121,6 +126,7 @@ class State:
         self._save("status.json", self.status)
         self._save("subscribers.json", self.subscribers)
         self._save("titles.json", self.titles)
+        self._save("stories.json", self.stories)
 
     # -- headline memory (cross-run, cross-source duplicate detection) --
     def title_seen(self, key: str) -> bool:
@@ -145,6 +151,8 @@ class State:
         self.status["recent_levels"] = [r for r in self.status.get("recent_levels", []) if r.get("ts", "") >= cutoff_rl][-300:]
         cutoff_t = (now_utc() - timedelta(days=10)).isoformat()
         self.titles = {k: t for k, t in self.titles.items() if t >= cutoff_t}
+        cutoff_s = (now_utc() - timedelta(days=3)).isoformat()
+        self.stories = [st for st in self.stories if st.get("ts", "") >= cutoff_s][-400:]
 
     # -- snapshots (last known content per source) --
     def get_snapshot(self, source_id: str) -> Optional[dict]:
