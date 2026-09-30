@@ -321,5 +321,43 @@
   "uid": "ef183f681d7b9aef",
   "url": "https://t.me/novaya_europe/67703",
   "warning": false
+ },
+ {
+  "first_seen": "2026-09-30T11:01:34+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-09-30T10:19:34+00:00",
+  "reason": "region: kaliningrad, nato, russia · matched “nuclear threat” · single source, held at WATCH until another source corroborates",
+  "source_id": "gnews_latvia_security",
+  "source_name": "Google News — Latvia security",
+  "summary": "",
+  "text": "Russia warns NATO over Kaliningrad nuclear threat Investing.com",
+  "tier": "news",
+  "title": "Russia warns NATO over Kaliningrad nuclear threat - Investing.com",
+  "uid": "3fb6910570147576",
+  "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPS3hKcmpqZGJOeEtSMXhDcFBCbU1WdFJuSG03WU0xME9VSFFqRDhZTkFXS2YzalJYNTNCR3hzeGxCSUMtbHJsSGtYR1RkWF9QZlRKQUNBbjdjdzkzblBoTEVVb0RCREZUVXB4SEFJYnVKa20zdEVqeUFTNnp3NVd1UUtmcF91eHpaQmkwYlVSZ05WZkdjdmNwdmhvbi1yVkhJRG5oV2ltM0d1Zw?oc=5",
+  "warning": false
+ },
+ {
+  "first_seen": "2026-09-30T11:01:34+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-09-30T10:46:00+00:00",
+  "reason": "region: baltic, kaliningrad, nato, russia · matched “nuclear threat” · single source, held at WATCH until another source corroborates",
+  "source_id": "gnews_latvia_security",
+  "source_name": "Google News — Latvia security",
+  "summary": "",
+  "text": "Russia issues nuclear threat to Nato over Baltic enclave of Kaliningrad The Independent",
+  "tier": "news",
+  "title": "Russia issues nuclear threat to Nato over Baltic enclave of Kaliningrad - The Independent",
+  "uid": "a940586ec0a6ad62",
+  "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRnhEck11OWllUVdrSnVteFZwakowSlpQWkI3aDdKcXpYa0JjQjVEOE9lRFZYbzR1aHdUc1JoQndndndZdmhQejNyX0NDMnhpZEJEU0FFMjFsdXRid1hiSlNMUE1wWGdMYjR0N0lnY0ZfbFpBLTBGMVhyMkZmS0pkajZSdVF5aTNfdEFJc0lpWXplN2ZmQXJhc3laZzRUQjJS?oc=5",
+  "warning": false
  }
 ]
