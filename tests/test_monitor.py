@@ -421,3 +421,64 @@ def test_official_warnings_are_kept_and_posted_silently(tmp_path):
     with mock.patch.object(m, "collect", return_value=[out]):
         m.run_poll(CFG, st, TG())
     assert any(t.startswith("🗣") and silent for t, silent in sent)
+
+
+def test_story_clustering_folds_repeat_reports(tmp_path):
+    """30 Sep: one Kaliningrad nuclear-threat story produced six L3 alerts and a dozen digest lines.
+    The first report (once corroborated) is alerted; later reports from other outlets are folded."""
+    from monitor import __main__ as m
+    st = tmp_state(tmp_path)
+    tz = local_tz(CFG)
+    sent = []
+
+    class TG(Telegram):
+        def send(self, text, chat_id=None, silent=False, pin=False):
+            sent.append((text.split("\n")[1][:60] if "\n" in text else text[:60], silent)); return len(sent)
+        def sync_subscribers(self, *a, **k): pass
+
+    def news(title, src="Google News — Latvia security"):
+        return Item(source_id=src, source_name=src, title=title, url="https://x/" + str(abs(hash(title))), kind="news", tier="news")
+
+    # run 1: two outlets, same story → corroborated L3, ONE alert, second folded
+    run1 = [classify.classify(news("Russia sends NATO new nuclear threat over Kaliningrad as tensions rise - The Kyiv Independent"), _src("news"), CFG),
+            classify.classify(news("Russia issues new nuclear threat to West over Kaliningrad - Прямий", "Google News — NATO & the Baltics"), _src("news"), CFG)]
+    run1 = classify.corroborate(run1, recent=[])
+    assert all(i.level == 3 for i in run1)
+    with mock.patch.object(m, "collect", side_effect=lambda cfg, state, dry=False: classify.cluster(run1, state.stories)):
+        m.run_poll(CFG, st, TG())
+    alerts = [t for t, silent in sent if "nuclear" in t.lower()]
+    assert len(alerts) == 1, alerts
+    assert sum(1 for i in run1 if i.repeat_of) == 1 and len(st.stories) == 1 and st.stories[0]["n"] == 2
+
+    # run 2: three more outlets on the same story → nothing new is alerted
+    sent.clear()
+    run2 = [classify.classify(news(t, s), _src("news"), CFG) for t, s in [
+        ("NATO responded to Russia's nuclear threat over Kaliningrad - unn.ua", "Google News — Latvia security"),
+        ("Russia threatens nuclear response to any Nato blockade of Kaliningrad - IntelliNews", "Google News — NATO & the Baltics"),
+        ("Why Moscow Is Raising the Nuclear Stakes Over Kaliningrad - kyivpost.com", "Google News — Latvia security")]]
+    run2 = classify.corroborate(run2, recent=st.status["recent_levels"])
+    with mock.patch.object(m, "collect", side_effect=lambda cfg, state, dry=False: classify.cluster(run2, state.stories)):
+        m.run_poll(CFG, st, TG())
+    assert not [t for t, s in sent if "nuclear" in t.lower()], sent
+    assert all(i.repeat_of for i in run2) and st.stories[0]["n"] == 5
+    # the pinned status counts one story at L3, not five items
+    level, row = st.overall_level(72)
+    assert level == 3 and row["n"] == 1
+
+    # a genuinely different story is not folded; an escalation of the same story IS reported
+    run3 = [classify.classify(news("Estonia reports airspace violation by Russian jets over Vaindloo", "ERR News"), _src("news"), CFG)]
+    classify.cluster(run3, st.stories)
+    assert not run3[0].repeat_of and len(st.stories) == 2
+    esc_item = news("Russia moves tactical nuclear weapons to Kaliningrad, Lithuanian intelligence says", "LRT")
+    esc_item = classify.classify(esc_item, _src("official"), CFG)     # official tier for the test: not capped/held
+    esc_item.tier = "news"; esc_item.level = 4
+    classify.cluster([esc_item], st.stories)
+    assert not esc_item.repeat_of and "escalated" in esc_item.reason and st.stories[0]["level"] == 4
+
+    # digest: repeats are folded into the head line
+    st.pending = []
+    for it in run1 + run2:
+        st.add_pending(it)
+    text = build_digest(st.take_pending(), st, CFG, tz, 3, None)
+    assert "(+4 more reports)" in text
+    assert text.count("Kaliningrad") == 1, text
