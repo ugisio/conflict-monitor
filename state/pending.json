@@ -359,5 +359,43 @@
   "uid": "a940586ec0a6ad62",
   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRnhEck11OWllUVdrSnVteFZwakowSlpQWkI3aDdKcXpYa0JjQjVEOE9lRFZYbzR1aHdUc1JoQndndndZdmhQejNyX0NDMnhpZEJEU0FFMjFsdXRid1hiSlNMUE1wWGdMYjR0N0lnY0ZfbFpBLTBGMVhyMkZmS0pkajZSdVF5aTNfdEFJc0lpWXplN2ZmQXJhc3laZzRUQjJS?oc=5",
   "warning": false
+ },
+ {
+  "first_seen": "2026-09-30T11:20:03+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-09-30T11:06:00+00:00",
+  "reason": "region: estonia · matched “threatens (in text)”",
+  "source_id": "err_en",
+  "source_name": "ERR News (Estonia, EN)",
+  "summary": "",
+  "text": "Estonia's rescue service needs around 100 more personnel, its deputy director has said, warning pay remains too low and the shortfall threatens response capacity.",
+  "tier": "news",
+  "title": "Rescue chief: Estonia short of more than 100 firefighters as pay lags",
+  "uid": "6143b1de9bbc2705",
+  "url": "https://news.err.ee/1610152204/rescue-chief-estonia-short-of-more-than-100-firefighters-as-pay-lags",
+  "warning": false
+ },
+ {
+  "first_seen": "2026-09-30T11:20:04+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-09-30T11:00:11+00:00",
+  "reason": "region: latvia, nato · matched “Nuclear”",
+  "source_id": "gnews_latvia_security",
+  "source_name": "Google News — Latvia security",
+  "summary": "",
+  "text": "NATO's Nuclear Weapons May Appear in Latvia — Rinkēvičs Explained Under What Conditions Inbox.lv",
+  "tier": "news",
+  "title": "NATO's Nuclear Weapons May Appear in Latvia — Rinkēvičs Explained Under What Conditions - Inbox.lv",
+  "uid": "f9f56055cacc849e",
+  "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPUVl1TmdRZXhaQ2VDanJ4ZXl1WV9tcnlOZlpYWVd5aXBQS3FpckdrWWFEcWRfN2Mwa2k5dGQwV2VmMm9lRG5nYi1HME9kdHA5Z21CQUU4eG5XTDU3d3RILVQyT3VReEFlZVZEcDNBQVJfMWhMNkVIYWRhbGhYdnRPb1JjdkZCZHNWOWtwR2pTQS1ZY1diTHVtbTdaUXVtd1BFUGNFWlgySWFycnRHYmNXMExvSGhqd0tFTTNVZFBZTW1sdzRZbkE?oc=5",
+  "warning": false
  }
 ]
