@@ -245,5 +245,24 @@
   "uid": "6fe2fb3b028c7ba6",
   "url": "https://t.me/ClashReport/98969",
   "warning": true
+ },
+ {
+  "first_seen": "2026-09-30T03:01:28+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-09-30T02:41:13+00:00",
+  "reason": "region: kaliningrad · matched “Nuclear”",
+  "source_id": "gnews_latvia_security",
+  "source_name": "Google News — Latvia security",
+  "summary": "",
+  "text": "Why Moscow Is Raising the Nuclear Stakes Over Kaliningrad kyivpost.com",
+  "tier": "news",
+  "title": "Why Moscow Is Raising the Nuclear Stakes Over Kaliningrad - kyivpost.com",
+  "uid": "a5ca8e7e4fd056af",
+  "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE51a29yYnNMODFjR0duUHA0NXRzdFVEZTlfeXc3VklyNEtCeHlrSVBQb1B4SlZEeTFITkVPV1IyenR4WmpwMnBXNWpVSQ?oc=5",
+  "warning": false
  }
 ]
