@@ -28,7 +28,8 @@ RULES: list[tuple[str, int]] = [
     # Nuclear: only actual threats/use/deployment near us are URGENT. Policy talk about nuclear weapons is WATCH (below).
     (r"nuclear (strike|attack|alert)|threat(en|ens|ened)?s? (to use )?nuclear|nuclear threat|"
      r"tactical nuclear weapons? (deploy|moved|transferred|stationed)|"
-     r"(moves?|moving|moved|deploys?|deploying|deployed|transfers?|transferred|stations?|stationed) (its )?(tactical )?nuclear (weapons?|warheads?|missiles?)|"
+     r"(russia|moscow|kremlin|putin|belarus|minsk|lukashenko)\w* .{0,40}(moves?|moving|moved|deploys?|deploying|deployed|transfers?|transferred|stations?|stationed) (its )?(tactical )?nuclear (weapons?|warheads?|missiles?)|"
+     r"nuclear (weapons?|warheads?|missiles?) (to|in|into) (kaliningrad|belarus)|"
      r"ядерн\w+ (удар|угроз)", 4),
     # ---- 3 ELEVATED
     (r"authori[sz]ed departure|authori[sz]e[ds]? (the )?(voluntary )?departure|voluntary departure|"
@@ -44,7 +45,9 @@ RULES: list[tuple[str, int]] = [
      r"(задейств|активир|запрос)\w* стать[юи] 4|консультаци\w* по стать[еи] 4", 3),
     (r"security alert", 3),
     (r"(troop|force|military) (build[- ]?up|movement|concentration|deployment)|наращива\w+ (войск|сил|группировк)|переброск\w+ (войск|техник)", 3),
-    (r"violat(e|ed|ion of) (latvian|estonian|lithuanian|nato|polish|finnish)? ?airspace|наруш\w+ воздушн\w+ пространств", 3),
+    (r"violat(e|ed|es|ing|ion|ions) (of )?(the )?(latvian|estonian|lithuanian|nato|polish|finnish|baltic)? ?airspace|airspace violation|"
+     r"(enter|entered|cross|crossed|breach|breached|intrude|intruded)\w* (into )?(latvian|estonian|lithuanian|nato|polish|finnish|baltic) airspace|"
+     r"наруш\w+ воздушн\w+ пространств", 3),
     # Incursions/invasions count only when aimed at our region (background mentions of Ukraine are stripped below).
     (r"(incursion|invasion)s? (into|of|in) (latvia|estonia|lithuania|the baltics?|baltic|poland|finland|nato)|"
      r"(latvian|estonian|lithuanian|baltic|polish|finnish|nato) (airspace |territory |border )?incursion|"
@@ -59,7 +62,9 @@ RULES: list[tuple[str, int]] = [
     (r"cyber ?attack|кибератак|gps (jamming|spoofing)|глушени", 2),
     (r"military exercise|exercises?\b.{0,40}(russia|belarus|zapad|nato)|учени[яй]|zapad|запад-20", 2),
     (r"\bexplosion\b|\bblast\b|взрыв", 2),
-    (r"\bdetain|\barrest|espionage|spy|шпион|задержан", 2),
+    (r"(detain|arrest)\w*.{0,80}(spy|spies|espionage|sabot|agent|fsb|gru|treason|russian intelligence)|"
+     r"(spy|spies|espionage|sabot\w*|agent|treason).{0,80}(detain|arrest)\w*|espionage|\bspy\b|\bspies\b|"
+     r"шпион|госизмен|(задержан|арестован)\w*.{0,80}(шпион|фсб|гру|диверс|агент)", 2),
     (r"threat(en|ens|ened)?\b|угро[зж]", 2),
     (r"escalat|эскалац|provocat|провокац", 2),
     (r"(security|safety) (situation|update|advice) (has )?(changed|updated)|warnings and insurance", 2),
@@ -92,7 +97,9 @@ HYPOTHETICAL = re.compile(
 # rhetoric (WATCH), not an official act. Threats by the government itself are not softened.
 RHETORIC = re.compile(
     r"state[- ](media|tv|television|run|controlled)|propagand|pundit|tv (host|show|anchor)|talk[- ]show|blogger|"
-    r"columnist|op-ed|opinion|analysis|explainer|explained|rhetoric|\bsignals?\b|pressure campaign|"
+    r"columnist|op-ed|opinion|analysis|analyst|explainer|explained|rhetoric|\bsignals?\b|pressure campaign|"
+    r"^why\b|\bwhy (moscow|russia|putin|the kremlin)|russian (embassy|ambassador|diplomat)|embassy of russia|"
+    r"spokes(man|woman|person)|zakharova|war game|tv show|российск\w* посольств|посольств\w* росси|"
     r"пропаганд|телевед|госсми|госканал|пропагандист", re.I)
 
 
@@ -105,7 +112,7 @@ SENIOR = re.compile(
     r"(army|military|navy|air force) (chief|commander|head)|\bgeneral\b|admiral|"
     r"\bintelligence\b|spy (chief|agency)|security (service|council)|foreign minister|"
     r"\b(bnd|mi6|mi5|cia|sis|säpo|supo|sab|kapo|vsd|abw|nsa)\b|nato('s)? (secretary|chief|commander|head)|"
-    r"\brutte\b|saceur|\b(putin|lavrov|medvedev|peskov|shoigu|belousov|gerasimov|lukashenko)\b|"
+    r"\brutte\b|saceur|\b(putin|lavrov|medvedev|peskov|shoigu|belousov|gerasimov|lukashenko)(:| says| said| warns| warned| threatens| threatened| vows| declares)|"
     r"\b(tusk|merz|macron|starmer|stubb|frederiksen|kristersson|støre|store|orpo|nausėda|nauseda|"
     r"rinkēvičs|rinkevics|siliņa|silina|kallas|michal|karis|pistorius|healey|kubilius|von der leyen|zelensky|budanov)\b|"
     r"премьер|президент|министр обороны|глав\w+ (генштаба|разведки|минобороны)|генерал|канцлер", re.I)
@@ -119,19 +126,47 @@ ESCALATION = re.compile(
     r"(russia|moscow|kremlin|putin) (could|may|might|will|would|is preparing to|is ready to|plans? to|wants? to|intends? to) "
     r"(attack|strike|occupy|invade|test|seize|move|provoke|hit)|"
     r"escalat|within (the next )?(\d+ |a few |several |two |three |five )?(years?|months?|weeks?|days?)\b|by 20(2[6-9]|3\d)|"
-    r"\bhybrid\b|shadow war|sabotage campaign|\bwarn(s|ed|ing)?\b|предупре(дил|ждает)|"
+    r"\bhybrid (attack|war|threat|campaign|operation)|sabotage campaign|"
+    r"\bwarn(s|ed|ing)?\b.{0,80}(attack|war\b|threat|invasion|invade|escalat|hybrid|sabotage|nuclear|drone|provocation|"
+    r"aggress|occup|strike|missile|troops|border|airspace|incursion|conflict)|предупре(дил|ждает).{0,80}(нападен|атак|угроз|войн|эскалац|провокац)|"
     r"нападени|напад(ет|ут)|атак(а|ует|овать)|оккуп|войн[аыуе] с|готов\w* к войне|ближайшие (недели|месяцы)|"
     r"агресси|провокаци|эскалац", re.I)
 RUSSIA = re.compile(r"russia|moscow|kremlin|putin|росси|кремл|путин|москв|\bnato\b|article [45]|eastern flank|нато", re.I)
-NOT_WARNING = re.compile(r"tariff|oil price|gas price|energy price|inflation|trade deal|grain|election result|"
-                         r"visa|tourist|football|hockey|eurovision", re.I)
+NOT_WARNING = re.compile(r"tariff|oil price|gas price|energy price|inflation|trade deal|grain|election result|econom|"
+                         r"visa|tourist|football|hockey|eurovision|sanction|peace (talks|deal|plan)|ceasefire", re.I)
+# The Ukraine war itself is out of scope unless the alliance / the flank is in the same breath.
+UKRAINE = re.compile(r"ukrain|kyiv|kiev|kharkiv|odesa|odessa|donbas|zaporizh|kherson|\bsumy\b|dnipro|crimea|"
+                     r"украин|киев|харьков|одесс|донбас|запорож|херсон|днепр|крым", re.I)
+FLANK = re.compile(r"\bnato\b|baltic|latvia|estonia|lithuania|poland|polish|finland|finnish|europe|alliance|article [45]|"
+                   r"kaliningrad|belarus|suwa[lł]ki|нато|балти|прибалт|латви|эстони|литв|польш|финлянд|европ|калининград|беларус", re.I)
 
 
 def official_warning(text: str) -> bool:
-    """A senior figure + an escalation phrase + Russia/NATO in the same headline/opening text (not economics/sport)."""
+    """A senior figure + an escalation phrase + Russia/NATO in the same headline/opening text — and not economics,
+    sport, commentary about a leader, a reassurance, or Ukraine-war news without an alliance angle."""
     t = text or ""
-    return bool(RUSSIA.search(t) and SENIOR.search(t) and ESCALATION.search(t) and not NOT_WARNING.search(t))
+    if not (RUSSIA.search(t) and SENIOR.search(t) and ESCALATION.search(t)):
+        return False
+    if NOT_WARNING.search(t) or REASSURANCE.search(t) or RHETORIC.search(t):
+        return False
+    if UKRAINE.search(t) and not FLANK.search(t):
+        return False
+    return True
 
+
+# "No imminent threat", "sees no signs of escalation", "unlikely": a reassurance, the opposite of a warning → INFO.
+REASSURANCE = re.compile(
+    r"\bno (\w+ ){0,3}(threat|danger|sign|signs|indication|evidence|plans?)\b|"
+    r"not (facing|planning|preparing|going to|about to|expected)|\bunlikely\b|rules? out|ruled out|"
+    r"does not expect|doesn'?t expect|no reason to (fear|panic|worry)|"
+    r"не видит (угроз|признак)|нет (угроз|признак)|не ожида|маловероятн|исключ(ил|ает) (возможность|угрозу)", re.I)
+
+# Daily round-up posts from the Russian-language channels ("Главное за 29 сентября", "Что еще произошло")
+# mention everything and mean nothing specific → dropped.
+ROUNDUP = re.compile(
+    r"главное за \d|что еще произошло|что ещё произошло|коротко о главном|итоги дня|главные новости|дайджест|"
+    r"\d+-й день (войны|вторжения)|what happened (today|this week)|daily (brief|roundup|digest)|live ?blog|"
+    r"as it happened|^live -", re.I)
 
 # Hybrid incidents (arson, sabotage, vandalism, cyber) are WATCH even when a headline calls them an "attack";
 # the L3 attack rule is for kinetic events (explosions, missiles, shelling, strikes).
@@ -164,10 +199,22 @@ EMBASSY_WORDS = re.compile(r"embassy|consulate|посольств", re.I)
 
 
 # Baltic-specific words in a title strongly imply relevance for OSINT/news.
+_KW_CACHE: dict[str, "re.Pattern[str]"] = {}
+
+
+def _kw(k: str) -> "re.Pattern[str]":
+    """Keyword must start at a word boundary (so "riga" never matches "brigade", "риг" never matches "бригада");
+    suffixes are allowed because the Russian/Latvian entries are stems."""
+    rx = _KW_CACHE.get(k)
+    if rx is None:
+        rx = _KW_CACHE[k] = re.compile(r"(?<![a-zа-яёāēīūšģķļņčž])" + re.escape(k.lower()), re.I)
+    return rx
+
+
 def relevance(text: str, cfg: dict) -> tuple[bool, list[str]]:
     t = (text or "").lower()
-    core = [k for k in cfg["region"]["core_keywords"] if k.lower() in t]
-    ctx = [k for k in cfg["region"]["context_keywords"] if k.lower() in t]
+    core = [k for k in cfg["region"]["core_keywords"] if _kw(k).search(t)]
+    ctx = [k for k in cfg["region"]["context_keywords"] if _kw(k).search(t)]
     return (bool(core), core + ctx)
 
 
@@ -189,8 +236,10 @@ def classify(item: Item, src: dict, cfg: dict, llm_enabled: bool = False) -> Ite
     # Official Latvia-specific sources are always relevant; news/OSINT must mention the region — or be a senior
     # official's warning about Russian action against NATO/Europe (headline, or the opening of an OSINT post).
     if tier in ("news", "osint"):
-        ok, hits = relevance(text, cfg)
         head = item.title if item.kind != "post" else f"{item.title} {item.text[:400]}"
+        if ROUNDUP.search(item.title):
+            return None                       # daily round-ups mention everything
+        ok, hits = relevance(head if item.kind == "post" else text, cfg)
         item.warning = official_warning(head)
         if not ok and not item.warning:
             return None
@@ -237,6 +286,11 @@ def classify(item: Item, src: dict, cfg: dict, llm_enabled: bool = False) -> Ite
             if lvl == 3 and INCIDENT.search(item.title) and not KINETIC.search(item.title):
                 lvl = 2
                 item.reason += " · hybrid incident (sabotage/arson/cyber) → WATCH"
+            # "No imminent threat", "sees no signs of escalation": the opposite of an alarm.
+            if lvl >= 2 and REASSURANCE.search(item.title):
+                lvl = 1
+                item.warning = False
+                item.reason += " · reassurance, not a warning"
         item.level = max(item.level, lvl, base if lvl >= 1 or tier == "official" else 0)
         if why:
             item.reason = (item.reason + " · " if item.reason else "") + f"matched “{why}”"
@@ -291,6 +345,41 @@ def same_story(a: str, b: str) -> bool:
     ("nuclear"/"nuclear", "arson"/"arson", "milrem"/"milrem"). Region names and generic security words
     don't count, so 'air-raid siren test' cannot corroborate 'nuclear threats'."""
     return bool(story_stems(a) & story_stems(b))
+
+
+def cluster(items: list[Item], stories: list[dict], hours: int = 24) -> list[Item]:
+    """Fold further reports of an already-reported story. `stories` (persisted) holds one entry per story:
+    its topic fingerprint, first headline, highest level and report count. A new item about a known story
+    is marked `repeat_of` unless it *raises* the story's level (then it is reported as an escalation).
+    Official sources and markets are never folded."""
+    from datetime import datetime, timedelta, timezone
+    now = datetime.now(timezone.utc)
+    cutoff = (now - timedelta(hours=hours)).isoformat()
+    live = [st for st in stories if st.get("ts", "") >= cutoff]
+    for it in sorted(items, key=lambda x: (-x.level, x.tier != "official")):
+        if it.tier not in ("news", "osint"):
+            continue
+        stems = story_stems(it.title)
+        if not stems:
+            continue
+        hit = next((st for st in live if stems & set(st.get("stems", []))), None)
+        if hit is None:
+            entry = {"stems": sorted(stems), "title": it.title[:200], "ts": now.isoformat(timespec="seconds"),
+                     "level": it.level, "source": it.source_name, "n": 1}
+            stories.append(entry)
+            live.append(entry)
+            continue
+        hit["n"] = hit.get("n", 1) + 1
+        hit["stems"] = sorted(set(hit.get("stems", [])) | stems)[:40]
+        if it.level > hit.get("level", 0):
+            it.reason += f" · story escalated from L{hit.get('level', 0)} ({hit.get('n', 1)} reports so far)"
+            hit["level"] = it.level
+            hit["title"] = it.title[:200]
+            hit["ts"] = now.isoformat(timespec="seconds")
+        else:
+            it.repeat_of = hit.get("title", "")
+            it.reason += " · another report of a story already in the channel"
+    return items
 
 
 def title_key(t: str) -> str:
