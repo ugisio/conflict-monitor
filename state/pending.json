@@ -40,5 +40,26 @@
   "uid": "a2482da637302dd7",
   "url": "https://t.me/meduzalive/148595",
   "warning": false
+ },
+ {
+  "first_seen": "2026-09-30T18:01:28+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-09-30T17:22:21+00:00",
+  "reason": "region: kaliningrad, nato · matched “Nuclear” · another report of a story already in the channel",
+  "repeat_of": "Russia Warns NATO It Will Use Nuclear Weapons If It Cuts Off Kaliningrad: how 16 outlets framed it - NewsCord",
+  "repeats": 0,
+  "source_id": "gnews_latvia_security",
+  "source_name": "Google News — Latvia security",
+  "summary": "",
+  "text": "Moscow Warns NATO of Nuclear Clash Risk Over Kaliningrad News.by",
+  "tier": "news",
+  "title": "Moscow Warns NATO of Nuclear Clash Risk Over Kaliningrad - News.by",
+  "uid": "3520824659e92a80",
+  "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbGlHMGsxZ0FVOTZ5NEpsRC1vSkVlNzZ4dDZxanJURWdSdkY4bEVmRmRKM2F1bHQ0NE5DQ2lIVk9OeWV2LVJOVDBlZjRSVnYwSmxLLXhHZ2R1UEtGVlVtVTE2RzlLdFJLYUVZMnlZZFljQkNUM1RGcVJPRFdvZkM0WDJLdjFiVmxOTEFVMVduMDg5QQ?oc=5",
+  "warning": false
  }
 ]
