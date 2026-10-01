@@ -1,7 +1,7 @@
 [
  {
   "level": 3,
-  "n": 29,
+  "n": 31,
   "source": "Google News — official warnings",
   "stems": [
    "accep",
@@ -9,6 +9,7 @@
    "allia",
    "allow",
    "appro",
+   "assur",
    "block",
    "bolst",
    "canno",
@@ -42,8 +43,7 @@
    "putin",
    "ready",
    "respo",
-   "rutte",
-   "sabot"
+   "rutte"
   ],
   "title": "NATO Chief Rutte Dismisses Russia’s Nuclear Threats Over Kaliningrad - Межа. Новини України.",
   "ts": "2026-09-30T20:01:35+00:00"
@@ -80,12 +80,23 @@
   "ts": "2026-09-30T17:31:23+00:00"
  },
  {
-  "level": 1,
-  "n": 1,
+  "level": 2,
+  "n": 3,
   "source": "NEXTA Live",
   "stems": [
+   "artic",
+   "coast",
    "drone",
+   "easte",
+   "force",
+   "infra",
+   "marin",
+   "prote",
+   "reinf",
+   "senso",
+   "sentr",
    "shiel",
+   "under",
    "армии",
    "более",
    "борьб",
@@ -99,8 +110,8 @@
    "учени",
    "чехии"
   ],
-  "title": "В Чехии тестируют дроны и системы борьбы с ними для будущих закупок армии В учениях «Drone Shield 2026» участвуют более 70 компаний из 17 ст…",
-  "ts": "2026-09-30T19:31:31+00:00"
+  "title": "Drone shot down by NATO jets in eastern Latvia / Article - LSM",
+  "ts": "2026-10-01T09:31:18+00:00"
  },
  {
   "level": 2,
