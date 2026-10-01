@@ -2,203 +2,203 @@
  "guide_message_id": 25,
  "health": {
   "canada_latvia": {
-   "error": "",
-   "fail_streak": 0,
+   "error": "ReadTimeout: HTTPSConnectionPool(host='travel.gc.ca', port=443): Read timed out. (read timeout=30)",
+   "fail_streak": 1,
    "items_last": 0,
    "last_ok": "2026-10-01T14:31:12+00:00",
-   "last_run": "2026-10-01T14:31:12+00:00",
-   "ok": true
+   "last_run": "2026-10-01T14:45:06+00:00",
+   "ok": false
   },
   "err_en": {
-   "error": "",
-   "fail_streak": 0,
+   "error": "HTTPError: 403 Client Error: Forbidden for url: https://news.err.ee/rss",
+   "fail_streak": 1,
    "items_last": 50,
    "last_ok": "2026-10-01T14:31:14+00:00",
-   "last_run": "2026-10-01T14:31:14+00:00",
-   "ok": true
+   "last_run": "2026-10-01T14:45:09+00:00",
+   "ok": false
   },
   "fcdo_estonia": {
    "error": "",
    "fail_streak": 0,
    "items_last": 0,
-   "last_ok": "2026-10-01T14:31:09+00:00",
-   "last_run": "2026-10-01T14:31:09+00:00",
+   "last_ok": "2026-10-01T14:44:36+00:00",
+   "last_run": "2026-10-01T14:44:36+00:00",
    "ok": true
   },
   "fcdo_latvia": {
    "error": "",
    "fail_streak": 0,
    "items_last": 0,
-   "last_ok": "2026-10-01T14:31:09+00:00",
-   "last_run": "2026-10-01T14:31:09+00:00",
+   "last_ok": "2026-10-01T14:44:35+00:00",
+   "last_run": "2026-10-01T14:44:35+00:00",
    "ok": true
   },
   "fcdo_lithuania": {
    "error": "",
    "fail_streak": 0,
    "items_last": 0,
-   "last_ok": "2026-10-01T14:31:09+00:00",
-   "last_run": "2026-10-01T14:31:09+00:00",
+   "last_ok": "2026-10-01T14:44:36+00:00",
+   "last_run": "2026-10-01T14:44:36+00:00",
    "ok": true
   },
   "germany_latvia": {
    "error": "",
    "fail_streak": 0,
    "items_last": 0,
-   "last_ok": "2026-10-01T14:31:13+00:00",
-   "last_run": "2026-10-01T14:31:13+00:00",
+   "last_ok": "2026-10-01T14:45:07+00:00",
+   "last_run": "2026-10-01T14:45:07+00:00",
    "ok": true
   },
   "gnews_airspace": {
    "error": "",
    "fail_streak": 0,
    "items_last": 0,
-   "last_ok": "2026-10-01T14:31:14+00:00",
-   "last_run": "2026-10-01T14:31:14+00:00",
+   "last_ok": "2026-10-01T14:45:08+00:00",
+   "last_run": "2026-10-01T14:45:08+00:00",
    "ok": true
   },
   "gnews_embassy": {
    "error": "",
    "fail_streak": 0,
    "items_last": 1,
-   "last_ok": "2026-10-01T14:31:16+00:00",
-   "last_run": "2026-10-01T14:31:16+00:00",
+   "last_ok": "2026-10-01T14:45:11+00:00",
+   "last_run": "2026-10-01T14:45:11+00:00",
    "ok": true
   },
   "gnews_flank_warnings": {
    "error": "",
    "fail_streak": 0,
    "items_last": 28,
-   "last_ok": "2026-10-01T14:31:18+00:00",
-   "last_run": "2026-10-01T14:31:18+00:00",
+   "last_ok": "2026-10-01T14:45:13+00:00",
+   "last_run": "2026-10-01T14:45:13+00:00",
    "ok": true
   },
   "gnews_latvia_security": {
    "error": "",
    "fail_streak": 0,
-   "items_last": 46,
-   "last_ok": "2026-10-01T14:31:15+00:00",
-   "last_run": "2026-10-01T14:31:15+00:00",
+   "items_last": 48,
+   "last_ok": "2026-10-01T14:45:10+00:00",
+   "last_run": "2026-10-01T14:45:10+00:00",
    "ok": true
   },
   "gnews_nato": {
    "error": "",
    "fail_streak": 0,
-   "items_last": 47,
-   "last_ok": "2026-10-01T14:31:17+00:00",
-   "last_run": "2026-10-01T14:31:17+00:00",
+   "items_last": 48,
+   "last_ok": "2026-10-01T14:45:12+00:00",
+   "last_run": "2026-10-01T14:45:12+00:00",
    "ok": true
   },
   "gnews_official_warnings": {
    "error": "",
    "fail_streak": 0,
    "items_last": 7,
-   "last_ok": "2026-10-01T14:31:17+00:00",
-   "last_run": "2026-10-01T14:31:17+00:00",
+   "last_ok": "2026-10-01T14:45:12+00:00",
+   "last_run": "2026-10-01T14:45:12+00:00",
    "ok": true
   },
   "lrt_en": {
    "error": "",
    "fail_streak": 0,
-   "items_last": 26,
-   "last_ok": "2026-10-01T14:31:15+00:00",
-   "last_run": "2026-10-01T14:31:15+00:00",
+   "items_last": 27,
+   "last_ok": "2026-10-01T14:45:09+00:00",
+   "last_run": "2026-10-01T14:45:09+00:00",
    "ok": true
   },
   "lsm_en": {
    "error": "",
    "fail_streak": 0,
    "items_last": 44,
-   "last_ok": "2026-10-01T14:31:14+00:00",
-   "last_run": "2026-10-01T14:31:14+00:00",
+   "last_ok": "2026-10-01T14:45:08+00:00",
+   "last_run": "2026-10-01T14:45:08+00:00",
    "ok": true
   },
   "polymarket": {
    "error": "",
    "fail_streak": 0,
    "items_last": 0,
-   "last_ok": "2026-10-01T14:31:25+00:00",
-   "last_run": "2026-10-01T14:31:25+00:00",
+   "last_ok": "2026-10-01T14:45:21+00:00",
+   "last_run": "2026-10-01T14:45:21+00:00",
    "ok": true
   },
   "tg_astra": {
    "error": "",
    "fail_streak": 0,
    "items_last": 16,
-   "last_ok": "2026-10-01T14:31:21+00:00",
-   "last_run": "2026-10-01T14:31:21+00:00",
+   "last_ok": "2026-10-01T14:45:16+00:00",
+   "last_run": "2026-10-01T14:45:16+00:00",
    "ok": true
   },
   "tg_clashreport": {
    "error": "",
    "fail_streak": 0,
    "items_last": 20,
-   "last_ok": "2026-10-01T14:31:19+00:00",
-   "last_run": "2026-10-01T14:31:19+00:00",
+   "last_ok": "2026-10-01T14:45:14+00:00",
+   "last_run": "2026-10-01T14:45:14+00:00",
    "ok": true
   },
   "tg_disclosetv": {
    "error": "",
    "fail_streak": 0,
    "items_last": 3,
-   "last_ok": "2026-10-01T14:31:19+00:00",
-   "last_run": "2026-10-01T14:31:19+00:00",
+   "last_ok": "2026-10-01T14:45:14+00:00",
+   "last_run": "2026-10-01T14:45:14+00:00",
    "ok": true
   },
   "tg_meduza": {
    "error": "",
    "fail_streak": 0,
    "items_last": 20,
-   "last_ok": "2026-10-01T14:31:20+00:00",
-   "last_run": "2026-10-01T14:31:20+00:00",
+   "last_ok": "2026-10-01T14:45:15+00:00",
+   "last_run": "2026-10-01T14:45:15+00:00",
    "ok": true
   },
   "tg_nexta": {
    "error": "",
    "fail_streak": 0,
    "items_last": 19,
-   "last_ok": "2026-10-01T14:31:20+00:00",
-   "last_run": "2026-10-01T14:31:20+00:00",
+   "last_ok": "2026-10-01T14:45:15+00:00",
+   "last_run": "2026-10-01T14:45:15+00:00",
    "ok": true
   },
   "tg_novaya": {
    "error": "",
    "fail_streak": 0,
    "items_last": 20,
-   "last_ok": "2026-10-01T14:31:21+00:00",
-   "last_run": "2026-10-01T14:31:21+00:00",
+   "last_ok": "2026-10-01T14:45:17+00:00",
+   "last_run": "2026-10-01T14:45:17+00:00",
    "ok": true
   },
   "tg_rybar": {
    "error": "",
    "fail_streak": 0,
    "items_last": 13,
-   "last_ok": "2026-10-01T14:31:22+00:00",
-   "last_run": "2026-10-01T14:31:22+00:00",
+   "last_ok": "2026-10-01T14:45:18+00:00",
+   "last_run": "2026-10-01T14:45:18+00:00",
    "ok": true
   },
   "us_embassy_riga": {
    "error": "",
    "fail_streak": 0,
    "items_last": 0,
-   "last_ok": "2026-10-01T14:31:09+00:00",
-   "last_run": "2026-10-01T14:31:09+00:00",
+   "last_ok": "2026-10-01T14:44:35+00:00",
+   "last_run": "2026-10-01T14:44:35+00:00",
    "ok": true
   },
   "us_state_latvia": {
    "error": "page blocked (403); relying on the advisories RSS feed",
    "fail_streak": 0,
    "items_last": 0,
-   "last_ok": "2026-10-01T14:31:08+00:00",
-   "last_run": "2026-10-01T14:31:08+00:00",
+   "last_ok": "2026-10-01T14:44:34+00:00",
+   "last_run": "2026-10-01T14:44:34+00:00",
    "ok": true
   },
   "us_state_rss": {
    "error": "",
    "fail_streak": 0,
    "items_last": 0,
-   "last_ok": "2026-10-01T14:31:09+00:00",
-   "last_run": "2026-10-01T14:31:09+00:00",
+   "last_ok": "2026-10-01T14:44:34+00:00",
+   "last_run": "2026-10-01T14:44:34+00:00",
    "ok": true
   }
  },
@@ -1883,8 +1883,18 @@
    "title_key": "kubilius russian attack arms factory would trigger nato",
    "ts": "2026-10-01T14:31:25+00:00",
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMkQwXzM5aURCT08tcDdwdXkzaVp1VEJzRUV2STRTc1NQc3RtX3NBM3BDa2Q0cVhsd1gyZjRWT05CUXZhNV84WVpMNkxIb1ZLbk1pYkxET1Y1LV9tYjYtYXppbDNmMS14SlpwMnRTSWFPdFRkbTd5eUJXTThSZy1CdEtQUzdqaEw5LUphVVVJOVhQZ21SRVl5eWxzR0k1RktVaFhqVFYtTnl3Qk0?oc=5"
+  },
+  {
+   "level": 2,
+   "raw_level": 3,
+   "reason": "region: latvia, latvian, baltic, baltics · matched “Mobilization” · single source, held at WATCH until another source corroborates",
+   "source": "Google News — Latvia security",
+   "title": "INTERVIEW Latvian Prime Minister Andris Kulbergs: Russia Lacks the Capacity to Attack the Baltics Without Full Mobilization - The Baltic Sentinel",
+   "title_key": "interview latvian prime minister andris kulbergs russia lacks",
+   "ts": "2026-10-01T14:45:21+00:00",
+   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNRzB2SXAwdnpZcG16dnpFR3ZXTGhlRmNibFZFaGhMTHB1VE1XY19hd3NvWHlVMVJwV01LVk9GUi1GOFFwanVjdnFfdTAzVnZ1SkYxSFU5SEhMbEpkbTRqbW5jUGt2V29BYzh5SzVLUmNyNHVTcnQyRXdCV2tWNlZJam5KUUFxczZGYVdrREI0NWlQUmpDN3NSTEk1OUw4ZGF2Z2J6LTNXV2hmeTVEUDl2NEU5eDRzU3ZZbTZXWnpaU2FXcF9YTDlfLWo3VFR1TFBEUHl4T3dUZDNId2lPV2x0VGJwQzFJTnJzcFdheA?oc=5"
   }
  ],
- "runs": 129,
- "status_text": "📟 <b>CURRENT LEVEL: 🟠 L3 ELEVATED.</b> NATO Chief Rutte Dismisses Russia’s Nuclear Threats Over Kaliningrad\n<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFAxN0lYU29EMEZVdXJ5X1lQR1doaWY0eTI2bUNvMGE2cW94T04zbE9mZHZ3YkYtc3hqc19MWms0YVJCQWxRbWxTSmlHakYxRGMtNUxjR3o5cEhTMEZrdWwtdkxPMXp6R0lhOTlqdFZQMTI?oc=5\">Межа. Новини України. via Google News — Latvia security</a> · Wed 30 Sep 23:01 · at L3 since Wed 30 Sep 16:01 (7 items at this level in 72 h)\n<b>Why L3:</b> region: kaliningrad, nato, russia · matched “Nuclear Threat” · corroborated by Google News — official warnings · story escalated from L2 (6 reports so far)\n<b>Suggested action at L3:</b> Review your plan; make sure documents and essentials are in order.\nLevel = highest of the last 72 h · updated Thu 01 Oct 17:31 · sources OK 25/25 · <a href=\"https://t.me/c/4455291623/25\">📖 Level guide</a>\nScale: ⚫5 Critical 🔴4 Urgent 🟠3 Elevated 🟡2 Watch 🟢1 Info ⚪0 Quiet"
+ "runs": 130,
+ "status_text": "📟 <b>CURRENT LEVEL: 🟠 L3 ELEVATED.</b> NATO Chief Rutte Dismisses Russia’s Nuclear Threats Over Kaliningrad\n<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFAxN0lYU29EMEZVdXJ5X1lQR1doaWY0eTI2bUNvMGE2cW94T04zbE9mZHZ3YkYtc3hqc19MWms0YVJCQWxRbWxTSmlHakYxRGMtNUxjR3o5cEhTMEZrdWwtdkxPMXp6R0lhOTlqdFZQMTI?oc=5\">Межа. Новини України. via Google News — Latvia security</a> · Wed 30 Sep 23:01 · at L3 since Wed 30 Sep 16:01 (7 items at this level in 72 h)\n<b>Why L3:</b> region: kaliningrad, nato, russia · matched “Nuclear Threat” · corroborated by Google News — official warnings · story escalated from L2 (6 reports so far)\n<b>Suggested action at L3:</b> Review your plan; make sure documents and essentials are in order.\nLevel = highest of the last 72 h · updated Thu 01 Oct 17:45 · sources OK 23/25 · <a href=\"https://t.me/c/4455291623/25\">📖 Level guide</a>\nScale: ⚫5 Critical 🔴4 Urgent 🟠3 Elevated 🟡2 Watch 🟢1 Info ⚪0 Quiet"
 }

@@ -177,15 +177,34 @@
  },
  {
   "level": 2,
-  "n": 1,
+  "n": 2,
   "source": "Google News — NATO & the Baltics",
   "stems": [
    "facto",
    "kubil",
+   "patru",
    "respo",
+   "swift",
    "trigg"
   ],
   "title": "Kubilius: Russian attack on arms factory would trigger NATO military response - politico.eu",
   "ts": "2026-10-01T14:31:25+00:00"
+ },
+ {
+  "level": 2,
+  "n": 1,
+  "source": "Google News — Latvia security",
+  "stems": [
+   "andri",
+   "capac",
+   "inter",
+   "kulbe",
+   "lacks",
+   "mobil",
+   "prime",
+   "witho"
+  ],
+  "title": "INTERVIEW Latvian Prime Minister Andris Kulbergs: Russia Lacks the Capacity to Attack the Baltics Without Full Mobilization - The Baltic Sentinel",
+  "ts": "2026-10-01T14:45:21+00:00"
  }
 ]
