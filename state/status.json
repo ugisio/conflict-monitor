@@ -5,200 +5,200 @@
    "error": "",
    "fail_streak": 0,
    "items_last": 0,
-   "last_ok": "2026-10-01T19:01:20+00:00",
-   "last_run": "2026-10-01T19:01:20+00:00",
+   "last_ok": "2026-10-01T19:31:11+00:00",
+   "last_run": "2026-10-01T19:31:11+00:00",
    "ok": true
   },
   "err_en": {
    "error": "",
    "fail_streak": 0,
    "items_last": 50,
-   "last_ok": "2026-10-01T19:01:23+00:00",
-   "last_run": "2026-10-01T19:01:23+00:00",
+   "last_ok": "2026-10-01T19:31:15+00:00",
+   "last_run": "2026-10-01T19:31:15+00:00",
    "ok": true
   },
   "fcdo_estonia": {
    "error": "",
    "fail_streak": 0,
    "items_last": 0,
-   "last_ok": "2026-10-01T19:01:19+00:00",
-   "last_run": "2026-10-01T19:01:19+00:00",
+   "last_ok": "2026-10-01T19:31:09+00:00",
+   "last_run": "2026-10-01T19:31:09+00:00",
    "ok": true
   },
   "fcdo_latvia": {
    "error": "",
    "fail_streak": 0,
    "items_last": 0,
-   "last_ok": "2026-10-01T19:01:18+00:00",
-   "last_run": "2026-10-01T19:01:18+00:00",
+   "last_ok": "2026-10-01T19:31:09+00:00",
+   "last_run": "2026-10-01T19:31:09+00:00",
    "ok": true
   },
   "fcdo_lithuania": {
    "error": "",
    "fail_streak": 0,
    "items_last": 0,
-   "last_ok": "2026-10-01T19:01:19+00:00",
-   "last_run": "2026-10-01T19:01:19+00:00",
+   "last_ok": "2026-10-01T19:31:10+00:00",
+   "last_run": "2026-10-01T19:31:10+00:00",
    "ok": true
   },
   "germany_latvia": {
    "error": "",
    "fail_streak": 0,
    "items_last": 0,
-   "last_ok": "2026-10-01T19:01:22+00:00",
-   "last_run": "2026-10-01T19:01:22+00:00",
+   "last_ok": "2026-10-01T19:31:12+00:00",
+   "last_run": "2026-10-01T19:31:12+00:00",
    "ok": true
   },
   "gnews_airspace": {
    "error": "",
    "fail_streak": 0,
    "items_last": 0,
-   "last_ok": "2026-10-01T19:01:22+00:00",
-   "last_run": "2026-10-01T19:01:22+00:00",
+   "last_ok": "2026-10-01T19:31:13+00:00",
+   "last_run": "2026-10-01T19:31:13+00:00",
    "ok": true
   },
   "gnews_embassy": {
    "error": "",
    "fail_streak": 0,
    "items_last": 1,
-   "last_ok": "2026-10-01T19:01:25+00:00",
-   "last_run": "2026-10-01T19:01:25+00:00",
+   "last_ok": "2026-10-01T19:31:17+00:00",
+   "last_run": "2026-10-01T19:31:17+00:00",
    "ok": true
   },
   "gnews_flank_warnings": {
    "error": "",
    "fail_streak": 0,
-   "items_last": 25,
-   "last_ok": "2026-10-01T19:01:27+00:00",
-   "last_run": "2026-10-01T19:01:27+00:00",
+   "items_last": 27,
+   "last_ok": "2026-10-01T19:31:19+00:00",
+   "last_run": "2026-10-01T19:31:19+00:00",
    "ok": true
   },
   "gnews_latvia_security": {
    "error": "",
    "fail_streak": 0,
-   "items_last": 47,
-   "last_ok": "2026-10-01T19:01:24+00:00",
-   "last_run": "2026-10-01T19:01:24+00:00",
+   "items_last": 48,
+   "last_ok": "2026-10-01T19:31:16+00:00",
+   "last_run": "2026-10-01T19:31:16+00:00",
    "ok": true
   },
   "gnews_nato": {
    "error": "",
    "fail_streak": 0,
-   "items_last": 47,
-   "last_ok": "2026-10-01T19:01:26+00:00",
-   "last_run": "2026-10-01T19:01:26+00:00",
+   "items_last": 46,
+   "last_ok": "2026-10-01T19:31:17+00:00",
+   "last_run": "2026-10-01T19:31:17+00:00",
    "ok": true
   },
   "gnews_official_warnings": {
    "error": "",
    "fail_streak": 0,
    "items_last": 8,
-   "last_ok": "2026-10-01T19:01:27+00:00",
-   "last_run": "2026-10-01T19:01:27+00:00",
+   "last_ok": "2026-10-01T19:31:18+00:00",
+   "last_run": "2026-10-01T19:31:18+00:00",
    "ok": true
   },
   "lrt_en": {
    "error": "",
    "fail_streak": 0,
    "items_last": 27,
-   "last_ok": "2026-10-01T19:01:23+00:00",
-   "last_run": "2026-10-01T19:01:23+00:00",
+   "last_ok": "2026-10-01T19:31:15+00:00",
+   "last_run": "2026-10-01T19:31:15+00:00",
    "ok": true
   },
   "lsm_en": {
    "error": "",
    "fail_streak": 0,
    "items_last": 44,
-   "last_ok": "2026-10-01T19:01:23+00:00",
-   "last_run": "2026-10-01T19:01:23+00:00",
+   "last_ok": "2026-10-01T19:31:14+00:00",
+   "last_run": "2026-10-01T19:31:14+00:00",
    "ok": true
   },
   "polymarket": {
    "error": "",
    "fail_streak": 0,
    "items_last": 0,
-   "last_ok": "2026-10-01T19:01:35+00:00",
-   "last_run": "2026-10-01T19:01:35+00:00",
+   "last_ok": "2026-10-01T19:31:28+00:00",
+   "last_run": "2026-10-01T19:31:28+00:00",
    "ok": true
   },
   "tg_astra": {
    "error": "",
    "fail_streak": 0,
    "items_last": 20,
-   "last_ok": "2026-10-01T19:01:30+00:00",
-   "last_run": "2026-10-01T19:01:30+00:00",
+   "last_ok": "2026-10-01T19:31:23+00:00",
+   "last_run": "2026-10-01T19:31:23+00:00",
    "ok": true
   },
   "tg_clashreport": {
    "error": "",
    "fail_streak": 0,
    "items_last": 20,
-   "last_ok": "2026-10-01T19:01:28+00:00",
-   "last_run": "2026-10-01T19:01:28+00:00",
+   "last_ok": "2026-10-01T19:31:20+00:00",
+   "last_run": "2026-10-01T19:31:20+00:00",
    "ok": true
   },
   "tg_disclosetv": {
    "error": "",
    "fail_streak": 0,
    "items_last": 3,
-   "last_ok": "2026-10-01T19:01:28+00:00",
-   "last_run": "2026-10-01T19:01:28+00:00",
+   "last_ok": "2026-10-01T19:31:20+00:00",
+   "last_run": "2026-10-01T19:31:20+00:00",
    "ok": true
   },
   "tg_meduza": {
    "error": "",
    "fail_streak": 0,
    "items_last": 20,
-   "last_ok": "2026-10-01T19:01:30+00:00",
-   "last_run": "2026-10-01T19:01:30+00:00",
+   "last_ok": "2026-10-01T19:31:22+00:00",
+   "last_run": "2026-10-01T19:31:22+00:00",
    "ok": true
   },
   "tg_nexta": {
    "error": "",
    "fail_streak": 0,
    "items_last": 19,
-   "last_ok": "2026-10-01T19:01:29+00:00",
-   "last_run": "2026-10-01T19:01:29+00:00",
+   "last_ok": "2026-10-01T19:31:21+00:00",
+   "last_run": "2026-10-01T19:31:21+00:00",
    "ok": true
   },
   "tg_novaya": {
    "error": "",
    "fail_streak": 0,
    "items_last": 13,
-   "last_ok": "2026-10-01T19:01:31+00:00",
-   "last_run": "2026-10-01T19:01:31+00:00",
+   "last_ok": "2026-10-01T19:31:23+00:00",
+   "last_run": "2026-10-01T19:31:23+00:00",
    "ok": true
   },
   "tg_rybar": {
    "error": "",
    "fail_streak": 0,
    "items_last": 14,
-   "last_ok": "2026-10-01T19:01:32+00:00",
-   "last_run": "2026-10-01T19:01:32+00:00",
+   "last_ok": "2026-10-01T19:31:24+00:00",
+   "last_run": "2026-10-01T19:31:24+00:00",
    "ok": true
   },
   "us_embassy_riga": {
    "error": "",
    "fail_streak": 0,
    "items_last": 0,
-   "last_ok": "2026-10-01T19:01:18+00:00",
-   "last_run": "2026-10-01T19:01:18+00:00",
+   "last_ok": "2026-10-01T19:31:08+00:00",
+   "last_run": "2026-10-01T19:31:08+00:00",
    "ok": true
   },
   "us_state_latvia": {
    "error": "page blocked (403); relying on the advisories RSS feed",
    "fail_streak": 0,
    "items_last": 0,
-   "last_ok": "2026-10-01T19:01:17+00:00",
-   "last_run": "2026-10-01T19:01:17+00:00",
+   "last_ok": "2026-10-01T19:31:07+00:00",
+   "last_run": "2026-10-01T19:31:07+00:00",
    "ok": true
   },
   "us_state_rss": {
    "error": "",
    "fail_streak": 0,
    "items_last": 0,
-   "last_ok": "2026-10-01T19:01:18+00:00",
-   "last_run": "2026-10-01T19:01:18+00:00",
+   "last_ok": "2026-10-01T19:31:07+00:00",
+   "last_run": "2026-10-01T19:31:07+00:00",
    "ok": true
   }
  },
@@ -1913,8 +1913,18 @@
    "title_key": "volodymyr zelenskyy discussed escalation russian terror phone calls",
    "ts": "2026-10-01T16:31:28+00:00",
    "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNenZ4cFF4c2pqTHhCU1p2d096T1k5MUJ4MmtQQWQ0M1gyb1NRMHJIWGFia1ZPMmVsVFp3Qlk3bTB1VURjU0NVNmxMdHF1TzI5ZnNIaGVDMHFNWmJiT3RCWm85Nmxuc0tDcXBiZndsWFdab01WelFJc3BXS3M3Ulo1QUhaTzVyUG5ROF9yODRESmhpNm1RbURPQVJOZVlmME82Zkw2WnFVMjBMaU8xX3U2R0lKc21lbEY2SEhJbU1NYklaQnRvSG5GVmY5UmJaaTE1ODNHMWR6Q0dWY0xLQWFydGxYYm1EcHA1RFBOR3VlUzhYQQ?oc=5"
+  },
+  {
+   "level": 2,
+   "raw_level": 3,
+   "reason": "region: lithuania, russia · matched “nuclear threat” · single source, held at WATCH until another source corroborates",
+   "source": "Google News — Latvia security",
+   "title": "Lithuanian president on Russian nuclear threat letter: reckless remarks becoming more frequent - Європейська правда",
+   "title_key": "lithuanian president russian nuclear threat letter reckless remarks",
+   "ts": "2026-10-01T19:31:28+00:00",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1TNmNWRnBFV0lpR2F1OTU2V3d1YTFKa1NkNkVNVVl3d2hYMDZnUE1CRXgzUXhRbHNrd0lGRE9ieXNuVEh2S0F2ZDR5UkJzdjB6OHVjaXIzenpJNDNiWkVTbDBwZHhxa2lxM2VRcDhBQQ?oc=5"
   }
  ],
- "runs": 139,
- "status_text": "📟 <b>CURRENT LEVEL: 🟠 L3 ELEVATED.</b> NATO Chief Rutte Dismisses Russia’s Nuclear Threats Over Kaliningrad\n<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFAxN0lYU29EMEZVdXJ5X1lQR1doaWY0eTI2bUNvMGE2cW94T04zbE9mZHZ3YkYtc3hqc19MWms0YVJCQWxRbWxTSmlHakYxRGMtNUxjR3o5cEhTMEZrdWwtdkxPMXp6R0lhOTlqdFZQMTI?oc=5\">Межа. Новини України. via Google News — Latvia security</a> · Wed 30 Sep 23:01 · at L3 since Wed 30 Sep 16:01 (7 items at this level in 72 h)\n<b>Why L3:</b> region: kaliningrad, nato, russia · matched “Nuclear Threat” · corroborated by Google News — official warnings · story escalated from L2 (6 reports so far)\n<b>Suggested action at L3:</b> Review your plan; make sure documents and essentials are in order.\nLevel = highest of the last 72 h · updated Thu 01 Oct 22:01 · sources OK 25/25 · <a href=\"https://t.me/c/4455291623/25\">📖 Level guide</a>\nScale: ⚫5 Critical 🔴4 Urgent 🟠3 Elevated 🟡2 Watch 🟢1 Info ⚪0 Quiet"
+ "runs": 140,
+ "status_text": "📟 <b>CURRENT LEVEL: 🟠 L3 ELEVATED.</b> NATO Chief Rutte Dismisses Russia’s Nuclear Threats Over Kaliningrad\n<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFAxN0lYU29EMEZVdXJ5X1lQR1doaWY0eTI2bUNvMGE2cW94T04zbE9mZHZ3YkYtc3hqc19MWms0YVJCQWxRbWxTSmlHakYxRGMtNUxjR3o5cEhTMEZrdWwtdkxPMXp6R0lhOTlqdFZQMTI?oc=5\">Межа. Новини України. via Google News — Latvia security</a> · Wed 30 Sep 23:01 · at L3 since Wed 30 Sep 16:01 (7 items at this level in 72 h)\n<b>Why L3:</b> region: kaliningrad, nato, russia · matched “Nuclear Threat” · corroborated by Google News — official warnings · story escalated from L2 (6 reports so far)\n<b>Suggested action at L3:</b> Review your plan; make sure documents and essentials are in order.\nLevel = highest of the last 72 h · updated Thu 01 Oct 22:31 · sources OK 25/25 · <a href=\"https://t.me/c/4455291623/25\">📖 Level guide</a>\nScale: ⚫5 Critical 🔴4 Urgent 🟠3 Elevated 🟡2 Watch 🟢1 Info ⚪0 Quiet"
 }

@@ -166,5 +166,26 @@
   "uid": "354f427709b50136",
   "url": "https://t.me/ClashReport/99278",
   "warning": true
+ },
+ {
+  "first_seen": "2026-10-01T19:31:16+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-01T14:19:45+00:00",
+  "reason": "region: lithuania, russia · matched “nuclear threat” · single source, held at WATCH until another source corroborates",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "gnews_latvia_security",
+  "source_name": "Google News — Latvia security",
+  "summary": "",
+  "text": "Lithuanian president on Russian nuclear threat letter: reckless remarks becoming more frequent Європейська правда",
+  "tier": "news",
+  "title": "Lithuanian president on Russian nuclear threat letter: reckless remarks becoming more frequent - Європейська правда",
+  "uid": "e3233c890a0d0dfe",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1TNmNWRnBFV0lpR2F1OTU2V3d1YTFKa1NkNkVNVVl3d2hYMDZnUE1CRXgzUXhRbHNrd0lGRE9ieXNuVEh2S0F2ZDR5UkJzdjB6OHVjaXIzenpJNDNiWkVTbDBwZHhxa2lxM2VRcDhBQQ?oc=5",
+  "warning": false
  }
 ]
