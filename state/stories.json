@@ -1,7 +1,7 @@
 [
  {
   "level": 3,
-  "n": 38,
+  "n": 39,
   "source": "Google News — official warnings",
   "stems": [
    "accep",
@@ -38,12 +38,12 @@
    "hybri",
    "intel",
    "isola",
+   "journ",
    "makes",
    "moves",
    "nucle",
-   "outle",
-   "possi",
-   "poten"
+   "odess",
+   "outle"
   ],
   "title": "NATO Chief Rutte Dismisses Russia’s Nuclear Threats Over Kaliningrad - Межа. Новини України.",
   "ts": "2026-09-30T20:01:35+00:00"
@@ -174,5 +174,18 @@
   ],
   "title": "Saeima rules that LSM can write in Russian only on specific occasions",
   "ts": "2026-10-01T09:01:41+00:00"
+ },
+ {
+  "level": 2,
+  "n": 1,
+  "source": "Google News — NATO & the Baltics",
+  "stems": [
+   "facto",
+   "kubil",
+   "respo",
+   "trigg"
+  ],
+  "title": "Kubilius: Russian attack on arms factory would trigger NATO military response - politico.eu",
+  "ts": "2026-10-01T14:31:25+00:00"
  }
 ]
