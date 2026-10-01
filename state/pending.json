@@ -523,5 +523,26 @@
   "uid": "44a333176d8c5f5b",
   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRTNHcDdNWFZqdzZyX1gtbUhQRHJTdnhuT1ItQkRzTElHTHFYRkRFNzhzSWR5eW9OQ3hRS2ZnVUgtUlV6MEJOeGhnZVNXc2lQc1VDRjQ2Uk9SZHhfSU1ld2tZbWxYdTZrdXJRbnZnX1RIempiN3VGZkQ5N2IwVy1Kdm1iRm44ODhuUm1JelF3?oc=5",
   "warning": false
+ },
+ {
+  "first_seen": "2026-10-01T12:01:34+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-01T11:46:21+00:00",
+  "reason": "region: latvia, russia · matched “spying for Russia detained” · another report of a story already in the channel",
+  "repeat_of": "NATO Chief Rutte Dismisses Russia’s Nuclear Threats Over Kaliningrad - Межа. Новини України.",
+  "repeats": 0,
+  "source_id": "gnews_nato",
+  "source_name": "Google News — NATO & the Baltics",
+  "summary": "",
+  "text": "Two suspects accused of spying for Russia detained in Latvia; one of them used a private aircraft Українські Національні Новини (УНН)",
+  "tier": "news",
+  "title": "Two suspects accused of spying for Russia detained in Latvia; one of them used a private aircraft - Українські Національні Новини (УНН)",
+  "uid": "1bcbf9a064884127",
+  "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZkcxQkQ5TjdaMHJUZ3ZlNTlsTktidVZiRmhRU0sycldxZGJ3N3ZONm8tMkprZXA0ZEo5QzhtbHVTczl1LVFJc01lcy1OMzNEZ21xdVJtQUpUeVRWbGt1RWFja3M3YVk3OGlHdHlPclFoOWlGdE5zVS1jeWhCczRSZ2dSUVN2U0RCZjJsWnd2cFI5U1NvYkhadTR1M1FldG9qWjhxVDhTXzE2dVBkS0R3X1pra2V0TV9fMF9Z0gG6AUFVX3lxTE5rSkVndGN0TTVLQU5Xa25McFoyT05mdU5oNEZyTFBCTjFvbVFZaHJocWR4QlpHdTFFX19zckF2aE1QeWltSF9XOTFIUkRjTmpsQVQ4VHo1V2FWTmUzaFRIWmJ1RkpBXzcxQW83bGVmMG1rZU1WSUNsX2JacXpRMUlGaWQ3NTdyZ2NLdlRHR0s0MEVoVmplT1oxSGM5NjBQaDl5R0xtdTJ3aXVNcE1ydE5FLWd1UldtdzFNdw?oc=5",
+  "warning": false
  }
 ]

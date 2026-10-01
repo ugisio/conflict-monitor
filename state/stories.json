@@ -1,11 +1,12 @@
 [
  {
   "level": 3,
-  "n": 35,
+  "n": 36,
   "source": "Google News — official warnings",
   "stems": [
    "accep",
    "accus",
+   "aircr",
    "allia",
    "allow",
    "appro",
@@ -42,8 +43,7 @@
    "possi",
    "poten",
    "prais",
-   "promp",
-   "putin"
+   "priva"
   ],
   "title": "NATO Chief Rutte Dismisses Russia’s Nuclear Threats Over Kaliningrad - Межа. Новини України.",
   "ts": "2026-09-30T20:01:35+00:00"
