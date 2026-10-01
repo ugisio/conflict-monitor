@@ -1,7 +1,7 @@
 [
  {
   "level": 3,
-  "n": 32,
+  "n": 33,
   "source": "Google News — official warnings",
   "stems": [
    "accep",
@@ -81,10 +81,11 @@
  },
  {
   "level": 2,
-  "n": 3,
+  "n": 4,
   "source": "NEXTA Live",
   "stems": [
    "artic",
+   "bring",
    "coast",
    "drone",
    "easte",
@@ -97,6 +98,7 @@
    "sentr",
    "shiel",
    "under",
+   "watch",
    "армии",
    "более",
    "борьб",
