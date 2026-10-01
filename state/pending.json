@@ -1,1 +1,23 @@
-[]
+[
+ {
+  "first_seen": "2026-10-01T05:31:24+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-01T05:05:00+00:00",
+  "reason": "region: latvia, nato · matched “nuclear” · another report of a story already in the channel",
+  "repeat_of": "NATO Chief Rutte Dismisses Russia’s Nuclear Threats Over Kaliningrad - Межа. Новини України.",
+  "repeats": 0,
+  "source_id": "gnews_latvia_security",
+  "source_name": "Google News — Latvia security",
+  "summary": "",
+  "text": "Latvia is ready to host nuclear weapons if NATO decides so, - Rinkēvičs Цензор.НЕТ",
+  "tier": "news",
+  "title": "Latvia is ready to host nuclear weapons if NATO decides so, - Rinkēvičs - Цензор.НЕТ",
+  "uid": "d05b9dfe36b4e9a6",
+  "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObkhKOUhQbXFMc1RwbUE2NEFYSE81QW9XUC1YZ08yMDczS0xMNF9TWndUTWZUZ2NLMXNBamw2a1F5R2hvVmc2Mi1FNUFVcndDR2VsUHNPRUpVTUtja1d3WWtGaHFKVlNQRHdTM1NVaUF1OFVfNXB3MXdQbnpsT3l5MUhkNU15U0FLOG1wSkRRc1N2WE11N2RaX0dtbEpyYU9pdHU0cQ?oc=5",
+  "warning": false
+ }
+]
