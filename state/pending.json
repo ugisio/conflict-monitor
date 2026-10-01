@@ -397,5 +397,26 @@
   "uid": "4f84517a273400f9",
   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSGpRWW50XzRPc0J1VUZrRHNpalRvYlJ6MmdrNE9FSUVuZ01acmVMa1k2VThXekoxY2dsZkVaenBPbzFiajNqTVRpWWVaQ0tpS0t4MWVRSVJiY1c4ZC1aSFhSdDdXbzd4VXU0SXVuQ0RiMTVaNWs3b0pkTWpMU3NSM2ljb0RPbUxrYTktNWp1Q25raV9uYWc?oc=5",
   "warning": false
+ },
+ {
+  "first_seen": "2026-10-01T04:31:14+00:00",
+  "kind": "post",
+  "lang": "ru",
+  "level": 2,
+  "note": "RU, Belarus opposition media — best coverage of Belarus border/military",
+  "posted": true,
+  "published": "2026-10-01T04:08:40+00:00",
+  "reason": "region: литв, нато, росси · official warning · matched “дрон”",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "tg_nexta",
+  "source_name": "NEXTA Live",
+  "summary": "",
+  "text": "❤️ Здравствуйте! Главное к этому часу 1️⃣ Киев снова под атакой российских дронов: в столице слышны взрывы. 2️⃣ Трамп опять обвинил Украину в росте цен на дизель в США и мире. 3️⃣ Премьер Литвы: нет доказательств подготовки Россией нападения на НАТО в ближайшее время. 4️⃣ Россия отправит около 120 тысяч призывников на срочную службу этой осенью. 5️⃣ «Мы словно поливаем пустыню»: в ЕС всё тяжелее согласовывают новые миллиарды для Украины — Le Monde.",
+  "tier": "osint",
+  "title": "❤️ Здравствуйте! Главное к этому часу 1️⃣ Киев снова под атакой российских дронов: в столице слышны взрывы. 2️⃣ Трамп опять обвинил Украину …",
+  "uid": "f00013fdbdaf4012",
+  "url": "https://t.me/nexta_live/124271",
+  "warning": true
  }
 ]
