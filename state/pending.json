@@ -334,5 +334,26 @@
   "uid": "1c75c5e944a8809c",
   "url": "https://t.me/astrapress/126816",
   "warning": false
+ },
+ {
+  "first_seen": "2026-10-01T02:31:21+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 1,
+  "note": "",
+  "posted": false,
+  "published": "2026-09-30T21:23:41+00:00",
+  "reason": "region: baltic, lithuania, nato · matched “defence spending” · another report of a story already in the channel",
+  "repeat_of": "NATO Chief Rutte Dismisses Russia’s Nuclear Threats Over Kaliningrad - Межа. Новини України.",
+  "repeats": 0,
+  "source_id": "gnews_nato",
+  "source_name": "Google News — NATO & the Baltics",
+  "summary": "",
+  "text": "Lithuania targets 5.38% defence spending as NATO bolsters Baltic security The Brussels Times",
+  "tier": "news",
+  "title": "Lithuania targets 5.38% defence spending as NATO bolsters Baltic security - The Brussels Times",
+  "uid": "cf2f25beb7b00e13",
+  "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQ2xZSmdiVTdRLVl5Q3RIMHV1UXNZWFBBQzJsMkdzcnVJM1EtdUZYZTdTYWtBLW1FSG5YZ3dQdy1lcE8xSnktbDVxZ3pEY1l5QlhYQmZaRnczdWVOcmEwOGJZQkVyZ2d6ajJLZE0xVC05ajJwWGhsc1ZrT3dkWmVreHNhalFReEotckRDS2ppbHp6SHZ0MXg5RmNyVkkyNUdBSkVyMVJ1ZEs5M3d6cE5N?oc=5",
+  "warning": false
  }
 ]
