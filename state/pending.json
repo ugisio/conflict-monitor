@@ -145,5 +145,26 @@
   "uid": "f85f79a98cf9087f",
   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVXVQWmNMVjV2OXlvRTZiOXF4VmQ4RVRjXzlRZHVrNENWTXI2X1VGdHpGbkprRFNmZmw1YWN3d0V5ajRXdk1aYnJEU05USGp2QU1Ycm1GVTZ1d1ZYRkg2Wkl2MllfNU9UelVfQVgzd0JOYjkzdmxlblhuZ0lzb3VXSjA1czg?oc=5",
   "warning": false
+ },
+ {
+  "first_seen": "2026-10-01T08:01:28+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-01T07:48:00+00:00",
+  "reason": "region: latvia, nato · matched “nuclear” · another report of a story already in the channel",
+  "repeat_of": "NATO Chief Rutte Dismisses Russia’s Nuclear Threats Over Kaliningrad - Межа. Новини України.",
+  "repeats": 0,
+  "source_id": "gnews_nato",
+  "source_name": "Google News — NATO & the Baltics",
+  "summary": "",
+  "text": "Latvia ready to host nuclear weapons under NATO decision, president says AzerNews",
+  "tier": "news",
+  "title": "Latvia ready to host nuclear weapons under NATO decision, president says - AzerNews",
+  "uid": "d438e270b65bc6fe",
+  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9sUzc5MGpzeHNGTzg5TU1zVXlSR0FxY3JDbzRWNmZyc1cwdkRXS01Bem9zOE1KM09YYUlqUVlRX1RGZ2MydUs4LS1JX2h0YWNFdEpwVw?oc=5",
+  "warning": false
  }
 ]
