@@ -99,16 +99,19 @@
  },
  {
   "level": 2,
-  "n": 9,
+  "n": 10,
   "source": "NEXTA Live",
   "stems": [
    "admit",
    "artic",
    "bring",
+   "claim",
    "coast",
    "commi",
+   "conce",
    "drone",
    "easte",
+   "escal",
    "event",
    "facto",
    "force",
@@ -138,10 +141,7 @@
    "закуп",
    "компа",
    "систе",
-   "тести",
-   "участ",
-   "учени",
-   "чехии"
+   "тести"
   ],
   "title": "Drone shot down by NATO jets in eastern Latvia / Article - LSM",
   "ts": "2026-10-01T09:31:18+00:00"

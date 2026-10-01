@@ -334,5 +334,26 @@
   "uid": "7982ca8ba2e74c58",
   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONzFNaVJxdVo3TkxlbktBWWlFeWVHYTQyMURpSkl5QWFCM3Q0SEc5bEdCb3dVQThWN3RpSm93cWMyeW1RdkswZ0dNSU92S05SY1d4WVRrMGtBLTdBRl9xMlkxTG1XNGFkZjlsN2dEVHNIZ0YySlZxV0xhWDR0bE8yZ1AtcWlGUTBPQVpaM3RWY1RVYXFqdk9kNXhxa3Nvc2oxdnU1VnpXZk9NclhBRjcyMGpQTi1UeDVY?oc=5",
   "warning": true
+ },
+ {
+  "first_seen": "2026-10-01T21:31:10+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-01T20:23:02+00:00",
+  "reason": "region: kaliningrad, russia · official warning · matched “escalat” · another report of a story already in the channel",
+  "repeat_of": "Drone shot down by NATO jets in eastern Latvia / Article - LSM",
+  "repeats": 0,
+  "source_id": "gnews_latvia_security",
+  "source_name": "Google News — Latvia security",
+  "summary": "",
+  "text": "Putin warns West not to escalate, claims concerns about Russia's Kaliningrad region CBC",
+  "tier": "news",
+  "title": "Putin warns West not to escalate, claims concerns about Russia's Kaliningrad region - CBC",
+  "uid": "5f7a5bfc29b1f8a1",
+  "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPcXMzOXR3WXMwUkxfOXR2ZjhESG5Yd3kzS2gtSWFtRW5zcFlMWng4YnlzMnU4ZEVFcGRwMFVSVl8yZHVxcU1Bc05UbjJBUjNTZDI0alo5LV94VXBmNzIwdDAxNzdweUxtZkdBT0R5RWRoZXk4SzRhNTN6blkyRDRaNk1QZGNNUQ?oc=5",
+  "warning": true
  }
 ]
