@@ -670,5 +670,26 @@
   "uid": "ea07d3595a76e832",
   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNRzB2SXAwdnpZcG16dnpFR3ZXTGhlRmNibFZFaGhMTHB1VE1XY19hd3NvWHlVMVJwV01LVk9GUi1GOFFwanVjdnFfdTAzVnZ1SkYxSFU5SEhMbEpkbTRqbW5jUGt2V29BYzh5SzVLUmNyNHVTcnQyRXdCV2tWNlZJam5KUUFxczZGYVdrREI0NWlQUmpDN3NSTEk1OUw4ZGF2Z2J6LTNXV2hmeTVEUDl2NEU5eDRzU3ZZbTZXWnpaU2FXcF9YTDlfLWo3VFR1TFBEUHl4T3dUZDNId2lPV2x0VGJwQzFJTnJzcFdheA?oc=5",
   "warning": false
+ },
+ {
+  "first_seen": "2026-10-01T16:01:55+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-01T15:30:55+00:00",
+  "reason": "official warning about Russia / NATO · matched “arson” · another report of a story already in the channel",
+  "repeat_of": "NATO Chief Rutte Dismisses Russia’s Nuclear Threats Over Kaliningrad - Межа. Новини України.",
+  "repeats": 0,
+  "source_id": "gnews_official_warnings",
+  "source_name": "Google News — official warnings",
+  "summary": "",
+  "text": "NATO chief warns Europe of new Russian hybrid wave featuring arson and sabotage RBC-Ukraine",
+  "tier": "news",
+  "title": "NATO chief warns Europe of new Russian hybrid wave featuring arson and sabotage - RBC-Ukraine",
+  "uid": "8b1ee02387dcfad2",
+  "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOYXoxeDNXY0pwM0N5ZWs4eF9LUk1Xdy05cGNQS0M3Mlo2cmVPVkotdXZRN29ZeXpJbG9VcnZ0bkRCT3A0SGVQZUxKMFJfTl8yRHJxMFNWWHNJamZZbTdueDRIQmlJQlYxckFhdXZZME43RDBWNnU0blUzdE85NG56dVliTXdlWWJqZkl0S2Jzc1RZWGczeUIxSw?oc=5",
+  "warning": true
  }
 ]
