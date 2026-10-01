@@ -19,5 +19,26 @@
   "uid": "d05b9dfe36b4e9a6",
   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObkhKOUhQbXFMc1RwbUE2NEFYSE81QW9XUC1YZ08yMDczS0xMNF9TWndUTWZUZ2NLMXNBamw2a1F5R2hvVmc2Mi1FNUFVcndDR2VsUHNPRUpVTUtja1d3WWtGaHFKVlNQRHdTM1NVaUF1OFVfNXB3MXdQbnpsT3l5MUhkNU15U0FLOG1wSkRRc1N2WE11N2RaX0dtbEpyYU9pdHU0cQ?oc=5",
   "warning": false
+ },
+ {
+  "first_seen": "2026-10-01T06:01:29+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-01T05:35:29+00:00",
+  "reason": "region: latvia, russia · matched “threat”",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "gnews_latvia_security",
+  "source_name": "Google News — Latvia security",
+  "summary": "",
+  "text": "Latvia votes with Russia threat expected to keep EU course Kuwait Times",
+  "tier": "news",
+  "title": "Latvia votes with Russia threat expected to keep EU course - Kuwait Times",
+  "uid": "cd5ef935851b7cd6",
+  "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNX05LelktV1FpZ20wZGVqSGFwT0tTalB4VlpiUWtja2tMeHRMZkZnNzc0QkozYkI1alFVbEtNb1BxS3JuSkh4WmVFaktsa2JxZlVYV0ZSUkZWZEh5R1F3X2NiSkZrNTEyYzJxSU1rQkdhMXg3VkJvaElFLTR3UDJSWkY0VUhWZnhoWXFkdmJJekh1OTdGbHVCaDQ2bjJZMlg2U1d3MW1R0gGqAUFVX3lxTE1lQlBwVk5pV0dyMDk3bW8xZ3FWZlNCc0RmYVZjaGlVNnc5MjVScDdVekkzWTByUFV3WnlWS1E0WWdnQUNfUmZMRHozUWZKTUFvUlNPYWUtWkdqWFhzN0JDS2VQQ0xIUWNJcmxkM2pzQ3FDNjBlVFFFY3c3dmpnNFVuVDJUOFpjS1RIczYwc3BveTNuN1o1cXZwM1NzXzNRd0xKQkJFT3cyT3NR?oc=5",
+  "warning": false
  }
 ]
