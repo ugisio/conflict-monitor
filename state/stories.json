@@ -1,12 +1,14 @@
 [
  {
   "level": 3,
-  "n": 23,
+  "n": 29,
   "source": "Google News — official warnings",
   "stems": [
    "accep",
+   "accus",
    "allia",
    "allow",
+   "appro",
    "block",
    "bolst",
    "canno",
@@ -24,6 +26,7 @@
    "detai",
    "dismi",
    "enoug",
+   "envoy",
    "follo",
    "frame",
    "intel",
@@ -34,16 +37,13 @@
    "outle",
    "possi",
    "poten",
+   "prais",
    "promp",
    "putin",
    "ready",
    "respo",
    "rutte",
-   "sabot",
-   "sends",
-   "serio",
-   "spend",
-   "spyin"
+   "sabot"
   ],
   "title": "NATO Chief Rutte Dismisses Russia’s Nuclear Threats Over Kaliningrad - Межа. Новини України.",
   "ts": "2026-09-30T20:01:35+00:00"
@@ -136,5 +136,19 @@
   ],
   "title": "Latvia votes with Russia threat expected to keep EU course - Kuwait Times",
   "ts": "2026-10-01T06:01:39+00:00"
+ },
+ {
+  "level": 2,
+  "n": 1,
+  "source": "LSM (Latvian public media, EN)",
+  "stems": [
+   "occas",
+   "rules",
+   "saeim",
+   "speci",
+   "write"
+  ],
+  "title": "Saeima rules that LSM can write in Russian only on specific occasions",
+  "ts": "2026-10-01T09:01:41+00:00"
  }
 ]
