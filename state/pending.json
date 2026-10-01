@@ -355,5 +355,26 @@
   "uid": "5f7a5bfc29b1f8a1",
   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPcXMzOXR3WXMwUkxfOXR2ZjhESG5Yd3kzS2gtSWFtRW5zcFlMWng4YnlzMnU4ZEVFcGRwMFVSVl8yZHVxcU1Bc05UbjJBUjNTZDI0alo5LV94VXBmNzIwdDAxNzdweUxtZkdBT0R5RWRoZXk4SzRhNTN6blkyRDRaNk1QZGNNUQ?oc=5",
   "warning": true
+ },
+ {
+  "first_seen": "2026-10-01T22:01:29+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": true,
+  "published": "2026-10-01T16:58:00+00:00",
+  "reason": "official warning about Russia / NATO · matched “sabotage”",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "gnews_flank_warnings",
+  "source_name": "Google News — eastern flank (PL/FI/NATO)",
+  "summary": "",
+  "text": "Europe must be prepared for Russian sabotage and hybrid attacks – Rutte Цензор.НЕТ",
+  "tier": "news",
+  "title": "Europe must be prepared for Russian sabotage and hybrid attacks – Rutte - Цензор.НЕТ",
+  "uid": "308c382aca680239",
+  "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPcnNJVWZxcmFWSnhzMnFWaWJITFV0QlBuNmlGRnJwR0F5N0lNa3JYdmtKbEcyOHFpaUR5WmwzZHhiTm1CS09iOHBvdVZDbDdFZ19wcVFBajI2Q2xhY2JUVkdmVlVvSF9pX0laYUtIN0tKay1odWFjZndaRnNkdmgtaU9iQlBVMlQxNS1rQUl6Q2hPalc0OTMw?oc=5",
+  "warning": true
  }
 ]
