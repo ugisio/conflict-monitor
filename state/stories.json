@@ -99,9 +99,10 @@
  },
  {
   "level": 2,
-  "n": 6,
+  "n": 7,
   "source": "NEXTA Live",
   "stems": [
+   "admit",
    "artic",
    "bring",
    "coast",
@@ -113,6 +114,7 @@
    "marin",
    "plant",
    "prote",
+   "putin",
    "reinf",
    "senso",
    "sentr",
@@ -246,11 +248,12 @@
  },
  {
   "level": 2,
-  "n": 3,
+  "n": 4,
   "source": "Google News — Latvia security",
   "stems": [
    "arsen",
    "consi",
+   "headl",
    "putin",
    "range",
    "terri",
