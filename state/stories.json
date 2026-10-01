@@ -1,7 +1,7 @@
 [
  {
   "level": 3,
-  "n": 40,
+  "n": 41,
   "source": "Google News — official warnings",
   "stems": [
    "accep",
@@ -21,6 +21,7 @@
    "choos",
    "clash",
    "colle",
+   "comes",
    "comme",
    "compa",
    "conce",
@@ -31,6 +32,7 @@
    "defea",
    "deplo",
    "detai",
+   "direc",
    "dismi",
    "enoug",
    "envoy",
@@ -41,35 +43,51 @@
    "intel",
    "isola",
    "journ",
-   "makes",
-   "moves",
-   "nucle"
+   "makes"
   ],
   "title": "NATO Chief Rutte Dismisses Russia’s Nuclear Threats Over Kaliningrad - Межа. Новини України.",
   "ts": "2026-09-30T20:01:35+00:00"
  },
  {
   "level": 2,
-  "n": 2,
+  "n": 4,
   "source": "Meduza",
   "stems": [
    "альян",
    "арсен",
+   "атаки",
    "включ",
+   "внешн",
    "возмо",
+   "воору",
+   "вопро",
+   "дойдё",
    "закон",
+   "запад",
+   "запуг",
    "заяви",
    "изоли",
    "испол",
    "калин",
    "латви",
+   "напад",
    "напом",
    "наших",
    "оружи",
    "попро",
+   "появи",
    "прези",
+   "пригр",
+   "приме",
+   "прямо",
+   "путин",
+   "пытае",
    "разме",
    "ринке",
+   "случа",
+   "снова",
+   "собир",
+   "сразу",
    "стран",
    "терри",
    "эдгар",
@@ -206,5 +224,39 @@
   ],
   "title": "INTERVIEW Latvian Prime Minister Andris Kulbergs: Russia Lacks the Capacity to Attack the Baltics Without Full Mobilization - The Baltic Sentinel",
   "ts": "2026-10-01T14:45:21+00:00"
+ },
+ {
+  "level": 2,
+  "n": 1,
+  "source": "Google News — Latvia security",
+  "stems": [
+   "arsen",
+   "consi",
+   "putin",
+   "range",
+   "using",
+   "weapo"
+  ],
+  "title": "Putin Says Russia Will Consider Using Full Range of Weapons in Its Arsenal if Kaliningrad Is Threatened - The Moscow Times",
+  "ts": "2026-10-01T16:31:28+00:00"
+ },
+ {
+  "level": 2,
+  "n": 1,
+  "source": "Google News — eastern flank (PL/FI/NATO)",
+  "stems": [
+   "alexa",
+   "calls",
+   "discu",
+   "escal",
+   "jonas",
+   "phone",
+   "stubb",
+   "terro",
+   "volod",
+   "zelen"
+  ],
+  "title": "Volodymyr Zelenskyy Discussed the Escalation of Russian Terror in Phone Calls with Alexander Stubb and Jonas Gahr Støre - ArmyInform",
+  "ts": "2026-10-01T16:31:28+00:00"
  }
 ]
