@@ -1,1 +1,23 @@
-[]
+[
+ {
+  "first_seen": "2026-10-01T17:31:17+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-01T16:33:54+00:00",
+  "reason": "region: baltic, nato · matched “drone” · another report of a story already in the channel",
+  "repeat_of": "Drone shot down by NATO jets in eastern Latvia / Article - LSM",
+  "repeats": 0,
+  "source_id": "gnews_latvia_security",
+  "source_name": "Google News — Latvia security",
+  "summary": "",
+  "text": "US Marines bring drones and sensors to NATO’s Baltic Sentry op Fierce Sensors",
+  "tier": "news",
+  "title": "US Marines bring drones and sensors to NATO’s Baltic Sentry op - Fierce Sensors",
+  "uid": "bde652f3806c9ad6",
+  "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUVRlZVNFTVdwWmZTWnJjTi1hQnQwTFFrcXhSQURoMzlEV2RRbkxEcEIyeUVzWkxMTHlGclp1U3VoR3dybHZBclFxdzZ4bGFLemN5dm5xVHpVSjFuVGFXLTB1ZkEtdUZ2dGNnU0NHYlVoMTA1WWdNTDh6TG9lNE1DTFIyQ3ItVmlGZU1ldEt3Yi1rZFVMS2dMeDJyQVA2cFB2MVFnYm1R?oc=5",
+  "warning": false
+ }
+]
