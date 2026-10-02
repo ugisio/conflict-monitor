@@ -398,7 +398,66 @@ def fetch_polymarket(src: dict, state: State) -> list[Item]:
     return items
 
 
+# ------------------------------------------------------------------ gov.il "dynamic collector" (Israel NSC travel warnings)
+
+def fetch_govil_collector(src: dict, state: State) -> list[Item]:
+    """Israel's NSC travel-warning table is served by gov.il's DynamicCollector API (the web page itself is an
+    Angular app behind bot protection). Rows for the countries in `keep_lines` are tracked; the threat level is
+    the first digit 1-4 found in the row text, so a raised level is reported as ELEVATED."""
+    api = src.get("api", "https://www.gov.il/he/api/DynamicCollector")
+    ids = src.get("template_ids") or [src["template_id"]]
+    keep = [k.lower() for k in src.get("keep_lines", [])]
+    rows, last_err = [], None
+    for tid in ids:
+        try:
+            got, start, total = [], 0, None
+            for _ in range(60):
+                body = {"DynamicTemplateID": tid, "QueryFilters": {"skip": {"Query": start}}, "From": start}
+                r = requests.post(api, json=body, headers={**HEADERS, "Accept": "application/json"}, timeout=TIMEOUT)
+                r.raise_for_status()
+                data = r.json()
+                res = data.get("Results") or []
+                total = data.get("TotalResults", total)
+                got += res
+                if not res or (total is not None and len(got) >= int(total)):
+                    break
+                start += len(res)
+            if got:
+                rows = got
+                break
+        except Exception as e:                      # try the next candidate template id
+            last_err = e
+    if not rows:
+        raise RuntimeError(f"no rows from gov.il collector ({last_err})")
+    chunks = []
+    for row in rows:
+        txt = norm_ws(" ".join(str(v) for v in (row.get("Data") or {}).values() if isinstance(v, (str, int, float))))
+        if keep and not any(k in txt.lower() for k in keep):
+            continue
+        chunks.append(txt[:400])
+    if keep and not chunks:
+        raise RuntimeError(f"collector answered ({len(rows)} rows) but none matched the expected countries")
+    text = "\n".join(sorted(chunks))
+    rx = re.compile(src.get("level_regex", r"(?:רמה|level|\()\s*([1-4])"), re.I)
+    levels = {}
+    for c in chunks:
+        m = rx.search(c)
+        if m:
+            name = next((k for k in src.get("keep_lines", []) if k.lower() in c.lower()), c[:20])
+            levels[name] = int(m.group(1))
+    prev = (state.get_snapshot(src["id"]) or {}).get("meta", {}).get("levels") or {}
+    raised = [(k, prev[k], v) for k, v in levels.items() if k in prev and v > prev[k]]
+    lowered = [(k, prev[k], v) for k, v in levels.items() if k in prev and v < prev[k]]
+    hint, prefix = None, "Text changed"
+    if raised:
+        hint, prefix = 3, "Level RAISED " + ", ".join(f"{k}: {a} → {b}" for k, a, b in raised) + " —"
+    elif lowered:
+        hint, prefix = 1, "Level lowered " + ", ".join(f"{k}: {a} → {b}" for k, a, b in lowered) + " —"
+    return _snapshot_change(src, state, text, meta={"levels": levels, "rows": len(rows)}, title_prefix=prefix, level_hint=hint)
+
+
 FETCHERS: dict[str, Callable[[dict, State], list[Item]]] = {
+    "govil_collector": fetch_govil_collector,
     "rss": fetch_rss,
     "html_links": fetch_html_links,
     "html_text": fetch_html_text,
