@@ -156,18 +156,18 @@ sources:
     selectors: [".rich-text", "h1", ".c-teaser__title"]
     tier: official
 
-  # ---------- Israel: NSC travel-warning levels + embassy announcements (an early mover on threat assessments) ----------
-  # gov.il's own travel-warnings page is an Angular app behind bot protection and cannot be fetched by a script;
-  # this mirror republishes the NSC table (country, level 1-4, text). Only our five countries' rows are tracked.
-  - id: israel_nsc_levels
-    name: Israel NSC travel warnings (LV/LT/EE/PL/FI)
-    type: govil_collector
-    url: https://www.gov.il/he/departments/dynamiccollectors/travel-warnings-nsc
-    page: https://www.gov.il/he/departments/dynamiccollectors/travel-warnings-nsc
-    template_ids: ["d1805730-e0d6-4c15-8ff4-baf039c0c371", "a591accc-14b7-4be8-a7b7-395ca588db53", "149a5bad-edde-49a6-9fb9-188bd17d4788"]
-    keep_lines: ["לטביה", "ליטא", "אסטוניה", "פולין", "פינלנד"]
-    tier: official
-    note: "NSC levels 1 (low) – 4 (severe); the page is an app, the data comes from gov.il's collector API"
+  # ---------- Israel: NSC travel warnings + embassy announcements (an early mover on threat assessments) ----------
+  # The NSC level table lives on gov.il, which refuses scripted access (the page is an Angular app behind bot
+  # protection and its data API answers 403 to GitHub's servers — tested 2 Oct 2026; the tlvflights.com mirror is
+  # Cloudflare-blocked too). NSC updates are therefore followed through the Israeli press, which reports every
+  # change the same day ("NSC raises travel warning for …").
+  - id: gnews_israel_nsc
+    name: Google News — Israel NSC travel warnings
+    type: rss
+    url: "https://news.google.com/rss/search?q=Israel%20%22National%20Security%20Council%22%20%28%22travel%20warning%22%20OR%20%22travel%20warnings%22%20OR%20%22threat%20level%22%29%20%28Europe%20OR%20Baltic%20OR%20Latvia%20OR%20Lithuania%20OR%20Estonia%20OR%20Poland%20OR%20Finland%20OR%20countries%29&hl=en&gl=LV&ceid=LV:en"
+    tier: news
+    always_relevant: true
+    max_age_days: 3
 
   - id: israel_emb_riga
     name: Israeli Embassy Riga announcements
