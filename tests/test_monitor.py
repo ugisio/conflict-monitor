@@ -554,3 +554,55 @@ def test_always_relevant_source_keeps_poland_items():
     assert out is not None and out.level == 3 and "source scope" in out.reason        # evacuat → L4, capped to 3 for news
     it = Item(source_id="g", source_name="GN Israel", title="Israeli embassy in Helsinki hosts Rosh Hashanah reception", url="u")
     assert classify.classify(it, src, CFG) is None                                    # scoped source, but nothing to say
+
+
+def test_govil_collector_levels(tmp_path):
+    """gov.il DynamicCollector: paginated JSON rows; only our countries are tracked; a raised level → ELEVATED."""
+    st = tmp_state(tmp_path)
+    src = {"id": "israel_nsc_levels", "name": "Israel NSC travel warnings", "type": "govil_collector", "url": "u", "tier": "official",
+           "template_ids": ["bad-id", "good-id"], "keep_lines": ["לטביה", "ליטא", "פולין"]}
+    pages = {"good-id": [
+        {"Results": [{"Data": {"country": "גרמניה", "level": "רמה 2 - איום בינוני", "text": "x"}},
+                     {"Data": {"country": "לטביה", "level": "רמה 1 - אין אזהרת מסע", "text": "y"}}], "TotalResults": 3},
+        {"Results": [{"Data": {"country": "פולין", "level": "רמה 1 - אין אזהרת מסע", "text": "z"}}], "TotalResults": 3},
+    ]}
+    calls = []
+
+    def fake_post(url, json=None, headers=None, timeout=None):
+        tid, start = json["DynamicTemplateID"], json["From"]
+        calls.append((tid, start))
+        if tid == "bad-id":
+            return FakeResp(text="<html>blocked</html>", data=None, status=403)
+        return FakeResp(data=pages[tid][min(start // 2, 1)])
+
+    class R403(FakeResp):
+        def raise_for_status(self):
+            if self.status_code >= 400:
+                raise fetchers.requests.HTTPError(str(self.status_code))
+
+    def fake_post2(url, json=None, headers=None, timeout=None):
+        r = fake_post(url, json=json, headers=headers, timeout=timeout)
+        r.__class__ = R403
+        return r
+
+    with mock.patch.object(fetchers.requests, "post", side_effect=fake_post2):
+        assert fetchers.fetch_govil_collector(src, st) == []                       # baseline
+        snap = st.get_snapshot("israel_nsc_levels")
+        assert snap["meta"]["levels"] == {"לטביה": 1, "פולין": 1} and "גרמניה" not in snap["text"]
+        pages["good-id"][0]["Results"][1]["Data"]["level"] = "רמה 3 - איום גבוה"
+        out = fetchers.fetch_govil_collector(src, st)
+    assert len(out) == 1 and out[0].level == 3 and out[0].title.startswith("Level RAISED לטביה: 1 → 3")
+    assert ("bad-id", 0) in calls and ("good-id", 2) in calls                        # fell through to the working id, paginated
+
+
+def test_israel_nsc_press_coverage():
+    """gov.il refuses scripted access, so NSC level changes are followed through the press (scoped query)."""
+    src = {"id": "gnews_israel_nsc", "name": "GN NSC", "tier": "news", "always_relevant": True}
+    for title, want in {
+        "Israel's National Security Council raises travel warning for Latvia and Estonia to level 3 - Times of Israel": 3,
+        "NSC urges Israelis to leave Poland immediately as threat grows - Ynet": 3,
+        "Israel raises threat level against travel to 80 countries amid Gaza war - JPost": 2,
+        "National Security Council: Updated Travel Warnings for the Upcoming Jewish Holidays": 2,
+    }.items():
+        out = classify.classify(Item(source_id="g", source_name="GN NSC", title=title, url="u"), src, CFG)
+        assert out is not None and out.level == want, (title, out and out.level)
