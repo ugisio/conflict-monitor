@@ -37,11 +37,11 @@ Every message starts with the badge (emoji + `L<n> NAME`), so the channel can be
   advisories RSS feed, whose Latvia/Estonia/Lithuania entries are snapshot-diffed sentence by sentence
 - US Embassy security/other alerts: Riga, Tallinn, Vilnius, Warsaw, Helsinki
 - UK FCDO travel advice for Latvia, Estonia and Lithuania (content API: alert status + change history + text)
-- Israel: National Security Council travel-warning levels for Latvia, Lithuania, Estonia, Poland and Finland
-  (gov.il's own page is an app behind bot protection, so a mirror of the NSC table is tracked; a raised level is
-  ELEVATED) and the announcement pages of the Israeli embassies in Riga, Vilnius, Tallinn, Helsinki and Warsaw
-  (staff reductions, suspended consular services, closures); plus a Google News query for Israeli embassy / NSC
-  news in the region
+- Israel: the announcement pages of the Israeli embassies in Riga, Vilnius, Tallinn, Helsinki and Warsaw (staff
+  reductions, suspended consular services, closures) and two Google News queries — Israeli embassy / NSC news in
+  the region, and NSC travel-warning updates (a warning raised for one of our countries is ELEVATED). The NSC's own
+  level table on gov.il refuses scripted access (bot-protected page, data API answers 403 to GitHub; the
+  tlvflights.com mirror is Cloudflare-blocked), so it is followed through the press, which reports every change.
 - Canada and Germany travel advice pages for Latvia
 
 **Regional news (feeds; only security-relevant items that mention the region pass)**
