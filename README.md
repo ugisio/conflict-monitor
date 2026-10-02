@@ -34,7 +34,10 @@ Every message starts with the badge (emoji + `L<n> NAME`), so the channel can be
 
 **Official (text is diffed between runs)**
 - US State Department advisories: the Latvia page (level + full text; blocked from GitHub, so a soft source) and the
-  advisories RSS feed, whose Latvia/Estonia/Lithuania entries are snapshot-diffed sentence by sentence
+  advisories RSS feed, whose Latvia/Estonia/Lithuania entries are snapshot-diffed sentence by sentence. The feed lists
+  200+ advisories in a shifting order, so the whole feed is scanned for those three; the first sighting only stores a
+  baseline (an old, unchanged Level 1 advisory is not news), and half-built entries the CDN sometimes serves
+  ("…Summary not available") are ignored rather than diffed.
 - US Embassy security/other alerts: Riga, Tallinn, Vilnius, Warsaw, Helsinki
 - UK FCDO travel advice for Latvia, Estonia and Lithuania (content API: alert status + change history + text)
 - Israel: the announcement pages of the Israeli embassies in Riga, Vilnius, Tallinn, Helsinki and Warsaw (staff
