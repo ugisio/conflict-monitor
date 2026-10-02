@@ -161,14 +161,13 @@ sources:
   # this mirror republishes the NSC table (country, level 1-4, text). Only our five countries' rows are tracked.
   - id: israel_nsc_levels
     name: Israel NSC travel warnings (LV/LT/EE/PL/FI)
-    type: html_text
-    url: https://www.tlvflights.com/en/travel-warnings/
+    type: govil_collector
+    url: https://www.gov.il/he/departments/dynamiccollectors/travel-warnings-nsc
     page: https://www.gov.il/he/departments/dynamiccollectors/travel-warnings-nsc
-    selectors: ["tr"]
-    keep_lines: ["לטביה", "ליטא", "אסטוניה", "פולין", "פינלנד", "Latvia", "Lithuania", "Estonia", "Poland", "Finland"]
-    level_regex: '\((\d)\)'
+    template_ids: ["d1805730-e0d6-4c15-8ff4-baf039c0c371", "a591accc-14b7-4be8-a7b7-395ca588db53", "149a5bad-edde-49a6-9fb9-188bd17d4788"]
+    keep_lines: ["לטביה", "ליטא", "אסטוניה", "פולין", "פינלנד"]
     tier: official
-    note: "mirror of gov.il NSC list; levels 1 (low) – 4 (severe)"
+    note: "NSC levels 1 (low) – 4 (severe); the page is an app, the data comes from gov.il's collector API"
 
   - id: israel_emb_riga
     name: Israeli Embassy Riga announcements
