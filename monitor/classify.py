@@ -41,6 +41,11 @@ RULES: list[tuple[str, int]] = [
      r"(consular|visa) services (are |have been |will be )?(suspended|limited|unavailable)|"
      r"limited (staffing|capacity to (assist|provide))|ability to (provide|assist).{0,40}(limited|reduced)", 3),
     (r"reconsider travel|advise against all but essential travel|advise against all travel", 3),
+    # A foreign government raising its travel warning for one of our countries (Israel's NSC, others) is ELEVATED;
+    # a general "warnings raised for 80 countries" story is WATCH.
+    (r"(rais|upgrad|elevat|issu|tighten)\w*.{0,40}travel (warning|advisory|alert)s?.{0,80}(latvia|estonia|lithuania|baltic|poland|finland)|"
+     r"(latvia|estonia|lithuania|baltic|poland|finland).{0,80}travel (warning|advisory|alert)s? (raised|upgraded|issued|elevated|tightened)", 3),
+    (r"(rais|upgrad|elevat|issu|tighten|updat)\w*.{0,40}(travel (warning|advisory|alert)s?|threat level)|travel (warning|advisory)s? (raised|upgraded|issued|tightened|updated)", 2),
     (r"(invok|trigger|request|call|ask)\w* (for )?(nato'?s? )?article 4|article 4 (is |has been |was |were )?(invoked|triggered|consultations|talks|meeting)|"
      r"(задейств|активир|запрос)\w* стать[юи] 4|консультаци\w* по стать[еи] 4", 3),
     (r"security alert", 3),
