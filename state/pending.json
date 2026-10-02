@@ -1,1 +1,23 @@
-[]
+[
+ {
+  "first_seen": "2026-10-02T19:01:34+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-02T18:59:31+00:00",
+  "reason": "region: kaliningrad, russia · matched “Nuclear Threat” · single source, held at WATCH until another source corroborates · another report of a story already in the channel",
+  "repeat_of": "Lithuanian president on Russian nuclear threat letter: reckless remarks becoming more frequent - Європейська правда",
+  "repeats": 0,
+  "source_id": "gnews_latvia_security",
+  "source_name": "Google News — Latvia security",
+  "summary": "",
+  "text": "U.S. Responds to Russia's Nuclear Threats Over Kaliningrad — CNBC UA.NEWS",
+  "tier": "news",
+  "title": "U.S. Responds to Russia's Nuclear Threats Over Kaliningrad — CNBC - UA.NEWS",
+  "uid": "efa3c308f9d58932",
+  "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQYVFvV285OGVrQ0dUWk03S25BcXFuVXloWXE1NmhXTmRzYWx5Mm1valpwaGJfbzIyVkFrT2pQSmpKeHhLU2VOTHphNGFvMXRFY1FRQ2tWWnVaYTYxV3g5RW5mbDA4MDRsVmx4OThsVklWMTlXSmdwNm9Sb0V4UnF5ZUtoY3VMWFFjYW5xMUN5OExreG8?oc=5",
+  "warning": false
+ }
+]
