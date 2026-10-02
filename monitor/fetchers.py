@@ -143,7 +143,10 @@ def fetch_html_links(src: dict, state: State) -> list[Item]:
     soup = BeautifulSoup(r.text, "lxml")
     items, seen = [], set()
     for a in soup.select(src.get("selector", "a")):
-        title = norm_ws(a.get_text(" "))
+        t_el = a.select_one(src["title_selector"]) if src.get("title_selector") else None
+        title = norm_ws((t_el or a).get_text(" "))
+        if not t_el and src.get("title_selector"):
+            title = norm_ws(a.get_text(" ")).split("  ")[0]
         href = a.get("href") or ""
         if not title or len(title) < 8 or not href:
             continue
@@ -166,15 +169,37 @@ def fetch_html_text(src: dict, state: State) -> list[Item]:
     for t in soup(["script", "style", "noscript", "nav", "footer", "header"]):
         t.decompose()
     chunks = []
+    keep = [k.lower() for k in src.get("keep_lines", [])]
     for sel in src.get("selectors", ["main", "body"]):
         for el in soup.select(sel):
             txt = norm_ws(el.get_text(" "))
+            if keep and not any(k in txt.lower() for k in keep):
+                continue
             if txt and txt not in chunks:
                 chunks.append(txt)
     text = "\n".join(chunks)[:20000]
-    if not text:
+    if not text and not keep:
         text = norm_ws(soup.get_text(" "))[:20000]
-    return _snapshot_change(src, state, text, meta={}, title_prefix="Page changed")
+    if keep and not chunks:
+        raise RuntimeError("none of the expected rows found on the page (layout changed?)")
+    # Optional: a number per kept row (e.g. a threat level "(2)") so a raised level is reported as such.
+    meta, hint, prefix = {}, None, "Page changed"
+    if src.get("level_regex"):
+        rx = re.compile(src["level_regex"], re.I)
+        levels = {}
+        for c in chunks:
+            m = rx.search(c)
+            if m:
+                levels[c.split(" ")[0]] = int(m.group(1))
+        meta["levels"] = levels
+        prev = (state.get_snapshot(src["id"]) or {}).get("meta", {}).get("levels") or {}
+        raised = [(k, prev[k], v) for k, v in levels.items() if k in prev and v > prev[k]]
+        lowered = [(k, prev[k], v) for k, v in levels.items() if k in prev and v < prev[k]]
+        if raised:
+            hint, prefix = 3, "Level RAISED " + ", ".join(f"{k}: {a} → {b}" for k, a, b in raised) + " —"
+        elif lowered:
+            hint, prefix = 1, "Level lowered " + ", ".join(f"{k}: {a} → {b}" for k, a, b in lowered) + " —"
+    return _snapshot_change(src, state, text, meta=meta, title_prefix=prefix, level_hint=hint)
 
 
 def _snapshot_change(src: dict, state: State, text: str, meta: dict, title_prefix: str, level_hint: int | None = None) -> list[Item]:
