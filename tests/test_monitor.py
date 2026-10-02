@@ -482,3 +482,75 @@ def test_story_clustering_folds_repeat_reports(tmp_path):
     text = build_digest(st.take_pending(), st, CFG, tz, 3, None)
     assert "(+4 more reports)" in text
     assert text.count("Kaliningrad") == 1, text
+
+
+# ---------------------------------------------------------------- Israel: NSC levels + embassy announcements (2 Oct)
+
+NSC_HTML = """<html><body><table>
+<tr><th>Country</th><th>Level</th><th>Text</th></tr>
+<tr><td>גרמניה</td><td>Moderate (2)</td><td>text</td></tr>
+<tr><td>לטביה</td><td>Low (1)</td><td>מומלץ לנקוט באמצעי זהירות רגילים. אין אזהרת מסע (רמה 1).</td></tr>
+<tr><td>ליטא</td><td>Low (1)</td><td>same</td></tr>
+<tr><td>פולין</td><td>Low (1)</td><td>same</td></tr>
+</table></body></html>"""
+
+
+def test_israel_nsc_mirror_reports_level_changes(tmp_path):
+    st = tmp_state(tmp_path)
+    src = {"id": "israel_nsc_levels", "name": "Israel NSC travel warnings", "type": "html_text", "url": "u", "tier": "official",
+           "selectors": ["tr"], "keep_lines": ["לטביה", "ליטא", "אסטוניה", "פולין", "פינלנד"], "level_regex": r"\((\d)\)"}
+    with mock.patch.object(fetchers, "http_get", return_value=FakeResp(text=NSC_HTML)):
+        assert fetchers.fetch_html_text(src, st) == []                      # baseline
+        assert fetchers.fetch_html_text(src, st) == []                      # unchanged
+    assert st.get_snapshot("israel_nsc_levels")["meta"]["levels"] == {"לטביה": 1, "ליטא": 1, "פולין": 1}
+    assert "גרמניה" not in st.get_snapshot("israel_nsc_levels")["text"]     # other countries ignored
+    # Germany changing must not fire; Latvia going 1 → 2 must, as ELEVATED
+    with mock.patch.object(fetchers, "http_get", return_value=FakeResp(text=NSC_HTML.replace("Moderate (2)", "High (3)"))):
+        assert fetchers.fetch_html_text(src, st) == []
+    raised = NSC_HTML.replace("<td>לטביה</td><td>Low (1)</td>", "<td>לטביה</td><td>Moderate (2)</td>")
+    with mock.patch.object(fetchers, "http_get", return_value=FakeResp(text=raised)):
+        out = fetchers.fetch_html_text(src, st)
+    assert len(out) == 1 and out[0].level == 3 and out[0].title.startswith("Level RAISED לטביה: 1 → 2")
+    assert classify.classify(out[0], src, CFG).level == 3
+    with mock.patch.object(fetchers, "http_get", return_value=FakeResp(text=NSC_HTML)):
+        back = fetchers.fetch_html_text(src, st)
+    assert back[0].level == 1 and "lowered" in back[0].title
+    # a layout change (no rows found) is an error, not a silent "all quiet"
+    with mock.patch.object(fetchers, "http_get", return_value=FakeResp(text="<html><body><p>moved</p></body></html>")):
+        try:
+            fetchers.fetch_html_text(src, st)
+            assert False, "expected an error"
+        except RuntimeError:
+            pass
+
+
+EMB_HTML = """<html><body>
+<a href="/riga/en/announcements/closed-days"><h2>The Israeli Embassy will be closed on these days:</h2> teaser 01/09/2025 Read More</a>
+<a href="/riga/en/announcements/eta-il"><h2>Important Information for Travelers to Israel: ETA-IL Requirement</h2> teaser 09/01/2025 Read More</a>
+<a href="/riga/en/announcements/suspend"><h2>Consular services are suspended until further notice</h2> teaser 02/10/2026 Read More</a>
+<a href="/riga/en/the-embassy">The Embassy</a>
+</body></html>"""
+
+
+def test_israeli_embassy_announcements(tmp_path):
+    st = tmp_state(tmp_path)
+    src = {"id": "israel_emb_riga", "name": "Israeli Embassy Riga announcements", "type": "html_links",
+           "url": "https://embassies.gov.il/riga/en/announcements", "selector": 'a[href*="/announcements/"]',
+           "title_selector": "h2, h3", "tier": "official", "base_level": 1}
+    with mock.patch.object(fetchers, "http_get", return_value=FakeResp(text=EMB_HTML)):
+        items = fetchers.fetch_html_links(src, st)
+    assert [i.title for i in items] == ["The Israeli Embassy will be closed on these days:",
+                                        "Important Information for Travelers to Israel: ETA-IL Requirement",
+                                        "Consular services are suspended until further notice"]
+    assert items[0].url == "https://embassies.gov.il/riga/en/announcements/closed-days"
+    levels = [classify.classify(i, src, CFG).level for i in items]
+    assert levels == [1, 1, 3], levels
+
+
+def test_always_relevant_source_keeps_poland_items():
+    src = {"id": "gnews_israel_region", "name": "GN Israel", "tier": "news", "always_relevant": True}
+    it = Item(source_id="g", source_name="GN Israel", title="Israel evacuates embassy staff from Warsaw amid security concerns", url="u")
+    out = classify.classify(it, src, CFG)
+    assert out is not None and out.level == 3 and "source scope" in out.reason        # evacuat → L4, capped to 3 for news
+    it = Item(source_id="g", source_name="GN Israel", title="Israeli embassy in Helsinki hosts Rosh Hashanah reception", url="u")
+    assert classify.classify(it, src, CFG) is None                                    # scoped source, but nothing to say
