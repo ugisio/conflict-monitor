@@ -223,7 +223,7 @@
  },
  {
   "level": 2,
-  "n": 8,
+  "n": 9,
   "source": "Google News — NATO & the Baltics",
   "stems": [
    "arsen",
@@ -362,5 +362,19 @@
   ],
   "title": "NATO-led training in Baltics bolsters new Air Defence framework - ac.nato.int",
   "ts": "2026-10-02T08:01:43+00:00"
+ },
+ {
+  "level": 2,
+  "n": 1,
+  "source": "ERR News (Estonia, EN)",
+  "stems": [
+   "ahead",
+   "boost",
+   "cyber",
+   "elect",
+   "pushe"
+  ],
+  "title": "Estonia pushes for cybersecurity boost ahead of elections",
+  "ts": "2026-10-02T12:26:28+00:00"
  }
 ]
