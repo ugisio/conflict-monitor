@@ -418,5 +418,26 @@
   "uid": "2ff27e383c3dd8b6",
   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZFpSdnBkNy16RXZBaUFOdDVod3ZFYTF0RWZBQnQ2MTBlZE5icGx3MmZ2MURZd0ZFWlRjTTV0QU9XTkdxZklLLVpaT1dQdGlzdmhScVRrRUpzbVdBZk5iT1pWRVhkVmpjYnY2a21mdEJZbjF5MjNQVU5jY0w1MU5YemNBQ01IeWZHWXFtbm92UlhFejVnSGEyQkVpaC1CWlJQQWJvekdHSGM?oc=5",
   "warning": true
+ },
+ {
+  "first_seen": "2026-10-02T01:01:24+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-02T00:27:00+00:00",
+  "reason": "region: latvia, russia · matched “detains couple on Russia espionage”",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "gnews_latvia_security",
+  "source_name": "Google News — Latvia security",
+  "summary": "",
+  "text": "Latvia detains couple on Russia espionage charges The New Voice of Ukraine",
+  "tier": "news",
+  "title": "Latvia detains couple on Russia espionage charges - The New Voice of Ukraine",
+  "uid": "226ec138a70f31e9",
+  "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNa3haZHpjM0RzSVY5dWhReFozbk1NWEliTXNfa0xibzYxSUhfZnBnbGhVVGUwTGhydHF1d1lQZ0M1SDdnVmxMbnIwak40QjFvMDRYc0Fkazg3b3RVb0dlZ0Q1WTRVSU5tejFNQlh3QkVVTHZoSEJCWUNuYk0tNldDWkJXMHY4aFZVY0wwckJZcG94ak8tem9r0gGTAUFVX3lxTE1ZNk15VTA2WFBLNzR1N2lVRS1JdzZLbXFpeEVUSDE5WUdIb2NIUkM1cmtaNkFjMlROOXF0UjV2V1dMdnlGY1ozWU9ZS1Q1TWg3ZnQ5RDZCTUo2c3pnZXp4LVg1cThTd2piZmFLWEJOcFEyekJHOGpENG11Mi1qV2J4Z182ZGJXMGhJVk5pZGMtdHFIZw?oc=5",
+  "warning": false
  }
 ]
