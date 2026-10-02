@@ -249,8 +249,8 @@ def test_rss_diff_mode_catches_wording_changes(tmp_path):
                         "Exercise normal precautions in Latvia. The Department has authorized the voluntary departure of "
                         "family members of U.S. government employees due to the security situation.")
     with mock.patch.object(fetchers, "http_get", return_value=FakeResp(text=xml1)):
-        first = fetchers.fetch_rss(src, st)                      # first sighting: reported normally, baseline stored
-    assert [i.kind for i in first] == ["alert"]
+        assert fetchers.fetch_rss(src, st) == []                 # first sighting of a Level 1 entry: baseline stored silently
+    assert st.get_snapshot("us_state_rss::latvia")["meta"]["title"].startswith("Latvia")
     with mock.patch.object(fetchers, "http_get", return_value=FakeResp(text=xml1)):
         assert fetchers.fetch_rss(src, st) == []                 # unchanged text: silent
     with mock.patch.object(fetchers, "http_get", return_value=FakeResp(text=xml2)):
@@ -260,6 +260,61 @@ def test_rss_diff_mode_catches_wording_changes(tmp_path):
     out = classify.classify(changed[0], src, CFG)
     assert out.level >= 3                                        # official wording change about staff → alert, no hold
     assert classify.corroborate([out], recent=[])[0].level >= 3
+
+
+def test_rss_diff_mode_scans_whole_feed_and_ignores_placeholders(tmp_path):
+    """2 Oct: the State Dept feed lists 200+ advisories in a shifting order (Baltics around position 90–100), and
+    the CDN sometimes serves a half-built entry ('…Summary not available'). Neither may produce a false 'changed'."""
+    st = tmp_state(tmp_path)
+    src = {"id": "us_state_rss", "name": "US State Dept advisories (feed)", "url": "u", "tier": "official",
+           "include": ["latvia", "estonia", "lithuania"], "diff_titles": ["Latvia", "Estonia", "Lithuania"],
+           "max_age_days": 14}
+    filler = "".join(f"<item><title>Country {i} - Level 1: Exercise Normal Precautions</title><link>l{i}</link>"
+                     f"<pubDate>Tue, 28 Apr 2026</pubDate><description>Exercise normal precautions in Country {i}.</description></item>"
+                     for i in range(95))
+    def feed(lt_desc, lt_level=1):
+        return ("<?xml version='1.0'?><rss version='2.0'><channel>" + filler +
+                f"<item><title>Lithuania - Level {lt_level}: Exercise Normal Precautions</title><link>ltu</link>"
+                f"<pubDate>Tue, 28 Apr 2026</pubDate><description>{lt_desc}</description></item>"
+                "<item><title>Latvia - Level 1: Exercise Normal Precautions</title><link>lva</link>"
+                "<pubDate>Wed, 01 Apr 2026</pubDate><description>There were no changes to the advisory level or risk "
+                "indicators. Latvia is generally a safe destination for travelers.</description></item>"
+                "</channel></rss>")
+    full = ("There were no changes to the advisory level or risk indicators. Exercise normal precautions in Lithuania. "
+            "Lithuania is generally a safe destination for travelers.")
+    # 1. a placeholder variant is ignored: nothing stored, nothing reported
+    with mock.patch.object(fetchers, "http_get", return_value=FakeResp(text=feed("Exercise normal precautionSummary not available"))):
+        assert fetchers.fetch_rss(src, st) == []
+    assert st.get_snapshot("us_state_rss::lithuania") is None
+    assert st.get_snapshot("us_state_rss::latvia") is not None            # beyond position 60, still tracked
+    # 2. the real text arrives: baseline stored silently (an old, unchanged Level 1 advisory is not news)
+    with mock.patch.object(fetchers, "http_get", return_value=FakeResp(text=feed(full))):
+        assert fetchers.fetch_rss(src, st) == []
+    assert st.get_snapshot("us_state_rss::lithuania")["text"] == full
+    # 3. a stale placeholder baseline (what the live state held on 2 Oct) is replaced silently, not diffed
+    st.set_snapshot("us_state_rss::lithuania", {"hash": "x", "text": "Exercise normal precautionSummary not available",
+                                                "meta": {"title": "Lithuania - Level 1: Exercise Normal Precautions"}})
+    with mock.patch.object(fetchers, "http_get", return_value=FakeResp(text=feed(full))):
+        assert fetchers.fetch_rss(src, st) == []
+    # 4. a real wording change is reported as a diff, whatever the entry's date or position
+    with mock.patch.object(fetchers, "http_get", return_value=FakeResp(text=feed(full + " The Embassy has reduced its staff."))):
+        out = fetchers.fetch_rss(src, st)
+    assert [i.kind for i in out] == ["advisory_change"] and "reduced its staff" in out[0].text
+    # 5. an entry first seen already above Level 1 is reported even though it is months old
+    st2 = tmp_state(tmp_path / "b")
+    with mock.patch.object(fetchers, "http_get", return_value=FakeResp(text=feed(full, lt_level=3))):
+        out = fetchers.fetch_rss(src, st2)
+    assert [i.title for i in out] == ["Lithuania - Level 3: Exercise Normal Precautions"]
+
+
+def test_digest_names_official_sources_with_news(tmp_path):
+    st = tmp_state(tmp_path)
+    it = Item(source_id="us_embassy_warsaw", source_name="US Embassy Warsaw alerts", title="Message to U.S. Citizens",
+              url="u", text="absentee ballot drop-off", level=1, tier="official")
+    txt = build_digest([it], st, CFG, local_tz(CFG), 1, None)
+    n = sum(1 for s in CFG["sources"] if s.get("tier") == "official")
+    assert f"{n - 1} of {n} official sources unchanged · new above from: US Embassy Warsaw alerts." in txt
+    assert f"All {n} official sources unchanged." in build_digest([], st, CFG, local_tz(CFG), 0, None)
 
 
 def test_polymarket_move(tmp_path):
