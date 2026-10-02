@@ -376,5 +376,26 @@
   "uid": "ee3fd2a18e7c073d",
   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNd2l0MTBBOFJ5VjBFRW1wcmEzdVEtLV9lbUF0TEh0bmIzd0lkSXdSb190RE9ibTBpM2FoQkNsbGpNRlJEU0RhUEhSZ0tlNTVSMjJDRWhZeUYxZm45QlYzVzBzYTVlcS04Vmg0UDVyd3VRSGdQdkNCamt5MXVBQXNQOFg2cW3SAYoBQVVfeXFMT3RVYkRtTFgzNUhCaUI5M2g3ZG5sTi1TWWp1YlAwLWFNb1VWc2VnNFFfTTVZYW5PNm1RUVJPWmFad3JDaTFYTGMzN2V2bVM2bjF5RDd3LUIxaVF2azJ5Y19yYjEwNWhsWUhaalJsSHJhYlZ6VThDbjdiaG9qT19pUlN0dzZyX0RQYm53?oc=5",
   "warning": false
+ },
+ {
+  "first_seen": "2026-10-02T15:01:43+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-02T14:18:57+00:00",
+  "reason": "region: baltic, russia · matched “threat” · another report of a story already in the channel",
+  "repeat_of": "Europe must be prepared for Russian sabotage and hybrid attacks – Rutte - Цензор.НЕТ",
+  "repeats": 0,
+  "source_id": "gnews_latvia_security",
+  "source_name": "Google News — Latvia security",
+  "summary": "",
+  "text": "Baltic states ramp up war preparations over Russia threat: Report Türkiye Today",
+  "tier": "news",
+  "title": "Baltic states ramp up war preparations over Russia threat: Report - Türkiye Today",
+  "uid": "322020ab3edc6b75",
+  "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQR0dYbWw0Qk53RVV4ZXNLZ3FnSGxMUEQ2MUVhV2UyU1ktb1d4LWEzV21qaVotdHBGUEtaTktLdndud1dfME13Y05hWmNtcTF1VEdzeTRlWDIzQXF1ZFQ3VnNmMUtFdTNfUmhoODJTR3VwUUNBWU9UaFNpRmdvZF9xZEFubTI4X0kwQUdlUkg4akpHV2gzeHJtVW5RcGtnQ3J2al9MVTBEem8zWmdX?oc=5",
+  "warning": false
  }
 ]
