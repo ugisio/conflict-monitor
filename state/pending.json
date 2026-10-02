@@ -292,5 +292,26 @@
   "uid": "a12f1eabbaba3372",
   "url": "https://eng.lsm.lv/article/politics/election/02.10.2026-early-voting-turnout-in-latvia-surpasses-10-on-friday.a665843/?utm_source=rss&utm_campaign=rss&utm_medium=links",
   "warning": false
+ },
+ {
+  "first_seen": "2026-10-02T13:31:23+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 1,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-02T13:03:09+00:00",
+  "reason": "region: latvia, lithuania, nato · matched “exercise”",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "gnews_latvia_security",
+  "source_name": "Google News — Latvia security",
+  "summary": "",
+  "text": "B-1B used for the first time in NATO air defense exercise over Lithuania and Latvia — AeroTime UA.NEWS",
+  "tier": "news",
+  "title": "B-1B used for the first time in NATO air defense exercise over Lithuania and Latvia — AeroTime - UA.NEWS",
+  "uid": "7ce45fdfca718c05",
+  "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONE1OSkV2MnJtQUlPaEJDbW5FcERaUlJxNnF6dEhoMjlucGJyOU1pQTNDUUttX1VsY3NYMzFkd1J3NUdqV29vaFBiMDh4ZENIaXNRclhra2NKNEVpNlBpVmgzZWZTbGZaa1lwNGdIcG5YRlVfbER4UVNIVEJWNjduSW13RXdfQU5wZlpvMk8zTGpES1lSM2Vva3hBUE1hSmk3MlE?oc=5",
+  "warning": false
  }
 ]
