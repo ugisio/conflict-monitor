@@ -145,5 +145,26 @@
   "uid": "e0a2774e06be887b",
   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOUmZxY1FyU2JuRHhwX2p1YjNJcTNBUmdYSXd6LXVQM1ljQk1XZ3FyMm1WVlU5YWR4eEdmXzA4MklRc0psLW8zVVM4b1ZuSmwwMFpOdDdZbWRJSDNycGtadjA2cFp1aFF6VWpNZ19sYVNvUUFuaUlWNXRtQjNwR2pmdmJHd2kyQlhnMmc?oc=5",
   "warning": true
+ },
+ {
+  "first_seen": "2026-10-02T10:31:21+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-02T10:00:32+00:00",
+  "reason": "region: kaliningrad, russia · matched “nuclear” · another report of a story already in the channel",
+  "repeat_of": "Kubilius: Russian attack on arms factory would trigger NATO military response - politico.eu",
+  "repeats": 0,
+  "source_id": "gnews_latvia_security",
+  "source_name": "Google News — Latvia security",
+  "summary": "",
+  "text": "Putin says Russia would use nuclear weapons to defend Kaliningrad if attacked. Here's what he says is provoking the tension Plataforma Media",
+  "tier": "news",
+  "title": "Putin says Russia would use nuclear weapons to defend Kaliningrad if attacked. Here's what he says is provoking the tension - Plataforma Media",
+  "uid": "9bec15a0064ebca2",
+  "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcmRzdGwtem1ua1FtVmpHMnBaenBJUndCc21RQV95bkotcU83a3FHcnFKb2VSNk1vY1FqdmxxNUVNY0lDSGJkMHl1N2NVanJzWmE1YkJLV0syYVpNbDhtYzBNVGVob0tvTFdHQ3M3RkxPclRBVW9La0dDdjFTYjFSZm0wU1U5azNfeEZFbnBBeGd6WkpZbllISWFKWHRmNU1MZGc?oc=5",
+  "warning": false
  }
 ]
