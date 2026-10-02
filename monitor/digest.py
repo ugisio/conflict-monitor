@@ -64,11 +64,12 @@ def build_digest(items: list[Item], state: State, cfg: dict, tz, overall: int, s
 
     # quiet sources & health
     official = [s for s in cfg["sources"] if s.get("tier") == "official"]
-    quiet = [s["name"] for s in official if not any(it.source_id == s["id"] for it in items)]
-    if quiet and len(quiet) == len(official):
-        lines += ["", f"{scale[0]['emoji']} <i>All {len(official)} official advisories unchanged.</i>"]
-    elif quiet:
-        lines += ["", f"{scale[0]['emoji']} <i>{len(quiet)} of {len(official)} official advisories unchanged.</i>"]
+    active = [s["name"] for s in official if any(it.source_id == s["id"] for it in items)]
+    if not active:
+        lines += ["", f"{scale[0]['emoji']} <i>All {len(official)} official sources unchanged.</i>"]
+    else:
+        lines += ["", f"{scale[0]['emoji']} <i>{len(official) - len(active)} of {len(official)} official sources unchanged · "
+                      f"new above from: {esc(', '.join(active))}.</i>"]
     failing = [sid for sid, h in health.items() if not h.get("ok") and h.get("fail_streak", 0) >= 3]
     if failing:
         names = {s["id"]: s["name"] for s in cfg["sources"]}
