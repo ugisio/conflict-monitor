@@ -156,6 +156,106 @@ sources:
     selectors: [".rich-text", "h1", ".c-teaser__title"]
     tier: official
 
+  # ---------- Israel: NSC travel-warning levels + embassy announcements (an early mover on threat assessments) ----------
+  # gov.il's own travel-warnings page is an Angular app behind bot protection and cannot be fetched by a script;
+  # this mirror republishes the NSC table (country, level 1-4, text). Only our five countries' rows are tracked.
+  - id: israel_nsc_levels
+    name: Israel NSC travel warnings (LV/LT/EE/PL/FI)
+    type: html_text
+    url: https://www.tlvflights.com/en/travel-warnings/
+    page: https://www.gov.il/he/departments/dynamiccollectors/travel-warnings-nsc
+    selectors: ["tr"]
+    keep_lines: ["לטביה", "ליטא", "אסטוניה", "פולין", "פינלנד", "Latvia", "Lithuania", "Estonia", "Poland", "Finland"]
+    level_regex: '\((\d)\)'
+    tier: official
+    note: "mirror of gov.il NSC list; levels 1 (low) – 4 (severe)"
+
+  - id: israel_emb_riga
+    name: Israeli Embassy Riga announcements
+    type: html_links
+    url: https://embassies.gov.il/riga/en/announcements
+    selector: 'a[href*="/announcements/"]'
+    title_selector: "h2, h3"
+    tier: official
+    base_level: 1
+
+  - id: israel_emb_lithuania
+    name: Israeli Embassy Vilnius announcements
+    type: html_links
+    url: https://embassies.gov.il/lithuania/en/announcements
+    selector: 'a[href*="/announcements/"]'
+    title_selector: "h2, h3"
+    tier: official
+    base_level: 1
+
+  - id: israel_emb_estonia
+    name: Israeli Embassy Tallinn announcements
+    type: html_links
+    url: https://embassies.gov.il/estonia/en/announcements
+    selector: 'a[href*="/announcements/"]'
+    title_selector: "h2, h3"
+    tier: official
+    base_level: 1
+
+  - id: israel_emb_finland
+    name: Israeli Embassy Helsinki announcements
+    type: html_links
+    url: https://embassies.gov.il/finland/en/announcements
+    selector: 'a[href*="/announcements/"]'
+    title_selector: "h2, h3"
+    tier: official
+    base_level: 1
+
+  - id: israel_emb_poland
+    name: Israeli Embassy Warsaw announcements
+    type: html_links
+    url: https://embassies.gov.il/poland/en/announcements
+    selector: 'a[href*="/announcements/"]'
+    title_selector: "h2, h3"
+    tier: official
+    base_level: 1
+
+  - id: gnews_israel_region
+    name: Google News — Israeli embassies / NSC in the region
+    type: rss
+    url: "https://news.google.com/rss/search?q=%28%22Israeli%20embassy%22%20OR%20%22Israel%27s%20embassy%22%20OR%20%22embassy%20of%20Israel%22%20OR%20%22Israeli%20National%20Security%20Council%22%20OR%20%22Israel%27s%20National%20Security%20Council%22%29%20%28Latvia%20OR%20Riga%20OR%20Lithuania%20OR%20Vilnius%20OR%20Estonia%20OR%20Tallinn%20OR%20Finland%20OR%20Helsinki%20OR%20Poland%20OR%20Warsaw%20OR%20Baltic%29&hl=en&gl=LV&ceid=LV:en"
+    tier: news
+    always_relevant: true     # the query is already scoped to our countries
+    max_age_days: 3
+
+  # ---------- US embassy security alerts in the neighbouring capitals (same signal as Riga) ----------
+  - id: us_embassy_tallinn
+    name: US Embassy Tallinn alerts
+    type: rss
+    url: https://ee.usembassy.gov/category/alert/feed/
+    tier: official
+    base_level: 1
+    max_age_days: 30
+
+  - id: us_embassy_vilnius
+    name: US Embassy Vilnius alerts
+    type: rss
+    url: https://lt.usembassy.gov/category/alert/feed/
+    tier: official
+    base_level: 1
+    max_age_days: 30
+
+  - id: us_embassy_warsaw
+    name: US Embassy Warsaw alerts
+    type: rss
+    url: https://pl.usembassy.gov/category/alert/feed/
+    tier: official
+    base_level: 1
+    max_age_days: 30
+
+  - id: us_embassy_helsinki
+    name: US Embassy Helsinki alerts
+    type: rss
+    url: https://fi.usembassy.gov/category/alert/feed/
+    tier: official
+    base_level: 1
+    max_age_days: 30
+
   # ---------- Airspace / aviation (EASA's bulletin list is JS-rendered, so news is used) ----------
   - id: gnews_airspace
     name: Google News — airspace / NOTAM
