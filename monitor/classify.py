@@ -71,8 +71,11 @@ RULES: list[tuple[str, int]] = [
     (r"navy|warship|submarine|fleet|военн\w+ корабл|флот", 2),
     (r"suwa[lł]ki|сувалк", 2),
     (r"nuclear|ядерн", 2),
+    (r"worldwide caution", 2),
     # ---- 1 INFO
-    (r"demonstration alert|weather alert|health alert|editorial change|entry requirements|entry-exit system|\bees\b|visa|passport", 1),
+    (r"demonstration alert|weather alert|health alert|editorial change|entry requirements|entry-exit system|\bees\b|visa|passport|"
+     r"consular outreach|routine message|town hall|absentee|voting|social security|tax (filing|season)|job fair|"
+     r"will be closed on|closed on these days|lawyers who can|eta-il|legal assistance", 1),
     (r"\bexercise\b|\btraining\b|\bdrill|\breservist|\bconscript|\bnbs\b|zemessardze|national guard|home guard", 1),
     (r"(defen[cs]e|military|army|border guard|security) (minister|ministry|budget|spending|chief|commander)", 1),
 ]
@@ -241,6 +244,8 @@ def classify(item: Item, src: dict, cfg: dict, llm_enabled: bool = False) -> Ite
             return None                       # daily round-ups mention everything
         ok, hits = relevance(head if item.kind == "post" else text, cfg)
         item.warning = official_warning(head)
+        if src.get("always_relevant"):
+            ok, hits = True, hits or ["source scope"]
         if not ok and not item.warning:
             return None
         item.reason = ("region: " + ", ".join(hits[:4])) if ok else "official warning about Russia / NATO"
