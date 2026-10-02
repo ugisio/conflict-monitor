@@ -223,20 +223,25 @@
  },
  {
   "level": 2,
-  "n": 4,
+  "n": 5,
   "source": "Google News — NATO & the Baltics",
   "stems": [
    "clari",
    "drill",
    "excla",
    "facto",
+   "inclu",
    "kubil",
    "nucle",
    "patru",
+   "prepa",
+   "prote",
+   "putin",
    "respo",
    "stanc",
    "swift",
-   "trigg"
+   "trigg",
+   "weapo"
   ],
   "title": "Kubilius: Russian attack on arms factory would trigger NATO military response - politico.eu",
   "ts": "2026-10-01T14:31:25+00:00"

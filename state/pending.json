@@ -124,5 +124,26 @@
   "uid": "366c2a07ff6e832e",
   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQZ24xdlZoUHRrT0JwZTgzY3BxQTRlYWVJbzNsVmlpYXNncUhtN0N4a0VDTWRUN0VzVnIwTzdIZ1dLVVhqTDh5bjdOdjJRVWoyMlQ0bnJrWklvMGliUkE5a2d6Z3pmQVRtTmwtWVQ0bzlqMFI0M3J2anhia1RpU2FqY3R6VUc0UExUa0dwbFNjZWhZZ2FVV1liSXY5Mlh2UjRPWm5Bbzh6b3N3cVJ3a1FfZHYyYWhzcHQtcVoxeFJ5aTEtNi10OVF6Z3kzYWZkRUZaZENpM19KbW5HN2dWaDVWYlRvenFuSllaOXRXejRNSnN4VUVs?oc=5",
   "warning": false
+ },
+ {
+  "first_seen": "2026-10-02T09:31:17+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-01T22:30:37+00:00",
+  "reason": "region: kaliningrad, russia · official warning · matched “nuclear” · another report of a story already in the channel",
+  "repeat_of": "Kubilius: Russian attack on arms factory would trigger NATO military response - politico.eu",
+  "repeats": 0,
+  "source_id": "gnews_latvia_security",
+  "source_name": "Google News — Latvia security",
+  "summary": "",
+  "text": "Putin warns Russia is prepared to use ‘all weapons,’ including nuclear, to protect Kaliningrad CNN",
+  "tier": "news",
+  "title": "Putin warns Russia is prepared to use ‘all weapons,’ including nuclear, to protect Kaliningrad - CNN",
+  "uid": "e0a2774e06be887b",
+  "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOUmZxY1FyU2JuRHhwX2p1YjNJcTNBUmdYSXd6LXVQM1ljQk1XZ3FyMm1WVlU5YWR4eEdmXzA4MklRc0psLW8zVVM4b1ZuSmwwMFpOdDdZbWRJSDNycGtadjA2cFp1aFF6VWpNZ19sYVNvUUFuaUlWNXRtQjNwR2pmdmJHd2kyQlhnMmc?oc=5",
+  "warning": true
  }
 ]
