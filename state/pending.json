@@ -1,1 +1,23 @@
-[]
+[
+ {
+  "first_seen": "2026-10-02T05:31:12+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-02T04:52:49+00:00",
+  "reason": "region: article 5, nato, russia · official warning · matched “official warning” · another report of a story already in the channel",
+  "repeat_of": "Drone shot down by NATO jets in eastern Latvia / Article - LSM",
+  "repeats": 0,
+  "source_id": "gnews_flank_warnings",
+  "source_name": "Google News — eastern flank (PL/FI/NATO)",
+  "summary": "",
+  "text": "European Commissioner for Defence Andrius Kubilius says that a Russian airstrike on an arms factory in Europe would fall under Article 5 of NATO informat.ro",
+  "tier": "news",
+  "title": "European Commissioner for Defence Andrius Kubilius says that a Russian airstrike on an arms factory in Europe would fall under Article 5 of NATO - informat.ro",
+  "uid": "0e64e1c1d896d09c",
+  "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPV09rOXlucjVmUTlRd1hodmtMaFlLTXd0MzlLYkxmblIzU254VlRJWFhzRG5nNUtwU3JYRkgtS1BBVmFjNXZHWVpDN1JQQ3pSWGZxTlcxS1E4SnV1VndwVms3R0ZZdklCdTFnQ0JScDJWek10MVRHbGxtZzlpRldaTnRNQmVLR1FRaUZsV1drWHJZTndxczU4OUEyVHg3c2ZRMVo5ZS1VdWZfQWx1bDZNX2JPUE13dw?oc=5",
+  "warning": true
+ }
+]
