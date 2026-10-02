@@ -52,6 +52,13 @@ def parse_date(s) -> str | None:
         return None
 
 
+def _placeholder(text: str) -> bool:
+    """A feed entry whose body never got filled in (the State Dept CDN sometimes serves
+    'Exercise normal precautionSummary not available' for an advisory). Not a real text — never diff against it."""
+    t = norm_ws(text or "")
+    return len(t) < 25 or "summary not available" in t.lower()
+
+
 def too_old(published: str | None, max_age_days: int | None) -> bool:
     if not max_age_days or not published:
         return False
@@ -103,31 +110,44 @@ def fetch_rss(src: dict, state: State) -> list[Item]:
         return fetch_html_links({**src, "url": src["fallback_html"], "selector": src.get("fallback_selector", "a")}, state)
 
     diff_titles = [t.lower() for t in src.get("diff_titles", [])]
-    for e in entries[:60]:
+    # Tracked entries can sit anywhere in a long feed (the State Dept feed lists 200+ advisories in a shifting
+    # order, the Baltic ones around position 90–100), so scan the whole feed when there is something to track.
+    scan = entries if diff_titles else entries[:60]
+    for pos, e in enumerate(scan):
         title = norm_ws(getattr(e, "title", "") or "")
         link = getattr(e, "link", "") or ""
         summary = html_to_text(getattr(e, "summary", "") or getattr(e, "description", "") or "")
         published = parse_date(getattr(e, "published", None) or getattr(e, "updated", None))
         if not title:
             continue
+        tracked = bool(diff_titles) and any(title.lower().startswith(t) for t in diff_titles)
+        if pos >= 60 and not tracked:
+            continue
         if not matches_any(title + " " + summary, src.get("include")):
             continue
         # Entries whose full text we track over time (e.g. the Latvia advisory inside the State Dept feed):
         # the feed's description carries the whole advisory, so diff it like an official page.
-        if diff_titles and any(title.lower().startswith(t) for t in diff_titles):
+        if tracked:
             key = f"{src['id']}::{title.split(' - ')[0].strip().lower()}"
+            if _placeholder(summary):
+                continue                                       # half-built entry served by the CDN: ignore this pass
             h = stable_hash(summary)
             prev = state.get_snapshot(key)
             state.set_snapshot(key, {"hash": h, "text": summary[:20000], "meta": {"title": title}})
-            if prev is not None:
-                if prev.get("hash") == h:
-                    continue                                   # same text as last time: nothing new
+            if prev is None or _placeholder(prev.get("text", "")):
+                # Baseline (re)established silently — an advisory that has not changed is not news. Only an
+                # entry that is already above Level 1 the first time we see it is worth a line (whatever its date).
+                m = re.search(r"level (\d)", title, re.I)
+                if m and int(m.group(1)) >= 2:
+                    items.append(Item(source_id=src["id"], source_name=src["name"], title=title, url=link,
+                                      text=summary[:1200], published=published, kind="alert", tier="official",
+                                      note=src.get("note", "")))
+            elif prev.get("hash") != h:
                 items.append(Item(source_id=src["id"], source_name=src["name"],
                                   title=f"{title} — advisory text changed", url=link,
                                   text=text_diff(prev.get("text", ""), summary), published=published,
                                   kind="advisory_change", tier="official", uid=stable_hash(key, h)))
-                continue
-            # first sighting: fall through and report it as a normal entry (baseline is stored)
+            continue                                           # same text as last time: nothing new
         if too_old(published, src.get("max_age_days")):
             continue
         items.append(Item(source_id=src["id"], source_name=src["name"], title=title, url=link,
