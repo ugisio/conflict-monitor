@@ -460,5 +460,26 @@
   "uid": "1ad94aa10cdc76f0",
   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOTEs3WWJld1J3NDNqRlNrLTZyV0NIWEpkaXN2Qk8xQWFTMTZNajBCcHZUeTRqTVM3VmZVSnRzTDczUTV5Ml9OYmZHU3Y5eDdrcFAtaVNWX0lRT3JUNVJMeS12aE05WjhoTmNCNS14NzZXbHNqUXVKLTROSFdQUldLWTZBOVVPN3I0eXFHLVVvQ0kwSDJZa2JIQUhZeG93cjBxcUhkX083WWhmMzhNY18xUmFFVmxVdnl0U19SX0NyMWxETHFxSlRlT0dB?oc=5",
   "warning": false
+ },
+ {
+  "first_seen": "2026-10-02T04:31:24+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-02T04:25:41+00:00",
+  "reason": "region: baltic, kaliningrad, nato, russia · matched “Nuclear” · another report of a story already in the channel",
+  "repeat_of": "Kubilius: Russian attack on arms factory would trigger NATO military response - politico.eu",
+  "repeats": 0,
+  "source_id": "gnews_flank_warnings",
+  "source_name": "Google News — eastern flank (PL/FI/NATO)",
+  "summary": "",
+  "text": "Russia Warns NATO of Nuclear Response Should Baltic Drills Move to Cut Off Kaliningrad The SOFX Report",
+  "tier": "news",
+  "title": "Russia Warns NATO of Nuclear Response Should Baltic Drills Move to Cut Off Kaliningrad - The SOFX Report",
+  "uid": "dcd7d2cc02d95e60",
+  "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUmgwR29pVlZCS1hBTkhRRkpDelhJTEN5eW9TeEpHWEZERmFzT2hYT3VLTUJOZVZpZE5ZMkxxRXM2RFFIMVY5a1p1THpNUV9keW5pZTlSV1BOV2ZnNjZOVzRJUTEtUDBZNU5HSWVfdjY3ekw5cklvREFHRWRXNThybm1wYmdfc1NkclE2bEVQUFJXQTY2Ti1qcUg2aFdrSXQ1aUhNcDB4S1NMYTJ5?oc=5",
+  "warning": false
  }
 ]
