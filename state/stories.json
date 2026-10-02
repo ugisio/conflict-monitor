@@ -329,11 +329,15 @@
  },
  {
   "level": 2,
-  "n": 3,
+  "n": 4,
   "source": "Google News — eastern flank (PL/FI/NATO)",
   "stems": [
    "acros",
+   "activ",
+   "artic",
    "direc",
+   "escal",
+   "flagg",
    "hybri",
    "keeps",
    "prepa",
