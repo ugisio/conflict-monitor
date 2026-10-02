@@ -223,13 +223,17 @@
  },
  {
   "level": 2,
-  "n": 2,
+  "n": 3,
   "source": "Google News — NATO & the Baltics",
   "stems": [
+   "clari",
+   "excla",
    "facto",
    "kubil",
+   "nucle",
    "patru",
    "respo",
+   "stanc",
    "swift",
    "trigg"
   ],
