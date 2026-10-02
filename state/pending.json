@@ -397,5 +397,26 @@
   "uid": "322020ab3edc6b75",
   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQR0dYbWw0Qk53RVV4ZXNLZ3FnSGxMUEQ2MUVhV2UyU1ktb1d4LWEzV21qaVotdHBGUEtaTktLdndud1dfME13Y05hWmNtcTF1VEdzeTRlWDIzQXF1ZFQ3VnNmMUtFdTNfUmhoODJTR3VwUUNBWU9UaFNpRmdvZF9xZEFubTI4X0kwQUdlUkg4akpHV2gzeHJtVW5RcGtnQ3J2al9MVTBEem8zWmdX?oc=5",
   "warning": false
+ },
+ {
+  "first_seen": "2026-10-02T16:01:34+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-02T13:54:00+00:00",
+  "reason": "official warning about Russia / NATO · matched “official warning” · another report of a story already in the channel",
+  "repeat_of": "Europe must be prepared for Russian sabotage and hybrid attacks – Rutte - Цензор.НЕТ",
+  "repeats": 0,
+  "source_id": "gnews_flank_warnings",
+  "source_name": "Google News — eastern flank (PL/FI/NATO)",
+  "summary": "",
+  "text": "Rutte: Russia keeps testing us across Europe, but no direct military attack on NATO at present ukrinform.net",
+  "tier": "news",
+  "title": "Rutte: Russia keeps testing us across Europe, but no direct military attack on NATO at present - ukrinform.net",
+  "uid": "428de824cb68460b",
+  "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNMWlHMmVsdUhWMi1MMHhkZjdjS1N4RGM5OEVVU29qTWpqUE95YW9RWE5PdjRwQkRCY2RiSVdLdzh2eHdDQmZtSTItWTRFVDFIa25BOHdjQl9JZzhlWlJKRUZyV29Ra281OTZxbW1SVUg1TU5GTlg4Uk9KUm9qWXVyNlFMQXhEeWMxZEQ0aU5vcldHTWhqVFhsbUpfazEwOXljTWE5WmJyWmJxa0NsYW9UOWlnSk4zeGxkUV9HeTNQblBZNG5nZ3hmVklkeDFKY1p0N3BodE9OZkVzVGkyOWFMNTBmcGlQd9IB5gFBVV95cUxNMWlHMmVsdUhWMi1MMHhkZjdjS1N4RGM5OEVVU29qTWpqUE95YW9RWE5PdjRwQkRCY2RiSVdLdzh2eHdDQmZtSTItWTRFVDFIa25BOHdjQl9JZzhlWlJKRUZyV29Ra281OTZxbW1SVUg1TU5GTlg4Uk9KUm9qWXVyNlFMQXhEeWMxZEQ0aU5vcldHTWhqVFhsbUpfazEwOXljTWE5WmJyWmJxa0NsYW9UOWlnSk4zeGxkUV9HeTNQblBZNG5nZ3hmVklkeDFKY1p0N3BodE9OZkVzVGkyOWFMNTBmcGlQdw?oc=5",
+  "warning": true
  }
 ]
