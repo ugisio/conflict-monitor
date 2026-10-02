@@ -271,12 +271,14 @@
  },
  {
   "level": 2,
-  "n": 4,
+  "n": 5,
   "source": "Google News — Latvia security",
   "stems": [
    "arsen",
+   "black",
    "consi",
    "headl",
+   "nucle",
    "putin",
    "range",
    "terri",
@@ -402,5 +404,16 @@
   ],
   "title": "B-1B used for the first time in NATO air defense exercise over Lithuania and Latvia — AeroTime - UA.NEWS",
   "ts": "2026-10-02T13:31:33+00:00"
+ },
+ {
+  "level": 1,
+  "n": 1,
+  "source": "Google News — NATO & the Baltics",
+  "stems": [
+   "drill",
+   "joins"
+  ],
+  "title": "USAF B-1B joins NATO air defense drill over Lithuania and Latvia - AeroTime",
+  "ts": "2026-10-02T14:31:39+00:00"
  }
 ]
