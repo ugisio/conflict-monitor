@@ -32,10 +32,16 @@ Every message starts with the badge (emoji + `L<n> NAME`), so the channel can be
 
 ## Sources (edit `config.yaml`)
 
-**Official (Latvia-specific, text is diffed between runs)**
-- US State Department travel advisory for Latvia (level + full text) and the advisories RSS feed
-- US Embassy Riga security/other alerts
-- UK FCDO travel advice for Latvia, Estonia and Lithuania (content API: alert status + change history)
+**Official (text is diffed between runs)**
+- US State Department advisories: the Latvia page (level + full text; blocked from GitHub, so a soft source) and the
+  advisories RSS feed, whose Latvia/Estonia/Lithuania entries are snapshot-diffed sentence by sentence
+- US Embassy security/other alerts: Riga, Tallinn, Vilnius, Warsaw, Helsinki
+- UK FCDO travel advice for Latvia, Estonia and Lithuania (content API: alert status + change history + text)
+- Israel: National Security Council travel-warning levels for Latvia, Lithuania, Estonia, Poland and Finland
+  (gov.il's own page is an app behind bot protection, so a mirror of the NSC table is tracked; a raised level is
+  ELEVATED) and the announcement pages of the Israeli embassies in Riga, Vilnius, Tallinn, Helsinki and Warsaw
+  (staff reductions, suspended consular services, closures); plus a Google News query for Israeli embassy / NSC
+  news in the region
 - Canada and Germany travel advice pages for Latvia
 
 **Regional news (feeds; only security-relevant items that mention the region pass)**
