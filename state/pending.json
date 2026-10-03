@@ -292,5 +292,26 @@
   "uid": "21d6a6ad3d2f93bf",
   "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOY1ZQbjN0bjFTbFR1M1Mza3pKdWF0NjM4OEVnWVlHNUJXSl9McUM4R2lqUkxQSlg4czNpb2lQaFNMMFFfZnFjbjc5NmZsdWZEZGl4cUItMXc2Z2xKRHh3cnB2V2xmNWdTRlRRVHEzbmpDcm0xTWR4eG5QVko3NHREOHBvdVAwb2w5ZnZXZmZfQVpsSjh2REhhVlFTNWpGdUdMOWRyU3ROVEc4VVMyRzRPV1lMRWRiTGx5V3JWUkc0R0ZvaDR3M3Q1VGRBYUk5UG93UUFMdEUyVW9LU2NzbUE2TFltczM5VWRuWUtNbnRVWGhfNG1xZVE?oc=5",
   "warning": false
+ },
+ {
+  "first_seen": "2026-10-03T12:27:39+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-03T08:41:58+00:00",
+  "reason": "region: latvia, russia · matched “threat”",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "gnews_latvia_security",
+  "source_name": "Google News — Latvia security",
+  "summary": "",
+  "text": "Polls open in Latvia against backdrop of perceived Russia threat Al Jazeera",
+  "tier": "news",
+  "title": "Polls open in Latvia against backdrop of perceived Russia threat - Al Jazeera",
+  "uid": "946dff6e651d09a4",
+  "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZE9GTjBtSW9hX1BDMzh4anh1Vm4xWHNKWEZSNUZLQXN1S2xjQXEwcmhmM0lMNlA3SFRsVUl2bDBPNXlEZGdDcFdHYXpLa2U1d1o0eTdNMlJYZWJYbmd5T2tkVjZhVnd6UmZQOG44U2JiQ3MwV1lSRl83THA4ZHNIXzhHS29RRVR0eEVQLTF0WlpIbVBjalNTN2tFcEpHVG5VTzRGRmJLTnjSAa4BQVVfeXFMTk5LbTYydDJkR3FjNVRKemt0THFtLWpndkhMZXFwMjVGNVhTVm5XaUF6M1loMkVybHdnZjlQUkhseHB5UFNiemN6TTNiOFBLek51TnZpaTdaQmQ5ZndMSHlucFc0amI3V2NYbjVsdHY3YmdCMXI0OU5Ga3llZ0k5Tlh6QS1kd2w3YmZ1NmtSc3NzRXR6aGV0Tmt2YjFYQkdQZzNwT2d6N2IzZmNfVUdB?oc=5",
+  "warning": false
  }
 ]
