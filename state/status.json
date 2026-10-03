@@ -5,288 +5,288 @@
    "error": "",
    "fail_streak": 0,
    "items_last": 0,
-   "last_ok": "2026-10-03T19:01:15+00:00",
-   "last_run": "2026-10-03T19:01:15+00:00",
+   "last_ok": "2026-10-03T19:31:08+00:00",
+   "last_run": "2026-10-03T19:31:08+00:00",
    "ok": true
   },
   "err_en": {
    "error": "",
    "fail_streak": 0,
    "items_last": 50,
-   "last_ok": "2026-10-03T19:01:26+00:00",
-   "last_run": "2026-10-03T19:01:26+00:00",
+   "last_ok": "2026-10-03T19:31:17+00:00",
+   "last_run": "2026-10-03T19:31:17+00:00",
    "ok": true
   },
   "fcdo_estonia": {
    "error": "",
    "fail_streak": 0,
    "items_last": 0,
-   "last_ok": "2026-10-03T19:01:13+00:00",
-   "last_run": "2026-10-03T19:01:13+00:00",
+   "last_ok": "2026-10-03T19:31:06+00:00",
+   "last_run": "2026-10-03T19:31:06+00:00",
    "ok": true
   },
   "fcdo_latvia": {
    "error": "",
    "fail_streak": 0,
    "items_last": 0,
-   "last_ok": "2026-10-03T19:01:13+00:00",
-   "last_run": "2026-10-03T19:01:13+00:00",
+   "last_ok": "2026-10-03T19:31:06+00:00",
+   "last_run": "2026-10-03T19:31:06+00:00",
    "ok": true
   },
   "fcdo_lithuania": {
    "error": "",
    "fail_streak": 0,
    "items_last": 0,
-   "last_ok": "2026-10-03T19:01:14+00:00",
-   "last_run": "2026-10-03T19:01:14+00:00",
+   "last_ok": "2026-10-03T19:31:07+00:00",
+   "last_run": "2026-10-03T19:31:07+00:00",
    "ok": true
   },
   "germany_latvia": {
    "error": "",
    "fail_streak": 0,
    "items_last": 0,
-   "last_ok": "2026-10-03T19:01:16+00:00",
-   "last_run": "2026-10-03T19:01:16+00:00",
+   "last_ok": "2026-10-03T19:31:09+00:00",
+   "last_run": "2026-10-03T19:31:09+00:00",
    "ok": true
   },
   "gnews_airspace": {
    "error": "",
    "fail_streak": 0,
    "items_last": 0,
-   "last_ok": "2026-10-03T19:01:24+00:00",
-   "last_run": "2026-10-03T19:01:24+00:00",
+   "last_ok": "2026-10-03T19:31:16+00:00",
+   "last_run": "2026-10-03T19:31:16+00:00",
    "ok": true
   },
   "gnews_embassy": {
    "error": "",
    "fail_streak": 0,
    "items_last": 0,
-   "last_ok": "2026-10-03T19:01:28+00:00",
-   "last_run": "2026-10-03T19:01:28+00:00",
+   "last_ok": "2026-10-03T19:31:19+00:00",
+   "last_run": "2026-10-03T19:31:19+00:00",
    "ok": true
   },
   "gnews_flank_warnings": {
    "error": "",
    "fail_streak": 0,
    "items_last": 10,
-   "last_ok": "2026-10-03T19:01:30+00:00",
-   "last_run": "2026-10-03T19:01:30+00:00",
+   "last_ok": "2026-10-03T19:31:21+00:00",
+   "last_run": "2026-10-03T19:31:21+00:00",
    "ok": true
   },
   "gnews_israel_nsc": {
    "error": "",
    "fail_streak": 0,
    "items_last": 0,
-   "last_ok": "2026-10-03T19:01:16+00:00",
-   "last_run": "2026-10-03T19:01:16+00:00",
+   "last_ok": "2026-10-03T19:31:09+00:00",
+   "last_run": "2026-10-03T19:31:09+00:00",
    "ok": true
   },
   "gnews_israel_region": {
    "error": "",
    "fail_streak": 0,
    "items_last": 0,
-   "last_ok": "2026-10-03T19:01:23+00:00",
-   "last_run": "2026-10-03T19:01:23+00:00",
+   "last_ok": "2026-10-03T19:31:15+00:00",
+   "last_run": "2026-10-03T19:31:15+00:00",
    "ok": true
   },
   "gnews_latvia_security": {
    "error": "",
    "fail_streak": 0,
-   "items_last": 27,
-   "last_ok": "2026-10-03T19:01:27+00:00",
-   "last_run": "2026-10-03T19:01:27+00:00",
+   "items_last": 26,
+   "last_ok": "2026-10-03T19:31:18+00:00",
+   "last_run": "2026-10-03T19:31:18+00:00",
    "ok": true
   },
   "gnews_nato": {
    "error": "",
    "fail_streak": 0,
-   "items_last": 28,
-   "last_ok": "2026-10-03T19:01:28+00:00",
-   "last_run": "2026-10-03T19:01:28+00:00",
+   "items_last": 27,
+   "last_ok": "2026-10-03T19:31:20+00:00",
+   "last_run": "2026-10-03T19:31:20+00:00",
    "ok": true
   },
   "gnews_official_warnings": {
    "error": "",
    "fail_streak": 0,
    "items_last": 1,
-   "last_ok": "2026-10-03T19:01:29+00:00",
-   "last_run": "2026-10-03T19:01:29+00:00",
+   "last_ok": "2026-10-03T19:31:20+00:00",
+   "last_run": "2026-10-03T19:31:20+00:00",
    "ok": true
   },
   "israel_emb_estonia": {
    "error": "",
    "fail_streak": 0,
    "items_last": 2,
-   "last_ok": "2026-10-03T19:01:20+00:00",
-   "last_run": "2026-10-03T19:01:20+00:00",
+   "last_ok": "2026-10-03T19:31:12+00:00",
+   "last_run": "2026-10-03T19:31:12+00:00",
    "ok": true
   },
   "israel_emb_finland": {
    "error": "",
    "fail_streak": 0,
    "items_last": 4,
-   "last_ok": "2026-10-03T19:01:22+00:00",
-   "last_run": "2026-10-03T19:01:22+00:00",
+   "last_ok": "2026-10-03T19:31:13+00:00",
+   "last_run": "2026-10-03T19:31:13+00:00",
    "ok": true
   },
   "israel_emb_lithuania": {
    "error": "",
    "fail_streak": 0,
    "items_last": 2,
-   "last_ok": "2026-10-03T19:01:19+00:00",
-   "last_run": "2026-10-03T19:01:19+00:00",
+   "last_ok": "2026-10-03T19:31:11+00:00",
+   "last_run": "2026-10-03T19:31:11+00:00",
    "ok": true
   },
   "israel_emb_poland": {
    "error": "",
    "fail_streak": 0,
    "items_last": 3,
-   "last_ok": "2026-10-03T19:01:22+00:00",
-   "last_run": "2026-10-03T19:01:22+00:00",
+   "last_ok": "2026-10-03T19:31:14+00:00",
+   "last_run": "2026-10-03T19:31:14+00:00",
    "ok": true
   },
   "israel_emb_riga": {
    "error": "",
    "fail_streak": 0,
    "items_last": 4,
-   "last_ok": "2026-10-03T19:01:17+00:00",
-   "last_run": "2026-10-03T19:01:17+00:00",
+   "last_ok": "2026-10-03T19:31:10+00:00",
+   "last_run": "2026-10-03T19:31:10+00:00",
    "ok": true
   },
   "lrt_en": {
    "error": "",
    "fail_streak": 0,
    "items_last": 21,
-   "last_ok": "2026-10-03T19:01:26+00:00",
-   "last_run": "2026-10-03T19:01:26+00:00",
+   "last_ok": "2026-10-03T19:31:18+00:00",
+   "last_run": "2026-10-03T19:31:18+00:00",
    "ok": true
   },
   "lsm_en": {
    "error": "",
    "fail_streak": 0,
    "items_last": 36,
-   "last_ok": "2026-10-03T19:01:25+00:00",
-   "last_run": "2026-10-03T19:01:25+00:00",
+   "last_ok": "2026-10-03T19:31:17+00:00",
+   "last_run": "2026-10-03T19:31:17+00:00",
    "ok": true
   },
   "polymarket": {
    "error": "",
    "fail_streak": 0,
    "items_last": 0,
-   "last_ok": "2026-10-03T19:01:38+00:00",
-   "last_run": "2026-10-03T19:01:38+00:00",
+   "last_ok": "2026-10-03T19:31:28+00:00",
+   "last_run": "2026-10-03T19:31:28+00:00",
    "ok": true
   },
   "tg_astra": {
    "error": "",
    "fail_streak": 0,
    "items_last": 14,
-   "last_ok": "2026-10-03T19:01:33+00:00",
-   "last_run": "2026-10-03T19:01:33+00:00",
+   "last_ok": "2026-10-03T19:31:24+00:00",
+   "last_run": "2026-10-03T19:31:24+00:00",
    "ok": true
   },
   "tg_clashreport": {
    "error": "",
    "fail_streak": 0,
    "items_last": 20,
-   "last_ok": "2026-10-03T19:01:30+00:00",
-   "last_run": "2026-10-03T19:01:30+00:00",
+   "last_ok": "2026-10-03T19:31:21+00:00",
+   "last_run": "2026-10-03T19:31:21+00:00",
    "ok": true
   },
   "tg_disclosetv": {
    "error": "",
    "fail_streak": 0,
    "items_last": 2,
-   "last_ok": "2026-10-03T19:01:31+00:00",
-   "last_run": "2026-10-03T19:01:31+00:00",
+   "last_ok": "2026-10-03T19:31:22+00:00",
+   "last_run": "2026-10-03T19:31:22+00:00",
    "ok": true
   },
   "tg_meduza": {
    "error": "",
    "fail_streak": 0,
    "items_last": 20,
-   "last_ok": "2026-10-03T19:01:32+00:00",
-   "last_run": "2026-10-03T19:01:32+00:00",
+   "last_ok": "2026-10-03T19:31:23+00:00",
+   "last_run": "2026-10-03T19:31:23+00:00",
    "ok": true
   },
   "tg_nexta": {
    "error": "",
    "fail_streak": 0,
    "items_last": 20,
-   "last_ok": "2026-10-03T19:01:32+00:00",
-   "last_run": "2026-10-03T19:01:32+00:00",
+   "last_ok": "2026-10-03T19:31:23+00:00",
+   "last_run": "2026-10-03T19:31:23+00:00",
    "ok": true
   },
   "tg_novaya": {
    "error": "",
    "fail_streak": 0,
    "items_last": 16,
-   "last_ok": "2026-10-03T19:01:34+00:00",
-   "last_run": "2026-10-03T19:01:34+00:00",
+   "last_ok": "2026-10-03T19:31:25+00:00",
+   "last_run": "2026-10-03T19:31:25+00:00",
    "ok": true
   },
   "tg_rybar": {
    "error": "",
    "fail_streak": 0,
    "items_last": 16,
-   "last_ok": "2026-10-03T19:01:34+00:00",
-   "last_run": "2026-10-03T19:01:34+00:00",
+   "last_ok": "2026-10-03T19:31:25+00:00",
+   "last_run": "2026-10-03T19:31:25+00:00",
    "ok": true
   },
   "us_embassy_helsinki": {
    "error": "",
    "fail_streak": 0,
    "items_last": 0,
-   "last_ok": "2026-10-03T19:01:24+00:00",
-   "last_run": "2026-10-03T19:01:24+00:00",
+   "last_ok": "2026-10-03T19:31:15+00:00",
+   "last_run": "2026-10-03T19:31:15+00:00",
    "ok": true
   },
   "us_embassy_riga": {
    "error": "",
    "fail_streak": 0,
    "items_last": 0,
-   "last_ok": "2026-10-03T19:01:12+00:00",
-   "last_run": "2026-10-03T19:01:12+00:00",
+   "last_ok": "2026-10-03T19:31:05+00:00",
+   "last_run": "2026-10-03T19:31:05+00:00",
    "ok": true
   },
   "us_embassy_tallinn": {
    "error": "",
    "fail_streak": 0,
    "items_last": 0,
-   "last_ok": "2026-10-03T19:01:23+00:00",
-   "last_run": "2026-10-03T19:01:23+00:00",
+   "last_ok": "2026-10-03T19:31:15+00:00",
+   "last_run": "2026-10-03T19:31:15+00:00",
    "ok": true
   },
   "us_embassy_vilnius": {
    "error": "",
    "fail_streak": 0,
    "items_last": 0,
-   "last_ok": "2026-10-03T19:01:23+00:00",
-   "last_run": "2026-10-03T19:01:23+00:00",
+   "last_ok": "2026-10-03T19:31:15+00:00",
+   "last_run": "2026-10-03T19:31:15+00:00",
    "ok": true
   },
   "us_embassy_warsaw": {
    "error": "",
    "fail_streak": 0,
    "items_last": 4,
-   "last_ok": "2026-10-03T19:01:24+00:00",
-   "last_run": "2026-10-03T19:01:24+00:00",
+   "last_ok": "2026-10-03T19:31:15+00:00",
+   "last_run": "2026-10-03T19:31:15+00:00",
    "ok": true
   },
   "us_state_latvia": {
    "error": "page blocked (403); relying on the advisories RSS feed",
    "fail_streak": 0,
    "items_last": 0,
-   "last_ok": "2026-10-03T19:01:12+00:00",
-   "last_run": "2026-10-03T19:01:12+00:00",
+   "last_ok": "2026-10-03T19:31:04+00:00",
+   "last_run": "2026-10-03T19:31:04+00:00",
    "ok": true
   },
   "us_state_rss": {
    "error": "",
    "fail_streak": 0,
-   "items_last": 3,
-   "last_ok": "2026-10-03T19:01:12+00:00",
-   "last_run": "2026-10-03T19:01:12+00:00",
+   "items_last": 0,
+   "last_ok": "2026-10-03T19:31:05+00:00",
+   "last_run": "2026-10-03T19:31:05+00:00",
    "ok": true
   }
  },
@@ -2223,6 +2223,6 @@
    "url": "https://t.me/astrapress/127034"
   }
  ],
- "runs": 245,
- "status_text": "📟 <b>CURRENT LEVEL: 🟠 L3 ELEVATED.</b> NATO Chief Rutte Dismisses Russia’s Nuclear Threats Over Kaliningrad\n<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFAxN0lYU29EMEZVdXJ5X1lQR1doaWY0eTI2bUNvMGE2cW94T04zbE9mZHZ3YkYtc3hqc19MWms0YVJCQWxRbWxTSmlHakYxRGMtNUxjR3o5cEhTMEZrdWwtdkxPMXp6R0lhOTlqdFZQMTI?oc=5\">Межа. Новини України. via Google News — Latvia security</a> · Wed 30 Sep 23:01\n<b>Why L3:</b> region: kaliningrad, nato, russia · matched “Nuclear Threat” · corroborated by Google News — official warnings · story escalated from L2 (6 reports so far)\n<b>Suggested action at L3:</b> Review your plan; make sure documents and essentials are in order.\nLevel = highest of the last 72 h · updated Sat 03 Oct 22:01 · sources OK 36/36 · <a href=\"https://t.me/c/4455291623/25\">📖 Level guide</a>\nScale: ⚫5 Critical 🔴4 Urgent 🟠3 Elevated 🟡2 Watch 🟢1 Info ⚪0 Quiet"
+ "runs": 246,
+ "status_text": "📟 <b>CURRENT LEVEL: 🟠 L3 ELEVATED.</b> NATO Chief Rutte Dismisses Russia’s Nuclear Threats Over Kaliningrad\n<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFAxN0lYU29EMEZVdXJ5X1lQR1doaWY0eTI2bUNvMGE2cW94T04zbE9mZHZ3YkYtc3hqc19MWms0YVJCQWxRbWxTSmlHakYxRGMtNUxjR3o5cEhTMEZrdWwtdkxPMXp6R0lhOTlqdFZQMTI?oc=5\">Межа. Новини України. via Google News — Latvia security</a> · Wed 30 Sep 23:01\n<b>Why L3:</b> region: kaliningrad, nato, russia · matched “Nuclear Threat” · corroborated by Google News — official warnings · story escalated from L2 (6 reports so far)\n<b>Suggested action at L3:</b> Review your plan; make sure documents and essentials are in order.\nLevel = highest of the last 72 h · updated Sat 03 Oct 22:31 · sources OK 36/36 · <a href=\"https://t.me/c/4455291623/25\">📖 Level guide</a>\nScale: ⚫5 Critical 🔴4 Urgent 🟠3 Elevated 🟡2 Watch 🟢1 Info ⚪0 Quiet"
 }

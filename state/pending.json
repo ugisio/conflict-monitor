@@ -61,5 +61,26 @@
   "uid": "7a4c1b76079c888a",
   "url": "https://eng.lsm.lv/article/politics/election/03.10.2026-voter-turnout-represents-a-new-low-in-a-latvian-parliamentary-election.a665991/?utm_source=rss&utm_campaign=rss&utm_medium=links",
   "warning": false
+ },
+ {
+  "first_seen": "2026-10-03T19:31:17+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 1,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-03T18:47:00+00:00",
+  "reason": "region: latvia, latvian · matched “exercise (in text)” · another report of a story already in the channel",
+  "repeat_of": "Polls open in Latvia against backdrop of perceived Russia threat - Al Jazeera",
+  "repeats": 0,
+  "source_id": "lsm_en",
+  "source_name": "LSM (Latvian public media, EN)",
+  "summary": "",
+  "text": "Slightly more than half of the voters eligible to vote in Latvia's parliamentary election on October 3rd appear to have bothered to exercise their democratic right, raising serious questions about political engagement, media coverage and perhaps even whether people still value democracy as they did a generation ago.",
+  "tier": "news",
+  "title": "Voter turnout looks like a new low in Latvian parliamentary history",
+  "uid": "63bc1f71695e26d4",
+  "url": "https://eng.lsm.lv/article/politics/election/03.10.2026-voter-turnout-looks-like-a-new-low-in-latvian-parliamentary-history.a665991/?utm_source=rss&utm_campaign=rss&utm_medium=links",
+  "warning": false
  }
 ]
