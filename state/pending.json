@@ -166,5 +166,26 @@
   "uid": "52609852673b9bfa",
   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTVRzMW1UWVVwbWZVZy01eERac2RLY3VUdF80TGFDWFlKQjMxY1M4bXFzZEJ5TXA4d09aZU9uSWhPZ3FCVXVBNEVRNkwzaUItQm9hMnhFWnVPV0RFeDRaeE9KOGpQMU10NTd2VmtGT09FTS05cGQxWmZKalFKV082NWcycTg3VjZoTDJ0MUZOOU9mRldfM3lQVDhDYll4OVZPZnc?oc=5",
   "warning": false
+ },
+ {
+  "first_seen": "2026-10-03T08:31:21+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-03T08:27:04+00:00",
+  "reason": "region: latvia, latvian, russia · matched “hybrid attack” · another report of a story already in the channel",
+  "repeat_of": "Estonia pushes for cybersecurity boost ahead of elections",
+  "repeats": 0,
+  "source_id": "gnews_latvia_security",
+  "source_name": "Google News — Latvia security",
+  "summary": "",
+  "text": "Latvians vote for a new parliament as fears of Russian hybrid attacks loom The Washington Post",
+  "tier": "news",
+  "title": "Latvians vote for a new parliament as fears of Russian hybrid attacks loom - The Washington Post",
+  "uid": "ec1e46bababa0f9d",
+  "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQSjV2RHc1YlRnZ0V5TUExREtCTWxFVDJGcDFBM0htQllJdHNuZDkwMVlnd0lPQ3dJNS1oRjB2bmNnbDYzTWxBX3dNUVlQc0Y1bUdDalZuMXN6V1ByWlBabEc0ejNmdWVBQTRSdVhNamw3eVBwWlJUazliU2hMVzBaa1NMMUljaDdEZURyaXlnMEkxZnpTT1RPT3pJUUVYZ1h6UmQxdHlzRXhwY2FENnlyUVVYOWtoQ1dBNVg3TFJmbDg3R1h6TkxucUpvbGwwOEdVVTlVWjIxUG40eEtKSXQ1bQ?oc=5",
+  "warning": false
  }
 ]
