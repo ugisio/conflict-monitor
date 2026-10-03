@@ -19,5 +19,26 @@
   "uid": "b3e428946c2cdd21",
   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMkxLdEE3VXV1ajd4RXk1NUxHODBIYldZa01sVTVIQ3VodDVYMVJObzdldl9xS1lwSDRsRDdDMFBmd2hUYkU2RUpycHgwSlN2SGZnSHBzYXkwWXlod05wQmRPdWRpV282TEpyQlJMYVItX0l4U0JFc05rNzhmdWdCellUSXlSalE1d0JvLWRLODZ1V1p6bkFUUUFwMUJwbERJXzVkcGswRkwtaVRTTjJnNHA0VnJPT0tYbnk5NUdvX24?oc=5",
   "warning": false
+ },
+ {
+  "first_seen": "2026-10-03T18:01:33+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-03T17:17:56+00:00",
+  "reason": "region: latvia, russia · matched “threat” · another report of a story already in the channel",
+  "repeat_of": "Polls open in Latvia against backdrop of perceived Russia threat - Al Jazeera",
+  "repeats": 0,
+  "source_id": "gnews_latvia_security",
+  "source_name": "Google News — Latvia security",
+  "summary": "",
+  "text": "Latvia votes for new parliament against backdrop of perceived Russia threat Al Jazeera",
+  "tier": "news",
+  "title": "Latvia votes for new parliament against backdrop of perceived Russia threat - Al Jazeera",
+  "uid": "b61b2fadaacc6c1d",
+  "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZE9GTjBtSW9hX1BDMzh4anh1Vm4xWHNKWEZSNUZLQXN1S2xjQXEwcmhmM0lMNlA3SFRsVUl2bDBPNXlEZGdDcFdHYXpLa2U1d1o0eTdNMlJYZWJYbmd5T2tkVjZhVnd6UmZQOG44U2JiQ3MwV1lSRl83THA4ZHNIXzhHS29RRVR0eEVQLTF0WlpIbVBjalNTN2tFcEpHVG5VTzRGRmJLTnjSAa4BQVVfeXFMTk5LbTYydDJkR3FjNVRKemt0THFtLWpndkhMZXFwMjVGNVhTVm5XaUF6M1loMkVybHdnZjlQUkhseHB5UFNiemN6TTNiOFBLek51TnZpaTdaQmQ5ZndMSHlucFc0amI3V2NYbjVsdHY3YmdCMXI0OU5Ga3llZ0k5Tlh6QS1kd2w3YmZ1NmtSc3NzRXR6aGV0Tmt2YjFYQkdQZzNwT2d6N2IzZmNfVUdB?oc=5",
+  "warning": false
  }
 ]

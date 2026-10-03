@@ -486,12 +486,14 @@
  },
  {
   "level": 2,
-  "n": 1,
+  "n": 2,
   "source": "Google News — Latvia security",
   "stems": [
    "backd",
+   "parli",
    "perce",
-   "polls"
+   "polls",
+   "votes"
   ],
   "title": "Polls open in Latvia against backdrop of perceived Russia threat - Al Jazeera",
   "ts": "2026-10-03T12:27:49+00:00"
