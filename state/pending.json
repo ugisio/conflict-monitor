@@ -145,5 +145,26 @@
   "uid": "dff9fb21eea32129",
   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOVGQ5VThpNklCVlB4TW9GUnpiTHRqWmZRNEZ6SnFhZ0VKeTZpbGNzT1pjbDRjcmE2Umx0cGJLS3BtMXhNOEtXSklyTnU0clJmbU13OHdQNVBkN3hlUDRkWUF2ay02cGF4Tm1xY05QSEJDbmRGTl9HNDR5Y1BZNEliM3R3SDZNSV9MaHlBX2ZqZGNpMjVMUVZvX18zbUpxUUZ4S0Q0RktUMjhjbVNZMmo4YVNwR0xlekJudmxCSGM2RFg3bF9RVzRzTl9yTWNBbExiSmtNYWE0dHgxRzBYVDFjZThFd25PRjQ1dWfSAe8BQVVfeXFMTkVhcmI1Y3E1WTZjUlo5NFhCcjgtV0hBNEUwcFBSM1UtYjZEVG1VcjFmcUVYdUx3ajFTdDdSeGNrdldKQjNDQ28yUEtQVnhBU2d5bEVPazdWQXY2NzRXRWlrNFdleWtiamdYYkRNODJSUDFjYWkzeEU1YmJ2dWhjaElwSUc1UEsyMzVOaExzMmNycDNXbE91dUNqWUtLT3pwdkExU2JPamtha2NFWlp2RE9OQnRkclVhUkZob3lfdE0yX2tKZmxFNEFKdG5VemVXNUoyRXZVRERVMTdXM19RUWU2SVhYZkt3LW4xNmFRWlU?oc=5",
   "warning": false
+ },
+ {
+  "first_seen": "2026-10-03T08:01:33+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-03T00:02:00+00:00",
+  "reason": "region: latvia, latvian · matched “drone” · another report of a story already in the channel",
+  "repeat_of": "Estonia pushes for cybersecurity boost ahead of elections",
+  "repeats": 0,
+  "source_id": "gnews_nato",
+  "source_name": "Google News — NATO & the Baltics",
+  "summary": "",
+  "text": "Latvians vote in election in shadow of drone incursions and war in Ukraine Reuters",
+  "tier": "news",
+  "title": "Latvians vote in election in shadow of drone incursions and war in Ukraine - Reuters",
+  "uid": "52609852673b9bfa",
+  "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTVRzMW1UWVVwbWZVZy01eERac2RLY3VUdF80TGFDWFlKQjMxY1M4bXFzZEJ5TXA4d09aZU9uSWhPZ3FCVXVBNEVRNkwzaUItQm9hMnhFWnVPV0RFeDRaeE9KOGpQMU10NTd2VmtGT09FTS05cGQxWmZKalFKV082NWcycTg3VjZoTDJ0MUZOOU9mRldfM3lQVDhDYll4OVZPZnc?oc=5",
+  "warning": false
  }
 ]

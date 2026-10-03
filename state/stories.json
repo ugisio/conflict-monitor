@@ -377,7 +377,7 @@
  },
  {
   "level": 2,
-  "n": 3,
+  "n": 4,
   "source": "ERR News (Estonia, EN)",
   "stems": [
    "ahead",
@@ -387,9 +387,11 @@
    "cyber",
    "drone",
    "elect",
+   "incur",
    "parli",
    "pushe",
    "scram",
+   "shado",
    "shape",
    "spott",
    "votes"
