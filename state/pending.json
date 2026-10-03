@@ -1,1 +1,23 @@
-[]
+[
+ {
+  "first_seen": "2026-10-03T17:31:20+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-02T14:19:22+00:00",
+  "reason": "region: latvia · matched “drone” · another report of a story already in the channel",
+  "repeat_of": "Another airspace alert issued in eastern Latvia over drone activity / Article - LSM",
+  "repeats": 0,
+  "source_id": "gnews_latvia_security",
+  "source_name": "Google News — Latvia security",
+  "summary": "",
+  "text": "International drone defence exercise to take place in Latvia / Article LSM",
+  "tier": "news",
+  "title": "International drone defence exercise to take place in Latvia / Article - LSM",
+  "uid": "b3e428946c2cdd21",
+  "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMkxLdEE3VXV1ajd4RXk1NUxHODBIYldZa01sVTVIQ3VodDVYMVJObzdldl9xS1lwSDRsRDdDMFBmd2hUYkU2RUpycHgwSlN2SGZnSHBzYXkwWXlod05wQmRPdWRpV282TEpyQlJMYVItX0l4U0JFc05rNzhmdWdCellUSXlSalE1d0JvLWRLODZ1V1p6bkFUUUFwMUJwbERJXzVkcGswRkwtaVRTTjJnNHA0VnJPT0tYbnk5NUdvX24?oc=5",
+  "warning": false
+ }
+]
