@@ -377,7 +377,7 @@
  },
  {
   "level": 2,
-  "n": 8,
+  "n": 9,
   "source": "ERR News (Estonia, EN)",
   "stems": [
    "activ",
@@ -388,6 +388,7 @@
    "boost",
    "campa",
    "close",
+   "conti",
    "cyber",
    "drone",
    "elect",
@@ -400,6 +401,7 @@
    "place",
    "possi",
    "pushe",
+   "saeim",
    "scram",
    "shado",
    "shape",
@@ -407,7 +409,8 @@
    "tempo",
    "tense",
    "vilni",
-   "votes"
+   "votes",
+   "votin"
   ],
   "title": "Estonia pushes for cybersecurity boost ahead of elections",
   "ts": "2026-10-02T12:26:28+00:00"

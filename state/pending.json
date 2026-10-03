@@ -250,5 +250,26 @@
   "uid": "4eb98dd66296d1a7",
   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQLVhmVFpPcFdZajcwbmd4RVdiX1JjYzBDQlVWemx3QmpkQTdsa2h3bXgtOFJSNWwwRlo5VmFwQmhOOUpnNnplV2l2OW1vTzlHZXM5XzBMTTRfTWtGZUlLaE9mbjBVLVNmYmhKMWliS3hIQ2RaQVVzeXR3YXBtdzNZVV9iZW14aHZwSWlnY0I0RWlrbmlQVWFya1NCX1FDOGVZWm05TVZBOEFuVUhzazhfNGh4Q0gtYklPRzRRVWllWjEtZ19LZ19XbGJR0gHPAUFVX3lxTFA5THpOOVdZUHFEZTlMT25ZX01mWkllbjh4S1MzOHJGMTQtN0ZCcHNtODEzRUZBbzN5MnNOVzhKRkJaUE5ER0RPUEYwSTR5SDV1bEMzZm1seG5ja0ExRk9JOFQwNFNhQUZyMDZNREtXcnlMUG10aVU5S0t3MjRfTThraGpiZVRlbS1hZTl1MmlIcVIzekZ1VFJ5TjhRRC00ek9PN2lsd2ZnRms0V1ZpcmxKNHBTTF90dnRieWl5Nm8zQ1JwTzk4TF8zd0dtOGRQVQ?oc=5",
   "warning": false
+ },
+ {
+  "first_seen": "2026-10-03T09:31:24+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 1,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-03T09:16:00+00:00",
+  "reason": "region: latvia, latvian · matched “voting” · another report of a story already in the channel",
+  "repeat_of": "Estonia pushes for cybersecurity boost ahead of elections",
+  "repeats": 0,
+  "source_id": "lsm_en",
+  "source_name": "LSM (Latvian public media, EN)",
+  "summary": "",
+  "text": "Latvians go to the polls on Saturday, October 3rd for the 15th Saeima elections.",
+  "tier": "news",
+  "title": "Latvia continues voting in 15th Saeima elections",
+  "uid": "0921a10a86983a48",
+  "url": "https://eng.lsm.lv/article/politics/election/03.10.2026-latvia-continues-voting-in-15th-saeima-elections.a665884/?utm_source=rss&utm_campaign=rss&utm_medium=links",
+  "warning": false
  }
 ]
