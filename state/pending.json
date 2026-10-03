@@ -19,5 +19,26 @@
   "uid": "b5cc0df5e50bf5fc",
   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSUJqN2x5R3U0Mk1aNkNHU0J3Yy1VNVFLdHJZNUExVlM5TUlwYVAtcmFNRUZUX2cyYVZJYVl4MmxFTl9ibVhpZnpMYU95N1R5aWV1LXh1Q0ttSE42Wkdod0M1S0ZORUJ1QzIwT0cwaGwxQlRBeEplcEdJMmR5V3dYT3BrdXVOQXJqTEs0TnVXZEVmLTN2dk84S1NraXczdTdfQnFqNXZLbw?oc=5",
   "warning": false
+ },
+ {
+  "first_seen": "2026-10-03T06:01:36+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-02T04:21:10+00:00",
+  "reason": "region: latvia · matched “drone” · another report of a story already in the channel",
+  "repeat_of": "Another airspace alert issued in eastern Latvia over drone activity / Article - LSM",
+  "repeats": 0,
+  "source_id": "gnews_latvia_security",
+  "source_name": "Google News — Latvia security",
+  "summary": "",
+  "text": "Future drone alerts in Latvia will adopt a new warning hierarchy / Article LSM",
+  "tier": "news",
+  "title": "Future drone alerts in Latvia will adopt a new warning hierarchy / Article - LSM",
+  "uid": "1613f7c7be623f1a",
+  "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZTdhZ2ktcVh3VzRkeWdfQUtpMEc5NmozOEk4b2ZianJscDFQVV9CU0xUQ1VQVURsMFEzT2dtZ2F6SUl3WVRsblVLNWRqTUxuWXZjdGZnd0ZJMzQwdnQ1Wng2MFF0REV0UG1YNGxfQXotc3JNRjJiMG9GZVpLWDFETk1iMWlMMlJRaHdZR3pKRFZPT0huTVlwaVlUX3pUTUxKWG5Ub3BOYjVnWktCc3E4cm1uaThudzBEbzNRRE9ManBqQ2h2R3c?oc=5",
+  "warning": false
  }
 ]

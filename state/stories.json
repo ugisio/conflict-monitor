@@ -428,10 +428,11 @@
  },
  {
   "level": 2,
-  "n": 2,
+  "n": 3,
   "source": "Google News — Latvia security",
   "stems": [
    "activ",
+   "adopt",
    "airsp",
    "alert",
    "anoth",
@@ -439,6 +440,8 @@
    "crash",
    "drone",
    "easte",
+   "futur",
+   "hiera",
    "issue",
    "myste"
   ],
