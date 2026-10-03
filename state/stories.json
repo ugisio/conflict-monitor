@@ -377,14 +377,22 @@
  },
  {
   "level": 2,
-  "n": 1,
+  "n": 3,
   "source": "ERR News (Estonia, EN)",
   "stems": [
    "ahead",
+   "airpo",
+   "along",
    "boost",
    "cyber",
+   "drone",
    "elect",
-   "pushe"
+   "parli",
+   "pushe",
+   "scram",
+   "shape",
+   "spott",
+   "votes"
   ],
   "title": "Estonia pushes for cybersecurity boost ahead of elections",
   "ts": "2026-10-02T12:26:28+00:00"
