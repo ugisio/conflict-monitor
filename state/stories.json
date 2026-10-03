@@ -428,7 +428,7 @@
  },
  {
   "level": 2,
-  "n": 3,
+  "n": 4,
   "source": "Google News — Latvia security",
   "stems": [
    "activ",
@@ -440,12 +440,37 @@
    "crash",
    "drone",
    "easte",
+   "escal",
+   "flank",
    "futur",
    "hiera",
    "issue",
-   "myste"
+   "myste",
+   "nucle"
   ],
   "title": "Another airspace alert issued in eastern Latvia over drone activity / Article - LSM",
   "ts": "2026-10-03T01:31:32+00:00"
+ },
+ {
+  "level": 2,
+  "n": 1,
+  "source": "Novaya Gazeta Europe",
+  "stems": [
+   "борют",
+   "выбир",
+   "выбор",
+   "депут",
+   "латви",
+   "новый",
+   "октяб",
+   "парла",
+   "парти",
+   "прохо",
+   "сейма",
+   "соста",
+   "списк"
+  ],
+  "title": "В Латвии проходят парламентские выборы В Латвии 3 октября выбирают новый состав Сейма. За 100 депутатских мест борются 14 партийных списков.…",
+  "ts": "2026-10-03T06:31:31+00:00"
  }
 ]
