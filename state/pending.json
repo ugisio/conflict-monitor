@@ -1,1 +1,23 @@
-[]
+[
+ {
+  "first_seen": "2026-10-03T05:31:20+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-02T00:29:48+00:00",
+  "reason": "region: latvia · matched “drone” · another report of a story already in the channel",
+  "repeat_of": "Another airspace alert issued in eastern Latvia over drone activity / Article - LSM",
+  "repeats": 0,
+  "source_id": "gnews_latvia_security",
+  "source_name": "Google News — Latvia security",
+  "summary": "",
+  "text": "Mystery drone crashes into lake in Latvia / Article LSM",
+  "tier": "news",
+  "title": "Mystery drone crashes into lake in Latvia / Article - LSM",
+  "uid": "b5cc0df5e50bf5fc",
+  "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSUJqN2x5R3U0Mk1aNkNHU0J3Yy1VNVFLdHJZNUExVlM5TUlwYVAtcmFNRUZUX2cyYVZJYVl4MmxFTl9ibVhpZnpMYU95N1R5aWV1LXh1Q0ttSE42Wkdod0M1S0ZORUJ1QzIwT0cwaGwxQlRBeEplcEdJMmR5V3dYT3BrdXVOQXJqTEs0TnVXZEVmLTN2dk84S1NraXczdTdfQnFqNXZLbw?oc=5",
+  "warning": false
+ }
+]
