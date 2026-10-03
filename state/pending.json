@@ -271,5 +271,26 @@
   "uid": "0921a10a86983a48",
   "url": "https://eng.lsm.lv/article/politics/election/03.10.2026-latvia-continues-voting-in-15th-saeima-elections.a665884/?utm_source=rss&utm_campaign=rss&utm_medium=links",
   "warning": false
+ },
+ {
+  "first_seen": "2026-10-03T11:31:17+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-03T09:53:40+00:00",
+  "reason": "region: kaliningrad, eastern flank, nato, russia · matched “Escalat” · another report of a story already in the channel",
+  "repeat_of": "Another airspace alert issued in eastern Latvia over drone activity / Article - LSM",
+  "repeats": 0,
+  "source_id": "gnews_latvia_security",
+  "source_name": "Google News — Latvia security",
+  "summary": "",
+  "text": "Russia’s Nuclear Coercion Against NATO’s Eastern Flank: Kaliningrad - Ukraine Support and the Risk of a Manufactured Escalation Crisis debuglies.com",
+  "tier": "news",
+  "title": "Russia’s Nuclear Coercion Against NATO’s Eastern Flank: Kaliningrad - Ukraine Support and the Risk of a Manufactured Escalation Crisis - debuglies.com",
+  "uid": "21d6a6ad3d2f93bf",
+  "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOY1ZQbjN0bjFTbFR1M1Mza3pKdWF0NjM4OEVnWVlHNUJXSl9McUM4R2lqUkxQSlg4czNpb2lQaFNMMFFfZnFjbjc5NmZsdWZEZGl4cUItMXc2Z2xKRHh3cnB2V2xmNWdTRlRRVHEzbmpDcm0xTWR4eG5QVko3NHREOHBvdVAwb2w5ZnZXZmZfQVpsSjh2REhhVlFTNWpGdUdMOWRyU3ROVEc4VVMyRzRPV1lMRWRiTGx5V3JWUkc0R0ZvaDR3M3Q1VGRBYUk5UG93UUFMdEUyVW9LU2NzbUE2TFltczM5VWRuWUtNbnRVWGhfNG1xZVE?oc=5",
+  "warning": false
  }
 ]
