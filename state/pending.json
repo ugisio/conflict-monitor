@@ -334,5 +334,26 @@
   "uid": "d0356ddee49a65e3",
   "url": "https://t.me/astrapress/127034",
   "warning": false
+ },
+ {
+  "first_seen": "2026-10-03T15:31:27+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-02T03:39:52+00:00",
+  "reason": "region: latvia · matched “drone” · another report of a story already in the channel",
+  "repeat_of": "Another airspace alert issued in eastern Latvia over drone activity / Article - LSM",
+  "repeats": 0,
+  "source_id": "gnews_latvia_security",
+  "source_name": "Google News — Latvia security",
+  "summary": "",
+  "text": "Latvia fires off drone project applications to European Commission / Article LSM",
+  "tier": "news",
+  "title": "Latvia fires off drone project applications to European Commission / Article - LSM",
+  "uid": "ecff089c88e63ad6",
+  "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSXNVWXRNakRfMmwzQ0dNcGRFZ2hQV0lGX3BId0x0dUV1V2NWOXFZOGlBcnpwTUhmM3lJVWs0RHVZMUkzSnBERWxLNkJBeXB4WnNVbzBLamlmSi1Md0J5c1p2bWJndHF5UGM3Qy1zUnFUeUFVUWF1TGw1OGZfc3lBRjR3UF9DVUZzLWUyYkwycWNzZlFtTUttcnFtNlFqai1IZGt0TS1SNkRzRkxrc0RVUkxaZlVWS04yY2w4dEVmY200b002RW5DMA?oc=5",
+  "warning": false
  }
 ]

@@ -454,7 +454,7 @@
  },
  {
   "level": 2,
-  "n": 5,
+  "n": 6,
   "source": "Google News — Latvia security",
   "stems": [
    "activ",
@@ -462,13 +462,16 @@
    "airsp",
    "alert",
    "anoth",
+   "appli",
    "artic",
    "coerc",
+   "commi",
    "crash",
    "crisi",
    "drone",
    "easte",
    "escal",
+   "fires",
    "flank",
    "futur",
    "hiera",
@@ -476,6 +479,7 @@
    "manuf",
    "myste",
    "nucle",
+   "proje",
    "suppo"
   ],
   "title": "Another airspace alert issued in eastern Latvia over drone activity / Article - LSM",
