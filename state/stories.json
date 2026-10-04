@@ -50,20 +50,6 @@
  },
  {
   "level": 2,
-  "n": 1,
-  "source": "LSM (Latvian public media, EN)",
-  "stems": [
-   "occas",
-   "rules",
-   "saeim",
-   "speci",
-   "write"
-  ],
-  "title": "Saeima rules that LSM can write in Russian only on specific occasions",
-  "ts": "2026-10-01T09:01:41+00:00"
- },
- {
-  "level": 2,
   "n": 9,
   "source": "Google News — NATO & the Baltics",
   "stems": [
