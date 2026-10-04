@@ -1,1 +1,23 @@
-[]
+[
+ {
+  "first_seen": "2026-10-04T06:31:15+00:00",
+  "kind": "alert",
+  "lang": "en",
+  "level": 1,
+  "note": "",
+  "posted": false,
+  "published": null,
+  "reason": "matched “passport”",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "israel_emb_riga",
+  "source_name": "Israeli Embassy Riga announcements",
+  "summary": "",
+  "text": "",
+  "tier": "official",
+  "title": "The period during which Israelis may exit and enter Israel with their valid foreign passport, has been extended by PIBA until 31.12.2026",
+  "uid": "fadb4f5ddf4edf59",
+  "url": "https://embassies.gov.il/riga/en/announcements/exit-and-enter-israel-foreign-passport-has-been-extended-04102026",
+  "warning": false
+ }
+]
