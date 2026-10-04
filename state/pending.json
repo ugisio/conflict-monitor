@@ -103,5 +103,26 @@
   "uid": "2a61fca619f6623d",
   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVVZKQU1xMlgtamp5UjRQYmMyNkxlMWJ4UGN0WVlONHJ2dHNiWXlrbm9WZFlIbXAwb3JGME5jWmZmS0VMUFBlZlNtVTVTcXl3ZlRLcmMwd292MDlNUzNGQ2tJamp3QmwyNllZYVJPVk50b3FhUkVURWRJSG40MVFCR2hwV2JjY3RvcFc4VmMzYVJYRkdWbFY0TEtQOFY?oc=5",
   "warning": false
+ },
+ {
+  "first_seen": "2026-10-04T03:31:21+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-03T00:03:28+00:00",
+  "reason": "region: latvia · matched “Drone”",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "gnews_latvia_security",
+  "source_name": "Google News — Latvia security",
+  "summary": "",
+  "text": "Drone parts found in Rēzekne municipality, Latvia / Article LSM",
+  "tier": "news",
+  "title": "Drone parts found in Rēzekne municipality, Latvia / Article - LSM",
+  "uid": "0f2a1d524e9a96f1",
+  "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNXp1YUEya1NjYVR2ODRsU3lFQnZGMUNhU3lRa0NDSVhJSzNyNVJORC1pdkZXdnEzSWFQaGtqT080UkRCaGZxNnE2eG5mWDVIUW5UZnVmV1hpeXVUX3E4WndEemFmUVFtUTZDekpRVmhzOFo2Q1JpbnYtdWpBWXVWZU1PSi01TGtNVFlMVWVvRThkQ2o0ZEthV1Q0QXhibE5fN3kzeXpNTWNZai0wNHlQTQ?oc=5",
+  "warning": false
  }
 ]
