@@ -82,5 +82,26 @@
   "uid": "63bc1f71695e26d4",
   "url": "https://eng.lsm.lv/article/politics/election/03.10.2026-voter-turnout-looks-like-a-new-low-in-latvian-parliamentary-history.a665991/?utm_source=rss&utm_campaign=rss&utm_medium=links",
   "warning": false
+ },
+ {
+  "first_seen": "2026-10-04T01:01:29+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-02T14:25:59+00:00",
+  "reason": "region: latvia · matched “Drone” · another report of a story already in the channel",
+  "repeat_of": "Another airspace alert issued in eastern Latvia over drone activity / Article - LSM",
+  "repeats": 0,
+  "source_id": "gnews_latvia_security",
+  "source_name": "Google News — Latvia security",
+  "summary": "",
+  "text": "Drone industry develops in Latvia / Article LSM",
+  "tier": "news",
+  "title": "Drone industry develops in Latvia / Article - LSM",
+  "uid": "2a61fca619f6623d",
+  "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVVZKQU1xMlgtamp5UjRQYmMyNkxlMWJ4UGN0WVlONHJ2dHNiWXlrbm9WZFlIbXAwb3JGME5jWmZmS0VMUFBlZlNtVTVTcXl3ZlRLcmMwd292MDlNUzNGQ2tJamp3QmwyNllZYVJPVk50b3FhUkVURWRJSG40MVFCR2hwV2JjY3RvcFc4VmMzYVJYRkdWbFY0TEtQOFY?oc=5",
+  "warning": false
  }
 ]

@@ -356,7 +356,7 @@
  },
  {
   "level": 2,
-  "n": 7,
+  "n": 8,
   "source": "Google News — Latvia security",
   "stems": [
    "activ",
@@ -370,6 +370,7 @@
    "commi",
    "crash",
    "crisi",
+   "devel",
    "drone",
    "easte",
    "escal",
@@ -378,6 +379,7 @@
    "flank",
    "futur",
    "hiera",
+   "indus",
    "inter",
    "issue",
    "manuf",
