@@ -1,1 +1,23 @@
-[]
+[
+ {
+  "first_seen": "2026-10-04T20:01:31+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-03T00:34:29+00:00",
+  "reason": "region: latvia · matched “drone” · another report of a story already in the channel",
+  "repeat_of": "Drone parts found in Rēzekne municipality, Latvia / Article - LSM",
+  "repeats": 0,
+  "source_id": "gnews_latvia_security",
+  "source_name": "Google News — Latvia security",
+  "summary": "",
+  "text": "Latvia and USA sign drone development document in Paris / Article LSM",
+  "tier": "news",
+  "title": "Latvia and USA sign drone development document in Paris / Article - LSM",
+  "uid": "9506f8bfe745ecb2",
+  "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNaEZicWU2LTduck52c1A2V1pNVFRtSVUtN3JwdE1UcXd5cDExUV9ZT1BjVTU3al9zR0FnblNJQ1lBV2plU2FPazlBOVdpTHZjc0pSSHhJVlBYcWZlTW5wenBfUmhJOWlud0MxN2QyRmszb3A3Tk5pOXJFcG0xdzExWE9zRmlha1lMdG5obm5IdVlVc2txdHA0LUxjWmlKbHZfblp4Nl8zTG8xckh3YVUyNEhydkdvSFluTHc?oc=5",
+  "warning": false
+ }
+]
