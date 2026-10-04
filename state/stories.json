@@ -1,49 +1,6 @@
 [
  {
   "level": 2,
-  "n": 5,
-  "source": "Google News — Latvia security",
-  "stems": [
-   "arsen",
-   "black",
-   "consi",
-   "headl",
-   "nucle",
-   "putin",
-   "range",
-   "terri",
-   "types",
-   "using",
-   "weapo"
-  ],
-  "title": "Putin Says Russia Will Consider Using Full Range of Weapons in Its Arsenal if Kaliningrad Is Threatened - The Moscow Times",
-  "ts": "2026-10-01T16:31:28+00:00"
- },
- {
-  "level": 2,
-  "n": 2,
-  "source": "Google News — eastern flank (PL/FI/NATO)",
-  "stems": [
-   "agenc",
-   "alexa",
-   "calls",
-   "chief",
-   "discu",
-   "escal",
-   "hybri",
-   "intel",
-   "jonas",
-   "phone",
-   "stubb",
-   "terro",
-   "volod",
-   "zelen"
-  ],
-  "title": "Volodymyr Zelenskyy Discussed the Escalation of Russian Terror in Phone Calls with Alexander Stubb and Jonas Gahr Støre - ArmyInform",
-  "ts": "2026-10-01T16:31:28+00:00"
- },
- {
-  "level": 2,
   "n": 2,
   "source": "Google News — Latvia security",
   "stems": [
