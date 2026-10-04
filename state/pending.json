@@ -166,5 +166,26 @@
   "uid": "4576b4c47ac3dc74",
   "url": "https://t.me/ClashReport/99575",
   "warning": true
+ },
+ {
+  "first_seen": "2026-10-04T13:01:29+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-04T12:48:39+00:00",
+  "reason": "region: kaliningrad, russia, kremlin · matched “threatened”",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "gnews_latvia_security",
+  "source_name": "Google News — Latvia security",
+  "summary": "",
+  "text": "Kremlin says Russia will use entire weapons arsenal to defend Kaliningrad if threatened Anadolu Ajansı",
+  "tier": "news",
+  "title": "Kremlin says Russia will use entire weapons arsenal to defend Kaliningrad if threatened - Anadolu Ajansı",
+  "uid": "9f67be831d69d7d9",
+  "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdXVadkx0dWc4V1VzYzc1N0hIbGtEY0xTOEdZOWp1R0xBVGVsM1pfMzE5WXZzRkhiV2ZsQjk1Tlc2dGJpWHFrTjk1M0d6RThVZ3JteGxPZkw1QlFkVHdCRnRIS3lCUkFYM0V2TUE2UE9aR0JRUEpuYkNGS3FUSUlkWlhNVXRLRDI1RnJYeHRkX0xvVlFYR0F3Y1VOOHljU3VaQUpUNkRnUU9kU2FaYjMySFFGbFBQYWJWcGt1NmwwQ0xuck9QekE?oc=5",
+  "warning": false
  }
 ]
