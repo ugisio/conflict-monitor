@@ -229,5 +229,26 @@
   "uid": "0d3090bccf113fb3",
   "url": "https://t.me/nexta_live/124476",
   "warning": true
+ },
+ {
+  "first_seen": "2026-10-05T12:31:31+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-05T12:10:00+00:00",
+  "reason": "region: estonia · matched “drone”",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "err_en",
+  "source_name": "ERR News (Estonia, EN)",
+  "summary": "",
+  "text": "The United States has provided Estonia with 13 Skydio X10D drones to help the Police and Border Guard Board (PPA) monitor hard-to-reach areas along the country's borders.",
+  "tier": "news",
+  "title": "US gives Estonia 13 reconnaissance drones to boost border security",
+  "uid": "af79a8818834feda",
+  "url": "https://news.err.ee/1610157010/us-gives-estonia-13-reconnaissance-drones-to-boost-border-security",
+  "warning": false
  }
 ]

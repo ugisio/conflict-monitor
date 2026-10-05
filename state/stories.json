@@ -1,45 +1,5 @@
 [
  {
-  "level": 2,
-  "n": 9,
-  "source": "ERR News (Estonia, EN)",
-  "stems": [
-   "activ",
-   "ahead",
-   "airpo",
-   "alert",
-   "along",
-   "boost",
-   "campa",
-   "close",
-   "conti",
-   "cyber",
-   "drone",
-   "elect",
-   "fears",
-   "fight",
-   "hybri",
-   "incur",
-   "issue",
-   "parli",
-   "place",
-   "possi",
-   "pushe",
-   "saeim",
-   "scram",
-   "shado",
-   "shape",
-   "spott",
-   "tempo",
-   "tense",
-   "vilni",
-   "votes",
-   "votin"
-  ],
-  "title": "Estonia pushes for cybersecurity boost ahead of elections",
-  "ts": "2026-10-02T12:26:28+00:00"
- },
- {
   "level": 1,
   "n": 1,
   "source": "LSM (Latvian public media, EN)",
@@ -413,5 +373,18 @@
   ],
   "title": "Russian large-scale attack on NATO not likely – German intelligence chief",
   "ts": "2026-10-05T12:02:27+00:00"
+ },
+ {
+  "level": 2,
+  "n": 1,
+  "source": "ERR News (Estonia, EN)",
+  "stems": [
+   "boost",
+   "drone",
+   "gives",
+   "recon"
+  ],
+  "title": "US gives Estonia 13 reconnaissance drones to boost border security",
+  "ts": "2026-10-05T12:31:45+00:00"
  }
 ]
