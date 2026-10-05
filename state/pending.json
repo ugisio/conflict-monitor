@@ -19,5 +19,26 @@
   "uid": "9506f8bfe745ecb2",
   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNaEZicWU2LTduck52c1A2V1pNVFRtSVUtN3JwdE1UcXd5cDExUV9ZT1BjVTU3al9zR0FnblNJQ1lBV2plU2FPazlBOVdpTHZjc0pSSHhJVlBYcWZlTW5wenBfUmhJOWlud0MxN2QyRmszb3A3Tk5pOXJFcG0xdzExWE9zRmlha1lMdG5obm5IdVlVc2txdHA0LUxjWmlKbHZfblp4Nl8zTG8xckh3YVUyNEhydkdvSFluTHc?oc=5",
   "warning": false
+ },
+ {
+  "first_seen": "2026-10-05T00:01:34+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-03T13:30:11+00:00",
+  "reason": "region: latvia · matched “drone” · another report of a story already in the channel",
+  "repeat_of": "Drone parts found in Rēzekne municipality, Latvia / Article - LSM",
+  "repeats": 0,
+  "source_id": "gnews_latvia_security",
+  "source_name": "Google News — Latvia security",
+  "summary": "",
+  "text": "Latvia mulls compensation in case of drone damage / Article LSM",
+  "tier": "news",
+  "title": "Latvia mulls compensation in case of drone damage / Article - LSM",
+  "uid": "1ce4b99758495eb3",
+  "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWkw4VFZSOHF0MmFlUGR5UzNMTXVhNzBXMkhQVlBxY2EzTE5Uck53dzBfN3JRemFDZXZQcmM5YjNPS0VFb3h1WG05RmVrMUJCR3NVdm9UMW1fY0RTWXF5MlhJRzA1bnZFeDlsaHFQZGRWRGkzSHF2VExUTDJRbFdCQlRCSjd1Y1RZTk5ObnJPWE1xdzB0NzIxZmxBZ2JvUDBQZUkxaVR5aWd0aVo4NVFkOGh3?oc=5",
+  "warning": false
  }
 ]
