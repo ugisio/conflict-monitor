@@ -166,5 +166,26 @@
   "uid": "af6005b7f51f13bb",
   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOSXFyZXdraGhHVDZxTmZTSGdEY2FkR3RfVXdBd2dXNmc0aXlFc0N0REk3dG5YT3RldUM0ZWFQVWV0aEtoTzRBZ1AwRUtZVXNaMDktdVcwSnAzdTdaVlBQY2hwRnRNOGFXblBKQkpDWXB5MlVGUU5hcGxlRU44czdEampuNVNSR0l0Z0N3WllMWkc5QUhjZHRwQlpVOWlHOG1rdmFhR2NBMEdRVWdoQThndnZTN3FEbUJfcGVWdzZCRXBGLXNudVZqMENFWnVvMnJCdURwZkllai1TUVlTMHRDdGhB?oc=5",
   "warning": true
+ },
+ {
+  "first_seen": "2026-10-05T11:01:38+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-05T10:46:29+00:00",
+  "reason": "official warning about Russia / NATO · matched “Escalat” · another report of a story already in the channel",
+  "repeat_of": "Recent RAND Study: Europe’s Conventional Shortfalls Could Drive Nuclear Escalation - The Baltic Sentinel",
+  "repeats": 0,
+  "source_id": "gnews_official_warnings",
+  "source_name": "Google News — official warnings",
+  "summary": "",
+  "text": "German Intelligence Chief Warns Russia Escalating \"Shadow War,\" Risking Conflict With Germany news.sbs.co.kr",
+  "tier": "news",
+  "title": "German Intelligence Chief Warns Russia Escalating \"Shadow War,\" Risking Conflict With Germany - news.sbs.co.kr",
+  "uid": "5ec33bcf75dff5a4",
+  "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE53QXoxd1JjRG1jdWE1cmJWNGg2NHkyci05bVpLMGx1QnNZVS1BTWNjQmJ4WDBXRXNfczl3eEVHRjZzV0Z5S05fNkhLNjAxYmNHbzNsdTBWMFBUcFlXR09LWlpTaTI0b3U2YzdGQkpR?oc=5",
+  "warning": true
  }
 ]

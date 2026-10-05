@@ -338,14 +338,20 @@
  },
  {
   "level": 2,
-  "n": 1,
+  "n": 2,
   "source": "Google News — Latvia security",
   "stems": [
+   "chief",
+   "confl",
    "conve",
    "drive",
    "escal",
+   "germa",
+   "intel",
    "nucle",
    "recen",
+   "riski",
+   "shado",
    "short",
    "study"
   ],
