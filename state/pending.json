@@ -124,5 +124,26 @@
   "uid": "9541b6efe5b52ef3",
   "url": "https://t.me/novaya_europe/67921",
   "warning": false
+ },
+ {
+  "first_seen": "2026-10-05T10:01:33+00:00",
+  "kind": "post",
+  "lang": "en",
+  "level": 2,
+  "note": "EN, conflict news aggregator",
+  "posted": true,
+  "published": "2026-10-05T09:57:29+00:00",
+  "reason": "region: eastern flank, nato, russia · official warning · matched “drone (in text)”",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "tg_clashreport",
+  "source_name": "Clash Report",
+  "summary": "",
+  "text": "NATO’s top military commander, Gen. Alexus Grynkewich, is drafting a “Theory of Victory” for defeating a potential Russian attack on NATO’s eastern flank quickly. The strategy would combine traditional forces with low-cost drones, minimally crewed systems and AI-enabled targeting. NATO would first stop an incursion, then gain freedom of maneuver and strike Russian command-and-control systems to defeat the attacking forces rapidly. The plan will be presented in Poland on Oct. 12. Source: Bloomberg",
+  "tier": "osint",
+  "title": "NATO’s top military commander, Gen. Alexus Grynkewich, is drafting a “Theory of Victory” for defeating a potential Russian attack on NATO’s …",
+  "uid": "3719cee60048a206",
+  "url": "https://t.me/ClashReport/99666",
+  "warning": true
  }
 ]
