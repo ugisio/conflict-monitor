@@ -306,30 +306,43 @@
  },
  {
   "level": 2,
-  "n": 3,
+  "n": 4,
   "source": "NEXTA Live",
   "stems": [
+   "берли",
    "ближе",
    "возмо",
+   "войне",
    "войск",
    "воору",
    "вторж",
+   "втяну",
+   "герма",
+   "глава",
    "готов",
    "грани",
    "закуп",
+   "конфл",
+   "может",
+   "москв",
    "нарве",
    "окаже",
+   "оказа",
    "переб",
    "петер",
    "посто",
+   "преду",
    "пригр",
    "прово",
+   "разве",
    "разме",
+   "риску",
    "росси",
    "случа",
    "спосо",
    "сторо",
    "строи",
+   "угроз",
    "ударо",
    "эстон"
   ],
@@ -388,5 +401,17 @@
   ],
   "title": "NATO’s Rutte warns Russian hybrid attacks will continue, urges support for Ukraine - INSIGHT EU MONITORING",
   "ts": "2026-10-05T10:31:36+00:00"
+ },
+ {
+  "level": 2,
+  "n": 1,
+  "source": "LRT (Lithuania, EN)",
+  "stems": [
+   "large",
+   "likel",
+   "scale"
+  ],
+  "title": "Russian large-scale attack on NATO not likely – German intelligence chief",
+  "ts": "2026-10-05T12:02:27+00:00"
  }
 ]
