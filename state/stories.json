@@ -274,7 +274,7 @@
  },
  {
   "level": 2,
-  "n": 7,
+  "n": 8,
   "source": "Google News — Latvia security",
   "stems": [
    "armed",
@@ -284,10 +284,12 @@
    "conve",
    "drive",
    "escal",
+   "excla",
    "germa",
    "infra",
    "intel",
    "nucle",
+   "putin",
    "recen",
    "remai",
    "riski",
@@ -295,7 +297,9 @@
    "sched",
    "shado",
    "short",
-   "study"
+   "study",
+   "surro",
+   "trigg"
   ],
   "title": "Recent RAND Study: Europe’s Conventional Shortfalls Could Drive Nuclear Escalation - The Baltic Sentinel",
   "ts": "2026-10-05T07:31:30+00:00"

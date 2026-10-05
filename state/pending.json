@@ -481,5 +481,26 @@
   "uid": "0087bf3bbd4446e1",
   "url": "https://www.lrt.lt/en/news-in-english/19/3073371/lithuania-to-spend-eur25-000-on-baltic-defence-line-mobile-game",
   "warning": false
+ },
+ {
+  "first_seen": "2026-10-05T15:54:22+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-05T14:36:52+00:00",
+  "reason": "region: kaliningrad, nato, russia · matched “nuclear threat” · single source, held at WATCH until another source corroborates · another report of a story already in the channel",
+  "repeat_of": "Recent RAND Study: Europe’s Conventional Shortfalls Could Drive Nuclear Escalation - The Baltic Sentinel",
+  "repeats": 0,
+  "source_id": "gnews_latvia_security",
+  "source_name": "Google News — Latvia security",
+  "summary": "",
+  "text": "Kaliningrad, the Russian militarized exclave surrounded by NATO that triggered Putin’s nuclear threat EL PAÍS English",
+  "tier": "news",
+  "title": "Kaliningrad, the Russian militarized exclave surrounded by NATO that triggered Putin’s nuclear threat - EL PAÍS English",
+  "uid": "e95b80fa4ef62bf9",
+  "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNUUFXZDV6OEd2R3NhcVdXM2ViczluSWJDWHJsREFJMk9mZVl2akxMU2tKT0NiNmVKbktBcXNXOTZyRHhHMm9vTms2YlhhZllXOUk2bnBMQnRuMjdrSnFrY1RnUm12ZWxKR3BqQTNLNjFlRWM0NUxrdVFWcDY4UUlmSHFaR3NNZzNlbVo5UzhGYldoT09QaS1pZ3dudWgzMkx6dTB2UVlNcnk5cTdSMWhCZWRWcW5sMG1TS3dRMXpId1ZENGRmMUtmWWlha2xyWjlpZkhWSkdMSUs3RmJrRW81aldyMFRFSmp6cF83ctIBgAJBVV95cUxNYjhwWEtId2d6eXNsRkRoRFdNSm5UYWFGUXpORXpMX1JJeUpyVC0weEtib3RvdzE4SmNVNzh6RU5xUXJDM1d6TTh4QnpJTTg4Qkc4Zm9wM2daQXpxLU9NNlpwemNzTHU1ZkpIb1pENmZTa0pZX0U1UXRINkd2YXJLa2JGZlhFQ3FNR2F1cUwzTmdKM0JBcXZ1YTZhOF95TUI5YVpnTDJGeERNdjJhVTZ4Y0oyb2FkOVNNWGVnNnFPcXZwUjF6Nl9UdFVma2dTMjFUSWNtM2w1WEtKNmJyOWRqTW5iQ3RBenlKZDNBRy00MlhnZXRVVkNDcGVISWxObW1m?oc=5",
+  "warning": false
  }
 ]
