@@ -145,5 +145,26 @@
   "uid": "3719cee60048a206",
   "url": "https://t.me/ClashReport/99666",
   "warning": true
+ },
+ {
+  "first_seen": "2026-10-05T10:31:26+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": true,
+  "published": "2026-10-05T10:17:25+00:00",
+  "reason": "official warning about Russia / NATO · matched “hybrid attack”",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "gnews_official_warnings",
+  "source_name": "Google News — official warnings",
+  "summary": "",
+  "text": "NATO’s Rutte warns Russian hybrid attacks will continue, urges support for Ukraine INSIGHT EU MONITORING",
+  "tier": "news",
+  "title": "NATO’s Rutte warns Russian hybrid attacks will continue, urges support for Ukraine - INSIGHT EU MONITORING",
+  "uid": "af6005b7f51f13bb",
+  "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOSXFyZXdraGhHVDZxTmZTSGdEY2FkR3RfVXdBd2dXNmc0aXlFc0N0REk3dG5YT3RldUM0ZWFQVWV0aEtoTzRBZ1AwRUtZVXNaMDktdVcwSnAzdTdaVlBQY2hwRnRNOGFXblBKQkpDWXB5MlVGUU5hcGxlRU44czdEampuNVNSR0l0Z0N3WllMWkc5QUhjZHRwQlpVOWlHOG1rdmFhR2NBMEdRVWdoQThndnZTN3FEbUJfcGVWdzZCRXBGLXNudVZqMENFWnVvMnJCdURwZkllai1TUVlTMHRDdGhB?oc=5",
+  "warning": true
  }
 ]
