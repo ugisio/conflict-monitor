@@ -318,11 +318,16 @@
  },
  {
   "level": 2,
-  "n": 1,
+  "n": 2,
   "source": "NEXTA Live",
   "stems": [
+   "ближе",
+   "возмо",
    "войск",
+   "воору",
+   "готов",
    "грани",
+   "закуп",
    "нарве",
    "окаже",
    "переб",
@@ -331,11 +336,29 @@
    "прово",
    "росси",
    "случа",
+   "спосо",
+   "сторо",
    "строи",
    "ударо",
    "эстон"
   ],
   "title": "❕ Эстония перебрасывает войска к границе с Россией: в случае провокации Петербург окажется под ударом В приграничной Нарве Эстония строит но…",
   "ts": "2026-10-05T06:54:23+00:00"
+ },
+ {
+  "level": 2,
+  "n": 1,
+  "source": "Google News — Latvia security",
+  "stems": [
+   "conve",
+   "drive",
+   "escal",
+   "nucle",
+   "recen",
+   "short",
+   "study"
+  ],
+  "title": "Recent RAND Study: Europe’s Conventional Shortfalls Could Drive Nuclear Escalation - The Baltic Sentinel",
+  "ts": "2026-10-05T07:31:30+00:00"
  }
 ]
