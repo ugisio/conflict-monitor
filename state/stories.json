@@ -310,15 +310,21 @@
  },
  {
   "level": 2,
-  "n": 1,
+  "n": 2,
   "source": "Clash Report",
   "stems": [
    "alexu",
+   "combi",
    "comma",
    "defea",
    "draft",
+   "drone",
    "grynk",
+   "incur",
+   "plans",
+   "possi",
    "poten",
+   "strat",
    "theor",
    "victo"
   ],
@@ -353,7 +359,7 @@
  },
  {
   "level": 2,
-  "n": 4,
+  "n": 5,
   "source": "ERR News (Estonia, EN)",
   "stems": [
    "artic",
@@ -366,12 +372,15 @@
    "gives",
    "invok",
    "place",
+   "plans",
+   "possi",
    "prepa",
    "recon",
    "secon",
    "sikor",
    "strat",
    "summi",
+   "tackl",
    "takin"
   ],
   "title": "US gives Estonia 13 reconnaissance drones to boost border security",
