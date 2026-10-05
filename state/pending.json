@@ -334,5 +334,26 @@
   "uid": "822a4b285b472a19",
   "url": "https://pl.usembassy.gov/demonstration-alert-message-for-u-s-citizens-october-5-2026/",
   "warning": false
+ },
+ {
+  "first_seen": "2026-10-05T13:31:45+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 1,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-05T13:13:00+00:00",
+  "reason": "region: lithuania · matched “training (in text)” · another report of a story already in the channel",
+  "repeat_of": "Recent RAND Study: Europe’s Conventional Shortfalls Could Drive Nuclear Escalation - The Baltic Sentinel",
+  "repeats": 0,
+  "source_id": "lrt_en",
+  "source_name": "LRT (Lithuania, EN)",
+  "summary": "",
+  "text": "Construction of residential blocks for German soldiers at Lithuania’s Rūdninkai training area has been completed, and the country’s defence minister said Monday that infrastructure for the planned deployment of a German brigade remains on schedule.",
+  "tier": "news",
+  "title": "Lithuania says infrastructure for German brigade remains on schedule",
+  "uid": "994fd387be64cb9f",
+  "url": "https://www.lrt.lt/en/news-in-english/19/3073329/lithuania-says-infrastructure-for-german-brigade-remains-on-schedule",
+  "warning": false
  }
 ]

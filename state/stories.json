@@ -2,32 +2,6 @@
  {
   "level": 1,
   "n": 1,
-  "source": "LSM (Latvian public media, EN)",
-  "stems": [
-   "early",
-   "frida",
-   "surpa",
-   "turno",
-   "votin"
-  ],
-  "title": "Early voting turnout in Latvia surpasses 10% on Friday",
-  "ts": "2026-10-02T13:01:55+00:00"
- },
- {
-  "level": 1,
-  "n": 1,
-  "source": "Google News — Latvia security",
-  "stems": [
-   "aerot",
-   "exerc",
-   "first"
-  ],
-  "title": "B-1B used for the first time in NATO air defense exercise over Lithuania and Latvia — AeroTime - UA.NEWS",
-  "ts": "2026-10-02T13:31:33+00:00"
- },
- {
-  "level": 1,
-  "n": 1,
   "source": "Google News — NATO & the Baltics",
   "stems": [
    "drill",
@@ -311,21 +285,25 @@
  },
  {
   "level": 2,
-  "n": 3,
+  "n": 4,
   "source": "Google News — Latvia security",
   "stems": [
    "armed",
+   "briga",
    "chief",
    "confl",
    "conve",
    "drive",
    "escal",
    "germa",
+   "infra",
    "intel",
    "nucle",
    "recen",
+   "remai",
    "riski",
    "risks",
+   "sched",
    "shado",
    "short",
    "study"
