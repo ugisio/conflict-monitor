@@ -1,1 +1,23 @@
-[]
+[
+ {
+  "first_seen": "2026-10-05T05:31:59+00:00",
+  "kind": "market",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": null,
+  "reason": "probability moved +5.3 pp",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "polymarket",
+  "source_name": "Polymarket",
+  "summary": "",
+  "text": "was 94% → now 99% (resolves 2027-01-01)",
+  "tier": "market",
+  "title": "Market moved +5 pp: “Will Ülle Madise be the next President of Estonia?” now 99%",
+  "uid": "6db8ec7938266a12",
+  "url": "https://polymarket.com/event/next-president-of-estonia-20260727225811942",
+  "warning": false
+ }
+]
