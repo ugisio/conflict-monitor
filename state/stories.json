@@ -345,7 +345,7 @@
  },
  {
   "level": 2,
-  "n": 3,
+  "n": 4,
   "source": "ERR News (Estonia, EN)",
   "stems": [
    "artic",
@@ -353,17 +353,45 @@
    "boost",
    "drone",
    "easte",
+   "expla",
    "flank",
    "gives",
+   "invok",
    "place",
    "prepa",
    "recon",
    "secon",
+   "sikor",
    "strat",
    "summi",
    "takin"
   ],
   "title": "US gives Estonia 13 reconnaissance drones to boost border security",
   "ts": "2026-10-05T12:31:45+00:00"
+ },
+ {
+  "level": 2,
+  "n": 1,
+  "source": "Google News — Latvia security",
+  "stems": [
+   "evacu",
+   "least",
+   "milli",
+   "plans",
+   "updat"
+  ],
+  "title": "Poland to update plans to evacuate at least one million people from Baltic states — RMF24 - UA.NEWS",
+  "ts": "2026-10-05T15:01:50+00:00"
+ },
+ {
+  "level": 1,
+  "n": 1,
+  "source": "LRT (Lithuania, EN)",
+  "stems": [
+   "mobil",
+   "spend"
+  ],
+  "title": "Lithuania to spend €25,000 on Baltic Defence Line mobile game",
+  "ts": "2026-10-05T15:01:50+00:00"
  }
 ]
