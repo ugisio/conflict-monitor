@@ -251,13 +251,17 @@
  },
  {
   "level": 2,
-  "n": 1,
+  "n": 2,
   "source": "LRT (Lithuania, EN)",
   "stems": [
+   "comme",
    "conce",
+   "debat",
    "hybri",
    "nucle",
-   "rheto"
+   "promp",
+   "rheto",
+   "umbre"
   ],
   "title": "Latvian Defense Minister: Russia's hybrid attacks, not nuclear rhetoric, main concern",
   "ts": "2026-10-04T07:01:44+00:00"
@@ -311,5 +315,27 @@
   ],
   "title": "Kremlin says Russia will use entire weapons arsenal to defend Kaliningrad if threatened - Anadolu Ajansı",
   "ts": "2026-10-04T13:01:39+00:00"
+ },
+ {
+  "level": 2,
+  "n": 1,
+  "source": "NEXTA Live",
+  "stems": [
+   "войск",
+   "грани",
+   "нарве",
+   "окаже",
+   "переб",
+   "петер",
+   "пригр",
+   "прово",
+   "росси",
+   "случа",
+   "строи",
+   "ударо",
+   "эстон"
+  ],
+  "title": "❕ Эстония перебрасывает войска к границе с Россией: в случае провокации Петербург окажется под ударом В приграничной Нарве Эстония строит но…",
+  "ts": "2026-10-05T06:54:23+00:00"
  }
 ]
