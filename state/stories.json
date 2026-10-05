@@ -311,9 +311,10 @@
  },
  {
   "level": 2,
-  "n": 2,
+  "n": 3,
   "source": "Google News — Latvia security",
   "stems": [
+   "armed",
    "chief",
    "confl",
    "conve",
@@ -324,6 +325,7 @@
    "nucle",
    "recen",
    "riski",
+   "risks",
    "shado",
    "short",
    "study"
@@ -376,13 +378,23 @@
  },
  {
   "level": 2,
-  "n": 1,
+  "n": 3,
   "source": "ERR News (Estonia, EN)",
   "stems": [
+   "artic",
+   "based",
    "boost",
    "drone",
+   "easte",
+   "flank",
    "gives",
-   "recon"
+   "place",
+   "prepa",
+   "recon",
+   "secon",
+   "strat",
+   "summi",
+   "takin"
   ],
   "title": "US gives Estonia 13 reconnaissance drones to boost border security",
   "ts": "2026-10-05T12:31:45+00:00"
