@@ -278,7 +278,7 @@
  },
  {
   "level": 2,
-  "n": 8,
+  "n": 9,
   "source": "Google News — Latvia security",
   "stems": [
    "armed",
@@ -292,7 +292,9 @@
    "germa",
    "infra",
    "intel",
+   "major",
    "nucle",
+   "possi",
    "putin",
    "recen",
    "remai",
