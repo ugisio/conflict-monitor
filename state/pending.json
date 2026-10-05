@@ -397,5 +397,26 @@
   "uid": "15a9ca77a2dfaeaa",
   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9MVS1NT3c5R05UVjFNMTZxZG4wR2kwa3RUalZWWm9OdVZsYWdVaEMwZ2s1dFU2Wk1ZLWVjR3JUYWlaWnNLZXVweXVrVkg1TWFsSVh5UzhSLTBiOFljVnZYRGNlZ181TDdTNG9xTGdhcw?oc=5",
   "warning": true
+ },
+ {
+  "first_seen": "2026-10-05T14:31:36+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-05T14:10:17+00:00",
+  "reason": "official warning about Russia / NATO · matched “official warning” · another report of a story already in the channel",
+  "repeat_of": "Recent RAND Study: Europe’s Conventional Shortfalls Could Drive Nuclear Escalation - The Baltic Sentinel",
+  "repeats": 0,
+  "source_id": "gnews_official_warnings",
+  "source_name": "Google News — official warnings",
+  "summary": "",
+  "text": "Germany's intelligence chief warns of conflict risk with Russia Around Prague",
+  "tier": "news",
+  "title": "Germany's intelligence chief warns of conflict risk with Russia - Around Prague",
+  "uid": "49b8e2a7eae193b9",
+  "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNa08zZ0k1X1dldHcyUURQOFpKZGdXYTJXLU1OcjlyM21mMlpqMTF5WTBFR1Fwb2R1emNHb1Rhanl2VmR4MS15eTRBcmZGdFpxX2dXRnc3eGJyRXlFTW9PNDdzeXlGellPZlNGNm91RUoweUE4QzhGV1M5c3JXRnhnNTN2eFVUXzgxV1ZiRWNHa0JEbG4tXzQ1VENRb3I1UVlhblozN1BGdWVTX09Bc2lQYzlpUWx4dw?oc=5",
+  "warning": true
  }
 ]

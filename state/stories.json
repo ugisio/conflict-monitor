@@ -1,16 +1,5 @@
 [
  {
-  "level": 1,
-  "n": 1,
-  "source": "Google News — NATO & the Baltics",
-  "stems": [
-   "drill",
-   "joins"
-  ],
-  "title": "USAF B-1B joins NATO air defense drill over Lithuania and Latvia - AeroTime",
-  "ts": "2026-10-02T14:31:39+00:00"
- },
- {
   "level": 2,
   "n": 8,
   "source": "Google News — Latvia security",
@@ -285,7 +274,7 @@
  },
  {
   "level": 2,
-  "n": 6,
+  "n": 7,
   "source": "Google News — Latvia security",
   "stems": [
    "armed",
