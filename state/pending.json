@@ -40,5 +40,26 @@
   "uid": "c83a38543e7b875a",
   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPT1BVREwtU00zUm42VFpLQXliYzhlLTBsMFZQaGdGRUVjS2RkUHl6cm5IX3djVDZnUXNIZXFnd285TFZzaEJjY1JKSVQ5b3VzaHdwS2hLNE8tbFJxVVFPMmNjdUNWd29vZHMtaGY0VUhkbzM4YTVzQVRrQXpkQ0NMMVd1RWxaOC1uVWZSZ2VLSGlManJhQmd6Q0d1RlBsYWtWRXNjempMUFdLRGpCOVE?oc=5",
   "warning": true
+ },
+ {
+  "first_seen": "2026-10-06T03:01:29+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-05T17:04:45+00:00",
+  "reason": "region: riga, baltic · matched “Mobilisation” · single source, held at WATCH until another source corroborates · story escalated from L1 (2 reports so far)",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "gnews_latvia_security",
+  "source_name": "Google News — Latvia security",
+  "summary": "",
+  "text": "UN:BLOCK Fintech to Bring Together More Than 600 Fintech Professionals in Riga to Discuss Licensing, Cross-Border Payments and Capital Mobilisation The Baltic Times",
+  "tier": "news",
+  "title": "UN:BLOCK Fintech to Bring Together More Than 600 Fintech Professionals in Riga to Discuss Licensing, Cross-Border Payments and Capital Mobilisation - The Baltic Times",
+  "uid": "7318ea8a769e02fb",
+  "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQbE5ndXNib1pRUEVfblZaN2lXRnBINlQ2b3RsM3RyLTJoTXVQOVp2ckFzaTJwbFhObVdGVnVvdHlVUmVscDZwTDQyT3pMU1A3MmhqWVprN1JkZHB1Y21iRUd0SFI0ZU1ZQVRYRjV1SEhJZl9PeHFDejBBbWEyRlM5cW1ibWdZdnBTQkJBTXoyN0hyMnBLRG1rSUw0VXBNNXpXMFgyaU0zQ0tydWVObUlzQmFGU1JERVJYejB4MzBPVDI2V1dQM2hfaHM2S2lXZWEzV2xaUVRZOEplbjBLX2oxb0ZoOGhqWFh6UWNDWkpkOXdZbWdmTFUwZlFNNXQzekFrN1RsY1Yydw?oc=5",
+  "warning": false
  }
 ]

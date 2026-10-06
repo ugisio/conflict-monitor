@@ -366,14 +366,24 @@
   "ts": "2026-10-05T15:01:50+00:00"
  },
  {
-  "level": 1,
-  "n": 1,
+  "level": 2,
+  "n": 2,
   "source": "LRT (Lithuania, EN)",
   "stems": [
+   "block",
+   "bring",
+   "capit",
+   "cross",
+   "discu",
+   "finte",
+   "licen",
    "mobil",
-   "spend"
+   "payme",
+   "profe",
+   "spend",
+   "toget"
   ],
-  "title": "Lithuania to spend €25,000 on Baltic Defence Line mobile game",
-  "ts": "2026-10-05T15:01:50+00:00"
+  "title": "UN:BLOCK Fintech to Bring Together More Than 600 Fintech Professionals in Riga to Discuss Licensing, Cross-Border Payments and Capital Mobilisation - The Baltic Times",
+  "ts": "2026-10-06T03:01:39+00:00"
  }
 ]
