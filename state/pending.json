@@ -61,5 +61,26 @@
   "uid": "09977baf20a0e079",
   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5tZldGdFNvWmxNZnZFeUZMRS1Lemx2ODNrWE1mQjJOa3ZreTFBTzZZV21WSS1LVEZGVWVyVEZNeXpEWk5UMXU1ZC1vTG83SU9SNWhUQk13NDFad0U1QVQ2aU4wZGswN2t4LTBHNm8wMGtFSEZ6amtHS1VpS0hSU2M?oc=5",
   "warning": true
+ },
+ {
+  "first_seen": "2026-10-06T07:31:15+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-06T07:10:00+00:00",
+  "reason": "region: lithuania · planning/hypothetical wording, softened · matched “evacuation” · another report of a story already in the channel",
+  "repeat_of": "Poland to update plans to evacuate at least one million people from Baltic states — RMF24 - UA.NEWS",
+  "repeats": 0,
+  "source_id": "lrt_en",
+  "source_name": "LRT (Lithuania, EN)",
+  "summary": "",
+  "text": "Lithuania and Poland have identified alternative border crossing points in case of a potential crisis, with international evacuation plans to be drawn up “as soon as possible”, Polish Interior Minister Marcin Kierwinski said on Monday.",
+  "tier": "news",
+  "title": "Lithuania and Poland work on cross-border evacuation plan",
+  "uid": "fa90150c515563f7",
+  "url": "https://www.lrt.lt/en/news-in-english/19/3074111/lithuania-and-poland-work-on-cross-border-evacuation-plan",
+  "warning": false
  }
 ]
