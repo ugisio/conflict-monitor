@@ -1,27 +1,5 @@
 [
  {
-  "level": 1,
-  "n": 1,
-  "source": "ASTRA",
-  "stems": [
-   "адвок",
-   "внука",
-   "забра",
-   "задер",
-   "запро",
-   "казах",
-   "котор",
-   "назыв",
-   "омбуд",
-   "приех",
-   "прово",
-   "росси",
-   "украи"
-  ],
-  "title": "В Казахстане по запросу России задержали украинку, которая приехала забрать внука. Ее адвокаты и украинский омбудсмен называют это провокаци…",
-  "ts": "2026-10-03T14:01:47+00:00"
- },
- {
   "level": 2,
   "n": 7,
   "source": "Google News — Latvia security",
@@ -354,7 +332,7 @@
  },
  {
   "level": 2,
-  "n": 6,
+  "n": 9,
   "source": "LRT (Lithuania, EN)",
   "stems": [
    "alloc",
@@ -365,6 +343,8 @@
    "furth",
    "issue",
    "lifti",
+   "measu",
+   "moves",
    "nucle",
    "parli",
    "possi",
@@ -375,6 +355,7 @@
    "risks",
    "safet",
    "tensi",
+   "terri",
    "weapo"
   ],
   "title": "Lithuanian parliament backs removing constitutional ban on nuclear weapons",
@@ -490,5 +471,18 @@
   ],
   "title": "Evelin Kasenõmm: Asia puts drones to work — Estonia should follow suit",
   "ts": "2026-10-06T13:31:45+00:00"
+ },
+ {
+  "level": 1,
+  "n": 1,
+  "source": "Google News — embassies Baltics",
+  "stems": [
+   "arran",
+   "curre",
+   "maint",
+   "uzbek"
+  ],
+  "title": "Latvia to maintain current visa arrangements for Uzbek citizens, Uzbekistan says - daryo.uz",
+  "ts": "2026-10-06T14:01:47+00:00"
  }
 ]
