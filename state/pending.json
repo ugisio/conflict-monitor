@@ -166,5 +166,26 @@
   "uid": "2c6baee70d5cc880",
   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQjhLdm9ZSXlKM0ZrOHVENl9zRlZWLV9DNjRNWU40TVhESkhvc2tkQjJrZkZSZE44RmZqbGluWkhBZTNSQURUUGdUUVdieHJ5SE1hQUNQYUtITDQxSDlSV1dDS3ZuNms5MzBhWjV0SEx1QldtWnUzZ09jUzl2b1dSYkFRNFV0cEdXUWUxUEJMTm1ZTFV1NWI0b241UkdRd1FGN21ZS1pKUGxsMEdOUzVhaHZkZ1ZlNzdpa2NsZTJtV3ZjZzhzaEx1btIBzgFBVV95cUxNVk5fWEljbzBRU2pLdHlJYUd3QWpTRHhEenR5R1pLNG9kaHY4Z3EwekllZUZoblRrTENlOGRkNVJvQmphS21LbHlJWE5SUkluc2N6WlBEWC0walZNaXR6amE4Mk95ZHRpSHlDVElJMi1mdzdqa1hfNFdmU0o2QVQyY1ZjODg4SGUzQjd4Q1ZHUkt1UHVTdHBjU2R3R1R5MkxaZXJGckl3TWJkZlJrWEVFMDdfYjVQUU40OTNKTXdpc093VW1RNThJWi1jZUtRUQ?oc=5",
   "warning": true
+ },
+ {
+  "first_seen": "2026-10-06T11:01:31+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 1,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-06T10:43:00+00:00",
+  "reason": "region: estonia · matched “exercise (in text)”",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "err_en",
+  "source_name": "ERR News (Estonia, EN)",
+  "summary": "",
+  "text": "Estonia has prepared a new national spatial plan that outlines development priorities through 2050, calling for stronger regional centers linked by a rail network. Municipalities hope the strategy will translate into real investment, especially for rural areas, rather than remain a paper exercise.",
+  "tier": "news",
+  "title": "New spatial plan pushes development toward compact regional centers",
+  "uid": "57e1cbee5f5a6dbc",
+  "url": "https://news.err.ee/1610157889/new-spatial-plan-pushes-development-toward-compact-regional-centers",
+  "warning": false
  }
 ]
