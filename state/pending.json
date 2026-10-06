@@ -481,5 +481,26 @@
   "uid": "8ec6a53fe449a13d",
   "url": "https://pl.usembassy.gov/message-for-u-s-citizens-in-poland-returning-absentee-ballots-for-the-2026-u-s-midterm-elections/",
   "warning": false
+ },
+ {
+  "first_seen": "2026-10-06T15:31:40+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-06T15:26:24+00:00",
+  "reason": "region: eastern flank, nato, russia · matched “Sabotage” · another report of a story already in the channel",
+  "repeat_of": "Evelin Kasenõmm: Asia puts drones to work — Estonia should follow suit",
+  "repeats": 0,
+  "source_id": "gnews_nato",
+  "source_name": "Google News — NATO & the Baltics",
+  "summary": "",
+  "text": "Russian Drone Strikes and Sabotage Push NATO's Eastern Flank to High Alert cbn.com",
+  "tier": "news",
+  "title": "Russian Drone Strikes and Sabotage Push NATO's Eastern Flank to High Alert - cbn.com",
+  "uid": "65734acffdc0a662",
+  "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPaTZ3V0dKazlJaHJmMVlMd3JxU3VRNkFWSmMzY084MnJtRkRTS09VRDRzMncycjJnQzNPSGtYVXRQd0tWcWV0RFJmMjUweEVuZTdwcjFXVl9jTzZ4TkZWeXR5LW5wYVdfZGR2VWp2WFNfeUpTaEtLdzZEQXlOODBDZklmSzVfODMwTC1NMllLQThTV2dKUzJESDgwc3pCQQ?oc=5",
+  "warning": false
  }
 ]
