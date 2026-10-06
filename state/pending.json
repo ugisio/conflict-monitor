@@ -313,5 +313,26 @@
   "uid": "844a544b48ac4f65",
   "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxOTlJIeVJuOUVfaEN1X1o5anlGWlRFQTM4QlZWYTU4cXY1TUlScDlaYXF2bEpFeloyZE85ejEzdkF4MXAwcFJfQkFaV01nanFMVDljYld6Q19GcDJqQU5vVlo1d1VsUGJlYlNKTWtHcVVNSEJWRzBKZm5ia2tBa1ZMeU9aVWxCOG1zT0VtVTkxNFZTVmQ0Qnh4NlNRMDdzbEw1bkJQRGZCTTk0YkN2QmktRjBkR3R0V3NKbjR3R2ZYX1MzT1N4Uzl0cWJFYUw4emVpYlVMT2tHU3lJamxuelV6NGY5a3Z6TjJSMmk5VW1PT05zSmtBZ2pRUUlfSnczRGxDQ2JtdFlIUmZpTGZmMEU2dDlWcVAyeDAzYkE1R3dJVFFnWXp6clNwVVBOa3ZCZkQ1MV8wRWpEdXrSAb4CQVVfeXFMUDQtTDIwTFJhUmFIRWRQSHFrRlkzX004UWtKdWQ5YWtEYzNLY0xlb3FIVU5uYUptZ1ZyODh2dkNCM3pDVmNkNVQ0cmJWdno0VE1aM0xCb3dMdnkzaUk3ZnRacndZcHM4eGpnb2RrUmkxVmFZUGZKbVJiZ25lOXFuQXN0YXdLcTdlaGJnZ19MZlVqY2dSd3ZTVGdBVmhDeTBjTXpuR2ZVZWR1eENNOThQajRic3hUUmZ6SnIzV1FsYmh1Q21LLUtqOFY0RUxMbzVKRHVUOXVjS21pblk4TUludGFfQjFfdjJRTVNkUmdrQzRCVGhIenZYRE5TWVBDSjBma1FHT0xfUE5ocnN1VXgtMUZDUTFHbzNOeVFkU2lBa1k2MVoyRnlub3c2QnZ3NUpCNW9ZLU9QWmhoc2FLSDdB?oc=5",
   "warning": false
+ },
+ {
+  "first_seen": "2026-10-06T23:31:23+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-06T07:52:14+00:00",
+  "reason": "region: baltic, russia · official warning · matched “Threat” · another report of a story already in the channel",
+  "repeat_of": "'Could engage in military activities': Germany intelligence chief warns of Russia attack - WION",
+  "repeats": 0,
+  "source_id": "gnews_latvia_security",
+  "source_name": "Google News — Latvia security",
+  "summary": "",
+  "text": "German Foreign Minister Warns of Russian Threat to Georgia, Moldova, and Baltic States SOVA",
+  "tier": "news",
+  "title": "German Foreign Minister Warns of Russian Threat to Georgia, Moldova, and Baltic States - SOVA",
+  "uid": "bb50037ea2b31e26",
+  "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTmU3MEFHRjUtbW5HTFFZMW9PS3FQRWYyWG9rRHk3NHVVSEJ4bS1KOE40dkRDRW1mdFFVMk5SRHU3cmJ0RzFaTlZGRmJhQ3o1NmsxYTJ3MXJaSHZtQ1FBd3RuSzZpa0hlWXhEaE5SU0FjbmZZY241MnR0ZzVNcVFHbUdyTzZYZW9xWDBiUFc4V09PS01neEJvc3QyZzNsZHRJbFdCd2Y1VlRsbHJoVlRUY3JMbUlGd2NfT1hz0gHAAUFVX3lxTE5HRzhXVURIbEoyNTFRZkxfVzBqb1ZIUkdnUUNPODZuS1B2OWVyTlRSbzNCa09LbGVZMWxVai1ZM0owVzJ2dUgwQ2xvczJoamFpOWRtVmlPXzVxbjRtTHNidUExYTA0UldiOEFPRXFmVG5HLWtlX05nRV9PQXE2bzEyaTlRTGtudHkwVUJsN1pvekltWmhCdi1wNF9EakJhZ09RbC1fNTh1MjI2NFpuZ2xtLUZNSUxzSWlPQ2VjeURSSQ?oc=5",
+  "warning": true
  }
 ]
