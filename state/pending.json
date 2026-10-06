@@ -82,5 +82,26 @@
   "uid": "fa90150c515563f7",
   "url": "https://www.lrt.lt/en/news-in-english/19/3074111/lithuania-and-poland-work-on-cross-border-evacuation-plan",
   "warning": false
+ },
+ {
+  "first_seen": "2026-10-06T08:31:22+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-06T08:10:00+00:00",
+  "reason": "region: lithuania · matched “nuclear”",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "lrt_en",
+  "source_name": "LRT (Lithuania, EN)",
+  "summary": "",
+  "text": "Lithuania’s parliament voted Tuesday to advance a constitutional amendment that would remove a ban on weapons of mass destruction from the country’s constitution, potentially opening the way for allied nuclear weapons to be stationed in Lithuania.",
+  "tier": "news",
+  "title": "Lithuanian parliament backs removing constitutional ban on nuclear weapons",
+  "uid": "c9e700511a90e309",
+  "url": "https://www.lrt.lt/en/news-in-english/19/3074149/lithuanian-parliament-backs-removing-constitutional-ban-on-nuclear-weapons",
+  "warning": false
  }
 ]
