@@ -103,5 +103,26 @@
   "uid": "c9e700511a90e309",
   "url": "https://www.lrt.lt/en/news-in-english/19/3074149/lithuanian-parliament-backs-removing-constitutional-ban-on-nuclear-weapons",
   "warning": false
+ },
+ {
+  "first_seen": "2026-10-06T09:21:29+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-06T09:00:00+00:00",
+  "reason": "region: baltic, russia · matched “threat”",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "gnews_latvia_security",
+  "source_name": "Google News — Latvia security",
+  "summary": "",
+  "text": "As the Russian invasion threat grows, Baltic countries gear up for a fight NBC News",
+  "tier": "news",
+  "title": "As the Russian invasion threat grows, Baltic countries gear up for a fight - NBC News",
+  "uid": "7a5e6b156414db56",
+  "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSE9MM3RwRWlFSEpheW82WXFpNy02Y0JLVllob3NsUWpWVllVcjR5TFRJdng3bUVHMzVmZWd0UUtXTWo5aFdLS3NTLXNnSjdTUEl6Zl9tenFvTDRqSVNzajI3SGpMVTVGYWVWdTZtbEQ1SVF1U0FKU1NsZzFXbGt0MmpMakdGRG0wVnBuYVBZa3lRTFBOejBoMmw2Xy03TC13RURLWFo4c2VkWmtRNlN2MlF6SXo?oc=5",
+  "warning": false
  }
 ]
