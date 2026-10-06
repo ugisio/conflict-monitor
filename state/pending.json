@@ -460,5 +460,26 @@
   "uid": "f284a25b4d2ba5e1",
   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNEZoTVZKbTVpd1ZiWWpOTE42c29lWGx5bXRFd0lxc2p3a1pHX2R2VWdnaWNTZXpnRzJCb1VSRVVBZmhBeDhEclVyZjZGWHRILUwtM2dvekg2WDB3OWhsc3ZNWHVHVEJKaGlBd3VXMkpJTTBwbkxQYjBiRWlyV0tYVEExdjlzS3ZMRVVoR1dKOTYxTkc4NS1rQmlfLXlBZm5LNDk4SWZ4MDRjZi1jU2NaUQ?oc=5",
   "warning": false
+ },
+ {
+  "first_seen": "2026-10-06T15:01:40+00:00",
+  "kind": "alert",
+  "lang": "en",
+  "level": 1,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-06T13:52:55+00:00",
+  "reason": "matched “Absentee”",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "us_embassy_warsaw",
+  "source_name": "US Embassy Warsaw alerts",
+  "summary": "",
+  "text": "The post Message for U.S. citizens in Poland: Returning Absentee Ballots for the 2026 U.S. midterm elections appeared first on U.S. Embassy In Poland .",
+  "tier": "official",
+  "title": "Message for U.S. citizens in Poland: Returning Absentee Ballots for the 2026 U.S. midterm elections",
+  "uid": "8ec6a53fe449a13d",
+  "url": "https://pl.usembassy.gov/message-for-u-s-citizens-in-poland-returning-absentee-ballots-for-the-2026-u-s-midterm-elections/",
+  "warning": false
  }
 ]
