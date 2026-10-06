@@ -291,21 +291,32 @@
  },
  {
   "level": 2,
-  "n": 2,
+  "n": 3,
   "source": "LRT (Lithuania, EN)",
   "stems": [
+   "acros",
+   "armed",
    "block",
    "bring",
+   "camer",
    "capit",
    "cross",
    "discu",
    "finte",
    "licen",
+   "maske",
+   "migra",
    "mobil",
    "payme",
    "profe",
    "spend",
-   "toget"
+   "stole",
+   "surve",
+   "thems",
+   "toget",
+   "troop",
+   "tryin",
+   "while"
   ],
   "title": "UN:BLOCK Fintech to Bring Together More Than 600 Fintech Professionals in Riga to Discuss Licensing, Cross-Border Payments and Capital Mobilisation - The Baltic Times",
   "ts": "2026-10-06T03:01:39+00:00"
@@ -593,5 +604,17 @@
   ],
   "title": "Armed, masked individuals threatened Latvian military personnel at the border with Belarus - LIGA.net",
   "ts": "2026-10-06T21:01:45+00:00"
+ },
+ {
+  "level": 2,
+  "n": 1,
+  "source": "Google News — Latvia security",
+  "stems": [
+   "evacu",
+   "fearf",
+   "rehea"
+  ],
+  "title": "Fearful of Russia, Latvia rehearses evacuation - TVP World",
+  "ts": "2026-10-06T22:01:58+00:00"
  }
 ]
