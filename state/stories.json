@@ -369,14 +369,17 @@
  },
  {
   "level": 2,
-  "n": 1,
+  "n": 2,
   "source": "LRT (Lithuania, EN)",
   "stems": [
+   "alloc",
    "backs",
    "const",
    "nucle",
    "parli",
+   "regul",
    "remov",
+   "safet",
    "weapo"
   ],
   "title": "Lithuanian parliament backs removing constitutional ban on nuclear weapons",
@@ -393,5 +396,19 @@
   ],
   "title": "As the Russian invasion threat grows, Baltic countries gear up for a fight - NBC News",
   "ts": "2026-10-06T09:21:38+00:00"
+ },
+ {
+  "level": 2,
+  "n": 1,
+  "source": "Google News — official warnings",
+  "stems": [
+   "activ",
+   "chief",
+   "engag",
+   "germa",
+   "intel"
+  ],
+  "title": "'Could engage in military activities': Germany intelligence chief warns of Russia attack - WION",
+  "ts": "2026-10-06T10:31:36+00:00"
  }
 ]
