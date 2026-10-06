@@ -313,5 +313,26 @@
   "uid": "9ac47c4cd7f6296a",
   "url": "https://t.me/nexta_live/124528",
   "warning": false
+ },
+ {
+  "first_seen": "2026-10-06T13:01:49+00:00",
+  "kind": "post",
+  "lang": "ru",
+  "level": 2,
+  "note": "RU, independent; incidents inside Russia (Pskov, Leningrad region, Kaliningrad)",
+  "posted": false,
+  "published": "2026-10-06T12:34:40+00:00",
+  "reason": "region: литв · matched “ядерн”",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "tg_astra",
+  "source_name": "ASTRA",
+  "summary": "",
+  "text": "Парламент Литвы на первом голосовании одобрил поправку к Конституции, снимающую запрет на размещение ядерного оружия. Депутатам предстоит еще два голосования, чтобы принять поправку окончательно Сейм Литвы одобрил поправку к Конституции, которая отменяет…",
+  "tier": "osint",
+  "title": "Парламент Литвы на первом голосовании одобрил поправку к Конституции, снимающую запрет на размещение ядерного оружия. Депутатам предстоит ещ…",
+  "uid": "5239841ebbed9f06",
+  "url": "https://t.me/astrapress/127253",
+  "warning": false
  }
 ]
