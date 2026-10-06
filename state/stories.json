@@ -284,7 +284,7 @@
  },
  {
   "level": 2,
-  "n": 5,
+  "n": 6,
   "source": "ERR News (Estonia, EN)",
   "stems": [
    "artic",
@@ -292,10 +292,14 @@
    "boost",
    "drone",
    "easte",
+   "exper",
    "expla",
    "flank",
    "gives",
+   "impac",
    "invok",
+   "limit",
+   "movin",
    "place",
    "plans",
    "possi",
@@ -306,7 +310,8 @@
    "strat",
    "summi",
    "tackl",
-   "takin"
+   "takin",
+   "units"
   ],
   "title": "US gives Estonia 13 reconnaissance drones to boost border security",
   "ts": "2026-10-05T12:31:45+00:00"
@@ -369,19 +374,23 @@
  },
  {
   "level": 2,
-  "n": 3,
+  "n": 5,
   "source": "LRT (Lithuania, EN)",
   "stems": [
    "alloc",
    "backs",
    "const",
    "deplo",
+   "escal",
+   "furth",
+   "lifti",
    "nucle",
    "parli",
    "poten",
    "raise",
    "regul",
    "remov",
+   "risks",
    "safet",
    "tensi",
    "weapo"
@@ -443,5 +452,25 @@
   ],
   "title": "Russia’s Newest Submarine Just Went Hunting in the Baltic—and Scored a Torpedo “Kill” - UNITED24 Media",
   "ts": "2026-10-06T11:31:48+00:00"
+ },
+ {
+  "level": 2,
+  "n": 1,
+  "source": "NEXTA Live",
+  "stems": [
+   "агрес",
+   "балти",
+   "готов",
+   "молни",
+   "незам",
+   "остан",
+   "ответ",
+   "прово",
+   "проти",
+   "росси",
+   "стран"
+  ],
+  "title": "НАТО готовит молниеносный ответ на российскую агрессию Провокации против стран Балтии не останутся незамеченными.",
+  "ts": "2026-10-06T12:01:58+00:00"
  }
 ]
