@@ -332,7 +332,7 @@
  },
  {
   "level": 2,
-  "n": 10,
+  "n": 11,
   "source": "LRT (Lithuania, EN)",
   "stems": [
    "alloc",
@@ -347,6 +347,7 @@
    "moves",
    "nucle",
    "parli",
+   "portr",
    "possi",
    "poten",
    "raise",

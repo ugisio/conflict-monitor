@@ -82,5 +82,26 @@
   "uid": "f0eaab1f7ef200eb",
   "url": "https://t.me/rybar/83752",
   "warning": false
+ },
+ {
+  "first_seen": "2026-10-06T20:01:35+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-06T11:23:00+00:00",
+  "reason": "region: estonia, nato, russia · matched “escalat” · another report of a story already in the channel",
+  "repeat_of": "Lithuanian parliament backs removing constitutional ban on nuclear weapons",
+  "repeats": 0,
+  "source_id": "gnews_nato",
+  "source_name": "Google News — NATO & the Baltics",
+  "summary": "",
+  "text": "ISW: Russia uses Estonia border moves to portray NATO as escalating tensions The New Voice of Ukraine",
+  "tier": "news",
+  "title": "ISW: Russia uses Estonia border moves to portray NATO as escalating tensions - The New Voice of Ukraine",
+  "uid": "92f907bc71b9d153",
+  "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNOWU3ZzhILUZXUTVJaXNQeVZ0WDhteENpd19RZl9JbFoyZERLR19mNFFVMFB0Z0lUa3lHZEg2OWpHeWN0WlZqc3VLMzNWcjlJXzk2X3hLMHo3LW41RVVxQTJZZC1GTThwWEhYc2o0Y1QybXRCUUVKenZRZDU0R1AzQmdTcXA4YXhfUEVja0JiSUt4UHo3SFdyY0NwUHBOcXV5bmlKMFRZQkFPaEdzWjRSbkFhZnBYUdIBsgFBVV95cUxQSHdGZlM0NVlXVmhDRWxkWGZMaXhLeDBuWTBacTB1ckNsSUxpVHpVUDhwc3A4ekxFMzNoWloxeXdjXzJNdlRmd2s2R2ZkQ09UeUJqeERtUVd5Qm0teVFnQXRDWldYQUxFakxDYnNSSXM1YnhUVlNOUUFQNzUwNmdja1k5WmxlMUtpQzV0QmJEcjJfSXM5X3dqZ2N2QVhSSFV3d2gxcktuNnVNZ2F1Qzlha2tB?oc=5",
+  "warning": false
  }
 ]
