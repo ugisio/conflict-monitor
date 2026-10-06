@@ -40,5 +40,26 @@
   "uid": "3ece6a24fdd8c339",
   "url": "https://t.me/astrapress/127228",
   "warning": false
+ },
+ {
+  "first_seen": "2026-10-06T07:01:45+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-05T14:11:18+00:00",
+  "reason": "official warning about Russia / NATO · matched “spy” · another report of a story already in the channel",
+  "repeat_of": "Recent RAND Study: Europe’s Conventional Shortfalls Could Drive Nuclear Escalation - The Baltic Sentinel",
+  "repeats": 0,
+  "source_id": "gnews_official_warnings",
+  "source_name": "Google News — official warnings",
+  "summary": "",
+  "text": "German spy chief warns 'shadow war' with Russia is escalating afp.com",
+  "tier": "news",
+  "title": "German spy chief warns 'shadow war' with Russia is escalating - afp.com",
+  "uid": "09977baf20a0e079",
+  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5tZldGdFNvWmxNZnZFeUZMRS1Lemx2ODNrWE1mQjJOa3ZreTFBTzZZV21WSS1LVEZGVWVyVEZNeXpEWk5UMXU1ZC1vTG83SU9SNWhUQk13NDFad0U1QVQ2aU4wZGswN2t4LTBHNm8wMGtFSEZ6amtHS1VpS0hSU2M?oc=5",
+  "warning": true
  }
 ]
