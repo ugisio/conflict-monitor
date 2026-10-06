@@ -369,17 +369,21 @@
  },
  {
   "level": 2,
-  "n": 2,
+  "n": 3,
   "source": "LRT (Lithuania, EN)",
   "stems": [
    "alloc",
    "backs",
    "const",
+   "deplo",
    "nucle",
    "parli",
+   "poten",
+   "raise",
    "regul",
    "remov",
    "safet",
+   "tensi",
    "weapo"
   ],
   "title": "Lithuanian parliament backs removing constitutional ban on nuclear weapons",
@@ -425,5 +429,19 @@
   ],
   "title": "New spatial plan pushes development toward compact regional centers",
   "ts": "2026-10-06T11:01:42+00:00"
+ },
+ {
+  "level": 2,
+  "n": 1,
+  "source": "Google News — Latvia security",
+  "stems": [
+   "hunti",
+   "newes",
+   "score",
+   "subma",
+   "torpe"
+  ],
+  "title": "Russia’s Newest Submarine Just Went Hunting in the Baltic—and Scored a Torpedo “Kill” - UNITED24 Media",
+  "ts": "2026-10-06T11:31:48+00:00"
  }
 ]
