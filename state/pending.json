@@ -250,5 +250,26 @@
   "uid": "c25e8dfdf345d18a",
   "url": "https://t.me/meduzalive/148823",
   "warning": false
+ },
+ {
+  "first_seen": "2026-10-06T21:31:26+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-06T20:55:55+00:00",
+  "reason": "region: latvia, latvian, belarus · matched “threaten” · another report of a story already in the channel",
+  "repeat_of": "Lithuanian parliament backs removing constitutional ban on nuclear weapons",
+  "repeats": 0,
+  "source_id": "gnews_latvia_security",
+  "source_name": "Google News — Latvia security",
+  "summary": "",
+  "text": "Masked gunmen threaten Latvian troops on Belarus border RBC-Ukraine",
+  "tier": "news",
+  "title": "Masked gunmen threaten Latvian troops on Belarus border - RBC-Ukraine",
+  "uid": "6554b7ad9a88d6f2",
+  "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONjVmM2xPd1NDQTR4eGRxai1Hc2V2UkFENXVaUENKYzZpVVlpYmJXYnBVS3BxZzQwVXQ5aUs5LVgzMFNMejFYRXJUQVItTVRqRVdQVms2eUJSalJTNjAwTWhpeFc2di13bmM5TTZwUmpGMi04akpaOEw5clh0Q2RNcmpNenFXZm1XYkIxbG1tX01lZw?oc=5",
+  "warning": false
  }
 ]
