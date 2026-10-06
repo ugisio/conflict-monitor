@@ -332,7 +332,7 @@
  },
  {
   "level": 2,
-  "n": 9,
+  "n": 10,
   "source": "LRT (Lithuania, EN)",
   "stems": [
    "alloc",
@@ -461,7 +461,7 @@
  },
  {
   "level": 2,
-  "n": 2,
+  "n": 3,
   "source": "ERR News (Estonia, EN)",
   "stems": [
    "alert",
@@ -470,8 +470,12 @@
    "eveli",
    "flank",
    "follo",
+   "incid",
    "kasen",
+   "leyen",
    "sabot",
+   "shows",
+   "solid",
    "strik"
   ],
   "title": "Evelin Kasenõmm: Asia puts drones to work — Estonia should follow suit",
@@ -489,5 +493,20 @@
   ],
   "title": "Latvia to maintain current visa arrangements for Uzbek citizens, Uzbekistan says - daryo.uz",
   "ts": "2026-10-06T14:01:47+00:00"
+ },
+ {
+  "level": 2,
+  "n": 1,
+  "source": "Google News — Latvia security",
+  "stems": [
+   "damag",
+   "epste",
+   "infor",
+   "kille",
+   "revea",
+   "soldi"
+  ],
+  "title": "‘Killed NATO Soldiers,’ Epstein, and Damaged F-16s: Information Attack on the Baltic States Revealed - Inbox.lv",
+  "ts": "2026-10-06T18:01:56+00:00"
  }
 ]
