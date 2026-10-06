@@ -274,21 +274,26 @@
  },
  {
   "level": 2,
-  "n": 2,
+  "n": 3,
   "source": "Clash Report",
   "stems": [
    "alexu",
+   "claim",
    "combi",
    "comma",
+   "death",
    "defea",
    "draft",
    "drone",
+   "elect",
+   "epste",
    "grynk",
    "incur",
    "plans",
    "possi",
    "poten",
    "strat",
+   "targe",
    "theor",
    "victo"
   ],
@@ -385,5 +390,25 @@
   ],
   "title": "UN:BLOCK Fintech to Bring Together More Than 600 Fintech Professionals in Riga to Discuss Licensing, Cross-Border Payments and Capital Mobilisation - The Baltic Times",
   "ts": "2026-10-06T03:01:39+00:00"
+ },
+ {
+  "level": 1,
+  "n": 1,
+  "source": "ASTRA",
+  "stems": [
+   "автом",
+   "атаки",
+   "загор",
+   "машин",
+   "повре",
+   "подмо",
+   "склад",
+   "солне",
+   "сотру",
+   "частн",
+   "эваку"
+  ],
+  "title": "В подмосковном Солнечногорске из-за атаки БПЛА загорелся склад, 46 сотрудников эвакуированы Повреждены два частных дома и машина, 9 автомоби…",
+  "ts": "2026-10-06T06:01:49+00:00"
  }
 ]

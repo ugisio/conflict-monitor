@@ -1,1 +1,44 @@
-[]
+[
+ {
+  "first_seen": "2026-10-06T06:01:37+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-06T04:20:09+00:00",
+  "reason": "region: baltic, baltics, nato, russia · matched “drone” · another report of a story already in the channel",
+  "repeat_of": "NATO’s top military commander, Gen. Alexus Grynkewich, is drafting a “Theory of Victory” for defeating a potential Russian attack on NATO’s …",
+  "repeats": 0,
+  "source_id": "gnews_latvia_security",
+  "source_name": "Google News — Latvia security",
+  "summary": "",
+  "text": "Fake NATO deaths, Epstein claims and drones: how Russia targets elections in the Baltics Euronews.com",
+  "tier": "news",
+  "title": "Fake NATO deaths, Epstein claims and drones: how Russia targets elections in the Baltics - Euronews.com",
+  "uid": "6dd77f59328a4610",
+  "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSld0RWI1MkFtaFBvLV9qTUtHOVVKQ2Nfc0FXY2plOUVNczVHTkNCdG1nR19LcHg1dUpocUpfNkdOYUFsM0x3YkZuRjNqN0lGaGE3ekw4N2x3cEtRT0xGYy1zNzJqSlB5cW5XUEdjX0VSQlp4Q0hsOW9JZGJqdHhPU0xLQW4yWXEwaFV4TG9FR2JmUUI3SlFodC11eEgwR1N4clkyOUlaeFloNHNMTW5ZSndzMUZqaDVhTlB2NVNNaw?oc=5",
+  "warning": false
+ },
+ {
+  "first_seen": "2026-10-06T06:01:43+00:00",
+  "kind": "post",
+  "lang": "ru",
+  "level": 1,
+  "note": "RU, independent; incidents inside Russia (Pskov, Leningrad region, Kaliningrad)",
+  "posted": false,
+  "published": "2026-10-06T06:00:56+00:00",
+  "reason": "region: литв · matched “БПЛА”",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "tg_astra",
+  "source_name": "ASTRA",
+  "summary": "",
+  "text": "В подмосковном Солнечногорске из-за атаки БПЛА загорелся склад, 46 сотрудников эвакуированы Повреждены два частных дома и машина, 9 автомобилей сгорели, сообщили власти. Также в подмосковном Литвиново эвакуировали 46 человек после падения БПЛА на крышу склада магазина.",
+  "tier": "osint",
+  "title": "В подмосковном Солнечногорске из-за атаки БПЛА загорелся склад, 46 сотрудников эвакуированы Повреждены два частных дома и машина, 9 автомоби…",
+  "uid": "3ece6a24fdd8c339",
+  "url": "https://t.me/astrapress/127228",
+  "warning": false
+ }
+]
