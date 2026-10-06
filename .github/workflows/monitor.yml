@@ -29,6 +29,10 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
+          # Check out the *current* tip of main, not the commit this run was queued on: a run that waited
+          # behind another one (concurrency group) must start from the state that run just committed,
+          # otherwise its own state commit is rejected as non-fast-forward (run #266, 4 Oct).
+          ref: main
           fetch-depth: 1
 
       - uses: actions/setup-python@v5
@@ -61,6 +65,10 @@ jobs:
             echo "no state changes"
           else
             git commit -m "state: $(date -u +%Y-%m-%dT%H:%MZ) [skip ci]"
-            # retry once in case a concurrent push happened
-            git push || (git pull --rebase && git push)
+            # retry once in case a concurrent push happened (e.g. a code edit while this run was going)
+            git push || (git pull --rebase && git push) || {
+              git rebase --abort 2>/dev/null || true
+              echo "::error::state push rejected twice — another commit landed on main during this run"
+              exit 1
+            }
           fi
