@@ -2,44 +2,6 @@
  {
   "level": 2,
   "n": 1,
-  "source": "Clash Report",
-  "stems": [
-   "berli",
-   "billi",
-   "chanc",
-   "germa",
-   "provi",
-   "reaff",
-   "suppo",
-   "surpr",
-   "visit"
-  ],
-  "title": "German Chancellor Merz made a surprise visit to Kyiv, reaffirming Berlin’s support for Ukraine. Germany will provide €1 billion in military …",
-  "ts": "2026-10-04T08:01:45+00:00"
- },
- {
-  "level": 2,
-  "n": 1,
-  "source": "ASTRA",
-  "stems": [
-   "выбор",
-   "голос",
-   "коали",
-   "кулбе",
-   "латви",
-   "объед",
-   "парла",
-   "побеж",
-   "потре",
-   "премь",
-   "списо"
-  ],
-  "title": "«Объединенный список» премьера Кулбергса побеждает с 35% голосов на выборах в Сейм Латвии, но ему потребуется коалиция На парламентских выбо…",
-  "ts": "2026-10-04T08:01:45+00:00"
- },
- {
-  "level": 2,
-  "n": 1,
   "source": "Google News — Latvia security",
   "stems": [
    "arsen",
