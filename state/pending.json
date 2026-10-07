@@ -355,5 +355,26 @@
   "uid": "953e3d2909efa096",
   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOc0FpSTl5RzVRd0ZJcG5vclhzSEY3VHd4VGlpSG95bS1vay1HTHJCX044OE9HUzlac2VOWVVnNklzQmZNV1phTEZKMENhNnV2d2tBZkZuSF9FeTNvSFNOdGZiNVZ3R2J4OW15M2w2b05Jd0ROVkY2Z3NRMDZIeG9YdWlqazNkSThDWUhoYjJaNA?oc=5",
   "warning": false
+ },
+ {
+  "first_seen": "2026-10-07T04:01:35+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-07T03:43:11+00:00",
+  "reason": "region: lithuania, nato, russia · matched “nuclear” · another report of a story already in the channel",
+  "repeat_of": "Lithuanian parliament backs removing constitutional ban on nuclear weapons",
+  "repeats": 0,
+  "source_id": "gnews_nato",
+  "source_name": "Google News — NATO & the Baltics",
+  "summary": "",
+  "text": "Russia warns Lithuania against possible NATO base, nuclear weapons deployment chinadailyhk",
+  "tier": "news",
+  "title": "Russia warns Lithuania against possible NATO base, nuclear weapons deployment - chinadailyhk",
+  "uid": "3ed3d1d6d4907a20",
+  "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBVRmhnSlJmQ2pfRjJQODNxbmRJYUgzSGhjdFM5enhFTlEwRHdoSlZKeTNJZzhwWTduc2FlcjhiYjAxZGZGZGdRZ1hVN2pibEhBNHYxTnpoUlc?oc=5",
+  "warning": false
  }
 ]
