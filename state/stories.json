@@ -307,13 +307,17 @@
  },
  {
   "level": 2,
-  "n": 16,
+  "n": 18,
   "source": "LRT (Lithuania, EN)",
   "stems": [
+   "acros",
+   "aggre",
    "alloc",
    "armed",
    "backs",
+   "camer",
    "const",
+   "cross",
    "delib",
    "deplo",
    "escal",
@@ -341,12 +345,11 @@
    "remov",
    "risks",
    "safet",
-   "takes",
-   "tensi",
-   "terri",
-   "towar",
-   "troop",
-   "weapo"
+   "smugg",
+   "soldi",
+   "stole",
+   "surve",
+   "takes"
   ],
   "title": "Lithuanian parliament backs removing constitutional ban on nuclear weapons",
   "ts": "2026-10-06T08:31:32+00:00"
