@@ -307,7 +307,7 @@
  },
  {
   "level": 2,
-  "n": 18,
+  "n": 19,
   "source": "LRT (Lithuania, EN)",
   "stems": [
    "acros",
@@ -316,10 +316,12 @@
    "armed",
    "backs",
    "camer",
+   "carry",
    "const",
    "cross",
    "delib",
    "deplo",
+   "enter",
    "escal",
    "furth",
    "group",
@@ -344,12 +346,10 @@
    "regul",
    "remov",
    "risks",
+   "sabot",
    "safet",
    "smugg",
-   "soldi",
-   "stole",
-   "surve",
-   "takes"
+   "soldi"
   ],
   "title": "Lithuanian parliament backs removing constitutional ban on nuclear weapons",
   "ts": "2026-10-06T08:31:32+00:00"
@@ -384,19 +384,23 @@
   "ts": "2026-10-06T10:31:36+00:00"
  },
  {
-  "level": 1,
-  "n": 1,
+  "level": 2,
+  "n": 3,
   "source": "ERR News (Estonia, EN)",
   "stems": [
+   "artic",
+   "being",
    "cente",
    "compa",
+   "detec",
    "devel",
+   "drone",
    "pushe",
    "spati",
    "towar"
   ],
-  "title": "New spatial plan pushes development toward compact regional centers",
-  "ts": "2026-10-06T11:01:42+00:00"
+  "title": "App for drone detection being developed in Latvia",
+  "ts": "2026-10-07T05:31:34+00:00"
  },
  {
   "level": 2,
