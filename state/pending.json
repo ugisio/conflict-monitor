@@ -544,5 +544,26 @@
   "uid": "2b9a0c13456d70c1",
   "url": "https://t.me/astrapress/127382",
   "warning": false
+ },
+ {
+  "first_seen": "2026-10-07T13:01:42+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 1,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-07T12:41:00+00:00",
+  "reason": "region: estonia · matched “conscript”",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "err_en",
+  "source_name": "ERR News (Estonia, EN)",
+  "summary": "",
+  "text": "Filling the required number of conscript positions with men alone could soon become difficult as the number of male births declines, Anu Rannaveski, director general of the Defense Resources Agency, said.",
+  "tier": "news",
+  "title": "Estonia might struggle to fill conscript ranks with men alone in the near future",
+  "uid": "b2fe6beb52e0bc22",
+  "url": "https://news.err.ee/1610159782/estonia-might-struggle-to-fill-conscript-ranks-with-men-alone-in-the-near-future",
+  "warning": false
  }
 ]

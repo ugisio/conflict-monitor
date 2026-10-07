@@ -1,18 +1,6 @@
 [
  {
   "level": 2,
-  "n": 1,
-  "source": "Google News — Latvia security",
-  "stems": [
-   "arsen",
-   "entir",
-   "weapo"
-  ],
-  "title": "Kremlin says Russia will use entire weapons arsenal to defend Kaliningrad if threatened - Anadolu Ajansı",
-  "ts": "2026-10-04T13:01:39+00:00"
- },
- {
-  "level": 2,
   "n": 5,
   "source": "NEXTA Live",
   "stems": [
@@ -700,5 +688,20 @@
   ],
   "title": "Литва выслала в РФ 68-летнего мужчину, который запросил беженство. В России его посадили на 6 лет за комментарии 68-летний гражданин России …",
   "ts": "2026-10-07T12:31:35+00:00"
+ },
+ {
+  "level": 1,
+  "n": 1,
+  "source": "ERR News (Estonia, EN)",
+  "stems": [
+   "alone",
+   "consc",
+   "futur",
+   "might",
+   "ranks",
+   "strug"
+  ],
+  "title": "Estonia might struggle to fill conscript ranks with men alone in the near future",
+  "ts": "2026-10-07T13:01:55+00:00"
  }
 ]
