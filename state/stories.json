@@ -350,7 +350,7 @@
  },
  {
   "level": 2,
-  "n": 6,
+  "n": 7,
   "source": "ERR News (Estonia, EN)",
   "stems": [
    "armed",
@@ -363,8 +363,10 @@
    "detec",
    "devel",
    "drone",
+   "equip",
    "exerc",
    "first",
+   "follo",
    "force",
    "hunte",
    "invol",
@@ -373,7 +375,9 @@
    "migra",
    "provo",
    "pushe",
+   "sabot",
    "spati",
+   "surve",
    "towar",
    "vehic"
   ],

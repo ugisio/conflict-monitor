@@ -565,5 +565,26 @@
   "uid": "b2fe6beb52e0bc22",
   "url": "https://news.err.ee/1610159782/estonia-might-struggle-to-fill-conscript-ranks-with-men-alone-in-the-near-future",
   "warning": false
+ },
+ {
+  "first_seen": "2026-10-07T14:31:29+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-07T08:18:35+00:00",
+  "reason": "region: latvia, belarus · matched “Sabotage” · another report of a story already in the channel",
+  "repeat_of": "App for drone detection being developed in Latvia",
+  "repeats": 0,
+  "source_id": "gnews_latvia_security",
+  "source_name": "Google News — Latvia security",
+  "summary": "",
+  "text": "Latvia Reports Armed Belarus Border Provocation Followed by Sabotage of Surveillance Equipment EU Today",
+  "tier": "news",
+  "title": "Latvia Reports Armed Belarus Border Provocation Followed by Sabotage of Surveillance Equipment - EU Today",
+  "uid": "db366eb938e0e79d",
+  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vNW9aVVFKcmlMUlkwNTJoLTlKRll2UU96OTBoSUpjbFQtNHBjY3plbTNRM1BPeXZvOWtzdmFTVkR5SXdfUXNiNlR0cDJ1V2E1NlZucF94R2ZlM1pabENYMFVSOGs5MThCMWJGaW11QkNwaGVkMmNpZURtN3RJWGs?oc=5",
+  "warning": false
  }
 ]
