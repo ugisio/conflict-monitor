@@ -103,5 +103,26 @@
   "uid": "45ca6ee7cf95c0b7",
   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObDUzbGR1MlhKQXB3V0l3V3pNNU95c1ZUM25ISmVWUXNUSjBtMTJFbDNMSDItNEpXUFNJRUkyMUItbFM0NHUxczBEdGtJNjVNOWdZWHdIRGp3VjR3eUhyaHdDc01ydkRwd04xcXdSTWFudHI5dlgwSlZHNUZHb1NHQ3dMam9jeWF6M3dRVnZ3NXhlb2IzOHhIYlBJWVZHNUVwWDdHN0hreFpHQQ?oc=5",
   "warning": false
+ },
+ {
+  "first_seen": "2026-10-07T06:31:32+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-07T06:23:00+00:00",
+  "reason": "region: lithuania, russia · matched “threat”",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "lrt_en",
+  "source_name": "LRT (Lithuania, EN)",
+  "summary": "",
+  "text": "Lithuania could restrict the transit of Russian citizens through the country if reports of pneumonic plague in Russia are confirmed and the disease poses a threat to Lithuania, Health Minister Linas Kukuraitis said Wednesday.",
+  "tier": "news",
+  "title": "Lithuania could restrict transit from Russia if plague threat confirmed – minister",
+  "uid": "e7c65e12547942bf",
+  "url": "https://www.lrt.lt/en/news-in-english/19/3075076/lithuania-could-restrict-transit-from-russia-if-plague-threat-confirmed-minister",
+  "warning": false
  }
 ]
