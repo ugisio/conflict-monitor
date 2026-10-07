@@ -376,5 +376,26 @@
   "uid": "3ed3d1d6d4907a20",
   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBVRmhnSlJmQ2pfRjJQODNxbmRJYUgzSGhjdFM5enhFTlEwRHdoSlZKeTNJZzhwWTduc2FlcjhiYjAxZGZGZGdRZ1hVN2pibEhBNHYxTnpoUlc?oc=5",
   "warning": false
+ },
+ {
+  "first_seen": "2026-10-07T04:31:41+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-07T04:10:16+00:00",
+  "reason": "region: lithuania, russia · matched “escalat” · another report of a story already in the channel",
+  "repeat_of": "Lithuanian parliament backs removing constitutional ban on nuclear weapons",
+  "repeats": 0,
+  "source_id": "gnews_nato",
+  "source_name": "Google News — NATO & the Baltics",
+  "summary": "",
+  "text": "Lithuania eyes permanent US military base, Russia warns of escalation CGTN",
+  "tier": "news",
+  "title": "Lithuania eyes permanent US military base, Russia warns of escalation - CGTN",
+  "uid": "92ade80ea7322224",
+  "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOY191VGdJZWJaX0JCenQzOG5HTTJuS19lWEZ1Q0NEemt2WEFod2dMSTZka05hYlk3Y29qaWpMMWxjZkRvdnhyd0NXRk5laEdBZDRKLWZ1MHF0bmQ5RVphRlM3TjBDTlRXLWhVMHdKM2hCNGJkeHpWc2tEbXlYSnBxWGtQNU1MVHlfYV94b3pYYnM5dUNaVlVLYmpoN0U1ZzFoTGZVZlZsNkVlRTlNZnpWdzUzeUs5TEdOdGMwQjlQSGF2dG8?oc=5",
+  "warning": false
  }
 ]
