@@ -351,15 +351,18 @@
  },
  {
   "level": 2,
-  "n": 2,
+  "n": 3,
   "source": "Google News — official warnings",
   "stems": [
    "activ",
+   "artic",
+   "bulga",
    "chief",
    "engag",
    "forei",
    "georg",
    "germa",
+   "groun",
    "intel",
    "moldo"
   ],

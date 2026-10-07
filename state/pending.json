@@ -124,5 +124,26 @@
   "uid": "e7c65e12547942bf",
   "url": "https://www.lrt.lt/en/news-in-english/19/3075076/lithuania-could-restrict-transit-from-russia-if-plague-threat-confirmed-minister",
   "warning": false
+ },
+ {
+  "first_seen": "2026-10-07T07:09:59+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-07T07:01:32+00:00",
+  "reason": "region: article 4, nato · official warning · matched “official warning” · another report of a story already in the channel",
+  "repeat_of": "'Could engage in military activities': Germany intelligence chief warns of Russia attack - WION",
+  "repeats": 0,
+  "source_id": "gnews_nato",
+  "source_name": "Google News — NATO & the Baltics",
+  "summary": "",
+  "text": "Ex-Foreign Minister: Bulgaria Has Full Grounds to Seek NATO Article 4 Novinite.com",
+  "tier": "news",
+  "title": "Ex-Foreign Minister: Bulgaria Has Full Grounds to Seek NATO Article 4 - Novinite.com",
+  "uid": "916c25eda7d70dcc",
+  "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObmsxelh6TkoyUU51T3RsYWZUenBCcjhhQUxkU3M1VUh5SzU0NU5lQ3pMaWY3Z1BnelMxNkZXTTliS2xnV3llbWFIRzN4OVk4NTI3TTNtZHRPdjMwb3loaHZnZWZpaVBVLVUxb3JWd1RoOU1LY3lxOVF2aGloUVdya25ldXhadUV3aEw5dm5adnAxNXB3S3d6LU1ZSlpCRTVRQXlTS2FyWUgtRzNpOEpMcFZn?oc=5",
+  "warning": true
  }
 ]
