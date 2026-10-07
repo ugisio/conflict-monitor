@@ -385,16 +385,20 @@
  },
  {
   "level": 2,
-  "n": 3,
+  "n": 4,
   "source": "ERR News (Estonia, EN)",
   "stems": [
    "artic",
    "being",
    "cente",
+   "comma",
    "compa",
    "detec",
    "devel",
    "drone",
+   "exerc",
+   "invol",
+   "launc",
    "pushe",
    "spati",
    "towar"
@@ -591,5 +595,19 @@
   ],
   "title": "Fearful of Russia, Latvia rehearses evacuation - TVP World",
   "ts": "2026-10-06T22:01:58+00:00"
+ },
+ {
+  "level": 1,
+  "n": 1,
+  "source": "ERR News (Estonia, EN)",
+  "stems": [
+   "comma",
+   "exerc",
+   "joins",
+   "large",
+   "stead"
+  ],
+  "title": "Estonia joins NATO's largest command exercise Steadfast Duel 26",
+  "ts": "2026-10-07T06:01:58+00:00"
  }
 ]
