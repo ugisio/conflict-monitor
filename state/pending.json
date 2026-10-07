@@ -1,1 +1,23 @@
-[]
+[
+ {
+  "first_seen": "2026-10-07T17:31:39+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": true,
+  "published": "2026-10-07T09:40:19+00:00",
+  "reason": "region: lithuania, russia · official warning · planning/hypothetical wording, softened · matched “nuclear threat”",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "gnews_latvia_security",
+  "source_name": "Google News — Latvia security",
+  "summary": "",
+  "text": "Lithuanian PM warns of Russian nuclear threat DW.com",
+  "tier": "news",
+  "title": "Lithuanian PM warns of Russian nuclear threat - DW.com",
+  "uid": "c7bb655b47b61b0a",
+  "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObE5OUElBMEtmdExxOF8wbzFSSHhaMUZLbU5lVDFkdG1IOU1SckdRQXZyZWhLZlRWc19SWDE3ZXBIRkpjUVFQdVc1MC1GSmI4WmxsZTFUSzZaU2NXSjJ0OG5PUjZhNGFpUHdaNU5iUGhMemVPRzhubXU0dVpEaVFEV2lvRl9XZEtMNmc?oc=5",
+  "warning": true
+ }
+]
