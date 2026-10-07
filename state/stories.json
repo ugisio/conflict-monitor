@@ -463,9 +463,10 @@
  },
  {
   "level": 2,
-  "n": 5,
+  "n": 6,
   "source": "ERR News (Estonia, EN)",
   "stems": [
+   "accus",
    "alert",
    "drone",
    "easte",
@@ -477,11 +478,13 @@
    "kasen",
    "leyen",
    "maske",
+   "provo",
    "sabot",
    "shows",
    "solid",
    "strik",
    "surve",
+   "sybih",
    "syste"
   ],
   "title": "Evelin Kasenõmm: Asia puts drones to work — Estonia should follow suit",
