@@ -745,11 +745,14 @@
  },
  {
   "level": 2,
-  "n": 1,
+  "n": 2,
   "source": "Clash Report",
   "stems": [
    "deplo",
+   "excla",
+   "guard",
    "reinf",
+   "reque",
    "soldi",
    "weeks"
   ],

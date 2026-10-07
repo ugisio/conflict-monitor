@@ -103,5 +103,26 @@
   "uid": "d312cb17e409eb03",
   "url": "https://t.me/astrapress/127436",
   "warning": false
+ },
+ {
+  "first_seen": "2026-10-07T20:32:02+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-07T20:10:33+00:00",
+  "reason": "region: lithuania, russia · matched “Military Deployment” · single source, held at WATCH until another source corroborates · another report of a story already in the channel",
+  "repeat_of": "Lithuania is deploying up to 100 soldiers to reinforce its border with Russia’s Kaliningrad region for about two weeks. Officials said the p…",
+  "repeats": 0,
+  "source_id": "gnews_latvia_security",
+  "source_name": "Google News — Latvia security",
+  "summary": "",
+  "text": "Lithuania Requests Military Deployment to Guard Border Near Russian Exclave UNITED24 Media",
+  "tier": "news",
+  "title": "Lithuania Requests Military Deployment to Guard Border Near Russian Exclave - UNITED24 Media",
+  "uid": "6f26d9d6d7808c9d",
+  "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWHhRV2p4QllDQ1Z2cXRXQ292anMyZkUyZ0FBS0xNUENjUzl5WDlhNlM4N3dGM184TU84N19RNHBJT1pxekFsRy1iRl9XZVJPbFljLW9uYkIwUWx6MlRnQTdNT180Z0RDT3Q5bnVKdzREeC1IRDFSWjZ1cWE4U2lsNGZtZXRlMEJ6YWNUdFFlVkNGSVpkYW11alBkLUp2SzVpR0dZU0pjdHJmR1BLeXhfMk1XUTlMMDc4WUN6SElaTQ?oc=5",
+  "warning": false
  }
 ]
