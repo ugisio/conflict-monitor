@@ -1,1 +1,23 @@
-[]
+[
+ {
+  "first_seen": "2026-10-08T18:31:14+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-08T17:52:34+00:00",
+  "reason": "region: lithuania, kaliningrad, russia · matched “mobilization” · single source, held at WATCH until another source corroborates · another report of a story already in the channel",
+  "repeat_of": "Lithuania is deploying up to 100 soldiers to reinforce its border with Russia’s Kaliningrad region for about two weeks. Officials said the p…",
+  "repeats": 0,
+  "source_id": "gnews_latvia_security",
+  "source_name": "Google News — Latvia security",
+  "summary": "",
+  "text": "Lithuania puts up to 100 soldiers on Kaliningrad border as officials brace for possible Russian mobilization Euromaidan Press",
+  "tier": "news",
+  "title": "Lithuania puts up to 100 soldiers on Kaliningrad border as officials brace for possible Russian mobilization - Euromaidan Press",
+  "uid": "9344616181b9c475",
+  "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNVDZyQ3BkTlRYV3JYV1BIU3BhMzN1VFVUa0VMbVdtWWVjQjdDVW9qWVF2bDBHa1lIS01mRkt1czRSRXlYNnNvV1NoWEdtZ3NzQWtjbXFzeEJIR3p5RVEwZmN4ZEt6N01tSm5waVozZllTUEEwcHpzeXBrTGhVNDc1UllBSENNWW4yOFFHY1ViT0dkUmIxWFlqaWtERlJwaGpCYkRNSEc5V1VxNEhycXJER05nLVItQlF3M3NGbV91U2cxSWJVTUhBX3I4VGR3dmhVVnpBYVU5TGhfVmVmTFNnazBB?oc=5",
+  "warning": false
+ }
+]
