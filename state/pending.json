@@ -19,5 +19,26 @@
   "uid": "9344616181b9c475",
   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNVDZyQ3BkTlRYV3JYV1BIU3BhMzN1VFVUa0VMbVdtWWVjQjdDVW9qWVF2bDBHa1lIS01mRkt1czRSRXlYNnNvV1NoWEdtZ3NzQWtjbXFzeEJIR3p5RVEwZmN4ZEt6N01tSm5waVozZllTUEEwcHpzeXBrTGhVNDc1UllBSENNWW4yOFFHY1ViT0dkUmIxWFlqaWtERlJwaGpCYkRNSEc5V1VxNEhycXJER05nLVItQlF3M3NGbV91U2cxSWJVTUhBX3I4VGR3dmhVVnpBYVU5TGhfVmVmTFNnazBB?oc=5",
   "warning": false
+ },
+ {
+  "first_seen": "2026-10-08T19:01:31+00:00",
+  "kind": "post",
+  "lang": "en",
+  "level": 1,
+  "note": "EN, conflict news aggregator",
+  "posted": false,
+  "published": "2026-10-08T18:51:05+00:00",
+  "reason": "region: kaliningrad, nato, russia · matched “nuclear”",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "tg_clashreport",
+  "source_name": "Clash Report",
+  "summary": "",
+  "text": "NATO is seeking to ease tensions with Russia ahead of its annual Steadfast Noon nuclear exercise, scheduled for October 13–23 in Italy, involving 17 allied countries. The exercise follows Russian threats to strike NATO territory, including possible nuclear weapons use, after allied drills near Kaliningrad in August. NATO officials stressed that the exercise is routine, predictable and involves no live nuclear weapons, emphasizing that the alliance wants to avoid miscalculation and further escalation. Source: POLITICO",
+  "tier": "osint",
+  "title": "NATO is seeking to ease tensions with Russia ahead of its annual Steadfast Noon nuclear exercise, scheduled for October 13–23 in Italy, invo…",
+  "uid": "9d31ff66ba0aa8af",
+  "url": "https://t.me/ClashReport/100221",
+  "warning": false
  }
 ]
