@@ -145,5 +145,26 @@
   "uid": "b33984d37babc888",
   "url": "https://t.me/meduzalive/148875",
   "warning": false
+ },
+ {
+  "first_seen": "2026-10-08T01:01:33+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-07T22:17:48+00:00",
+  "reason": "region: lithuania, kaliningrad, russia · matched “military deployment” · single source, held at WATCH until another source corroborates · another report of a story already in the channel",
+  "repeat_of": "Lithuania is deploying up to 100 soldiers to reinforce its border with Russia’s Kaliningrad region for about two weeks. Officials said the p…",
+  "repeats": 0,
+  "source_id": "gnews_latvia_security",
+  "source_name": "Google News — Latvia security",
+  "summary": "",
+  "text": "Lithuania seeks military deployment to secure border with Russia’s Kaliningrad - Oj Odessa Journal",
+  "tier": "news",
+  "title": "Lithuania seeks military deployment to secure border with Russia’s Kaliningrad - Oj - Odessa Journal",
+  "uid": "9bb3ccefb6424573",
+  "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQalpGR1BCalhJcUIxSzJMTDYxaHBKQ2d5Y3RHb1p4NkpERDIwYmFCSjFzOXN0VGdiVG0zWUIyMHAweXBzTUZhWnNCUTQ3S0VPYUpLRzlFNEhqdl9YdWJZMVVuUmpHRFJFZHVCVVVqMFpCR2N6b2dKaTdYTG82S0pSbkR2R1laT0VfR0FGUE5PZERTQjZ4eFZqSg?oc=5",
+  "warning": false
  }
 ]
