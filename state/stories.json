@@ -655,11 +655,13 @@
  },
  {
   "level": 3,
-  "n": 2,
+  "n": 3,
   "source": "LRT (Lithuania, EN)",
   "stems": [
+   "conce",
    "dodge",
    "mobil",
+   "sends",
    "stopp",
    "troop"
   ],
@@ -708,13 +710,15 @@
  },
  {
   "level": 2,
-  "n": 1,
+  "n": 2,
   "source": "Google News — Israel NSC travel warnings",
   "stems": [
    "egypt",
    "israe",
    "issue",
    "level",
+   "neigh",
+   "raise",
    "trave"
   ],
   "title": "Israel issues high-level travel warning for Egypt and regional nations - Egypt Independent",
