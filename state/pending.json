@@ -271,5 +271,26 @@
   "uid": "b605e54d209426da",
   "url": "https://news.err.ee/1610161207/estonia-s-military-conscription-no-show-rate-falls-to-2",
   "warning": false
+ },
+ {
+  "first_seen": "2026-10-08T14:31:23+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 1,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-08T14:20:00+00:00",
+  "reason": "region: estonia · matched “training (in text)”",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "err_en",
+  "source_name": "ERR News (Estonia, EN)",
+  "summary": "",
+  "text": "The Estonian Center for Defense Investments (RKIK) has launched a tender for weapons, ammunition, components and training with an estimated value of up to €195 million.",
+  "tier": "news",
+  "title": "Defense agency launches €195M tender for arms and ammunition",
+  "uid": "82b874b046ad3b0b",
+  "url": "https://news.err.ee/1610160526/defense-agency-launches-195m-tender-for-arms-and-ammunition",
+  "warning": false
  }
 ]
