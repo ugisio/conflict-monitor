@@ -166,5 +166,26 @@
   "uid": "c4acf091d6c5e4d0",
   "url": "https://news.err.ee/1610160703/defense-minister-estonia-considering-new-datasel-settlement-proposal",
   "warning": false
+ },
+ {
+  "first_seen": "2026-10-08T13:01:16+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-08T12:49:52+00:00",
+  "reason": "region: source scope · matched “issues high-level travel warning”",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "gnews_israel_nsc",
+  "source_name": "Google News — Israel NSC travel warnings",
+  "summary": "",
+  "text": "Israel issues high-level travel warning for Egypt and regional nations Egypt Independent",
+  "tier": "news",
+  "title": "Israel issues high-level travel warning for Egypt and regional nations - Egypt Independent",
+  "uid": "2d84466cb061c1ff",
+  "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVDhOUlBDTUhPOTdIUHdPbXdKVDctTUo0ZHpDNmNNOTllX1ZERzVHZ0cxaFhmcDZRRElBYWcxS042dG9vbzRsQ3VQaXd2eDVWQWRUemducDFFalI4T3NTYnFDT0o1RkZjWGJuX1gzMFJXeUhNOG1NazNienZfeWc4X1VUd0RhMS1DTkg4WV95N2VXOEtvWC1YaXRVOXp0bTE2UkRWSW4tZw?oc=5",
+  "warning": false
  }
 ]

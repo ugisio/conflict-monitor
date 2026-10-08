@@ -1,40 +1,6 @@
 [
  {
   "level": 2,
-  "n": 6,
-  "source": "ERR News (Estonia, EN)",
-  "stems": [
-   "artic",
-   "based",
-   "boost",
-   "drone",
-   "easte",
-   "exper",
-   "expla",
-   "flank",
-   "gives",
-   "impac",
-   "invok",
-   "limit",
-   "movin",
-   "place",
-   "plans",
-   "possi",
-   "prepa",
-   "recon",
-   "secon",
-   "sikor",
-   "strat",
-   "summi",
-   "tackl",
-   "takin",
-   "units"
-  ],
-  "title": "US gives Estonia 13 reconnaissance drones to boost border security",
-  "ts": "2026-10-05T12:31:45+00:00"
- },
- {
-  "level": 2,
   "n": 2,
   "source": "Google News — Latvia security",
   "stems": [
@@ -739,5 +705,19 @@
   ],
   "title": "Defense minister: Estonia considering new Datasel settlement proposal",
   "ts": "2026-10-08T12:31:25+00:00"
+ },
+ {
+  "level": 2,
+  "n": 1,
+  "source": "Google News — Israel NSC travel warnings",
+  "stems": [
+   "egypt",
+   "israe",
+   "issue",
+   "level",
+   "trave"
+  ],
+  "title": "Israel issues high-level travel warning for Egypt and regional nations - Egypt Independent",
+  "ts": "2026-10-08T13:01:35+00:00"
  }
 ]
