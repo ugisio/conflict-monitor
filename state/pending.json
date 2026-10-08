@@ -208,5 +208,26 @@
   "uid": "8c7562d059012725",
   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQLVVqNnY1MFlzLTE1RjdTeEllYVNGZExubXk1TnBlcURuSUx1N3BOVUdNUzU3WWt1Q1FGeE9zNnhCNnFuRzNQbFZ2VTdHLU8zRktuVE11ckNpcXk0SVoxZ3ZhQTc2ODFjbXVpcGFodDkwTUpzMmdxOVZEVmJqOUlVVFFUdnl5d25IakZkdlNOVdIBlAFBVV95cUxNV2RENC1NRzktcnFkbjZrc0Nya3J0SDBtc2ZheDdQZWg4UjZSVXhKMUpodzRkekI4OHpBNlJ0NE9jZnQwcXdGQnVxQzc3UlRlYXJWMlptNkxnZGZtT28xOWZpdnYwZV9heWFsb0hvLXFPNUI0a1JndVloTEpqMzJBTTMxVjA4TXBwR1lTbzZ1aVpEeURm?oc=5",
   "warning": false
+ },
+ {
+  "first_seen": "2026-10-08T04:31:31+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 1,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-08T04:08:34+00:00",
+  "reason": "region: latvia, latvian · matched “Voting (in text)”",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "lsm_en",
+  "source_name": "LSM (Latvian public media, EN)",
+  "summary": "",
+  "text": "In the recent 15th Saeima elections, out of the 444 postal votes received by the Latvian Postal Voting Commission, 118 were deemed invalid, the Central Election Commission (CVK) told the LETA news agency.",
+  "tier": "news",
+  "title": "Quarter of postal votes deemed invalid in Latvia",
+  "uid": "68232e07057c566c",
+  "url": "https://eng.lsm.lv/article/politics/election/08.10.2026-quarter-of-postal-votes-deemed-invalid-in-latvia.a666646/?utm_source=rss&utm_campaign=rss&utm_medium=links",
+  "warning": false
  }
 ]
