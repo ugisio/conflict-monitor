@@ -1,34 +1,6 @@
 [
  {
   "level": 2,
-  "n": 3,
-  "source": "Clash Report",
-  "stems": [
-   "alexu",
-   "claim",
-   "combi",
-   "comma",
-   "death",
-   "defea",
-   "draft",
-   "drone",
-   "elect",
-   "epste",
-   "grynk",
-   "incur",
-   "plans",
-   "possi",
-   "poten",
-   "strat",
-   "targe",
-   "theor",
-   "victo"
-  ],
-  "title": "NATO’s top military commander, Gen. Alexus Grynkewich, is drafting a “Theory of Victory” for defeating a potential Russian attack on NATO’s …",
-  "ts": "2026-10-05T10:01:38+00:00"
- },
- {
-  "level": 2,
   "n": 2,
   "source": "Google News — official warnings",
   "stems": [
@@ -741,5 +713,33 @@
   ],
   "title": "EBU warns Lithuanian probe into LRT could threaten editorial independence",
   "ts": "2026-10-08T09:01:52+00:00"
+ },
+ {
+  "level": 3,
+  "n": 2,
+  "source": "LRT (Lithuania, EN)",
+  "stems": [
+   "dodge",
+   "mobil",
+   "stopp",
+   "troop"
+  ],
+  "title": "Troops at Kaliningrad border are for stopping mobilisation dodgers – Lithuanian minister",
+  "ts": "2026-10-08T10:01:43+00:00"
+ },
+ {
+  "level": 2,
+  "n": 1,
+  "source": "ERR News (Estonia, EN)",
+  "stems": [
+   "added",
+   "drone",
+   "elect",
+   "progr",
+   "schoo",
+   "wants"
+  ],
+  "title": "Estonia wants drone elective added to all high schools' programs",
+  "ts": "2026-10-08T10:01:43+00:00"
  }
 ]
