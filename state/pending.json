@@ -19,5 +19,26 @@
   "uid": "a1c6d4d0339b5db2",
   "url": "https://t.me/novaya_europe/68062",
   "warning": false
+ },
+ {
+  "first_seen": "2026-10-08T08:31:27+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": true,
+  "published": "2026-10-08T07:18:00+00:00",
+  "reason": "official warning about Russia / NATO · matched “spy”",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "gnews_official_warnings",
+  "source_name": "Google News — official warnings",
+  "summary": "",
+  "text": "UK, Germany unite against Russia’s ‘shadow war’ as spy chief warns of ‘violent conflict’ The News International",
+  "tier": "news",
+  "title": "UK, Germany unite against Russia’s ‘shadow war’ as spy chief warns of ‘violent conflict’ - The News International",
+  "uid": "cc42525b63a889e1",
+  "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQmt4WUs3aU54Y21UVHRfUmpGeHlSQnJ1aUU2WUhaQWxpc3ZISkQtTEQ1eG9ZWGZ2amV2T2d4bjNzeFA5QVFMU2tjSjBwc3E1TS1SUkhFaUplMnc1OWVraUhRaU1yYkJUeV8wdi1kREY5YWphTkZDU1BtQUQxMFdBUHhIdGJESHRtSVkyNVBucU9IRkVLeTRUVl94SkE2OEtLU0hJcHU4WDNSQk9UWHdabEVPX3E1WmN5RTJsY2h6S3lVZ9IBvgFBVV95cUxNTGRpU2UzY3RfeEtXdGVWRzBoWTkteUZmRnczSENLYnhXajl4OGFfVjJIbzhneUR2T0hfM2sxZGpTTV9UaU9KaFIwQk10UnBzbTJJZExKWGY1c3A5bEhXdW9qU0RmYkVjai0tX0NtSWtEakVDQ1p6NW1pcmNpT2xYTmg5X3p4VVoyWFIzY1h1NEJTTkY5RXo1MUJtMldmNldiSC1mUmVUYlRPalJjVjBLOGFkNGNqZ2dlN3ktaHVn?oc=5",
+  "warning": true
  }
 ]
