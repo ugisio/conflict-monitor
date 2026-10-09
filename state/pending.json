@@ -1,1 +1,44 @@
-[]
+[
+ {
+  "first_seen": "2026-10-09T09:01:33+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-09T08:49:00+00:00",
+  "reason": "region: lithuania, nato · matched “nuclear” · story escalated from L1 (2 reports so far)",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "lrt_en",
+  "source_name": "LRT (Lithuania, EN)",
+  "summary": "",
+  "text": "Lithuania’s parliament has taken the first step toward removing a constitutional ban on weapons of mass destruction being present on its territory, a move supporters say would allow the country to participate more fully in NATO’s nuclear deterrence arrangements.",
+  "tier": "news",
+  "title": "Lithuania moves to lift constitutional ban on nuclear weapons: What it means",
+  "uid": "221a3702fd00bd0e",
+  "url": "https://www.lrt.lt/en/news-in-english/19/3077164/lithuania-moves-to-lift-constitutional-ban-on-nuclear-weapons-what-it-means",
+  "warning": false
+ },
+ {
+  "first_seen": "2026-10-09T09:01:34+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-08T15:18:44+00:00",
+  "reason": "region: baltic, baltics, nato, russia · matched “escalat” · another report of a story already in the channel",
+  "repeat_of": "Troops at Kaliningrad border are for stopping mobilisation dodgers – Lithuanian minister",
+  "repeats": 0,
+  "source_id": "gnews_latvia_security",
+  "source_name": "Google News — Latvia security",
+  "summary": "",
+  "text": "Russia says possible deployment of additional NATO troops in Baltics would be escalation Anadolu Ajansı",
+  "tier": "news",
+  "title": "Russia says possible deployment of additional NATO troops in Baltics would be escalation - Anadolu Ajansı",
+  "uid": "58c349afd020fcca",
+  "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxObVJZRmhfOThlcDEyUVZyeVF4V2lpM3dsWE1Fb1BfbEpHSE5GeV8tclFjSWdjTFJOcG82U1h4dDVJRjZMSjFoYmpQbTlLdjJxeWRleDI3Y0xYNmYxZmdQTXVXMkFiZUgwVTVJTndMMkw3QUpseGtTNUs2UlNZSzB3QzJhQU8wenYtUmtpM2M5cFR6YUg5RFp5QkhSTExzNm83RHRLYW1JLWxUZHNhVXVBZ2ZOczFkM3V0MW9ZUFJ3bFQxMXhUbUE?oc=5",
+  "warning": false
+ }
+]

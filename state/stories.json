@@ -1,55 +1,6 @@
 [
  {
   "level": 2,
-  "n": 19,
-  "source": "LRT (Lithuania, EN)",
-  "stems": [
-   "acros",
-   "aggre",
-   "alloc",
-   "armed",
-   "backs",
-   "camer",
-   "carry",
-   "const",
-   "cross",
-   "delib",
-   "deplo",
-   "enter",
-   "escal",
-   "furth",
-   "group",
-   "gunme",
-   "indiv",
-   "issue",
-   "least",
-   "lifti",
-   "maske",
-   "measu",
-   "migra",
-   "moves",
-   "nucle",
-   "octob",
-   "parli",
-   "perma",
-   "portr",
-   "possi",
-   "poten",
-   "pushe",
-   "raise",
-   "regul",
-   "remov",
-   "risks",
-   "sabot",
-   "safet",
-   "smugg",
-   "soldi"
-  ],
-  "title": "Lithuanian parliament backs removing constitutional ban on nuclear weapons",
-  "ts": "2026-10-06T08:31:32+00:00"
- },
- {
-  "level": 2,
   "n": 1,
   "source": "Google News — Latvia security",
   "stems": [
@@ -591,12 +542,16 @@
  },
  {
   "level": 3,
-  "n": 3,
+  "n": 4,
   "source": "LRT (Lithuania, EN)",
   "stems": [
+   "addit",
    "conce",
+   "deplo",
    "dodge",
+   "escal",
    "mobil",
+   "possi",
    "sends",
    "stopp",
    "troop"
@@ -719,22 +674,26 @@
   "ts": "2026-10-08T14:31:36+00:00"
  },
  {
-  "level": 1,
-  "n": 1,
+  "level": 2,
+  "n": 2,
   "source": "Clash Report",
   "stems": [
    "ahead",
    "annua",
+   "const",
    "exerc",
    "italy",
+   "means",
+   "moves",
    "nucle",
    "octob",
    "sched",
    "seeki",
    "stead",
-   "tensi"
+   "tensi",
+   "weapo"
   ],
-  "title": "NATO is seeking to ease tensions with Russia ahead of its annual Steadfast Noon nuclear exercise, scheduled for October 13–23 in Italy, invo…",
-  "ts": "2026-10-08T19:01:41+00:00"
+  "title": "Lithuania moves to lift constitutional ban on nuclear weapons: What it means",
+  "ts": "2026-10-09T09:01:47+00:00"
  }
 ]
