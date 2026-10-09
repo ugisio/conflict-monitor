@@ -1,18 +1,6 @@
 [
  {
   "level": 2,
-  "n": 1,
-  "source": "Google News — Latvia security",
-  "stems": [
-   "fight",
-   "grows",
-   "invas"
-  ],
-  "title": "As the Russian invasion threat grows, Baltic countries gear up for a fight - NBC News",
-  "ts": "2026-10-06T09:21:38+00:00"
- },
- {
-  "level": 2,
   "n": 9,
   "source": "Google News — official warnings",
   "stems": [
@@ -601,15 +589,20 @@
  },
  {
   "level": 2,
-  "n": 2,
+  "n": 3,
   "source": "Google News — Israel NSC travel warnings",
   "stems": [
+   "block",
+   "calls",
    "egypt",
    "israe",
    "issue",
    "level",
    "neigh",
+   "nucle",
+   "peter",
    "raise",
+   "saint",
    "trave"
   ],
   "title": "Israel issues high-level travel warning for Egypt and regional nations - Egypt Independent",

@@ -40,5 +40,26 @@
   "uid": "58c349afd020fcca",
   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxObVJZRmhfOThlcDEyUVZyeVF4V2lpM3dsWE1Fb1BfbEpHSE5GeV8tclFjSWdjTFJOcG82U1h4dDVJRjZMSjFoYmpQbTlLdjJxeWRleDI3Y0xYNmYxZmdQTXVXMkFiZUgwVTVJTndMMkw3QUpseGtTNUs2UlNZSzB3QzJhQU8wenYtUmtpM2M5cFR6YUg5RFp5QkhSTExzNm83RHRLYW1JLWxUZHNhVXVBZ2ZOczFkM3V0MW9ZUFJ3bFQxMXhUbUE?oc=5",
   "warning": false
+ },
+ {
+  "first_seen": "2026-10-09T09:31:42+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-09T09:02:31+00:00",
+  "reason": "region: estonia, kaliningrad, nato, russia · matched “nuclear” · another report of a story already in the channel",
+  "repeat_of": "Israel issues high-level travel warning for Egypt and regional nations - Egypt Independent",
+  "repeats": 0,
+  "source_id": "gnews_nato",
+  "source_name": "Google News — NATO & the Baltics",
+  "summary": "",
+  "text": "Estonia calls for NATO blockade of Kaliningrad and Saint Petersburg as Russia issues nuclear warning Bankingnews",
+  "tier": "news",
+  "title": "Estonia calls for NATO blockade of Kaliningrad and Saint Petersburg as Russia issues nuclear warning - Bankingnews",
+  "uid": "e6885303d6873196",
+  "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOUUFFRTc4Z0dTb0pKQTkyTmp4TlFTeXR3X3cwZkZYMVBjZ3B3bjN2em5HSml5aGxEei1aNXJ4aWJXSU04MVhHVmpzX1pIYjZGMEpqRlhmdGQyQ29lMUs0QjVJbk1hWXhnbVUtcHBuUk53ZkpzOEd1TXhyMGZCSXhmS0dZOFZNM2FBMzFoWjdWVTNRdnFjMUI4eWJZcUZaZDEydWZOU1RwaDk1RVJkSGloUHhxcjVNdDNMUHZaU2x0MjFMMW12Z3k0NUFHMTRQUWlncWpYQjRQaVBOcFJwRDFDWkZwcDhTQQ?oc=5",
+  "warning": false
  }
 ]
