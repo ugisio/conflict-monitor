@@ -166,5 +166,26 @@
   "uid": "0f4cc994f1718745",
   "url": "https://eng.lsm.lv/article/weather/weather/09.10.2026-severe-weather-alert-issued-along-latvias-western-coast.a666941/?utm_source=rss&utm_campaign=rss&utm_medium=links",
   "warning": false
+ },
+ {
+  "first_seen": "2026-10-09T16:31:18+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-09T16:25:20+00:00",
+  "reason": "region: latvia · matched “escalat”",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "gnews_latvia_security",
+  "source_name": "Google News — Latvia security",
+  "summary": "",
+  "text": "Latvia seeks greater border powers as migrant crossings escalate Euronews.com",
+  "tier": "news",
+  "title": "Latvia seeks greater border powers as migrant crossings escalate - Euronews.com",
+  "uid": "184579aa156a96dc",
+  "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOb09hMVp0VDNDV1JPczFGa3EyV3U3M2ZyeUEtU1lKZFRMVGNXbFFLc01yMVIzZUp1QmhISU9wNlYzQ2pWNXk5RnVjV1NMeFJjbF9TTkJ1a2lNQ3Bzb3hwcVM3ZUFNTGEwTHNsRG8xQnB3S3Z0dENkaGh6a2JucUZENGN4dXJBb1JUNXY1VW5pd0FCVE03TEtScGg2Q1VtV3FuOUg1TkkycVYwSVNCQkNSeWtYSTNJa2VXeTY2Nw?oc=5",
+  "warning": false
  }
 ]

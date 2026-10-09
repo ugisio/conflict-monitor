@@ -557,5 +557,20 @@
   ],
   "title": "'Severe' weather alert issued along Latvia's western coast",
   "ts": "2026-10-09T13:31:25+00:00"
+ },
+ {
+  "level": 2,
+  "n": 1,
+  "source": "Google News — Latvia security",
+  "stems": [
+   "cross",
+   "escal",
+   "great",
+   "migra",
+   "power",
+   "seeks"
+  ],
+  "title": "Latvia seeks greater border powers as migrant crossings escalate - Euronews.com",
+  "ts": "2026-10-09T16:31:30+00:00"
  }
 ]
