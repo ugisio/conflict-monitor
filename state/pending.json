@@ -103,5 +103,26 @@
   "uid": "487b380cd5271aa4",
   "url": "https://t.me/novaya_europe/68133",
   "warning": false
+ },
+ {
+  "first_seen": "2026-10-09T11:01:19+00:00",
+  "kind": "alert",
+  "lang": "en",
+  "level": 1,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-09T09:58:28+00:00",
+  "reason": "matched “Demonstration Alert”",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "us_embassy_warsaw",
+  "source_name": "US Embassy Warsaw alerts",
+  "summary": "",
+  "text": "The post Demonstration Alert – U.S. Embassy Warsaw (October 9, 2026) appeared first on U.S. Embassy In Poland .",
+  "tier": "official",
+  "title": "Demonstration Alert – U.S. Embassy Warsaw (October 9, 2026)",
+  "uid": "8b1417e5b2590146",
+  "url": "https://pl.usembassy.gov/demonstration-alert-u-s-embassy-warsaw-october-9-2026/",
+  "warning": false
  }
 ]
