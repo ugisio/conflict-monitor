@@ -49,22 +49,6 @@
   "ts": "2026-10-07T05:31:34+00:00"
  },
  {
-  "level": 2,
-  "n": 2,
-  "source": "Google News — Latvia security",
-  "stems": [
-   "armed",
-   "damag",
-   "epste",
-   "infor",
-   "kille",
-   "revea",
-   "soldi"
-  ],
-  "title": "‘Killed NATO Soldiers,’ Epstein, and Damaged F-16s: Information Attack on the Baltic States Revealed - Inbox.lv",
-  "ts": "2026-10-06T18:01:56+00:00"
- },
- {
   "level": 1,
   "n": 1,
   "source": "Rybar",
@@ -573,5 +557,19 @@
   ],
   "title": "Latvia seeks greater border powers as migrant crossings escalate - Euronews.com",
   "ts": "2026-10-09T16:31:30+00:00"
+ },
+ {
+  "level": 2,
+  "n": 1,
+  "source": "Google News — Latvia security",
+  "stems": [
+   "artic",
+   "damag",
+   "drone",
+   "offer",
+   "prope"
+  ],
+  "title": "Latvia could offer aid for drone-damaged property / Article - LSM",
+  "ts": "2026-10-09T18:31:24+00:00"
  }
 ]
