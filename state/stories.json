@@ -560,7 +560,7 @@
  },
  {
   "level": 2,
-  "n": 1,
+  "n": 2,
   "source": "Google News — Latvia security",
   "stems": [
    "cross",
@@ -568,7 +568,8 @@
    "great",
    "migra",
    "power",
-   "seeks"
+   "seeks",
+   "video"
   ],
   "title": "Latvia seeks greater border powers as migrant crossings escalate - Euronews.com",
   "ts": "2026-10-09T16:31:30+00:00"
