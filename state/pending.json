@@ -1,1 +1,23 @@
-[]
+[
+ {
+  "first_seen": "2026-10-10T17:27:11+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-10T07:13:26+00:00",
+  "reason": "region: baltic, baltics, russia · planning/hypothetical wording, softened · matched “Attack The Baltic”",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "gnews_latvia_security",
+  "source_name": "Google News — Latvia security",
+  "summary": "",
+  "text": "Is Russia Preparing To Attack The Baltics? Radio Free Europe/Radio Liberty",
+  "tier": "news",
+  "title": "Is Russia Preparing To Attack The Baltics? - Radio Free Europe/Radio Liberty",
+  "uid": "4f64630184bd626b",
+  "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBKdFlNck93Y3hTNUQwc05CYjl3NWcwdzdtMmYzX2ZCdjdMVlpWN1pCRTdZNXF1dkd2azVnZHRCV1ctVDdNcm9MUERjNUJiYTA0UnhiTi1fWWQ3U2lXLXczZFlDdVctaXc1TU5uWFp30gFwQVVfeXFMTnljR3pJOS1qeVUydHVvUVZ2MDAzalJxTy1ZUXBqeVYxV3ZEUUtiSktMVzVxWF8xWVJvbEJFRW4taGFsUXpYZnNhVTFUSkpqTVJCXzlIWWtYXzVOd3h3MDdHRlduTnBDb0tFczFoX3p1VQ?oc=5",
+  "warning": false
+ }
+]
