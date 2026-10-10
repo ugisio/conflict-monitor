@@ -1,1 +1,23 @@
-[]
+[
+ {
+  "first_seen": "2026-10-10T06:01:31+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-10T05:55:00+00:00",
+  "reason": "region: estonia · matched “strike drones in Estonia” · single source, held at WATCH until another source corroborates · another report of a story already in the channel",
+  "repeat_of": "Latvia could offer aid for drone-damaged property / Article - LSM",
+  "repeats": 0,
+  "source_id": "err_en",
+  "source_name": "ERR News (Estonia, EN)",
+  "summary": "",
+  "text": "A British unit at Tapa has deployed Nyan attack drone systems with a range of over 250 kilometers, boosting the allies' long-range strike capability, Postimees reported.",
+  "tier": "news",
+  "title": "British Army deploys Nyan deep-strike drones in Estonia",
+  "uid": "e0e4d0899d87f242",
+  "url": "https://news.err.ee/1610162881/british-army-deploys-nyan-deep-strike-drones-in-estonia",
+  "warning": false
+ }
+]

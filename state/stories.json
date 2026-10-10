@@ -416,14 +416,17 @@
  },
  {
   "level": 2,
-  "n": 1,
+  "n": 2,
   "source": "Google News — Latvia security",
   "stems": [
    "artic",
+   "briti",
    "damag",
+   "deplo",
    "drone",
    "offer",
-   "prope"
+   "prope",
+   "strik"
   ],
   "title": "Latvia could offer aid for drone-damaged property / Article - LSM",
   "ts": "2026-10-09T18:31:24+00:00"
