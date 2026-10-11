@@ -2,27 +2,6 @@
  {
   "level": 2,
   "n": 3,
-  "source": "Google News — Israel NSC travel warnings",
-  "stems": [
-   "block",
-   "calls",
-   "egypt",
-   "israe",
-   "issue",
-   "level",
-   "neigh",
-   "nucle",
-   "peter",
-   "raise",
-   "saint",
-   "trave"
-  ],
-  "title": "Israel issues high-level travel warning for Egypt and regional nations - Egypt Independent",
-  "ts": "2026-10-08T13:01:35+00:00"
- },
- {
-  "level": 2,
-  "n": 3,
   "source": "Rybar",
   "stems": [
    "власт",
@@ -210,5 +189,17 @@
   ],
   "title": "Ignoring Putin’s warning, NATO arms up fast for Kaliningrad ‘war’? France’s ‘Shahed’ drone unveiled - Hindustan Times",
   "ts": "2026-10-11T13:01:32+00:00"
+ },
+ {
+  "level": 2,
+  "n": 1,
+  "source": "Google News — eastern flank (PL/FI/NATO)",
+  "stems": [
+   "forme",
+   "gener",
+   "ready"
+  ],
+  "title": "Former general warns that UK and NATO are not ready for a war with Russia - Sky News",
+  "ts": "2026-10-11T13:26:44+00:00"
  }
 ]
