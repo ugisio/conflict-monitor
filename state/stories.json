@@ -1,31 +1,6 @@
 [
  {
   "level": 2,
-  "n": 1,
-  "source": "ERR News (Estonia, EN)",
-  "stems": [
-   "dooms",
-   "every",
-   "ideon"
-  ],
-  "title": "Argo Ideon: Our everyday doomscrolling",
-  "ts": "2026-10-08T12:31:25+00:00"
- },
- {
-  "level": 1,
-  "n": 1,
-  "source": "ERR News (Estonia, EN)",
-  "stems": [
-   "consi",
-   "datas",
-   "propo",
-   "settl"
-  ],
-  "title": "Defense minister: Estonia considering new Datasel settlement proposal",
-  "ts": "2026-10-08T12:31:25+00:00"
- },
- {
-  "level": 2,
   "n": 3,
   "source": "Google News — Israel NSC travel warnings",
   "stems": [
