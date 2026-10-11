@@ -241,10 +241,16 @@
  },
  {
   "level": 2,
-  "n": 1,
+  "n": 2,
   "source": "Google News — Latvia security",
   "stems": [
-   "prepa"
+   "conce",
+   "hybri",
+   "prepa",
+   "restr",
+   "sabot",
+   "swede",
+   "tight"
   ],
   "title": "Is Russia Preparing To Attack The Baltics? - Radio Free Europe/Radio Liberty",
   "ts": "2026-10-10T17:27:21+00:00"

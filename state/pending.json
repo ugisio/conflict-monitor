@@ -1,1 +1,23 @@
-[]
+[
+ {
+  "first_seen": "2026-10-11T10:01:26+00:00",
+  "kind": "post",
+  "lang": "en",
+  "level": 2,
+  "note": "EN, conflict news aggregator",
+  "posted": false,
+  "published": "2026-10-11T09:53:17+00:00",
+  "reason": "region: estonia, russia · matched “sabotage” · another report of a story already in the channel",
+  "repeat_of": "Is Russia Preparing To Attack The Baltics? - Radio Free Europe/Radio Liberty",
+  "repeats": 0,
+  "source_id": "tg_clashreport",
+  "source_name": "Clash Report",
+  "summary": "",
+  "text": "The EU is preparing tighter visa restrictions for Russians amid concerns over sabotage and hybrid attacks. Poland, Sweden and Estonia are pushing for tougher rules, while Estonia wants to ban around 650,000 former Russian soldiers over security concerns. Some EU countries are also seeking restrictions on Russian diplomats. The European Commission is expected to present its proposals in January 2027. Source: POLITICO",
+  "tier": "osint",
+  "title": "The EU is preparing tighter visa restrictions for Russians amid concerns over sabotage and hybrid attacks. Poland, Sweden and Estonia are pu…",
+  "uid": "36598b44341cd2ed",
+  "url": "https://t.me/ClashReport/100524",
+  "warning": false
+ }
+]
