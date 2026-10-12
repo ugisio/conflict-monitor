@@ -4,23 +4,6 @@
   "n": 2,
   "source": "Google News — Latvia security",
   "stems": [
-   "artic",
-   "briti",
-   "damag",
-   "deplo",
-   "drone",
-   "offer",
-   "prope",
-   "strik"
-  ],
-  "title": "Latvia could offer aid for drone-damaged property / Article - LSM",
-  "ts": "2026-10-09T18:31:24+00:00"
- },
- {
-  "level": 2,
-  "n": 2,
-  "source": "Google News — Latvia security",
-  "stems": [
    "conce",
    "hybri",
    "prepa",
@@ -107,7 +90,7 @@
  },
  {
   "level": 2,
-  "n": 11,
+  "n": 12,
   "source": "Google News — eastern flank (PL/FI/NATO)",
   "stems": [
    "allia",
@@ -125,12 +108,15 @@
    "hybri",
    "incre",
    "issue",
+   "outli",
+   "possi",
    "prese",
    "respo",
    "risin",
    "strik",
    "sweep",
    "syste",
+   "times",
    "tough",
    "urges",
    "utter",
@@ -286,5 +272,21 @@
   ],
   "title": "Forged news of military conscripts in Kaliningrad had hallmarks of a Western counter-attack in Putin’s info wars - EUobserver",
   "ts": "2026-10-12T15:01:44+00:00"
+ },
+ {
+  "level": 2,
+  "n": 1,
+  "source": "LSM (Latvian public media, EN)",
+  "stems": [
+   "black",
+   "exper",
+   "front",
+   "group",
+   "proba",
+   "sabot",
+   "sugge"
+  ],
+  "title": "'Black Russian' sabotage group is probably a front, experts suggest",
+  "ts": "2026-10-12T18:31:27+00:00"
  }
 ]
