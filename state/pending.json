@@ -481,5 +481,26 @@
   "uid": "6e60f6e9b6177646",
   "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5HbDQxWWUwWDNGNExpS0o1SVJtY3JXSlJOVnQ4QjIwOEY3aHEzaG5iY3pnU0RJWkQ2NnJJb2Z0dE84RzJHUkHSAUtBVV95cUxQZU9DcVVYbVlleUdjUWY2Mkp1c2EwV0djYjNQUlAtREk4UGh0NkxJMjg2M05UUHNibnNBcGtfYndsY1VxYnJKZFVhMlE?oc=5",
   "warning": true
+ },
+ {
+  "first_seen": "2026-10-12T16:31:21+00:00",
+  "kind": "post",
+  "lang": "en",
+  "level": 2,
+  "note": "EN, conflict news aggregator",
+  "posted": false,
+  "published": "2026-10-12T16:13:04+00:00",
+  "reason": "official warning about Russia / NATO · matched “official warning” · another report of a story already in the channel",
+  "repeat_of": "Peacekeepers, riot police, and drone crews: Russia’s bloc rehearses an operation in a Belarusian oblast bordering two NATO states - Euromaidan Press",
+  "repeats": 0,
+  "source_id": "tg_clashreport",
+  "source_name": "Clash Report",
+  "summary": "",
+  "text": "EU's Kaja Kallas: Enlargement has been the EU's most successful foreign policy tool for decades. It's not just about making the EU bigger. It's about making Europe safer and also stronger geopolitically. Ukraine, of course, is Europe's first line of defense against Russian aggression.",
+  "tier": "osint",
+  "title": "EU's Kaja Kallas: Enlargement has been the EU's most successful foreign policy tool for decades. It's not just about making the EU bigger. I…",
+  "uid": "9fc99ed35675e673",
+  "url": "https://t.me/ClashReport/100742",
+  "warning": true
  }
 ]
