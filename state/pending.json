@@ -19,5 +19,26 @@
   "uid": "f8131217dfe8188e",
   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSG1rd0wtV09DNTFTVzZ1MF9QbzJXclAwZTQ5RHZtd0FBcEgxdTZBZHJSR2VOMU1ZcTVKQ2lrRnc0WXZpOTBKU09yV2x4dk9KYk5WTzBMN2FXM0p1YXh6d2dkT2o1TGV0UDVSYzVUc0Y1SDVsbkRkNHhaZ1lrSTE4Rzd0d0xqUGFhSWItT1dQRW9Gdw?oc=5",
   "warning": true
+ },
+ {
+  "first_seen": "2026-10-12T07:31:20+00:00",
+  "kind": "post",
+  "lang": "ru",
+  "level": 2,
+  "note": "RU, Belarus opposition media — best coverage of Belarus border/military",
+  "posted": true,
+  "published": "2026-10-12T07:21:52+00:00",
+  "reason": "official warning about Russia / NATO · matched “official warning”",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "tg_nexta",
+  "source_name": "NEXTA Live",
+  "summary": "",
+  "text": "Сенаторы от обеих партий призвали Трампа пересмотреть сделку с Россией Семь американских сенаторов, включая четырёх республиканцев, потребовали от президента пересмотреть договорённости с РФ о поставках дизельного топлива. Они утверждают, что сделка противоречит закону 2022 года, запрещающему импорт российских энергоносителей до прекращения агрессии против Украины. Сенаторы заявили, что администрация Трампа не проконсультировалась с Конгрессом и не объяснила своё решение, как того требует закон. 9 октября Трамп объявил о договорённостях с Путиным по поставкам российского дизеля на американский и мировой рынки. Позже он раскритиковал украинские удары по российским НПЗ, заявив, что они создают проблемы для фермеров в США.",
+  "tier": "osint",
+  "title": "Сенаторы от обеих партий призвали Трампа пересмотреть сделку с Россией Семь американских сенаторов, включая четырёх республиканцев, потребов…",
+  "uid": "b87aa35361fdb5b1",
+  "url": "https://t.me/nexta_live/124795",
+  "warning": true
  }
 ]
