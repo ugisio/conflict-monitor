@@ -271,5 +271,26 @@
   "uid": "18eb632c5af03e9f",
   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5IV0R3dDZSb0p4RFc5dXFtRDktNUJXN0FCRk55Q1JEbXEtdklxcDZGTHUwSDl5VzYzTVgyNnpuV1RfbUVDbjduc3BfR3ZuNlU0cU8yMW1ydEZ4aVoyazRjdUY2Y29MY0E1Y2w1eVE5aDQ3RWJhNWc?oc=5",
   "warning": true
+ },
+ {
+  "first_seen": "2026-10-12T14:01:45+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-12T13:57:00+00:00",
+  "reason": "official warning about Russia / NATO · matched “official warning” · another report of a story already in the channel",
+  "repeat_of": "Top NATO commander set to issue warning to Russia over any attack - Yahoo",
+  "repeats": 0,
+  "source_id": "gnews_flank_warnings",
+  "source_name": "Google News — eastern flank (PL/FI/NATO)",
+  "summary": "",
+  "text": "NATO Commander Warns Russia Any Attack on Alliance Would Be ‘Utterly Futile’ Kurdistan24",
+  "tier": "news",
+  "title": "NATO Commander Warns Russia Any Attack on Alliance Would Be ‘Utterly Futile’ - Kurdistan24",
+  "uid": "b2d324ad91a8a159",
+  "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOR3h4N0xTa2xwY1F2LUJiVWJEeGtDZkJsb2p5SlpxU0l5bDlobEZPa28xLXM3ekFycVRzQVlQZExFM2NTQWJmZGQ1M3JzWFEwN3kzU2twb1ktU1F4M1BsdzN5OTdkNFZKTVNPaVNGcVV4RFBNd1VaN2NhdFJYUzUzXzQ0Nk1xRUtBQ1gxQWFUZjIxa1QxN3ZJMzByNGp0M0dGYlVRWVlhdndnYkNyRWI2RURIUHQ2NDkyQXc?oc=5",
+  "warning": true
  }
 ]
