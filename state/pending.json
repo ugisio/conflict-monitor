@@ -103,5 +103,26 @@
   "uid": "032fba0372a1edbb",
   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdFBSUWxMQllWWDJGeURTMFFwR0FFLUd1N0UyWHFjNmhEZlF2MVl3SERvLUJScXk1eVE5N20wRFNoZTlyQ1FoU3V2TkZlTEc1dkhCc2hNOHRVWXhwUENIQjV4dGlnV0JTY19TNnVPT2pfV3M5eHU0REpTUmZ3R0hON09fWGZtM3lxbGFfNTlrRGVraVI3d1VhbFVMSGFQNmlGa1owYm5STUlFZUVJM3BZanNnaw?oc=5",
   "warning": true
+ },
+ {
+  "first_seen": "2026-10-12T20:31:14+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-12T20:10:46+00:00",
+  "reason": "region: kaliningrad, nato, russia · planning/hypothetical wording, softened · matched “strike St. Petersburg and Kaliningrad” · another report of a story already in the channel",
+  "repeat_of": "Top NATO commander set to issue warning to Russia over any attack - Yahoo",
+  "repeats": 0,
+  "source_id": "gnews_latvia_security",
+  "source_name": "Google News — Latvia security",
+  "summary": "",
+  "text": "NATO would strike St. Petersburg and Kaliningrad if Russia attacks, WSJ reports RBC-Ukraine",
+  "tier": "news",
+  "title": "NATO would strike St. Petersburg and Kaliningrad if Russia attacks, WSJ reports - RBC-Ukraine",
+  "uid": "836c6fbef0c4087a",
+  "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSFVqa0Y4RGtURE1icmRrenIyWkpsMGc3VV9wZUxiNG5JcTZOazBLNlVqa1BtTXg2dE9HZVMwUmlubmNWX2JiNVFQNnJQeElyS3NuUEkxYklMQ2VJdjNsRktEeW5VT3l6azVDcU5ub1lQOUh0bnVBczNMZldjTHpCZVVsQ3JITkNiOFU0aVdJaWZoUTJUT2xhNEhLWQ?oc=5",
+  "warning": false
  }
 ]
