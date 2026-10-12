@@ -82,5 +82,26 @@
   "uid": "5446ffc0c82311bb",
   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNGN5TGozeE9UdzVRaUEtMlY4M2ZIb3d5Z0JLaTZrbndLeVZrcGJ1X2hSMk1QN2tLdG9hb2ZjOEJlQXM1NXhyMWtEQXlFeXloSk1sTnpsZ3lhaGktalM1VmJVbktZNEpXbm5QbkJ2OURVOG5aendTRHRaZjJqa0FLLU5MRUZyOWVKakNTMFpXeWFLVEZxWFllQkdCQTZreGUwUm9wa3lEMA?oc=5",
   "warning": true
+ },
+ {
+  "first_seen": "2026-10-12T18:57:07+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-12T17:21:00+00:00",
+  "reason": "official warning about Russia / NATO · matched “official warning” · another report of a story already in the channel",
+  "repeat_of": "Top NATO commander set to issue warning to Russia over any attack - Yahoo",
+  "repeats": 0,
+  "source_id": "gnews_flank_warnings",
+  "source_name": "Google News — eastern flank (PL/FI/NATO)",
+  "summary": "",
+  "text": "‘Ready to fight tonight’: NATO’s top general says the alliance would win a war with Russia Washington Times",
+  "tier": "news",
+  "title": "‘Ready to fight tonight’: NATO’s top general says the alliance would win a war with Russia - Washington Times",
+  "uid": "032fba0372a1edbb",
+  "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdFBSUWxMQllWWDJGeURTMFFwR0FFLUd1N0UyWHFjNmhEZlF2MVl3SERvLUJScXk1eVE5N20wRFNoZTlyQ1FoU3V2TkZlTEc1dkhCc2hNOHRVWXhwUENIQjV4dGlnV0JTY19TNnVPT2pfV3M5eHU0REpTUmZ3R0hON09fWGZtM3lxbGFfNTlrRGVraVI3d1VhbFVMSGFQNmlGa1owYm5STUlFZUVJM3BZanNnaw?oc=5",
+  "warning": true
  }
 ]
