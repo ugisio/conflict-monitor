@@ -40,5 +40,26 @@
   "uid": "b87aa35361fdb5b1",
   "url": "https://t.me/nexta_live/124795",
   "warning": true
+ },
+ {
+  "first_seen": "2026-10-12T09:04:26+00:00",
+  "kind": "post",
+  "lang": "en",
+  "level": 2,
+  "note": "EN, conflict news aggregator",
+  "posted": true,
+  "published": "2026-10-12T09:02:23+00:00",
+  "reason": "official warning about Russia / NATO · matched “official warning”",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "tg_clashreport",
+  "source_name": "Clash Report",
+  "summary": "",
+  "text": "Polish PM Donald Tusk: Anyone who, for reasons of betrayal, stupidity or money, wants to weaken Ukraine in its defense against Russian aggression is acting directly against their own nation, the security of their own country and its sovereignty.",
+  "tier": "osint",
+  "title": "Polish PM Donald Tusk: Anyone who, for reasons of betrayal, stupidity or money, wants to weaken Ukraine in its defense against Russian aggre…",
+  "uid": "9533d3db182cba30",
+  "url": "https://t.me/ClashReport/100672",
+  "warning": true
  }
 ]
