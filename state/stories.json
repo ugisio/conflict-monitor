@@ -16,22 +16,6 @@
   "ts": "2026-10-09T13:31:25+00:00"
  },
  {
-  "level": 2,
-  "n": 1,
-  "source": "ERR News (Estonia, EN)",
-  "stems": [
-   "artis",
-   "assoc",
-   "aucti",
-   "cyber",
-   "fundr",
-   "halts",
-   "possi"
-  ],
-  "title": "Possible cyberattack halts Estonian Artists' Association fundraiser auction",
-  "ts": "2026-10-09T10:01:46+00:00"
- },
- {
   "level": 1,
   "n": 1,
   "source": "LSM (Latvian public media, EN)",
@@ -98,14 +82,21 @@
  },
  {
   "level": 2,
-  "n": 1,
+  "n": 2,
   "source": "Google News — Latvia security",
   "stems": [
+   "armor",
+   "boats",
+   "coast",
    "drone",
    "franc",
+   "guard",
    "ignor",
+   "marki",
+   "patro",
    "putin",
    "shahe",
+   "strip",
    "unvei"
   ],
   "title": "Ignoring Putin’s warning, NATO arms up fast for Kaliningrad ‘war’? France’s ‘Shahed’ drone unveiled - Hindustan Times",

@@ -103,5 +103,26 @@
   "uid": "05913393990bf7c2",
   "url": "https://t.me/ClashReport/100679",
   "warning": true
+ },
+ {
+  "first_seen": "2026-10-12T10:31:25+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-12T10:26:29+00:00",
+  "reason": "region: baltic, russia · matched “Drone” · another report of a story already in the channel",
+  "repeat_of": "Ignoring Putin’s warning, NATO arms up fast for Kaliningrad ‘war’? France’s ‘Shahed’ drone unveiled - Hindustan Times",
+  "repeats": 0,
+  "source_id": "gnews_latvia_security",
+  "source_name": "Google News — Latvia security",
+  "summary": "",
+  "text": "Russia Strips FSB Patrol Boats of Coast Guard Markings and Adds Anti-Drone Armor in the Baltic UNITED24 Media",
+  "tier": "news",
+  "title": "Russia Strips FSB Patrol Boats of Coast Guard Markings and Adds Anti-Drone Armor in the Baltic - UNITED24 Media",
+  "uid": "193a29ca1a0cb97d",
+  "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOSk8tSk0zRjdoZy1nc29SVTNqU3J4Q0RTMmpTU2Z4YV9ZZHJWeVhyNFk0M0lqY3QyRmZtanhNVjk4OEQ0cnRCLXFWOFBiNnExVFExTDNoRXZiVmNIMDhKVURYT2d3S0RjRWN1aWdhUWNyckdPR0FOVWFCcjQxRFZDeVVNMTRWVThXSjBwRmdCOWtFMURGOXVaeDRyQVBPYktqVnJ5VkhFUkRHNUNIcnRkQVJ0RjhFZ2lrNGJEOExHSWlHMDhfbGRucjhoZEFOaUFpVHh5bFY2X1g?oc=5",
+  "warning": false
  }
 ]
