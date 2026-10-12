@@ -105,12 +105,15 @@
  },
  {
   "level": 2,
-  "n": 1,
+  "n": 2,
   "source": "Google News — NATO & the Baltics",
   "stems": [
    "chief",
+   "czech",
    "easte",
    "flank",
+   "intel",
+   "inten",
    "poten",
    "rocks",
    "scare"
@@ -120,7 +123,7 @@
  },
  {
   "level": 2,
-  "n": 7,
+  "n": 9,
   "source": "Google News — eastern flank (PL/FI/NATO)",
   "stems": [
    "allia",
@@ -132,8 +135,10 @@
    "futil",
    "gener",
    "hybri",
+   "incre",
    "issue",
    "respo",
+   "sweep",
    "syste",
    "tough",
    "urges",
@@ -247,5 +252,19 @@
   ],
   "title": "Peacekeepers, riot police, and drone crews: Russia’s bloc rehearses an operation in a Belarusian oblast bordering two NATO states - Euromaidan Press",
   "ts": "2026-10-12T13:31:30+00:00"
+ },
+ {
+  "level": 1,
+  "n": 1,
+  "source": "Google News — Latvia security",
+  "stems": [
+   "consc",
+   "forge",
+   "hallm",
+   "putin",
+   "weste"
+  ],
+  "title": "Forged news of military conscripts in Kaliningrad had hallmarks of a Western counter-attack in Putin’s info wars - EUobserver",
+  "ts": "2026-10-12T15:01:44+00:00"
  }
 ]
