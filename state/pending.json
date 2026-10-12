@@ -1,1 +1,23 @@
-[]
+[
+ {
+  "first_seen": "2026-10-12T01:42:24+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": true,
+  "published": "2026-10-12T01:31:00+00:00",
+  "reason": "official warning about Russia / NATO · matched “official warning”",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "gnews_flank_warnings",
+  "source_name": "Google News — eastern flank (PL/FI/NATO)",
+  "summary": "",
+  "text": "Top NATO commander set to issue warning to Russia over any attack Yahoo",
+  "tier": "news",
+  "title": "Top NATO commander set to issue warning to Russia over any attack - Yahoo",
+  "uid": "79ef11e55ae07e6f",
+  "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdmpzWktGLVhQdDNrU01lUkFENTJQUkU4eFhOTi1YTi1qa1FnLUtZNmRENWFaSWF3ajRwaEpyY2cycE5mUWZXVVRJMUZxbHlUUHlYWXoyN2hVLXVlclBKNzZ3M2lFMFktNDlXMzlabFd2cVdHYnkzYnVtOXpyeWh5Z2w0dWwySXhCUmc?oc=5",
+  "warning": true
+ }
+]
