@@ -104,11 +104,12 @@
  },
  {
   "level": 2,
-  "n": 4,
+  "n": 6,
   "source": "Google News — eastern flank (PL/FI/NATO)",
   "stems": [
    "actua",
    "alexu",
+   "alleg",
    "chief",
    "comma",
    "czech",
@@ -122,7 +123,9 @@
    "ready",
    "reaso",
    "relat",
+   "repla",
    "right",
+   "sabot",
    "saceu",
    "strik",
    "terri",
