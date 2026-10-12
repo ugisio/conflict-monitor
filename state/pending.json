@@ -1,1 +1,44 @@
-[]
+[
+ {
+  "first_seen": "2026-10-12T18:01:35+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-12T17:34:06+00:00",
+  "reason": "official warning about Russia / NATO · matched “official warning” · another report of a story already in the channel",
+  "repeat_of": "Top NATO commander set to issue warning to Russia over any attack - Yahoo",
+  "repeats": 0,
+  "source_id": "gnews_flank_warnings",
+  "source_name": "Google News — eastern flank (PL/FI/NATO)",
+  "summary": "",
+  "text": "NATO Commander to Present 'Victory Doctrine' Amidst Rising Russian Threats Ratopati",
+  "tier": "news",
+  "title": "NATO Commander to Present 'Victory Doctrine' Amidst Rising Russian Threats - Ratopati",
+  "uid": "2d18bf819591967b",
+  "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE41T1hUYjZaS1cwZGh2SWdPdTA4VmlvbVZUWHNOWUxhTVg2UmRZMHVvUmdVU2lpZS1vUXhZWElKd3dJTUVEbFZ4MDNPSk02bHZZbGkySlVQbmc3eUVtODZIMjJVWGV2U2s1ZjFLUkRGckJEU3N2dzRxQVZpWk0?oc=5",
+  "warning": true
+ },
+ {
+  "first_seen": "2026-10-12T18:01:38+00:00",
+  "kind": "post",
+  "lang": "ru",
+  "level": 2,
+  "note": "RU, independent Russian media based in Riga",
+  "posted": false,
+  "published": "2026-10-12T17:35:36+00:00",
+  "reason": "region: литв, росси · matched “беспилотник (in text)” · another report of a story already in the channel",
+  "repeat_of": "Сенаторы от обеих партий призвали Трампа пересмотреть сделку с Россией Семь американских сенаторов, включая четырёх республиканцев, потребов…",
+  "repeats": 0,
+  "source_id": "tg_meduza",
+  "source_name": "Meduza",
+  "summary": "",
+  "text": "Премьер Литвы заявил , что удары по дата-центрам в России помогут защитить выборы в Европе На Варшавском форуме по безопасности премьер-министра Литвы Миндаугаса Синкявичюса спросили, как странам Европы защитить выборы в своих странах от вмешательства. Он предложил наносить больше ударов по дата-центрам в России, передает LRT. «Думаю, нам следует попросить господина Зеленского поразить больше дата-центров в России, и это, возможно, помогло бы», — сказал литовский премьер. За четыре дня украинские беспилотники поразили три дата-центра «Яндекса» в России. Сервисы компании до сих пор не работают, а замена поврежденного оборудования займет около полугода и обойдется дорого — из-за санкций и глобального дефицита вычислительных мощностей. @meduzalive",
+  "tier": "osint",
+  "title": "Премьер Литвы заявил , что удары по дата-центрам в России помогут защитить выборы в Европе На Варшавском форуме по безопасности премьер-мини…",
+  "uid": "6bdd65707a2458d8",
+  "url": "https://t.me/meduzalive/149082",
+  "warning": false
+ }
+]
