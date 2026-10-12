@@ -439,5 +439,26 @@
   "uid": "6dec59049c31ca26",
   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQVkI0c3NEOEp3eW1fdmUtRW91bXFJMzFoaDhGZDBsamxsbzB2RDhocmRDRjZFdWdyVlIwRkVJNWtpVzVEN2RJNzFpWTNwRWxrYkxnQWV1YXdya1VHX1NtMFJadkJLSmR1ZzNKMFoyWTNBeTJlLXJzakZmYXljWnZXRVpoVjRhS0hrMUpseVNNQjBFSWxIenRuMmRKOEdtVUFHWUhzd1d3SW5HS0V6UEpmNXduWjRqRF9qemM2NTRYZ05iYkxsT2dxX2IwX1liYU9HRVhIaGJTS3pJUQ?oc=5",
   "warning": false
+ },
+ {
+  "first_seen": "2026-10-12T15:32:25+00:00",
+  "kind": "post",
+  "lang": "ru",
+  "level": 2,
+  "note": "RU, independent Russian media based in Riga",
+  "posted": false,
+  "published": "2026-10-12T15:28:01+00:00",
+  "reason": "region: калининград, нато, росси · official warning · planning/hypothetical wording, softened · matched “ударами по Петербурге и Калининград” · another report of a story already in the channel",
+  "repeat_of": "Сенаторы от обеих партий призвали Трампа пересмотреть сделку с Россией Семь американских сенаторов, включая четырёх республиканцев, потребов…",
+  "repeats": 0,
+  "source_id": "tg_meduza",
+  "source_name": "Meduza",
+  "summary": "",
+  "text": "Главком сил НАТО в Европе представил план на случай нападения России — с ударами по Петербурге и Калининграду Главнокомандующий Объединенными вооруженными силами НАТО в Европе генерал Алексус Гринкевич выступил на конференции по безопасности в Варшаве, где представил план на случай нападения России. «Если противник решит продолжить наступление или задействовать резервы, мы разрушим его военную систему, которая используется против нас. Это касается не только самих атакующих сил, но и всего, что обеспечивает их поддержку и управление», — сказал генерал. Открыть с VPN | без VPN @meduzalive",
+  "tier": "osint",
+  "title": "Главком сил НАТО в Европе представил план на случай нападения России — с ударами по Петербурге и Калининграду Главнокомандующий Объединенным…",
+  "uid": "3d7bcd51b5649033",
+  "url": "https://t.me/meduzalive/149072",
+  "warning": true
  }
 ]
