@@ -120,16 +120,22 @@
  },
  {
   "level": 2,
-  "n": 4,
+  "n": 7,
   "source": "Google News — eastern flank (PL/FI/NATO)",
   "stems": [
    "allia",
    "boost",
    "comma",
+   "destr",
+   "engag",
+   "fooli",
    "futil",
+   "gener",
    "hybri",
    "issue",
    "respo",
+   "syste",
+   "tough",
    "urges",
    "utter"
   ],
