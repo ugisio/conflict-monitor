@@ -145,5 +145,26 @@
   "uid": "bca7217145944605",
   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNOVIwNmNCdG1jLWtWYkNTZW9EOGM1MnozMGlWTXNBVEFiaWlXU28yc3NjWVlXMkF0SXJJXzFlSllzZ24tRWVTTHhRcFN0RTk1NHlHWEwwQWN1SG5lWExtc1paNHhHNHhxa01uekw3Zk9BR3ZMNzQ0T0k1YkZlNXpVelU1MVB3VTl2c3dwWlZSOFRvNnhRWXZlTHpORXZoYnlCS2s3RXB5c2s1QXFwN1E?oc=5",
   "warning": true
+ },
+ {
+  "first_seen": "2026-10-12T23:01:25+00:00",
+  "kind": "post",
+  "lang": "ru",
+  "level": 2,
+  "note": "RU, independent; incidents inside Russia (Pskov, Leningrad region, Kaliningrad)",
+  "posted": false,
+  "published": "2026-10-12T22:45:01+00:00",
+  "reason": "region: калининград, нато · official warning · matched “official warning” · another report of a story already in the channel",
+  "repeat_of": "Сенаторы от обеих партий призвали Трампа пересмотреть сделку с Россией Семь американских сенаторов, включая четырёх республиканцев, потребов…",
+  "repeats": 0,
+  "source_id": "tg_astra",
+  "source_name": "ASTRA",
+  "summary": "",
+  "text": "Патрушев пригрозил НАТО из-за Калининграда: «Начнут какие-то агрессивные военные действия — пожалеют об этом» Помощник президента и бывший директор ФСБ Николай Патрушев на встрече с губернатором Калининградской области Алексеем Беспрозванных заявил, что НАТО…",
+  "tier": "osint",
+  "title": "Патрушев пригрозил НАТО из-за Калининграда: «Начнут какие-то агрессивные военные действия — пожалеют об этом» Помощник президента и бывший д…",
+  "uid": "12c0e7835b9d14e4",
+  "url": "https://t.me/astrapress/127973",
+  "warning": true
  }
 ]
