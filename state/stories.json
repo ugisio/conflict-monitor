@@ -163,11 +163,15 @@
  },
  {
   "level": 2,
-  "n": 1,
+  "n": 2,
   "source": "Google News — eastern flank (PL/FI/NATO)",
   "stems": [
+   "boost",
    "comma",
-   "issue"
+   "hybri",
+   "issue",
+   "respo",
+   "urges"
   ],
   "title": "Top NATO commander set to issue warning to Russia over any attack - Yahoo",
   "ts": "2026-10-12T01:42:33+00:00"

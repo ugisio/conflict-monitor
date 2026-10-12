@@ -1,1 +1,23 @@
-[]
+[
+ {
+  "first_seen": "2026-10-12T06:01:35+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-12T05:30:42+00:00",
+  "reason": "official warning about Russia / NATO · matched “hybrid attack” · another report of a story already in the channel",
+  "repeat_of": "Top NATO commander set to issue warning to Russia over any attack - Yahoo",
+  "repeats": 0,
+  "source_id": "gnews_flank_warnings",
+  "source_name": "Google News — eastern flank (PL/FI/NATO)",
+  "summary": "",
+  "text": "NATO commander urges Europe to boost aid to Ukraine in response to Russian hybrid attacks RBC-Ukraine",
+  "tier": "news",
+  "title": "NATO commander urges Europe to boost aid to Ukraine in response to Russian hybrid attacks - RBC-Ukraine",
+  "uid": "f8131217dfe8188e",
+  "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSG1rd0wtV09DNTFTVzZ1MF9QbzJXclAwZTQ5RHZtd0FBcEgxdTZBZHJSR2VOMU1ZcTVKQ2lrRnc0WXZpOTBKU09yV2x4dk9KYk5WTzBMN2FXM0p1YXh6d2dkT2o1TGV0UDVSYzVUc0Y1SDVsbkRkNHhaZ1lrSTE4Rzd0d0xqUGFhSWItT1dQRW9Gdw?oc=5",
+  "warning": true
+ }
+]
