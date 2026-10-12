@@ -124,5 +124,26 @@
   "uid": "836c6fbef0c4087a",
   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSFVqa0Y4RGtURE1icmRrenIyWkpsMGc3VV9wZUxiNG5JcTZOazBLNlVqa1BtTXg2dE9HZVMwUmlubmNWX2JiNVFQNnJQeElyS3NuUEkxYklMQ2VJdjNsRktEeW5VT3l6azVDcU5ub1lQOUh0bnVBczNMZldjTHpCZVVsQ3JITkNiOFU0aVdJaWZoUTJUT2xhNEhLWQ?oc=5",
   "warning": false
+ },
+ {
+  "first_seen": "2026-10-12T22:31:17+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-12T22:23:22+00:00",
+  "reason": "official warning about Russia / NATO · matched “official warning” · another report of a story already in the channel",
+  "repeat_of": "Top NATO commander set to issue warning to Russia over any attack - Yahoo",
+  "repeats": 0,
+  "source_id": "gnews_flank_warnings",
+  "source_name": "Google News — eastern flank (PL/FI/NATO)",
+  "summary": "",
+  "text": "U.S. and NATO commander vows to thwart Moscow, warns Kyiv over refinery strikes The Washington Post",
+  "tier": "news",
+  "title": "U.S. and NATO commander vows to thwart Moscow, warns Kyiv over refinery strikes - The Washington Post",
+  "uid": "bca7217145944605",
+  "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNOVIwNmNCdG1jLWtWYkNTZW9EOGM1MnozMGlWTXNBVEFiaWlXU28yc3NjWVlXMkF0SXJJXzFlSllzZ24tRWVTTHhRcFN0RTk1NHlHWEwwQWN1SG5lWExtc1paNHhHNHhxa01uekw3Zk9BR3ZMNzQ0T0k1YkZlNXpVelU1MVB3VTl2c3dwWlZSOFRvNnhRWXZlTHpORXZoYnlCS2s3RXB5c2s1QXFwN1E?oc=5",
+  "warning": true
  }
 ]
