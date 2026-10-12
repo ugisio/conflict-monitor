@@ -2,38 +2,6 @@
  {
   "level": 2,
   "n": 2,
-  "source": "ERR News (Estonia, EN)",
-  "stems": [
-   "agenc",
-   "ammun",
-   "drill",
-   "launc",
-   "nucle",
-   "putin",
-   "tende"
-  ],
-  "title": "NATO Launching Nuclear Drills After Putin’s Baltic Sea Nuke Warning - Newsweek",
-  "ts": "2026-10-09T13:31:25+00:00"
- },
- {
-  "level": 1,
-  "n": 1,
-  "source": "LSM (Latvian public media, EN)",
-  "stems": [
-   "alert",
-   "along",
-   "coast",
-   "issue",
-   "sever",
-   "weath",
-   "weste"
-  ],
-  "title": "'Severe' weather alert issued along Latvia's western coast",
-  "ts": "2026-10-09T13:31:25+00:00"
- },
- {
-  "level": 2,
-  "n": 2,
   "source": "Google News — Latvia security",
   "stems": [
    "cross",
@@ -152,15 +120,17 @@
  },
  {
   "level": 2,
-  "n": 2,
+  "n": 3,
   "source": "Google News — eastern flank (PL/FI/NATO)",
   "stems": [
    "boost",
    "comma",
+   "futil",
    "hybri",
    "issue",
    "respo",
-   "urges"
+   "urges",
+   "utter"
   ],
   "title": "Top NATO commander set to issue warning to Russia over any attack - Yahoo",
   "ts": "2026-10-12T01:42:33+00:00"
@@ -254,5 +224,21 @@
   ],
   "title": "📝 Сдерживание с ударной дальностью 📝 История с британскими дронами в Эстонии получила продолжение. Если летом журналисты The Sun рассказывал…",
   "ts": "2026-10-12T12:01:59+00:00"
+ },
+ {
+  "level": 2,
+  "n": 1,
+  "source": "Google News — NATO & the Baltics",
+  "stems": [
+   "crews",
+   "drone",
+   "oblas",
+   "opera",
+   "peace",
+   "polic",
+   "rehea"
+  ],
+  "title": "Peacekeepers, riot police, and drone crews: Russia’s bloc rehearses an operation in a Belarusian oblast bordering two NATO states - Euromaidan Press",
+  "ts": "2026-10-12T13:31:30+00:00"
  }
 ]
