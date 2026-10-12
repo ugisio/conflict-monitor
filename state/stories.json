@@ -104,21 +104,30 @@
  },
  {
   "level": 2,
-  "n": 2,
+  "n": 4,
   "source": "Google News — eastern flank (PL/FI/NATO)",
   "stems": [
    "actua",
    "alexu",
+   "chief",
+   "comma",
+   "czech",
    "forme",
+   "futil",
    "gener",
    "grynk",
+   "intel",
    "major",
+   "month",
    "ready",
    "reaso",
    "relat",
    "right",
    "saceu",
-   "terri"
+   "strik",
+   "terri",
+   "utter",
+   "withi"
   ],
   "title": "Former general warns that UK and NATO are not ready for a war with Russia - Sky News",
   "ts": "2026-10-11T13:26:44+00:00"
@@ -221,5 +230,26 @@
   ],
   "title": "U.S. Ambassador to NATO Matthew Whitaker: We have to understand that we have not overcome our human nature, we have not overcome history, an…",
   "ts": "2026-10-12T09:31:26+00:00"
+ },
+ {
+  "level": 2,
+  "n": 1,
+  "source": "Rybar",
+  "stems": [
+   "брита",
+   "дальн",
+   "дрона",
+   "журна",
+   "истор",
+   "летом",
+   "получ",
+   "продо",
+   "расск",
+   "сдерж",
+   "ударн",
+   "эстон"
+  ],
+  "title": "📝 Сдерживание с ударной дальностью 📝 История с британскими дронами в Эстонии получила продолжение. Если летом журналисты The Sun рассказывал…",
+  "ts": "2026-10-12T12:01:59+00:00"
  }
 ]
