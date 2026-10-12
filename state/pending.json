@@ -460,5 +460,26 @@
   "uid": "3d7bcd51b5649033",
   "url": "https://t.me/meduzalive/149072",
   "warning": true
+ },
+ {
+  "first_seen": "2026-10-12T16:01:24+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-12T12:29:05+00:00",
+  "reason": "region: belarus, nato, russia · official warning · matched “official warning” · another report of a story already in the channel",
+  "repeat_of": "Top NATO commander set to issue warning to Russia over any attack - Yahoo",
+  "repeats": 0,
+  "source_id": "gnews_latvia_security",
+  "source_name": "Google News — Latvia security",
+  "summary": "",
+  "text": "NATO Commander Hrynkevich: In Case of Russian Attack, Strikes Will Be Carried Out Against Belarus, Kaliningra Наша Ніва",
+  "tier": "news",
+  "title": "NATO Commander Hrynkevich: In Case of Russian Attack, Strikes Will Be Carried Out Against Belarus, Kaliningra - Наша Ніва",
+  "uid": "6e60f6e9b6177646",
+  "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5HbDQxWWUwWDNGNExpS0o1SVJtY3JXSlJOVnQ4QjIwOEY3aHEzaG5iY3pnU0RJWkQ2NnJJb2Z0dE84RzJHUkHSAUtBVV95cUxQZU9DcVVYbVlleUdjUWY2Mkp1c2EwV0djYjNQUlAtREk4UGh0NkxJMjg2M05UUHNibnNBcGtfYndsY1VxYnJKZFVhMlE?oc=5",
+  "warning": true
  }
 ]
