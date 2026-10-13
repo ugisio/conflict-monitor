@@ -1,1 +1,23 @@
-[]
+[
+ {
+  "first_seen": "2026-10-13T17:31:27+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 1,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-13T15:27:00+00:00",
+  "reason": "region: estonia, russia · matched “defence minister” · another report of a story already in the channel",
+  "repeat_of": "’Once war in Ukraine is over, Russia will definitely attack someone,’ - Estonia’s Defence Minister - Цензор.НЕТ",
+  "repeats": 0,
+  "source_id": "gnews_flank_warnings",
+  "source_name": "Google News — eastern flank (PL/FI/NATO)",
+  "summary": "",
+  "text": "Estonian defence minister: Russia will definitely attack another country after war in Ukraine ends Українська правда",
+  "tier": "news",
+  "title": "Estonian defence minister: Russia will definitely attack another country after war in Ukraine ends - Українська правда",
+  "uid": "14bce2eca8baa72e",
+  "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE80TkxHU3RSZHlhQU96Nk1uR1ZmaHk5Vzc2VUFjRXQ5Yzd4cWRaeTIwaDlLd0l0bEFFclc4TXI0MElBWmFRZ2hCVWtaUFFPYjdYZFVPa2dNcmV5R2RGeXFTMDUyNnDSAXBBVV95cUxNWUJZLVhMc21MVlpvLTdZODF1OVpfRGNkN2RyRkh2LUU3OG92WXpjZWZCWG1pNnFPYXg1cEtnbS1nRDZqbU9tcGhJVk9YenR0SGE5YjVRWUNFb1Fic3BrTS01dmxNQkU3NEZDZjBSWElF?oc=5",
+  "warning": false
+ }
+]
