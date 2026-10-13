@@ -40,5 +40,26 @@
   "uid": "e351671064155d68",
   "url": "https://t.me/rybar/83906",
   "warning": false
+ },
+ {
+  "first_seen": "2026-10-13T08:01:20+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 1,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-13T07:03:00+00:00",
+  "reason": "region: estonia · matched “defense ministry”",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "err_en",
+  "source_name": "ERR News (Estonia, EN)",
+  "summary": "",
+  "text": "The MoD has announced a funding competition worth €250,000 to support the production of films and other audiovisual works aimed at strengthening the Estonian public's willingness to defend the country.",
+  "tier": "news",
+  "title": "Estonia's defense ministry allocates €250,000 for war movies",
+  "uid": "6576647a51fc2ebd",
+  "url": "https://news.err.ee/1610164834/estonia-s-defense-ministry-allocates-250-000-for-war-movies",
+  "warning": false
  }
 ]
