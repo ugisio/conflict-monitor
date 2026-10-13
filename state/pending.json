@@ -292,5 +292,26 @@
   "uid": "03f9c6221c1f42da",
   "url": "https://t.me/astrapress/128034",
   "warning": false
+ },
+ {
+  "first_seen": "2026-10-13T16:01:31+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-13T15:32:00+00:00",
+  "reason": "region: estonia, russia · matched “attack someone,’ - Estonia” · single source, held at WATCH until another source corroborates",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "gnews_nato",
+  "source_name": "Google News — NATO & the Baltics",
+  "summary": "",
+  "text": "’Once war in Ukraine is over, Russia will definitely attack someone,’ - Estonia’s Defence Minister Цензор.НЕТ",
+  "tier": "news",
+  "title": "’Once war in Ukraine is over, Russia will definitely attack someone,’ - Estonia’s Defence Minister - Цензор.НЕТ",
+  "uid": "152a3e131545d421",
+  "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQLWU5ZEJjMWVDeXVwdWREV01kSmVDQUZVUXhWV21BNGtLVUxVXzM3YTExODgtOExPUVNudHZub0Y1V1dtSmp1emhxMDY0TVFQMzBZT0hPQld6MjBJV21FYXN2d3d5MFZlSmlFeWZFcUVqNjB2eVZLMjBWa2Nfc3N2M3d0bzVFNmVKelBCdV9QOFFOVkFSLVE?oc=5",
+  "warning": false
  }
 ]
