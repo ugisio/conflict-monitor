@@ -208,5 +208,26 @@
   "uid": "14fbfbe88a774cde",
   "url": "https://news.err.ee/1610164990/experts-full-damage-of-germany-s-august-hanning-scandal-yet-to-be-revealed",
   "warning": false
+ },
+ {
+  "first_seen": "2026-10-13T13:31:23+00:00",
+  "kind": "post",
+  "lang": "en",
+  "level": 2,
+  "note": "EN, fast breaking news, mixed reliability",
+  "posted": false,
+  "published": "2026-10-13T13:03:17+00:00",
+  "reason": "official warning about Russia / NATO · matched “official warning” · another report of a story already in the channel",
+  "repeat_of": "Ukraine war latest: NATO general warns 'we'd be ready to fight tonight' amid Russia threat - Sky News",
+  "repeats": 0,
+  "source_id": "tg_disclosetv",
+  "source_name": "Disclose.tv",
+  "summary": "",
+  "text": "NOW - NATO Deputy Asst Secretary General says that \"time frames for when we need to be ready to fight defensively have moved forward,\" due to \"Russian aggression,\" and that \"we have a year, something like that, to be fully ready.\" @disclosetv",
+  "tier": "osint",
+  "title": "NOW - NATO Deputy Asst Secretary General says that \"time frames for when we need to be ready to fight defensively have moved forward,\" due t…",
+  "uid": "8ce867369f69d04a",
+  "url": "https://t.me/disclosetv/21902",
+  "warning": true
  }
 ]
