@@ -145,5 +145,26 @@
   "uid": "9cc3e4e66de23a1a",
   "url": "https://t.me/novaya_europe/68300",
   "warning": false
+ },
+ {
+  "first_seen": "2026-10-13T10:31:24+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": true,
+  "published": "2026-10-11T19:42:35+00:00",
+  "reason": "official warning about Russia / NATO · matched “threat”",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "gnews_flank_warnings",
+  "source_name": "Google News — eastern flank (PL/FI/NATO)",
+  "summary": "",
+  "text": "Ukraine war latest: NATO general warns 'we'd be ready to fight tonight' amid Russia threat Sky News",
+  "tier": "news",
+  "title": "Ukraine war latest: NATO general warns 'we'd be ready to fight tonight' amid Russia threat - Sky News",
+  "uid": "a0946b3e665757f0",
+  "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWE85ZTBWbThzdnc2aVRKbmdDTXRCS2JkcTFKS1UwQXE4bXJyY251a1pfV3VudTVFWTk0ME1mTUJrV1V0MkJ5VmlfX1FWZnpGMjlqcU8yTkhkb0prbVlKNGhoWUNxaWQ1Rkl4OTY3ZEpXaEJscVROaExuTnF6V1dtYS0tZm9hbXBjTjZySTJoZ1BJYWRWRUx5dXBGTmlWQWY5MktiLVRRMDBkeXF0VzZUcDZmejdmb1hMdFNMYTZoZDE?oc=5",
+  "warning": true
  }
 ]
