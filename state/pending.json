@@ -61,5 +61,26 @@
   "uid": "6576647a51fc2ebd",
   "url": "https://news.err.ee/1610164834/estonia-s-defense-ministry-allocates-250-000-for-war-movies",
   "warning": false
+ },
+ {
+  "first_seen": "2026-10-13T08:22:33+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-13T07:47:00+00:00",
+  "reason": "official warning about Russia / NATO · matched “official warning” · another report of a story already in the channel",
+  "repeat_of": "Peacekeepers, riot police, and drone crews: Russia’s bloc rehearses an operation in a Belarusian oblast bordering two NATO states - Euromaidan Press",
+  "repeats": 0,
+  "source_id": "gnews_nato",
+  "source_name": "Google News — NATO & the Baltics",
+  "summary": "",
+  "text": "Czech intelligence chief warns of possible Russian attacks on NATO countries, drawing PM's criticism The New Voice of Ukraine",
+  "tier": "news",
+  "title": "Czech intelligence chief warns of possible Russian attacks on NATO countries, drawing PM's criticism - The New Voice of Ukraine",
+  "uid": "0084f62f0311603f",
+  "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZFhkNnZSWTdYN3I3VHJmREVZaFBuTURQd1Y3Qk9SQWZ0MGNzZjE1WTBzeVFpVUF2anE4MWw3cWdIa0RielNfTGh1dTBEaWhvdDB5UUxJUnNtOXZuTmtIRlNvbjc0Y1dXeUVDWlY3WmlHQkFDMm11cjRXcV92RkdxNldNNTlYcF9kWXRTTjJlV04wTF9FMGs4R1Fyb0V3a3lYa2FvZVozODlsQdIBpgFBVV95cUxNbkVfU1FUUzlRQk56bHEwUy1YODZYNXFiSlI0RWJDeGRFZlJVWTdsc3JJREttMkZ3OUlIUlFFLWZkSVVwSExvTFItdGluZTlWOFRPYWVSU2wwbUx2YzlPWndpWWxSa1dReEdNUzJWeFRmRVh6Q2wwa0NvTXhpUFZ3Q1VBUjBQT2x3OENRSlE4ZEo5MmNKWjNxVnNubWhnMEc0Nm83QmJn?oc=5",
+  "warning": true
  }
 ]
