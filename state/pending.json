@@ -229,5 +229,26 @@
   "uid": "8ce867369f69d04a",
   "url": "https://t.me/disclosetv/21902",
   "warning": true
+ },
+ {
+  "first_seen": "2026-10-13T14:01:27+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 1,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-13T13:38:00+00:00",
+  "reason": "region: lithuania · matched “Defence Ministry (in text)”",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "lrt_en",
+  "source_name": "LRT (Lithuania, EN)",
+  "summary": "",
+  "text": "Lithuania is investing more than €33 million to expand its military refuelling network, including fuel stations, storage facilities and vehicle wash stations, the Defence Ministry said Tuesday.",
+  "tier": "news",
+  "title": "Lithuania invests more than €33 million in military fuel infrastructure",
+  "uid": "73c6cb8fdc47031d",
+  "url": "https://www.lrt.lt/en/news-in-english/19/3081329/lithuania-invests-more-than-eur33-million-in-military-fuel-infrastructure",
+  "warning": false
  }
 ]
