@@ -166,5 +166,26 @@
   "uid": "a0946b3e665757f0",
   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWE85ZTBWbThzdnc2aVRKbmdDTXRCS2JkcTFKS1UwQXE4bXJyY251a1pfV3VudTVFWTk0ME1mTUJrV1V0MkJ5VmlfX1FWZnpGMjlqcU8yTkhkb0prbVlKNGhoWUNxaWQ1Rkl4OTY3ZEpXaEJscVROaExuTnF6V1dtYS0tZm9hbXBjTjZySTJoZ1BJYWRWRUx5dXBGTmlWQWY5MktiLVRRMDBkeXF0VzZUcDZmejdmb1hMdFNMYTZoZDE?oc=5",
   "warning": true
+ },
+ {
+  "first_seen": "2026-10-13T11:01:28+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-12T11:25:48+00:00",
+  "reason": "region: lithuania, nato · matched “Drone” · another report of a story already in the channel",
+  "repeat_of": "Peacekeepers, riot police, and drone crews: Russia’s bloc rehearses an operation in a Belarusian oblast bordering two NATO states - Euromaidan Press",
+  "repeats": 0,
+  "source_id": "gnews_nato",
+  "source_name": "Google News — NATO & the Baltics",
+  "summary": "",
+  "text": "Danish-Lithuanian Drone Maker Monopulse Raises €2M+ to Scale NATO-Grade UAV Production The Recursive",
+  "tier": "news",
+  "title": "Danish-Lithuanian Drone Maker Monopulse Raises €2M+ to Scale NATO-Grade UAV Production - The Recursive",
+  "uid": "be3f1a1723edaf8b",
+  "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeUUwelNNZUFYVTM3LWV4U0FuWTZWUVFPYXFVYVZJckR1M0RHUWpJbmFNbzdyZVF2VklnbDR2V0RCbnVjWmZQUzBabmloSmN3YWptbEpJSGUtdFRrN19jYkZLUWRaS1M1bFdUNWx3Y3lwUVR6TlRxb3lWU1cyV3RmcTQ0VC1tYlphdGlVMEVkTHpTQk5EWFk1dExJaHU0Tlc2TG5WeXNXS2h6MUthS0dRR2dnd0h2bWdl?oc=5",
+  "warning": false
  }
 ]
