@@ -250,5 +250,26 @@
   "uid": "73c6cb8fdc47031d",
   "url": "https://www.lrt.lt/en/news-in-english/19/3081329/lithuania-invests-more-than-eur33-million-in-military-fuel-infrastructure",
   "warning": false
+ },
+ {
+  "first_seen": "2026-10-13T14:31:19+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 1,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-13T14:27:00+00:00",
+  "reason": "region: eastern flank · matched “defence budget”",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "lrt_en",
+  "source_name": "LRT (Lithuania, EN)",
+  "summary": "",
+  "text": "Dublin suggested cuts to the European Competitiveness Fund (ECF) and Connecting Europe Facility.",
+  "tier": "news",
+  "title": "Eastern flank criticism mounts over Ireland’s EU defence budget cuts",
+  "uid": "659b4734d7749cc3",
+  "url": "https://www.lrt.lt/en/news-in-english/19/3081351/eastern-flank-criticism-mounts-over-ireland-s-eu-defence-budget-cuts",
+  "warning": false
  }
 ]
