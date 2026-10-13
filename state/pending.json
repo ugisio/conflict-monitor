@@ -103,5 +103,26 @@
   "uid": "ec10210713477cfd",
   "url": "https://t.me/astrapress/127998",
   "warning": false
+ },
+ {
+  "first_seen": "2026-10-13T09:31:27+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-13T07:39:56+00:00",
+  "reason": "region: latvia, latvian, belarus, belarusian · matched “Sabotage” · another report of a story already in the channel",
+  "repeat_of": "Peacekeepers, riot police, and drone crews: Russia’s bloc rehearses an operation in a Belarusian oblast bordering two NATO states - Euromaidan Press",
+  "repeats": 0,
+  "source_id": "gnews_latvia_security",
+  "source_name": "Google News — Latvia security",
+  "summary": "",
+  "text": "Group Likely Linked to Belarusian and Russian Intelligence Claims Responsibility for Sabotage on Latvian Border Militarnyi",
+  "tier": "news",
+  "title": "Group Likely Linked to Belarusian and Russian Intelligence Claims Responsibility for Sabotage on Latvian Border - Militarnyi",
+  "uid": "a87856c7743bf733",
+  "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNaFUzdnF4ZGREOTRoNDRGX1p0U3RhYkxUX0lVRjBRT1NIaDBEa2hrQ2VYQ0R1d1JzWVlxLWFVZEd5YVZOZ3NUaXAxRmY3RXhPVVRMZDdUOUhqVklzY1oxUW9XWHpCV2UtSzR5WnM5eFFRU3pvUW9EUC1oc0JDcE1Tb0tLbkdIaHowTXgtejQ1a1F3WWxmLWRrZDdzVFJ1V1hSQnNqX0pnVkRuNEdTbzNVeGhkS3laUXI1dThpOXRIQ1ozM3BucTJfN1JfQUwzM0ZfSnkyU1ZhNEFkTWs?oc=5",
+  "warning": false
  }
 ]
