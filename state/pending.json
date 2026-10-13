@@ -166,5 +166,26 @@
   "uid": "12c0e7835b9d14e4",
   "url": "https://t.me/astrapress/127973",
   "warning": true
+ },
+ {
+  "first_seen": "2026-10-13T01:31:29+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-12T18:34:53+00:00",
+  "reason": "official warning about Russia / NATO · planning/hypothetical wording, softened · matched “Attacks on NATO Territory” · another report of a story already in the channel",
+  "repeat_of": "Peacekeepers, riot police, and drone crews: Russia’s bloc rehearses an operation in a Belarusian oblast bordering two NATO states - Euromaidan Press",
+  "repeats": 0,
+  "source_id": "gnews_flank_warnings",
+  "source_name": "Google News — eastern flank (PL/FI/NATO)",
+  "summary": "",
+  "text": "Czech Intelligence Warns Russia Could Launch Sabotage and Drone Attacks on NATO Territory - Oj Odessa Journal",
+  "tier": "news",
+  "title": "Czech Intelligence Warns Russia Could Launch Sabotage and Drone Attacks on NATO Territory - Oj - Odessa Journal",
+  "uid": "dc1ad601b593969e",
+  "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQMFoxcENSWlQ0cHZ4T2hmREJBb21iU195alNmTGhTTVhOUkUzQ2VYQTcxU0tpckVPN0gwUjZ5ZnJQb1JVNlFPZ1lxb193cVptRUdRbFNqN3pEZzhzcHlnSGttd3Y3Nl9ZZUk1YThQb3gzMklEcHZJUFJWX3VJVWlJUkhIV0syVkZGSzdXZG1mWXczbGtSQmFTa3FITWY2TFg5QVZVOVgzODV5em1nclJFT0JlNnFiaUF3NXJYazY0MkFmNVU?oc=5",
+  "warning": true
  }
 ]
