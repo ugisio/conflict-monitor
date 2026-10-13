@@ -19,5 +19,26 @@
   "uid": "14bce2eca8baa72e",
   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE80TkxHU3RSZHlhQU96Nk1uR1ZmaHk5Vzc2VUFjRXQ5Yzd4cWRaeTIwaDlLd0l0bEFFclc4TXI0MElBWmFRZ2hCVWtaUFFPYjdYZFVPa2dNcmV5R2RGeXFTMDUyNnDSAXBBVV95cUxNWUJZLVhMc21MVlpvLTdZODF1OVpfRGNkN2RyRkh2LUU3OG92WXpjZWZCWG1pNnFPYXg1cEtnbS1nRDZqbU9tcGhJVk9YenR0SGE5YjVRWUNFb1Fic3BrTS01dmxNQkU3NEZDZjBSWElF?oc=5",
   "warning": false
+ },
+ {
+  "first_seen": "2026-10-13T18:31:45+00:00",
+  "kind": "post",
+  "lang": "ru",
+  "level": 2,
+  "note": "RU, Belarus opposition media — best coverage of Belarus border/military",
+  "posted": false,
+  "published": "2026-10-13T18:04:40+00:00",
+  "reason": "region: калининград, росси · matched “флот” · another report of a story already in the channel",
+  "repeat_of": "Белорусу на 100 лет запретили въезд в Россию — за участие в минских маршах 2020 года Верховный суд Карелии постановил выдворить из России гр…",
+  "repeats": 0,
+  "source_id": "tg_nexta",
+  "source_name": "NEXTA Live",
+  "summary": "",
+  "text": "❤️ Французский спецназ высадился на «Калининград» Пока Вашингтон смягчает санкции, Франция продолжает борьбу с российским «теневым флотом». Французские военные высадились с вертолёта на нефтяной танкер DF Peak примерно в 450 морских милях от острова Реюньон. Раньше судно называлось «Калининград» и было связано с российским «Совкомфлотом». Танкер находится под санкциями США, ЕС и ряда других стран. Судно подозревают в использовании ложного флага и незаконной перевозке топлива. На борту находился 21 член экипажа. После проверки документов французские власти распорядились направить танкер к Реюньону для дальнейшего разбирательства. Президент Франции Эмманюэль Макрон опубликовал кадры операции и заявил: «Франция полна решимости бороться с так называемым теневым флотом, где бы в мире он ни находился».",
+  "tier": "osint",
+  "title": "❤️ Французский спецназ высадился на «Калининград» Пока Вашингтон смягчает санкции, Франция продолжает борьбу с российским «теневым флотом». …",
+  "uid": "b2fdcba5ddf63e32",
+  "url": "https://t.me/nexta_live/124883",
+  "warning": false
  }
 ]
