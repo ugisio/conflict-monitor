@@ -336,7 +336,7 @@
  },
  {
   "level": 2,
-  "n": 2,
+  "n": 3,
   "source": "LSM (Latvian public media, EN)",
   "stems": [
    "augus",
@@ -347,11 +347,15 @@
    "germa",
    "group",
    "hanni",
+   "likel",
+   "linke",
    "proba",
+   "respo",
    "revea",
    "sabot",
    "scand",
-   "sugge"
+   "sugge",
+   "takes"
   ],
   "title": "'Black Russian' sabotage group is probably a front, experts suggest",
   "ts": "2026-10-12T18:31:27+00:00"

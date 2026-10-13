@@ -313,5 +313,26 @@
   "uid": "152a3e131545d421",
   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQLWU5ZEJjMWVDeXVwdWREV01kSmVDQUZVUXhWV21BNGtLVUxVXzM3YTExODgtOExPUVNudHZub0Y1V1dtSmp1emhxMDY0TVFQMzBZT0hPQld6MjBJV21FYXN2d3d5MFZlSmlFeWZFcUVqNjB2eVZLMjBWa2Nfc3N2M3d0bzVFNmVKelBCdV9QOFFOVkFSLVE?oc=5",
   "warning": false
+ },
+ {
+  "first_seen": "2026-10-13T16:22:43+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-13T16:09:14+00:00",
+  "reason": "region: latvia, latvian, belarus, russia · matched “sabotage” · another report of a story already in the channel",
+  "repeat_of": "'Black Russian' sabotage group is probably a front, experts suggest",
+  "repeats": 0,
+  "source_id": "gnews_latvia_security",
+  "source_name": "Google News — Latvia security",
+  "summary": "",
+  "text": "Group likely linked to Belarus, Russia takes responsibility for sabotage at Latvian border Gwara Media",
+  "tier": "news",
+  "title": "Group likely linked to Belarus, Russia takes responsibility for sabotage at Latvian border - Gwara Media",
+  "uid": "0fea7d3307c577f8",
+  "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQN3BuU0hIN1JNQkRFZzkxMUtselV5cmlwR2xDaC1IN3FMazNFM0ppQXh0MDVHR2YyLXllTWJqbFFJQ3U4VlZVYldDeVI5QmxsU1NrMFhuM1BIcF9jR0lPMkw3cl92dk1YOFJGM3VhQmhFcWxmMG1HYTZlajlQUkgwV0hVanFrZXJpbFZLMEZ1VXE4R3NWaTgyMDVfNFhWTjcxRWRyd1FyazJ2dVR4d3BvUTUyYnE5dWc?oc=5",
+  "warning": false
  }
 ]
