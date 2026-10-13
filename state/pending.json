@@ -61,5 +61,26 @@
   "uid": "ad8b085bc68f13d6",
   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5zelo1MjFpeVhTcVQ1MjVGVXBpVTRJN2EzRVVlYUR1MkE4SVFJbHJUV2ptMXA0c2dCZHppbS01Y1hjX3BXbXZySGJ6Mk9aYmVhNTJtOURCQXhEc0NyTThocGEzTlduR1JKZDEwWUJHemY5eF9Wbkw2cnNOdlRQVU0?oc=5",
   "warning": true
+ },
+ {
+  "first_seen": "2026-10-13T20:01:38+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-13T19:38:37+00:00",
+  "reason": "region: baltic · matched “Threat”",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "gnews_latvia_security",
+  "source_name": "Google News — Latvia security",
+  "summary": "",
+  "text": "Putin’s Baltic Rhetoric and Cossack Buildup Signal Hybrid Threat The Jamestown Foundation",
+  "tier": "news",
+  "title": "Putin’s Baltic Rhetoric and Cossack Buildup Signal Hybrid Threat - The Jamestown Foundation",
+  "uid": "41ecc8fd467d011f",
+  "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNenAyQmVxWGliSFotSXpBMmhMUEw1YzcxQnotd0NOM2JkWUZTZU1MUzNuRlFuU3ZuT09WeEpZQ2R5MF9RbEh3RVVFVXFOeEphajBDcnVMbmFMZVN6c21yOGZHWkZBaUdjek5NbHhaemhfUXVIMkZwQlg2eFRrYUp5R3pvZFRRRjlSWmRkdWNkaw?oc=5",
+  "warning": false
  }
 ]
