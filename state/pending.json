@@ -40,5 +40,26 @@
   "uid": "b2fdcba5ddf63e32",
   "url": "https://t.me/nexta_live/124883",
   "warning": false
+ },
+ {
+  "first_seen": "2026-10-13T19:01:36+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": true,
+  "published": "2026-10-13T18:30:09+00:00",
+  "reason": "region: estonia, nato, russia · official warning · matched “Defense Minister”",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "gnews_nato",
+  "source_name": "Google News — NATO & the Baltics",
+  "summary": "",
+  "text": "After War With Ukraine, Russia Will Test One of NATO Countries — Estonian Defense Minister Мілітарний",
+  "tier": "news",
+  "title": "After War With Ukraine, Russia Will Test One of NATO Countries — Estonian Defense Minister - Мілітарний",
+  "uid": "ad8b085bc68f13d6",
+  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5zelo1MjFpeVhTcVQ1MjVGVXBpVTRJN2EzRVVlYUR1MkE4SVFJbHJUV2ptMXA0c2dCZHppbS01Y1hjX3BXbXZySGJ6Mk9aYmVhNTJtOURCQXhEc0NyTThocGEzTlduR1JKZDEwWUJHemY5eF9Wbkw2cnNOdlRQVU0?oc=5",
+  "warning": true
  }
 ]
