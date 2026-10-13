@@ -187,5 +187,26 @@
   "uid": "be3f1a1723edaf8b",
   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeUUwelNNZUFYVTM3LWV4U0FuWTZWUVFPYXFVYVZJckR1M0RHUWpJbmFNbzdyZVF2VklnbDR2V0RCbnVjWmZQUzBabmloSmN3YWptbEpJSGUtdFRrN19jYkZLUWRaS1M1bFdUNWx3Y3lwUVR6TlRxb3lWU1cyV3RmcTQ0VC1tYlphdGlVMEVkTHpTQk5EWFk1dExJaHU0Tlc2TG5WeXNXS2h6MUthS0dRR2dnd0h2bWdl?oc=5",
   "warning": false
+ },
+ {
+  "first_seen": "2026-10-13T12:01:28+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-13T11:58:00+00:00",
+  "reason": "region: estonia · matched “espionage (in text)” · another report of a story already in the channel",
+  "repeat_of": "'Black Russian' sabotage group is probably a front, experts suggest",
+  "repeats": 0,
+  "source_id": "err_en",
+  "source_name": "ERR News (Estonia, EN)",
+  "summary": "",
+  "text": "Former German foreign intelligence chief August Hanning's detention on suspicion of espionage has raised concerns about damage to Germany's national security and the credibility of its intelligence services, Estonian experts find.",
+  "tier": "news",
+  "title": "Experts: Full damage of Germany's August Hanning scandal yet to be revealed",
+  "uid": "14fbfbe88a774cde",
+  "url": "https://news.err.ee/1610164990/experts-full-damage-of-germany-s-august-hanning-scandal-yet-to-be-revealed",
+  "warning": false
  }
 ]
