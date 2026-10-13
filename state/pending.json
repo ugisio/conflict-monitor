@@ -82,5 +82,26 @@
   "uid": "0084f62f0311603f",
   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZFhkNnZSWTdYN3I3VHJmREVZaFBuTURQd1Y3Qk9SQWZ0MGNzZjE1WTBzeVFpVUF2anE4MWw3cWdIa0RielNfTGh1dTBEaWhvdDB5UUxJUnNtOXZuTmtIRlNvbjc0Y1dXeUVDWlY3WmlHQkFDMm11cjRXcV92RkdxNldNNTlYcF9kWXRTTjJlV04wTF9FMGs4R1Fyb0V3a3lYa2FvZVozODlsQdIBpgFBVV95cUxNbkVfU1FUUzlRQk56bHEwUy1YODZYNXFiSlI0RWJDeGRFZlJVWTdsc3JJREttMkZ3OUlIUlFFLWZkSVVwSExvTFItdGluZTlWOFRPYWVSU2wwbUx2YzlPWndpWWxSa1dReEdNUzJWeFRmRVh6Q2wwa0NvTXhpUFZ3Q1VBUjBQT2x3OENRSlE4ZEo5MmNKWjNxVnNubWhnMEc0Nm83QmJn?oc=5",
   "warning": true
+ },
+ {
+  "first_seen": "2026-10-13T09:02:11+00:00",
+  "kind": "post",
+  "lang": "ru",
+  "level": 2,
+  "note": "RU, independent; incidents inside Russia (Pskov, Leningrad region, Kaliningrad)",
+  "posted": false,
+  "published": "2026-10-13T08:54:59+00:00",
+  "reason": "region: балти, росси · planning/hypothetical wording, softened · matched “атаковать дронами аэродром Балти” · another report of a story already in the channel",
+  "repeat_of": "📝 Сдерживание с ударной дальностью 📝 История с британскими дронами в Эстонии получила продолжение. Если летом журналисты The Sun рассказывал…",
+  "repeats": 0,
+  "source_id": "tg_astra",
+  "source_name": "ASTRA",
+  "summary": "",
+  "text": "В Воронеже ФСБ задержали женщину якобы за планы атаковать дронами аэродром Балтимор. Для операции вызвали саперов Как заявило госагентство ТАСС со ссылкой на ФСБ, в Воронеже была задержана гражданка России, которая, как утверждается, готовила атаку дронами на аэродром Балтимор по заданию СБУ. Силовики говорят, что гражданка была завербована представителем украинских спецслужб в 2022 году, когда находилась на территории Украины. Утверждается, что женщина переместила в арендованное помещение девять комплектов БПЛА, в каждом из которых было 500г взрывчатки. Управление беспилотниками должно было осуществляться операторами из Украины через интернет, заявили в ФСБ.",
+  "tier": "osint",
+  "title": "В Воронеже ФСБ задержали женщину якобы за планы атаковать дронами аэродром Балтимор. Для операции вызвали саперов Как заявило госагентство Т…",
+  "uid": "ec10210713477cfd",
+  "url": "https://t.me/astrapress/127998",
+  "warning": false
  }
 ]
