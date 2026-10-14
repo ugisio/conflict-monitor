@@ -1,28 +1,6 @@
 [
  {
   "level": 2,
-  "n": 2,
-  "source": "Google News — Latvia security",
-  "stems": [
-   "armor",
-   "boats",
-   "coast",
-   "drone",
-   "franc",
-   "guard",
-   "ignor",
-   "marki",
-   "patro",
-   "putin",
-   "shahe",
-   "strip",
-   "unvei"
-  ],
-  "title": "Ignoring Putin’s warning, NATO arms up fast for Kaliningrad ‘war’? France’s ‘Shahed’ drone unveiled - Hindustan Times",
-  "ts": "2026-10-11T13:01:32+00:00"
- },
- {
-  "level": 2,
   "n": 6,
   "source": "Google News — eastern flank (PL/FI/NATO)",
   "stems": [
@@ -495,10 +473,12 @@
  },
  {
   "level": 2,
-  "n": 4,
+  "n": 6,
   "source": "Google News — Latvia security",
   "stems": [
+   "acqui",
    "activ",
+   "allie",
    "artic",
    "beach",
    "black",
@@ -506,16 +486,28 @@
    "coast",
    "comme",
    "consi",
+   "cross",
    "debri",
+   "doing",
    "drone",
+   "fight",
    "finds",
    "ident",
+   "light",
    "membe",
+   "missi",
    "myste",
    "possi",
    "probe",
+   "prote",
+   "reass",
+   "rutte",
+   "scram",
+   "skies",
+   "turki",
    "vesse",
-   "wreck"
+   "wreck",
+   "write"
   ],
   "title": "Poland probes possible drone debris on Baltic coast - TVP World",
   "ts": "2026-10-14T06:01:39+00:00"
