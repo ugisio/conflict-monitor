@@ -187,5 +187,26 @@
   "uid": "b1d4599b2c80dd88",
   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOamhxZHZqUXhVcG9uVVF4dXVscmxRQm51Zl9iYW4yVDJaSWdzei1xVzdoVFBReDFQZGktcldKNlVfZnZ3RUdHaEpNQXQzNDNvbnZCdjhZcFlQeXVza2dpTFRxZ2xyTnRrZl9ZNHFGYksxZUExV1ptLVRfeEpXTk1xd0hKMG93VWtsTzA2clM4ZENKa2hHYm5WSkpDQlFWYjAxWWNpRXZJM1c3azJBNnEw?oc=5",
   "warning": false
+ },
+ {
+  "first_seen": "2026-10-14T11:31:22+00:00",
+  "kind": "post",
+  "lang": "ru",
+  "level": 2,
+  "note": "RU, Belarus opposition media — best coverage of Belarus border/military",
+  "posted": false,
+  "published": "2026-10-14T11:20:27+00:00",
+  "reason": "region: эстони, нато, росси · official warning · matched “гибридные атак” · another report of a story already in the channel",
+  "repeat_of": "Белорусу на 100 лет запретили въезд в Россию — за участие в минских маршах 2020 года Верховный суд Карелии постановил выдворить из России гр…",
+  "repeats": 0,
+  "source_id": "tg_nexta",
+  "source_name": "NEXTA Live",
+  "summary": "",
+  "text": "Рютте: НАТО продолжит поддерживать Украину и защищать территорию союзников Генсек НАТО Марк Рютте назвал российские гибридные атаки признаком слабости. По его словам, альянс не будет поддаваться на провокации и продолжит укреплять оборону и помогать Украине. Премьер Эстонии Кристен Михал заявил, что Россия пытается отвлечь внимание Европы от Украины. Однако союзники продолжат поставлять Киеву оружие и усиливать поддержку. Рютте также подчеркнул, что НАТО готово защищать каждый дюйм территории союзников. На восточном фланге альянса уже размещены передовые сухопутные силы.",
+  "tier": "osint",
+  "title": "Рютте: НАТО продолжит поддерживать Украину и защищать территорию союзников Генсек НАТО Марк Рютте назвал российские гибридные атаки признако…",
+  "uid": "a210708915b51fc7",
+  "url": "https://t.me/nexta_live/124916",
+  "warning": true
  }
 ]
