@@ -208,5 +208,26 @@
   "uid": "a210708915b51fc7",
   "url": "https://t.me/nexta_live/124916",
   "warning": true
+ },
+ {
+  "first_seen": "2026-10-14T12:01:37+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-14T11:26:15+00:00",
+  "reason": "region: baltic · matched “drone” · another report of a story already in the channel",
+  "repeat_of": "Poland probes possible drone debris on Baltic coast - TVP World",
+  "repeats": 0,
+  "source_id": "gnews_latvia_security",
+  "source_name": "Google News — Latvia security",
+  "summary": "",
+  "text": "Mystery ‘UFO’ wreckage on Baltic beach identified as Polish military drone TVP World",
+  "tier": "news",
+  "title": "Mystery ‘UFO’ wreckage on Baltic beach identified as Polish military drone - TVP World",
+  "uid": "8b0eec5930353bf5",
+  "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOOEsyeV9CYXJ3Ty1fM18zSGJNYVR3R19waHpmQUJQaUt6M3B5Q013aHppZ2dUellyRWZOZzI2MEZOY0w5QlBQNGI0bzctR3l6amVrT2IwSDI3NlU0S2hMaEp1TnNjRm8wTm5HX0Q2WFpueFFEQVd3ZENGYnRlSXM3WDdlRnJXMVFPSHNfOGlOYnhxVkZ1UFpzUktRQy1ZSlZwRDlVa1JoLWZrSF9vNnc?oc=5",
+  "warning": false
  }
 ]

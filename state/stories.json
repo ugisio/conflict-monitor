@@ -488,7 +488,7 @@
  },
  {
   "level": 2,
-  "n": 3,
+  "n": 4,
   "source": "Google News — Latvia security",
   "stems": [
    "activ",
@@ -502,10 +502,13 @@
    "debri",
    "drone",
    "finds",
+   "ident",
    "membe",
+   "myste",
    "possi",
    "probe",
-   "vesse"
+   "vesse",
+   "wreck"
   ],
   "title": "Poland probes possible drone debris on Baltic coast - TVP World",
   "ts": "2026-10-14T06:01:39+00:00"
