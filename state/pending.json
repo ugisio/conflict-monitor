@@ -40,5 +40,26 @@
   "uid": "37601dabd9e98cea",
   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMmtkU0FoZlVlcDdDVWZiUF9UN0FDMDMwNHg0MHFPSFUzWUI2MG12MTgyS0lIWG9ZcTNjTVBuRmlVcnFTZnBJengtU3BVWkFDOVZlelRlSGRacFZyR3JkYnQ2ZFB2M2lZSkkxZHJtSnR5TU11cXpkTTg2VTc0NjlpNWFIZGJST0YyYnd5LTFDZDNhS25BNWNIUVFqdWpGVDB0MU5Gb3o3YWZaa0hEaVNXUUdlQzZtSlJJU3NOSl8tbFY?oc=5",
   "warning": false
+ },
+ {
+  "first_seen": "2026-10-14T21:01:37+00:00",
+  "kind": "post",
+  "lang": "ru",
+  "level": 2,
+  "note": "RU, independent Russian media based in Riga",
+  "posted": true,
+  "published": "2026-10-14T20:34:42+00:00",
+  "reason": "region: латви, росси · official warning · matched “official warning”",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "tg_meduza",
+  "source_name": "Meduza",
+  "summary": "",
+  "text": "Премьер-министр Латвии призвал «относиться с большой осторожностью» к независимым российским журналистам Так Андрис Кулбергс прокомментировал решение властей страны выдворить российского журналиста Леонида Рагозина. «Мы, Латвия, были слишком терпеливы и слишком терпимы, раз мирились с таким вводящим в заблуждение оправданием российской агрессии», — добавил Кулбергс. По его словам, правительство приняло «правильное решение» в отношении Рагозина. 13 октября журналист получил официальное уведомление о том, что его выдворяют из страны. По его словам, в документе не указано «ни одного конкретного правонарушения или высказывания, которое послужило причиной такого решения». В МИД Латвии ранее заявляли, что решение принималось на основе информации «от компетентных органов» после консультации с министром внутренних дел и премьер-министром. Сам журналист считает свое выдворение политическим преследованием из мести за его работу и публичные высказывания. @meduzalive",
+  "tier": "osint",
+  "title": "Премьер-министр Латвии призвал «относиться с большой осторожностью» к независимым российским журналистам Так Андрис Кулбергс прокомментирова…",
+  "uid": "56fe1a24e2eb62d4",
+  "url": "https://t.me/meduzalive/149201",
+  "warning": true
  }
 ]
