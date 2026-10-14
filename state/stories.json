@@ -1,24 +1,6 @@
 [
  {
   "level": 2,
-  "n": 2,
-  "source": "Google News — NATO & the Baltics",
-  "stems": [
-   "chief",
-   "czech",
-   "easte",
-   "flank",
-   "intel",
-   "inten",
-   "poten",
-   "rocks",
-   "scare"
-  ],
-  "title": "Security Scare Rocks NATO’s Eastern Flank As Polish PM, Defence Chief Face Potential Attack Threat - The Times of India",
-  "ts": "2026-10-11T17:02:06+00:00"
- },
- {
-  "level": 2,
   "n": 15,
   "source": "Google News — eastern flank (PL/FI/NATO)",
   "stems": [
