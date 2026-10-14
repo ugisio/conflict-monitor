@@ -82,5 +82,26 @@
   "uid": "2beda6337ad12453",
   "url": "https://www.lrt.lt/en/news-in-english/19/3081146/lithuanian-minister-proposes-to-ban-self-employment-for-foreign-students",
   "warning": false
+ },
+ {
+  "first_seen": "2026-10-14T10:01:28+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-13T06:58:56+00:00",
+  "reason": "region: latvia, nato · matched “drone” · another report of a story already in the channel",
+  "repeat_of": "Ukraine war latest: NATO general warns 'we'd be ready to fight tonight' amid Russia threat - Sky News",
+  "repeats": 0,
+  "source_id": "gnews_latvia_security",
+  "source_name": "Google News — Latvia security",
+  "summary": "",
+  "text": "NATO fighters shoot down drone in north-east Latvia / Article LSM",
+  "tier": "news",
+  "title": "NATO fighters shoot down drone in north-east Latvia / Article - LSM",
+  "uid": "298218befbfd9b82",
+  "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTXJ1eWxEVFJEMzF2MEpiQ3NYeGMtM3BIVW1FTjRCQTVmY2s0VHNWcHcwdmFlRVhmcThodzAta0YwcC12c2pjUXk0UjltV1JWYXBpbGUzWGdsdTBrdlV3c0JkR1dpQ0M4cC10eFJCNnRtcVBFYkNRZjBld1YwWUhfczFGd3Z0MUVENUJtZGpNUGp0OG1kbmk1VHdFQk1DMlpkUkRWY2ZaanpVTmxyTTJCckk5aDQ?oc=5",
+  "warning": false
  }
 ]
