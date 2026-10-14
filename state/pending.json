@@ -1,1 +1,23 @@
-[]
+[
+ {
+  "first_seen": "2026-10-14T06:01:29+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-14T05:21:00+00:00",
+  "reason": "region: baltic · matched “drone”",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "gnews_latvia_security",
+  "source_name": "Google News — Latvia security",
+  "summary": "",
+  "text": "Poland probes possible drone debris on Baltic coast TVP World",
+  "tier": "news",
+  "title": "Poland probes possible drone debris on Baltic coast - TVP World",
+  "uid": "81bf5e4c07f36f63",
+  "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPOVVjNzVzd2hJaTliN2JOUVN6c1NvMzVwZWZsMUhwdHRUV242bm16SnQtbzQwcG9ZYTM3azJ4TnVVSldEMUJoak5ZeWU0YVdxOXg4TXBsbDRfWnJLWFZsVDFoek9UWWcxSnZHMGVXb0tSNEVHam1FMGtBMVRwQUVEclliZ1lkTXVIQ09XSTEzVXpoLXAxQ1ZGbUIwUHJFaFNRNnpCeG9ERmZjalZaNk4tOHN0MmpTeXM1eU1TZmRR?oc=5",
+  "warning": false
+ }
+]
