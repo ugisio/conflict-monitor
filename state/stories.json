@@ -1,39 +1,6 @@
 [
  {
   "level": 2,
-  "n": 6,
-  "source": "Google News — eastern flank (PL/FI/NATO)",
-  "stems": [
-   "actua",
-   "alexu",
-   "alleg",
-   "chief",
-   "comma",
-   "czech",
-   "forme",
-   "futil",
-   "gener",
-   "grynk",
-   "intel",
-   "major",
-   "month",
-   "ready",
-   "reaso",
-   "relat",
-   "repla",
-   "right",
-   "sabot",
-   "saceu",
-   "strik",
-   "terri",
-   "utter",
-   "withi"
-  ],
-  "title": "Former general warns that UK and NATO are not ready for a war with Russia - Sky News",
-  "ts": "2026-10-11T13:26:44+00:00"
- },
- {
-  "level": 2,
   "n": 2,
   "source": "Google News — NATO & the Baltics",
   "stems": [
@@ -473,7 +440,7 @@
  },
  {
   "level": 2,
-  "n": 6,
+  "n": 7,
   "source": "Google News — Latvia security",
   "stems": [
    "acqui",
@@ -481,8 +448,10 @@
    "allie",
    "artic",
    "beach",
+   "bench",
    "black",
    "bulga",
+   "chief",
    "coast",
    "comme",
    "consi",
@@ -504,6 +473,7 @@
    "rutte",
    "scram",
    "skies",
+   "talli",
    "turki",
    "vesse",
    "wreck",

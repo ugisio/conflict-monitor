@@ -292,5 +292,26 @@
   "uid": "3c1bccb8a21b2a14",
   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5Ha25aTTdMQ2dFQVNSZDBPQUJQS0czdWlxQU1pNmxmeTIxRzEzdkYxRG5xNXlpcTVDUUxuTVZicHJ2SHV4U2NCVC0zSERNaEJaTTA3dWpkbk03emFlQUZsZ1ZLYTBwRjJna3lYbA?oc=5",
   "warning": false
+ },
+ {
+  "first_seen": "2026-10-14T13:31:20+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 1,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-14T07:43:00+00:00",
+  "reason": "region: estonia, nato · matched “defense spending (in text)” · another report of a story already in the channel",
+  "repeat_of": "Poland probes possible drone debris on Baltic coast - TVP World",
+  "repeats": 0,
+  "source_id": "err_en",
+  "source_name": "ERR News (Estonia, EN)",
+  "summary": "",
+  "text": "NATO Secretary General Mark Rutte said Estonia does not merely meet the alliance's defense spending requirements — it sets the standard on it and other contributions.",
+  "tier": "news",
+  "title": "NATO chief in Tallinn: Estonia a benchmark for what a member state should be",
+  "uid": "08ba0735b085577f",
+  "url": "https://news.err.ee/1610165896/nato-chief-in-tallinn-estonia-a-benchmark-for-what-a-member-state-should-be",
+  "warning": false
  }
 ]
