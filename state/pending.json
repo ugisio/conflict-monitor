@@ -61,5 +61,26 @@
   "uid": "96cda7beae3b3bc1",
   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMmtkU0FoZlVlcDdDVWZiUF9UN0FDMDMwNHg0MHFPSFUzWUI2MG12MTgyS0lIWG9ZcTNjTVBuRmlVcnFTZnBJengtU3BVWkFDOVZlelRlSGRacFZyR3JkYnQ2ZFB2M2lZSkkxZHJtSnR5TU11cXpkTTg2VTc0NjlpNWFIZGJST0YyYnd5LTFDZDNhS25BNWNIUVFqdWpGVDB0MU5Gb3o3YWZaa0hEaVNXUUdlQzZtSlJJU3NOSl8tbFY?oc=5",
   "warning": false
+ },
+ {
+  "first_seen": "2026-10-14T08:01:27+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 1,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-14T07:56:00+00:00",
+  "reason": "region: lithuania · matched “visa (in text)”",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "lrt_en",
+  "source_name": "LRT (Lithuania, EN)",
+  "summary": "",
+  "text": "Lithuania’s interior minister has proposed banning foreign students from working under self-employment certificates, arguing that some use student visas primarily as a way to obtain temporary residence permits rather than pursue their education.",
+  "tier": "news",
+  "title": "Lithuanian minister proposes to ban self-employment for foreign students",
+  "uid": "2beda6337ad12453",
+  "url": "https://www.lrt.lt/en/news-in-english/19/3081146/lithuanian-minister-proposes-to-ban-self-employment-for-foreign-students",
+  "warning": false
  }
 ]
