@@ -1,1 +1,23 @@
-[]
+[
+ {
+  "first_seen": "2026-10-14T18:31:23+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 1,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-14T18:03:58+00:00",
+  "reason": "region: estonia, nato · reassurance, not a warning · matched “threat” · another report of a story already in the channel",
+  "repeat_of": "Poland probes possible drone debris on Baltic coast - TVP World",
+  "repeats": 0,
+  "source_id": "gnews_nato",
+  "source_name": "Google News — NATO & the Baltics",
+  "summary": "",
+  "text": "NATO chief says there is no imminent military threat to alliance Estonian World",
+  "tier": "news",
+  "title": "NATO chief says there is no imminent military threat to alliance - Estonian World",
+  "uid": "995ddb2fbd461785",
+  "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPYXRKbVN3OVVEeTNLMldFcV8zSUpYZ1RGVkZrZURWaTRELTFNTW1HOHB0ekVNUnh5ZGd2cjVsbF9qU3A5ZDlKLW5vVlpDeHRWdl94M1lMV1lZcTdoaVVWRzVLM1BBSnZTLUhJclg4T3EtS2NiX2diOHpNeTFUdmk2VnZVNzBiV3VBV01pb3lnSHRTMER1NjJBMzA1RDFCVFQybnc?oc=5",
+  "warning": false
+ }
+]
