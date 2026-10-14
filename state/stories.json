@@ -440,7 +440,7 @@
  },
  {
   "level": 2,
-  "n": 7,
+  "n": 8,
   "source": "Google News — Latvia security",
   "stems": [
    "acqui",
@@ -459,9 +459,11 @@
    "debri",
    "doing",
    "drone",
+   "enoug",
    "fight",
    "finds",
    "ident",
+   "itsel",
    "light",
    "membe",
    "missi",
@@ -473,7 +475,9 @@
    "rutte",
    "scram",
    "skies",
+   "stupi",
    "talli",
+   "terri",
    "turki",
    "vesse",
    "wreck",
@@ -507,19 +511,26 @@
   "ts": "2026-10-14T08:01:38+00:00"
  },
  {
-  "level": 1,
-  "n": 1,
+  "level": 2,
+  "n": 2,
   "source": "Google News — Latvia security",
   "stems": [
    "briga",
+   "centr",
+   "commu",
    "compa",
    "danis",
    "enemy",
+   "excel",
    "exerc",
    "force",
-   "plays"
+   "organ",
+   "plays",
+   "strat",
+   "synes",
+   "visit"
   ],
-  "title": "Danish company plays enemy force in NATO brigade exercise in Latvia - Nordic Defence Sector",
-  "ts": "2026-10-14T11:01:43+00:00"
+  "title": "President of Latvia visits the “SYNESIS 2026” exercise organised by the NATO Strategic Communications Centre of Excellence - Valsts prezidenta kanceleja",
+  "ts": "2026-10-14T16:31:26+00:00"
  }
 ]
