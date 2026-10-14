@@ -229,5 +229,26 @@
   "uid": "8b0eec5930353bf5",
   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOOEsyeV9CYXJ3Ty1fM18zSGJNYVR3R19waHpmQUJQaUt6M3B5Q013aHppZ2dUellyRWZOZzI2MEZOY0w5QlBQNGI0bzctR3l6amVrT2IwSDI3NlU0S2hMaEp1TnNjRm8wTm5HX0Q2WFpueFFEQVd3ZENGYnRlSXM3WDdlRnJXMVFPSHNfOGlOYnhxVkZ1UFpzUktRQy1ZSlZwRDlVa1JoLWZrSF9vNnc?oc=5",
   "warning": false
+ },
+ {
+  "first_seen": "2026-10-14T12:31:28+00:00",
+  "kind": "post",
+  "lang": "ru",
+  "level": 2,
+  "note": "RU, Belarus opposition media — best coverage of Belarus border/military",
+  "posted": false,
+  "published": "2026-10-14T12:22:27+00:00",
+  "reason": "official warning about Russia / NATO · matched “official warning” · another report of a story already in the channel",
+  "repeat_of": "Белорусу на 100 лет запретили въезд в Россию — за участие в минских маршах 2020 года Верховный суд Карелии постановил выдворить из России гр…",
+  "repeats": 0,
+  "source_id": "tg_nexta",
+  "source_name": "NEXTA Live",
+  "summary": "",
+  "text": "🇮🇹 Мощнейшая речь Мелони: «Я не скучаю по российским танкам в Европе» Выступая в Сенате в преддверии саммит ЕС, премьер Италии призвала продолжать поддержку Украины и заявила, что её капитуляция не принесёт мира — но приведёт к оккупации и возвращению советского империализма. 💥 «Капитуляция — это не мир, а завоевание. Я не скучаю по российским танкам, которые подавляли восстания в Праге и Будапеште. И не скучаю по Берлинской стене», — заявила политик. Зал после этих слов поддержал её продолжительными аплодисментами. Говорила Джорджиа Мелони и соглашении США с Россией о поставках дизельного топлива, аккуратно назвав сделку рискованной.",
+  "tier": "osint",
+  "title": "🇮🇹 Мощнейшая речь Мелони: «Я не скучаю по российским танкам в Европе» Выступая в Сенате в преддверии саммит ЕС, премьер Италии призвала прод…",
+  "uid": "85b3d6a18ecbd37b",
+  "url": "https://t.me/nexta_live/124919",
+  "warning": true
  }
 ]
