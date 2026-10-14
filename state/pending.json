@@ -40,5 +40,26 @@
   "uid": "b3c77a1ee9e608f2",
   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE92azFBS2VVUmZWYzcxM0hiYXdpNTdIX1BtZWJPYlVBdlRyaXRnTEdyUlp4Mk13QjMxbEtISVljbTFlNW5BejFtd1J3Nm1vMEc3ZnZKSUlHakE4bGNBTzFlV29UM3JibkpVMkF2QW5URTlSbjRVYWdJ0gGDAUFVX3lxTFBscmkzcDhsc0I5SWJNWHFhVW5KY2xKeHJJUW1XeElkRnhuVnAxQVVkdHRCNHE2elZnLXRVQnVWYzdvbzVRMXQ5WG1rTW1saW1ObXY1ZTc1MVJnSU9NRnZtT0VPX2RnMmZ6cG9rd1dxSGpxYWNxbmp2NjQzUTlnOFhZYVpN?oc=5",
   "warning": true
+ },
+ {
+  "first_seen": "2026-10-14T07:31:11+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-14T07:06:31+00:00",
+  "reason": "region: baltic, nato · matched “drone” · another report of a story already in the channel",
+  "repeat_of": "Poland probes possible drone debris on Baltic coast - TVP World",
+  "repeats": 0,
+  "source_id": "gnews_latvia_security",
+  "source_name": "Google News — Latvia security",
+  "summary": "",
+  "text": "NATO member Poland finds possible drone on Baltic Sea beach Internazionale",
+  "tier": "news",
+  "title": "NATO member Poland finds possible drone on Baltic Sea beach - Internazionale",
+  "uid": "96cda7beae3b3bc1",
+  "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMmtkU0FoZlVlcDdDVWZiUF9UN0FDMDMwNHg0MHFPSFUzWUI2MG12MTgyS0lIWG9ZcTNjTVBuRmlVcnFTZnBJengtU3BVWkFDOVZlelRlSGRacFZyR3JkYnQ2ZFB2M2lZSkkxZHJtSnR5TU11cXpkTTg2VTc0NjlpNWFIZGJST0YyYnd5LTFDZDNhS25BNWNIUVFqdWpGVDB0MU5Gb3o3YWZaa0hEaVNXUUdlQzZtSlJJU3NOSl8tbFY?oc=5",
+  "warning": false
  }
 ]
