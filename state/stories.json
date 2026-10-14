@@ -477,17 +477,24 @@
  },
  {
   "level": 2,
-  "n": 2,
+  "n": 3,
   "source": "Google News — Latvia security",
   "stems": [
+   "activ",
+   "artic",
    "beach",
+   "black",
+   "bulga",
    "coast",
+   "comme",
+   "consi",
    "debri",
    "drone",
    "finds",
    "membe",
    "possi",
-   "probe"
+   "probe",
+   "vesse"
   ],
   "title": "Poland probes possible drone debris on Baltic coast - TVP World",
   "ts": "2026-10-14T06:01:39+00:00"
@@ -515,5 +522,21 @@
   ],
   "title": "Lithuanian minister proposes to ban self-employment for foreign students",
   "ts": "2026-10-14T08:01:38+00:00"
+ },
+ {
+  "level": 1,
+  "n": 1,
+  "source": "Google News — Latvia security",
+  "stems": [
+   "briga",
+   "compa",
+   "danis",
+   "enemy",
+   "exerc",
+   "force",
+   "plays"
+  ],
+  "title": "Danish company plays enemy force in NATO brigade exercise in Latvia - Nordic Defence Sector",
+  "ts": "2026-10-14T11:01:43+00:00"
  }
 ]
