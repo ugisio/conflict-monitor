@@ -340,7 +340,7 @@
  },
  {
   "level": 1,
-  "n": 1,
+  "n": 2,
   "source": "LSM (Latvian public media, EN)",
   "stems": [
    "confe",
@@ -392,15 +392,21 @@
  },
  {
   "level": 2,
-  "n": 1,
+  "n": 2,
   "source": "Google News — NATO & the Baltics",
   "stems": [
+   "allia",
    "centi",
+   "czech",
    "every",
+   "gener",
    "immin",
+   "launc",
+   "limit",
    "ready",
    "rutte",
-   "terri"
+   "terri",
+   "unity"
   ],
   "title": "NATO does not see threat of imminent Russian attack, but is ready to defend every centimeter of its territory, - Rutte - Цензор.НЕТ",
   "ts": "2026-10-15T08:01:32+00:00"
