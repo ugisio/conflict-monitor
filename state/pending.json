@@ -187,5 +187,26 @@
   "uid": "ff652dbe84b72133",
   "url": "https://t.me/rybar/83941",
   "warning": false
+ },
+ {
+  "first_seen": "2026-10-15T10:31:16+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 1,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-15T08:52:20+00:00",
+  "reason": "region: latvia, russia · matched “Visa”",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "gnews_latvia_security",
+  "source_name": "Google News — Latvia security",
+  "summary": "",
+  "text": "Latvia Calls for EU-Wide Ban on Russian Visas - Oj Odessa Journal",
+  "tier": "news",
+  "title": "Latvia Calls for EU-Wide Ban on Russian Visas - Oj - Odessa Journal",
+  "uid": "8c64ad375a7a4740",
+  "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNY3JYNVd3T1FkN0Y1NGxzWHc0c1dTdkpyRkdVSzlFdTRTdDBrTWlqZElvV3VuQmZDMjItTFNGMmEwR21XT3pXTmh0d3h0bHRQZXRPZGNyQzh2Y0VDSVNCZ0FpR2w3VVduSFhlWlI2ZGZCZUdPb1JLQ3M0Y1N5Wl9TUkIzVWptMkpJU2FhbHVvaUkwbWJIcVpHelNOT1JpY09NM1ZVMURKekRhUDNlYmphOG5xVHV4bmdxeG5ucDJqdEhOV3NTVHc?oc=5",
+  "warning": false
  }
 ]
