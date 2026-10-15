@@ -1,1 +1,23 @@
-[]
+[
+ {
+  "first_seen": "2026-10-15T06:01:30+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 1,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-15T05:45:00+00:00",
+  "reason": "region: rīga · matched “Training”",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "lsm_en",
+  "source_name": "LSM (Latvian public media, EN)",
+  "summary": "",
+  "text": "Thursday, October 15th sees Rīga hosting an important international conference titled Learning to Care: Education and Training in Culture and Health, as we previously reported.",
+  "tier": "news",
+  "title": "WATCH LIVE: Learning to Care: Education and Training in Culture and Health conference",
+  "uid": "733b7f60ffc82b9d",
+  "url": "https://eng.lsm.lv/article/features/video/15.10.2026-watch-live-learning-to-care-education-and-training-in-culture-and-health-conference.a657637/?utm_source=rss&utm_campaign=rss&utm_medium=links",
+  "warning": false
+ }
+]
