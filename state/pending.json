@@ -145,5 +145,26 @@
   "uid": "423352c48724e86a",
   "url": "https://t.me/novaya_europe/68368",
   "warning": false
+ },
+ {
+  "first_seen": "2026-10-15T08:01:24+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": true,
+  "published": "2026-10-15T07:03:00+00:00",
+  "reason": "official warning about Russia / NATO · matched “threat”",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "gnews_nato",
+  "source_name": "Google News — NATO & the Baltics",
+  "summary": "",
+  "text": "NATO does not see threat of imminent Russian attack, but is ready to defend every centimeter of its territory, - Rutte Цензор.НЕТ",
+  "tier": "news",
+  "title": "NATO does not see threat of imminent Russian attack, but is ready to defend every centimeter of its territory, - Rutte - Цензор.НЕТ",
+  "uid": "565d0c655484aa84",
+  "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZndGVUE4cTFoak9LbllHTHhLNzBhQkROeVRFSVFyWlQtV3lla1lqa3ZOTFRLbmVqcUdFS1lJMlBFMWhGa2d3b2l3T285TGFpcWFFMjlYTzFOYXdjSEJzb0VNeVk1MWRHbU5zUzlkWGxZSm0tRFRQQjdHY0tPbnVwX3NyYnpoVWJTOEQ3MFBudHhNSzFxVDZSUGlKenlKNWRnT1JLYmJJVExtMXUtSVpVdA?oc=5",
+  "warning": true
  }
 ]
