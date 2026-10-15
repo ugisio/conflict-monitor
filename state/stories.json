@@ -407,11 +407,18 @@
  },
  {
   "level": 1,
-  "n": 1,
+  "n": 2,
   "source": "ERR News (Estonia, EN)",
   "stems": [
+   "abroa",
+   "ballo",
    "elect",
+   "first",
+   "israe",
+   "kness",
    "lower",
+   "missi",
+   "opens",
    "parli",
    "suppo",
    "votin"

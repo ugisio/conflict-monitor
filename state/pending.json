@@ -208,5 +208,26 @@
   "uid": "8c64ad375a7a4740",
   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNY3JYNVd3T1FkN0Y1NGxzWHc0c1dTdkpyRkdVSzlFdTRTdDBrTWlqZElvV3VuQmZDMjItTFNGMmEwR21XT3pXTmh0d3h0bHRQZXRPZGNyQzh2Y0VDSVNCZ0FpR2w3VVduSFhlWlI2ZGZCZUdPb1JLQ3M0Y1N5Wl9TUkIzVWptMkpJU2FhbHVvaUkwbWJIcVpHelNOT1JpY09NM1ZVMURKekRhUDNlYmphOG5xVHV4bmdxeG5ucDJqdEhOV3NTVHc?oc=5",
   "warning": false
+ },
+ {
+  "first_seen": "2026-10-15T12:49:51+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 1,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-15T10:52:30+00:00",
+  "reason": "region: source scope · matched “voting” · another report of a story already in the channel",
+  "repeat_of": "Estonian parliament supports lower voting age at European Parliament elections",
+  "repeats": 0,
+  "source_id": "gnews_israel_region",
+  "source_name": "Google News — Israeli embassies / NSC in the region",
+  "summary": "",
+  "text": "First Knesset election ballots cast as voting opens at Israel’s missions abroad The Times of Israel",
+  "tier": "news",
+  "title": "First Knesset election ballots cast as voting opens at Israel’s missions abroad - The Times of Israel",
+  "uid": "b89f64294e18c579",
+  "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRC1sdFJ1MWg1dFZ3c2ZMQ1J6dVFPRS1ob2pHbVZRek1zN080RXpsSUxHcERnT2RUUklJdGtoS294cDFaSDBfZzUyai1NeGhlZTFTbVcxdGlKS2lDUFBMWDdqVkxlVnJaZ0FfYXl1RjBUc09YR1VnRnAwUDVLb29qZ3FCQTRqbllWX0Rod214ZUhKQko1NFY3RmowU016T01hZmUzeGRTd2RBSi1QUlHSAbMBQVVfeXFMUE0ySVd1MU9yOE5CX0RtQ2NLNzk4M1RBYW1QeTBGcXc3SXZzRUdWVHYtMlJZNkh5S3VtRzhWdXNwdmNSaVRRY2ZINEliWkRaYXRnWURVem1Pc0JVR2RPcjlXWTU0YTRBeUJ1QjRBVm5vNlRrT1UxMVVuaXF0aFRRcGo5cGNOQkR4OWJlNHNTRjZHRWdMMmFwV3pveDAtUXZKTHE4cUJ0STkzMEhMUjQtNEllaHM?oc=5",
+  "warning": false
  }
 ]
