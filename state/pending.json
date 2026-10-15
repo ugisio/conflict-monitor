@@ -61,5 +61,26 @@
   "uid": "56fe1a24e2eb62d4",
   "url": "https://t.me/meduzalive/149201",
   "warning": true
+ },
+ {
+  "first_seen": "2026-10-15T01:46:13+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": true,
+  "published": "2026-10-14T21:42:45+00:00",
+  "reason": "official warning about Russia / NATO · matched “military commander”",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "gnews_flank_warnings",
+  "source_name": "Google News — eastern flank (PL/FI/NATO)",
+  "summary": "",
+  "text": "Russia is at war with Nato ‘today’, says former top military commander London Evening Standard",
+  "tier": "news",
+  "title": "Russia is at war with Nato ‘today’, says former top military commander - London Evening Standard",
+  "uid": "a2b380d756839c07",
+  "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZGFUVFJZVm5FcGpoN2hSS0tqaWV4R0t4aENiYU1Hbm9iRXdCRm1CT2YwQnBOTmI5ZVUyeHkxY2dhR3pSdmt6MWJsOGx6YnR1UnlFcnFQSUlEZHdSSERSb1k5MzFkRHNhdXhXRldaRmZ2aXFheXVGejhGNjBtZGNBaWFWU3lWRk1ESUpOOE5vS096dnJqb29Yc2dLY19SUDJfQjA1VTdzcUE4MWJMb2c?oc=5",
+  "warning": true
  }
 ]
