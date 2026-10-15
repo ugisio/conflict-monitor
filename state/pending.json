@@ -229,5 +229,26 @@
   "uid": "b89f64294e18c579",
   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRC1sdFJ1MWg1dFZ3c2ZMQ1J6dVFPRS1ob2pHbVZRek1zN080RXpsSUxHcERnT2RUUklJdGtoS294cDFaSDBfZzUyai1NeGhlZTFTbVcxdGlKS2lDUFBMWDdqVkxlVnJaZ0FfYXl1RjBUc09YR1VnRnAwUDVLb29qZ3FCQTRqbllWX0Rod214ZUhKQko1NFY3RmowU016T01hZmUzeGRTd2RBSi1QUlHSAbMBQVVfeXFMUE0ySVd1MU9yOE5CX0RtQ2NLNzk4M1RBYW1QeTBGcXc3SXZzRUdWVHYtMlJZNkh5S3VtRzhWdXNwdmNSaVRRY2ZINEliWkRaYXRnWURVem1Pc0JVR2RPcjlXWTU0YTRBeUJ1QjRBVm5vNlRrT1UxMVVuaXF0aFRRcGo5cGNOQkR4OWJlNHNTRjZHRWdMMmFwV3pveDAtUXZKTHE4cUJ0STkzMEhMUjQtNEllaHM?oc=5",
   "warning": false
+ },
+ {
+  "first_seen": "2026-10-15T14:01:33+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-15T13:53:00+00:00",
+  "reason": "region: lithuania · matched “drone” · another report of a story already in the channel",
+  "repeat_of": "President of Latvia visits the “SYNESIS 2026” exercise organised by the NATO Strategic Communications Centre of Excellence - Valsts prezidenta kanceleja",
+  "repeats": 0,
+  "source_id": "lrt_en",
+  "source_name": "LRT (Lithuania, EN)",
+  "summary": "",
+  "text": "Lithuanian defence technology company Pekkla and Ukraine’s December One RND have agreed to establish a joint factory in Lithuania to produce electronic warfare systems and drone components, with production expected to begin in 2027.",
+  "tier": "news",
+  "title": "Lithuanian and Ukrainian companies plan joint drone components factory",
+  "uid": "f36075b7c21231e5",
+  "url": "https://www.lrt.lt/en/news-in-english/19/3083396/lithuanian-and-ukrainian-companies-plan-joint-drone-components-factory",
+  "warning": false
  }
 ]
