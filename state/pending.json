@@ -250,5 +250,26 @@
   "uid": "f36075b7c21231e5",
   "url": "https://www.lrt.lt/en/news-in-english/19/3083396/lithuanian-and-ukrainian-companies-plan-joint-drone-components-factory",
   "warning": false
+ },
+ {
+  "first_seen": "2026-10-15T14:31:19+00:00",
+  "kind": "post",
+  "lang": "en",
+  "level": 2,
+  "note": "EN, conflict news aggregator",
+  "posted": true,
+  "published": "2026-10-15T14:06:13+00:00",
+  "reason": "official warning about Russia / NATO · matched “official warning”",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "tg_clashreport",
+  "source_name": "Clash Report",
+  "summary": "",
+  "text": "German AfD MP Maximilian Krah tells Clash Report that Chancellor Friedrich Merz could lead Germany into war with Russia and use it to target the opposition: What is the worst-case scenario? That Merz is increasing tensions with Russia, that he is leading Germany into war with Russia, and then using the state of war to go after the opposition. Finally he is attacking Russia, provoking a Russian counterattack, and then using the Russian counterattack to say we are in a state of war, and first we have to abolish the AfD. Merz is now a dangerous man because he has no hesitation about bringing all of Europe into war with Russia. WATCH THE FULL INTERVIEW",
+  "tier": "osint",
+  "title": "German AfD MP Maximilian Krah tells Clash Report that Chancellor Friedrich Merz could lead Germany into war with Russia and use it to target…",
+  "uid": "c514bda0dae80d98",
+  "url": "https://t.me/ClashReport/101153",
+  "warning": true
  }
 ]
