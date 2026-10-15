@@ -1,19 +1,5 @@
 [
  {
-  "level": 1,
-  "n": 1,
-  "source": "Google News — Latvia security",
-  "stems": [
-   "consc",
-   "forge",
-   "hallm",
-   "putin",
-   "weste"
-  ],
-  "title": "Forged news of military conscripts in Kaliningrad had hallmarks of a Western counter-attack in Putin’s info wars - EUobserver",
-  "ts": "2026-10-12T15:01:44+00:00"
- },
- {
   "level": 2,
   "n": 3,
   "source": "LSM (Latvian public media, EN)",
@@ -263,21 +249,24 @@
  },
  {
   "level": 2,
-  "n": 3,
+  "n": 4,
   "source": "Google News — Latvia security",
   "stems": [
+   "artic",
    "briga",
    "centr",
    "commu",
    "compa",
    "compo",
    "danis",
+   "devel",
    "drone",
    "enemy",
    "excel",
    "exerc",
    "facto",
    "force",
+   "indus",
    "joint",
    "organ",
    "plays",

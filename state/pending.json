@@ -271,5 +271,26 @@
   "uid": "c514bda0dae80d98",
   "url": "https://t.me/ClashReport/101153",
   "warning": true
+ },
+ {
+  "first_seen": "2026-10-15T15:01:41+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-15T07:53:53+00:00",
+  "reason": "region: latvia, latvian · matched “Drone” · another report of a story already in the channel",
+  "repeat_of": "President of Latvia visits the “SYNESIS 2026” exercise organised by the NATO Strategic Communications Centre of Excellence - Valsts prezidenta kanceleja",
+  "repeats": 0,
+  "source_id": "gnews_latvia_security",
+  "source_name": "Google News — Latvia security",
+  "summary": "",
+  "text": "Drone industry develops in Latvia / Article Latvian Public Media",
+  "tier": "news",
+  "title": "Drone industry develops in Latvia / Article - Latvian Public Media",
+  "uid": "9f59b8613cf59920",
+  "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVVZKQU1xMlgtamp5UjRQYmMyNkxlMWJ4UGN0WVlONHJ2dHNiWXlrbm9WZFlIbXAwb3JGME5jWmZmS0VMUFBlZlNtVTVTcXl3ZlRLcmMwd292MDlNUzNGQ2tJamp3QmwyNllZYVJPVk50b3FhUkVURWRJSG40MVFCR2hwV2JjY3RvcFc4VmMzYVJYRkdWbFY0TEtQOFY?oc=5",
+  "warning": false
  }
 ]
