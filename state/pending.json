@@ -250,5 +250,26 @@
   "uid": "42dce85d4f7fff1a",
   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSG9YNFJHOXNqRjl6U21Vb2UxeHNXOXVGdDJzV3pRaS1ockJybVduczhIQjVtalBjNDJXdDhJRVhqMTd4dHVGSWhyTWJCR2pzSHpCbkp0NHItZ3JLZW1ETGFoYl9qSkh3MDEtU0w1QkJiTHhzcEFmUHJ0SHZwd0hwZTFWZ2dJVHZtZUZ6Yk4wckRJeXZtVWswcXZCTk5NaHl5ZDFVeFpGNFZGREhrQTIyTDJMbzQ1dEVnV1k3ZldkQXQ1SmtibnJ1N2UxdTFLOVRFMEE?oc=5",
   "warning": false
+ },
+ {
+  "first_seen": "2026-10-16T16:31:15+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-16T16:25:43+00:00",
+  "reason": "region: kaliningrad, russia · rhetoric / commentary, softened · matched “Threatened Nuclear”",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "gnews_latvia_security",
+  "source_name": "Google News — Latvia security",
+  "summary": "",
+  "text": "VIDEO: Why Russia Just Threatened Nuclear War Over Kaliningrad Eyes Only with Wes O'Donnell",
+  "tier": "news",
+  "title": "VIDEO: Why Russia Just Threatened Nuclear War Over Kaliningrad - Eyes Only with Wes O'Donnell",
+  "uid": "dc0035dbfa9544d3",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1YVmJPYlFFUnVkYnJxMUh1ZmZ1SUZCVGwyckhfcEJZcVpVcG1QLUIzUjhyTEpMdF9HZVRWWm5uOUJFeWdwSjR5cnMtVm9kb0J6SXdnSmdiTUVPTVZhTWJKSkJlN01uUDk3V2Rha2Ywcw?oc=5",
+  "warning": false
  }
 ]

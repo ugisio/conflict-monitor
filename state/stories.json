@@ -1,18 +1,6 @@
 [
  {
   "level": 2,
-  "n": 2,
-  "source": "Google News — NATO & the Baltics",
-  "stems": [
-   "anoth",
-   "defin",
-   "someo"
-  ],
-  "title": "’Once war in Ukraine is over, Russia will definitely attack someone,’ - Estonia’s Defence Minister - Цензор.НЕТ",
-  "ts": "2026-10-13T16:01:41+00:00"
- },
- {
-  "level": 2,
   "n": 1,
   "source": "Google News — Latvia security",
   "stems": [
@@ -428,5 +416,16 @@
   ],
   "title": "Latvia's National Guards drilling this weekend",
   "ts": "2026-10-16T10:31:31+00:00"
+ },
+ {
+  "level": 2,
+  "n": 1,
+  "source": "Google News — Latvia security",
+  "stems": [
+   "nucle",
+   "video"
+  ],
+  "title": "VIDEO: Why Russia Just Threatened Nuclear War Over Kaliningrad - Eyes Only with Wes O'Donnell",
+  "ts": "2026-10-16T16:31:24+00:00"
  }
 ]
