@@ -61,5 +61,26 @@
   "uid": "3bfc2546c54ee02e",
   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNX0dhWTlNdjg5UVRYLTVRTW5xRzRrMDJPNWVyRndRclVWSWhob0hWdURjRHk4T25hRnY1TTZmX0U1X1p5N3NoMDBqLXBmSHJMa1NGZkhsc1NhMDdnbW1tQTItYlhYbXFaR1R4QXJoZEF1bXdnOUlhZm9OUjJ6cm5CbnpPeDdtcFhSZmZKeHVMV0V2N1R6dlZxYno0Yng?oc=5",
   "warning": true
+ },
+ {
+  "first_seen": "2026-10-16T22:31:11+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 1,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-16T10:29:12+00:00",
+  "reason": "region: latvia, latvian · matched “National Guard” · another report of a story already in the channel",
+  "repeat_of": "Drone parts found in Rēzekne municipality, Latvia / Article - Latvian Public Media",
+  "repeats": 0,
+  "source_id": "gnews_latvia_security",
+  "source_name": "Google News — Latvia security",
+  "summary": "",
+  "text": "Latvia's National Guards drilling this weekend / Article Latvian Public Media",
+  "tier": "news",
+  "title": "Latvia's National Guards drilling this weekend / Article - Latvian Public Media",
+  "uid": "b07ec4c0a483ac7d",
+  "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNLWR6QWVLWGpycEpQYjVZU1JEbGJ4V01KUFcwNUFxb2s4Q2NuTHlOdVpmOXMwZkZiUTE0cHEzZENERXNYUjh4Y2FhWnhqZTNnR2VfcnZLSy1vbEFoelRCTEpfYXhmZXlDLTRPeHRiRzJnam84Q1dwc2EtZUs5Y3Q3MmtYNW1nMDl1YjVONV9wT2tGMzYxTWhFNl9OVGlkX3gxZ0NjbXdMU25yU1Vv?oc=5",
+  "warning": false
  }
 ]

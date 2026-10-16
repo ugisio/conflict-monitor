@@ -265,7 +265,7 @@
  },
  {
   "level": 2,
-  "n": 5,
+  "n": 6,
   "source": "Google News — Latvia security",
   "stems": [
    "airpo",
@@ -273,10 +273,12 @@
    "artic",
    "disru",
    "downi",
+   "drill",
    "drone",
    "exerc",
    "fligh",
    "found",
+   "guard",
    "inter",
    "munic",
    "parts",
@@ -287,6 +289,7 @@
    "shuts",
    "soldi",
    "swarm",
+   "weeke",
    "willi",
    "zekne"
   ],
