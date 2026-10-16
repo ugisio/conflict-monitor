@@ -61,5 +61,26 @@
   "uid": "b5e98cad85e4b45d",
   "url": "https://www.lrt.lt/en/news-in-english/19/3084115/lithuania-extends-military-support-for-patrolling-kaliningrad-border",
   "warning": false
+ },
+ {
+  "first_seen": "2026-10-16T09:01:26+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-16T06:43:59+00:00",
+  "reason": "region: kaliningrad, russia · matched “Drone” · another report of a story already in the channel",
+  "repeat_of": "Drone parts found in Rēzekne municipality, Latvia / Article - Latvian Public Media",
+  "repeats": 0,
+  "source_id": "gnews_latvia_security",
+  "source_name": "Google News — Latvia security",
+  "summary": "",
+  "text": "Drone swarm shuts 22 Russian airports, disrupting Kaliningrad flights The New Voice of Ukraine",
+  "tier": "news",
+  "title": "Drone swarm shuts 22 Russian airports, disrupting Kaliningrad flights - The New Voice of Ukraine",
+  "uid": "e86de4763f3f19a4",
+  "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSWVfRm1OektTMzRHMEJPTXYzMTF0d0RqRFBwZElNbDhVeDgzV0U0UW9POGV0TmoxY1AwTDI2RXo5ZDZrNDZMNkV5RUlVamhaRTBFQjdDb0lQMXVDRWd6RERCSUpLYThiWUI0RlNJTXBBNlRFcE5wczd0SU9BSjR5Z0R6aUVkeTF4bHNQSC1ESENNR29rbjI4OTBKN2ZVVllDLWt6OGlLcjZ1VkVyNFVIV1FsSFlXYWhkWnlrTnpvb1JQZW_SAb8BQVVfeXFMT2xEUzcyem05VUpVTTZjQjNlZ2lONmxYYXI5ZGRjZUU0aUVXaWpVWVhoZFdkU3VHX2JfTG1xazgyV2JJOU9xWWhVUF85aFl6WjFmT2c1OVJ0Y2pOQ1NPNFZEaFh5V0lxaUEyb053bV90Z2NSZm1iMFNLd0JCbDdqM1dLZ2hwTnVHNjRPMUstaU1YaTNGVFVXSHVuZDlXdXVqdGh4ay1nWTVTQmVyMmcwZzdZZFdFVThuYUlrUjRkVjA?oc=5",
+  "warning": false
  }
 ]
