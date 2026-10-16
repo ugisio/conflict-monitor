@@ -40,5 +40,26 @@
   "uid": "32fe230cc5d7e60b",
   "url": "https://t.me/nexta_live/125057",
   "warning": true
+ },
+ {
+  "first_seen": "2026-10-16T21:01:30+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-16T19:44:00+00:00",
+  "reason": "official warning about Russia / NATO · matched “escalat” · another report of a story already in the channel",
+  "repeat_of": "Polish PM Donald Tusk: Everyone expects an increase in Russian escalation and provocations on a larger scale. Leaders also reported what is …",
+  "repeats": 0,
+  "source_id": "gnews_flank_warnings",
+  "source_name": "Google News — eastern flank (PL/FI/NATO)",
+  "summary": "",
+  "text": "Russia may escalate hybrid warfare before Christmas, Poland’s PM warns TVP World",
+  "tier": "news",
+  "title": "Russia may escalate hybrid warfare before Christmas, Poland’s PM warns - TVP World",
+  "uid": "3bfc2546c54ee02e",
+  "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNX0dhWTlNdjg5UVRYLTVRTW5xRzRrMDJPNWVyRndRclVWSWhob0hWdURjRHk4T25hRnY1TTZmX0U1X1p5N3NoMDBqLXBmSHJMa1NGZkhsc1NhMDdnbW1tQTItYlhYbXFaR1R4QXJoZEF1bXdnOUlhZm9OUjJ6cm5CbnpPeDdtcFhSZmZKeHVMV0V2N1R6dlZxYno0Yng?oc=5",
+  "warning": true
  }
 ]
