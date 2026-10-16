@@ -19,5 +19,26 @@
   "uid": "6260bf09159db587",
   "url": "https://t.me/astrapress/128245",
   "warning": false
+ },
+ {
+  "first_seen": "2026-10-16T07:31:23+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 1,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-16T06:38:00+00:00",
+  "reason": "region: estonia · matched “passport”",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "err_en",
+  "source_name": "ERR News (Estonia, EN)",
+  "summary": "",
+  "text": "The Interior Ministry plans to redesign Estonian passports and add new security features, with blue covers returning for citizen passports from 2030.",
+  "tier": "news",
+  "title": "Estonia plans to bring back its blue passports from 2030",
+  "uid": "db2a363618c0b158",
+  "url": "https://news.err.ee/1610168353/estonia-plans-to-bring-back-its-blue-passports-from-2030",
+  "warning": false
  }
 ]
