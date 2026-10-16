@@ -1,1 +1,23 @@
-[]
+[
+ {
+  "first_seen": "2026-10-16T18:31:18+00:00",
+  "kind": "post",
+  "lang": "en",
+  "level": 2,
+  "note": "EN, conflict news aggregator",
+  "posted": true,
+  "published": "2026-10-16T18:27:09+00:00",
+  "reason": "region: baltic, russia · official warning · matched “escalat”",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "tg_clashreport",
+  "source_name": "Clash Report",
+  "summary": "",
+  "text": "Polish PM Donald Tusk: Everyone expects an increase in Russian escalation and provocations on a larger scale. Leaders also reported what is happening in their own countries, and these acts of sabotage and provocations, particularly in the Baltic states, are worrying.",
+  "tier": "osint",
+  "title": "Polish PM Donald Tusk: Everyone expects an increase in Russian escalation and provocations on a larger scale. Leaders also reported what is …",
+  "uid": "c0fd22d6faab2f0c",
+  "url": "https://t.me/ClashReport/101410",
+  "warning": true
+ }
+]
