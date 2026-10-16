@@ -40,5 +40,26 @@
   "uid": "db2a363618c0b158",
   "url": "https://news.err.ee/1610168353/estonia-plans-to-bring-back-its-blue-passports-from-2030",
   "warning": false
+ },
+ {
+  "first_seen": "2026-10-16T08:01:23+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 1,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-16T07:33:00+00:00",
+  "reason": "region: lithuania, kaliningrad, russia · matched “Defence Minister (in text)”",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "lrt_en",
+  "source_name": "LRT (Lithuania, EN)",
+  "summary": "",
+  "text": "Lithuania has extended military assistance to patrol its border with Russia’s Kaliningrad region until mid-November, Defence Minister Robertas Kaunas said.",
+  "tier": "news",
+  "title": "Lithuania extends military support for patrolling Kaliningrad border",
+  "uid": "b5e98cad85e4b45d",
+  "url": "https://www.lrt.lt/en/news-in-english/19/3084115/lithuania-extends-military-support-for-patrolling-kaliningrad-border",
+  "warning": false
  }
 ]
