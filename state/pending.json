@@ -1,1 +1,23 @@
-[]
+[
+ {
+  "first_seen": "2026-10-16T05:31:20+00:00",
+  "kind": "post",
+  "lang": "ru",
+  "level": 2,
+  "note": "RU, independent; incidents inside Russia (Pskov, Leningrad region, Kaliningrad)",
+  "posted": false,
+  "published": "2026-10-16T05:20:19+00:00",
+  "reason": "region: ленинградск · matched “воздушная тревог” · single source, held at WATCH until another source corroborates",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "tg_astra",
+  "source_name": "ASTRA",
+  "summary": "",
+  "text": "Четыре БПЛА сбиты за ночь над территорией Ленинградской области, была объявлена воздушная тревога, сообщил губернатор Александр Дрозденко.",
+  "tier": "osint",
+  "title": "Четыре БПЛА сбиты за ночь над территорией Ленинградской области, была объявлена воздушная тревога, сообщил губернатор Александр Дрозденко.",
+  "uid": "6260bf09159db587",
+  "url": "https://t.me/astrapress/128245",
+  "warning": false
+ }
+]
