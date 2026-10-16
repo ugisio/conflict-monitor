@@ -187,5 +187,26 @@
   "uid": "78bbef8f65e90166",
   "url": "https://t.me/ClashReport/101309",
   "warning": true
+ },
+ {
+  "first_seen": "2026-10-16T10:31:20+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-16T10:25:34+00:00",
+  "reason": "region: latvia, riga · matched “military exercise (in text)”",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "lsm_en",
+  "source_name": "LSM (Latvian public media, EN)",
+  "summary": "",
+  "text": "From October 16th to 18th, planned military exercises of the 19th Combat Support Battalion of the 1st Riga Brigade of the National Guard will take place in Ropaži and Bauska regions.",
+  "tier": "news",
+  "title": "Latvia's National Guards drilling this weekend",
+  "uid": "ca008fb01353fba0",
+  "url": "https://eng.lsm.lv/article/society/defence/16.10.2026-latvias-national-guards-drilling-this-weekend.a667904/?utm_source=rss&utm_campaign=rss&utm_medium=links",
+  "warning": false
  }
 ]
