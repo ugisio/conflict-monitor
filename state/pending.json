@@ -124,5 +124,26 @@
   "uid": "65e404e5646c78b9",
   "url": "https://news.err.ee/1610168431/estonia-gets-32m-eu-funding-for-free-world-s-first-line-of-defense-surveillance",
   "warning": false
+ },
+ {
+  "first_seen": "2026-10-16T09:31:24+00:00",
+  "kind": "post",
+  "lang": "en",
+  "level": 2,
+  "note": "EN, conflict news aggregator",
+  "posted": true,
+  "published": "2026-10-16T09:21:02+00:00",
+  "reason": "official warning about Russia / NATO · matched “official warning”",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "tg_clashreport",
+  "source_name": "Clash Report",
+  "summary": "",
+  "text": "Denmark’s PM Mette Frederiksen on Russia: I fundamentally do not believe that Putin can be trusted. I also don't think we should cooperate with Russia. What are we supposed to cooperate on when they want to take over parts of Europe? They are waging war against Europe every single day, directly in Ukraine, and through hybrid warfare against the rest of us.",
+  "tier": "osint",
+  "title": "Denmark’s PM Mette Frederiksen on Russia: I fundamentally do not believe that Putin can be trusted. I also don't think we should cooperate w…",
+  "uid": "2906bdcb5052eb05",
+  "url": "https://t.me/ClashReport/101296",
+  "warning": true
  }
 ]
