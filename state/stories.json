@@ -465,5 +465,32 @@
   ],
   "title": "Lithuania extends military support for patrolling Kaliningrad border",
   "ts": "2026-10-16T08:01:33+00:00"
+ },
+ {
+  "level": 2,
+  "n": 1,
+  "source": "ERR News (Estonia, EN)",
+  "stems": [
+   "cyber",
+   "exper",
+   "frenc",
+   "groce",
+   "store"
+  ],
+  "title": "Experts: French grocery store cyberattack a warning sign for Estonia",
+  "ts": "2026-10-16T09:15:10+00:00"
+ },
+ {
+  "level": 2,
+  "n": 1,
+  "source": "ERR News (Estonia, EN)",
+  "stems": [
+   "first",
+   "fundi",
+   "surve",
+   "world"
+  ],
+  "title": "Estonia gets €32m EU funding for 'free world's first line of defense' surveillance",
+  "ts": "2026-10-16T09:15:10+00:00"
  }
 ]
