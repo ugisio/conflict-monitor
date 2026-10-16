@@ -4,18 +4,6 @@
   "n": 1,
   "source": "LRT (Lithuania, EN)",
   "stems": [
-   "infra",
-   "inves",
-   "milli"
-  ],
-  "title": "Lithuania invests more than €33 million in military fuel infrastructure",
-  "ts": "2026-10-13T14:01:39+00:00"
- },
- {
-  "level": 1,
-  "n": 1,
-  "source": "LRT (Lithuania, EN)",
-  "stems": [
    "budge",
    "criti",
    "easte",
@@ -368,12 +356,14 @@
  },
  {
   "level": 2,
-  "n": 3,
+  "n": 5,
   "source": "Google News — Latvia security",
   "stems": [
    "airpo",
+   "airsp",
    "artic",
    "disru",
+   "downi",
    "drone",
    "exerc",
    "fligh",
@@ -382,8 +372,13 @@
    "munic",
    "parts",
    "place",
+   "possi",
+   "senio",
+   "shows",
    "shuts",
+   "soldi",
    "swarm",
+   "willi",
    "zekne"
   ],
   "title": "Drone parts found in Rēzekne municipality, Latvia / Article - Latvian Public Media",
