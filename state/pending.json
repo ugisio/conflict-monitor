@@ -19,5 +19,26 @@
   "uid": "93815a25c02bb546",
   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1OdENvNGpJMm1nbEFnWUJSaFJuZGNLenlGZnJzRmdLbGJucDlTVnNXYXJsVGdVakpoQ0lZSFUzSmRKRUNWZVJkaXFLaw?oc=5",
   "warning": true
+ },
+ {
+  "first_seen": "2026-10-17T09:13:04+00:00",
+  "kind": "post",
+  "lang": "en",
+  "level": 2,
+  "note": "EN, conflict news aggregator",
+  "posted": true,
+  "published": "2026-10-17T09:08:26+00:00",
+  "reason": "official warning about Russia / NATO · matched “official warning”",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "tg_clashreport",
+  "source_name": "Clash Report",
+  "summary": "",
+  "text": "Zelensky: At a time when Russia has launched massive attacks on our energy infrastructure, America has unfortunately decided to completely ignore the Lindsey Graham Act, which was meant to pressure Russia to end the war. We must not give up and must strive to end the war. End it, not give Putin every reason to continue it indefinitely.",
+  "tier": "osint",
+  "title": "Zelensky: At a time when Russia has launched massive attacks on our energy infrastructure, America has unfortunately decided to completely i…",
+  "uid": "4a30d5a392fbc67c",
+  "url": "https://t.me/ClashReport/101465",
+  "warning": true
  }
 ]
