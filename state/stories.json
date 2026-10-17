@@ -1,36 +1,6 @@
 [
  {
   "level": 2,
-  "n": 4,
-  "source": "Google News — Latvia security",
-  "stems": [
-   "artic",
-   "briga",
-   "centr",
-   "commu",
-   "compa",
-   "compo",
-   "danis",
-   "devel",
-   "drone",
-   "enemy",
-   "excel",
-   "exerc",
-   "facto",
-   "force",
-   "indus",
-   "joint",
-   "organ",
-   "plays",
-   "strat",
-   "synes",
-   "visit"
-  ],
-  "title": "President of Latvia visits the “SYNESIS 2026” exercise organised by the NATO Strategic Communications Centre of Excellence - Valsts prezidenta kanceleja",
-  "ts": "2026-10-14T16:31:26+00:00"
- },
- {
-  "level": 2,
   "n": 6,
   "source": "Meduza",
   "stems": [
