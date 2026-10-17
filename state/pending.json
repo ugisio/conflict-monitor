@@ -1,1 +1,23 @@
-[]
+[
+ {
+  "first_seen": "2026-10-17T20:01:25+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-17T19:50:26+00:00",
+  "reason": "region: baltic, russia · matched “attack the Baltic” · single source, held at WATCH until another source corroborates",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "gnews_latvia_security",
+  "source_name": "Google News — Latvia security",
+  "summary": "",
+  "text": "As long as Ukraine is fighting, the Russian Federation will not attack the Baltic states. The summer 2026 offensive proved this – Hrabskyi LIGA.net",
+  "tier": "news",
+  "title": "As long as Ukraine is fighting, the Russian Federation will not attack the Baltic states. The summer 2026 offensive proved this – Hrabskyi - LIGA.net",
+  "uid": "67df804fb00b2f62",
+  "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPNk5TRzhVNTdCREY0Ynlid1BtN0hLbDBnb3JWcmRFUGZUaWlSNnV4RU1nQ2k0RmdkUlZBTkhTeXdTRFNPWlNvcjY4bGF5TDhmWHpKMWJHbjQwa0Zad3F6SWpTby1iUWdGaER5VkV2R3FObWRucDZGSERzaUJ3dDNORjFMeVA0N1IwSkZLelJmN3hBYnR6UGpCY2pCUGR0cUd3RlBRT3FZSkx1REpVZFhiUGdZWE8tQ1pRUEM4N0lUUHB0NHdXcjBENGVKUnppMXFRalh1ZDZkQlAxQkUxQVRlWG1sOFhGMTQ4SDZyNDhsRXZXMWwtM0xsUHNsZDHSAYICQVVfeXFMTnJvZTFBQmUzcXBGTkJvQmo3dVlmUE1zYkp1dEhTNHhFeUNWdldaRUhBMVNxRVF2VUpfd2J2MkNWTFBVSGpjdzNjUmw1bjk1Z1BQRnNkVENza1loUkQ3X0lRMW9OY1ZpZWJjSVN2SnhKR1d3dHQzekRqV1VMdktObnZ6bXJrcjh6aVBDWWM0ZGZBdjh4N2Rlc21lU3J1NFZrd0dvQUQ3VlRWcTN0RXF3MUZaZTJka1Y5cDNOVVZpY1c1VVdIRXhSemxmOWZtRExGYTlsYks2TzNRU1g4VDgzRHVSaGczR3RhWWp2TFNpZ1ZEV2hYaHJtbjl2OHFBRUpmTWl3?oc=5",
+  "warning": false
+ }
+]
