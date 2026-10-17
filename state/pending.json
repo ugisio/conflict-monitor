@@ -40,5 +40,26 @@
   "uid": "4a30d5a392fbc67c",
   "url": "https://t.me/ClashReport/101465",
   "warning": true
+ },
+ {
+  "first_seen": "2026-10-17T10:31:25+00:00",
+  "kind": "post",
+  "lang": "ru",
+  "level": 2,
+  "note": "RU, independent; incidents inside Russia (Pskov, Leningrad region, Kaliningrad)",
+  "posted": false,
+  "published": "2026-10-17T10:22:53+00:00",
+  "reason": "region: ленинградск · matched “БПЛА”",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "tg_astra",
+  "source_name": "ASTRA",
+  "summary": "",
+  "text": "За ночь силами ПВО сбито 610 украинских БПЛА, — Минобороны РФ Дроны самолетного типа сбивали над территориями Ленинградской, Новгородской, Тверской, Брянской (ночью ASTRA сообщала, что в Брянске загорелся дом во время атаки БПЛА и воздушной тревоги), Белгородской…",
+  "tier": "osint",
+  "title": "За ночь силами ПВО сбито 610 украинских БПЛА, — Минобороны РФ Дроны самолетного типа сбивали над территориями Ленинградской, Новгородской, Т…",
+  "uid": "1bb365873e2db3c7",
+  "url": "https://t.me/astrapress/128420",
+  "warning": false
  }
 ]
