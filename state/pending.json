@@ -1,1 +1,23 @@
-[]
+[
+ {
+  "first_seen": "2026-10-17T08:01:30+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-17T07:31:40+00:00",
+  "reason": "official warning about Russia / NATO · matched “Hybrid Attack” · another report of a story already in the channel",
+  "repeat_of": "Polish PM Donald Tusk: Everyone expects an increase in Russian escalation and provocations on a larger scale. Leaders also reported what is …",
+  "repeats": 0,
+  "source_id": "gnews_official_warnings",
+  "source_name": "Google News — official warnings",
+  "summary": "",
+  "text": "Tusk: Russia May Escalate Hybrid Attacks on Poland Before Winter Kyiv Post",
+  "tier": "news",
+  "title": "Tusk: Russia May Escalate Hybrid Attacks on Poland Before Winter - Kyiv Post",
+  "uid": "93815a25c02bb546",
+  "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1OdENvNGpJMm1nbEFnWUJSaFJuZGNLenlGZnJzRmdLbGJucDlTVnNXYXJsVGdVakpoQ0lZSFUzSmRKRUNWZVJkaXFLaw?oc=5",
+  "warning": true
+ }
+]

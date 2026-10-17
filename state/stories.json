@@ -1,18 +1,5 @@
 [
  {
-  "level": 1,
-  "n": 1,
-  "source": "LRT (Lithuania, EN)",
-  "stems": [
-   "emplo",
-   "forei",
-   "propo",
-   "stude"
-  ],
-  "title": "Lithuanian minister proposes to ban self-employment for foreign students",
-  "ts": "2026-10-14T08:01:38+00:00"
- },
- {
   "level": 2,
   "n": 4,
   "source": "Google News — Latvia security",
@@ -369,7 +356,7 @@
  },
  {
   "level": 2,
-  "n": 2,
+  "n": 3,
   "source": "Clash Report",
   "stems": [
    "befor",
@@ -384,7 +371,8 @@
    "leade",
    "provo",
    "scale",
-   "warfa"
+   "warfa",
+   "winte"
   ],
   "title": "Polish PM Donald Tusk: Everyone expects an increase in Russian escalation and provocations on a larger scale. Leaders also reported what is …",
   "ts": "2026-10-16T18:31:24+00:00"
