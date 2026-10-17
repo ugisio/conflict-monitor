@@ -40,5 +40,26 @@
   "uid": "c4318cd1b0f9cfcf",
   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1Cb1ZVd3RfRWFBRFBzY21EdHFJaVlJS1FEdGJkU2RsMUVBNk0yU3dBcmVjSU9uSW5DZUlXZUhQbWpfX19OaU1wRUtNaDJSbEg3Zi1NVE5UVnZXVmo2VmZ2WHJuQ0Z5OF9lZkVoWTUtSG5qd1ItVXFydk1ydF83Zw?oc=5",
   "warning": false
+ },
+ {
+  "first_seen": "2026-10-17T23:01:34+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-16T21:03:26+00:00",
+  "reason": "region: latvia, latvian · matched “drone” · another report of a story already in the channel",
+  "repeat_of": "Zelensky: At a time when Russia has launched massive attacks on our energy infrastructure, America has unfortunately decided to completely i…",
+  "repeats": 0,
+  "source_id": "gnews_nato",
+  "source_name": "Google News — NATO & the Baltics",
+  "summary": "",
+  "text": "Another airspace alert issued in eastern Latvia over drone activity / Article Latvian Public Media",
+  "tier": "news",
+  "title": "Another airspace alert issued in eastern Latvia over drone activity / Article - Latvian Public Media",
+  "uid": "f51fba381bd8e47c",
+  "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNWlhekh4ajA0clBoSW9JcGhFUE1tdGliSVFxSkZUOHN5RzMwZjlhODJscmtlSm5jWGR3eGRWMXR4T1llWjN5X0lVRXY1WWVuNWJMRXBXR1NjLVF1cjZrZllUMVZQdFdBLTZlaUlTYmQ3dHJ1RXYyTTFSTjJiMDcxQV9kQ24ya21oQ2EwMk5LTW0yZ0wwbS1INGJ2d1Iwc19aY3VtSUNCd2xJaldVMnhhVFVxSmRhWG1RemgzREdZZlBaTXFXOFpkaHR3?oc=5",
+  "warning": false
  }
 ]
