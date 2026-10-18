@@ -1,20 +1,5 @@
 [
  {
-  "level": 1,
-  "n": 1,
-  "source": "LRT (Lithuania, EN)",
-  "stems": [
-   "behin",
-   "budge",
-   "faste",
-   "procu",
-   "spend",
-   "urges"
-  ],
-  "title": "Lithuanian PM urges faster defence procurement as spending lags behind budget",
-  "ts": "2026-10-15T07:01:42+00:00"
- },
- {
   "level": 2,
   "n": 2,
   "source": "Google News — NATO & the Baltics",
@@ -252,7 +237,7 @@
  },
  {
   "level": 2,
-  "n": 7,
+  "n": 9,
   "source": "Clash Report",
   "stems": [
    "actio",
@@ -262,11 +247,13 @@
    "alert",
    "ameri",
    "anoth",
+   "appro",
    "artic",
    "bausk",
    "compl",
    "crash",
    "decid",
+   "destr",
    "detec",
    "drone",
    "easte",
@@ -281,6 +268,7 @@
    "objec",
    "ogres",
    "possi",
+   "suspe",
    "swede",
    "takes",
    "under",
