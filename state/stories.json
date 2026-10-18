@@ -265,7 +265,7 @@
  },
  {
   "level": 2,
-  "n": 9,
+  "n": 10,
   "source": "ASTRA",
   "stems": [
    "astra",
@@ -279,35 +279,35 @@
    "белар",
    "белор",
    "беспи",
+   "больш",
    "введе",
+   "взрыв",
+   "вновь",
    "возду",
    "выпус",
    "горит",
+   "греме",
    "губер",
    "данны",
    "дрозд",
+   "дроно",
    "дроны",
+   "запад",
    "истре",
    "красн",
    "крупн",
    "ленин",
    "леноб",
+   "летел",
    "литве",
    "масси",
    "миноб",
    "много",
    "момен",
    "москв",
+   "налёт",
    "неизв",
-   "нефтя",
-   "новго",
-   "облас",
-   "объяв",
-   "огран",
-   "около",
-   "октяб",
-   "опасн",
-   "остал"
+   "нефтя"
   ],
   "title": "За ночь силами ПВО сбито 610 украинских БПЛА, — Минобороны РФ Дроны самолетного типа сбивали над территориями Ленинградской, Новгородской, Т…",
   "ts": "2026-10-17T10:31:30+00:00"
@@ -374,15 +374,52 @@
  },
  {
   "level": 2,
-  "n": 1,
+  "n": 2,
   "source": "Google News — Latvia security",
   "stems": [
    "artic",
    "confi",
    "crash",
-   "drone"
+   "debri",
+   "drone",
+   "enter",
+   "rural"
   ],
   "title": "Drone that crashed in Latvia confirmed as Ukrainian / Article - Latvian Public Media",
   "ts": "2026-10-18T09:31:22+00:00"
+ },
+ {
+  "level": 2,
+  "n": 1,
+  "source": "LRT (Lithuania, EN)",
+  "stems": [
+   "arson",
+   "attem",
+   "blame",
+   "equip",
+   "starl",
+   "stori"
+  ],
+  "title": "Attempted arson at Lithuanian firm storing Starlink equipment, PM blames Russia",
+  "ts": "2026-10-18T10:02:30+00:00"
+ },
+ {
+  "level": 1,
+  "n": 1,
+  "source": "Clash Report",
+  "stems": [
+   "armor",
+   "bases",
+   "image",
+   "inter",
+   "refil",
+   "refur",
+   "satel",
+   "shows",
+   "stora",
+   "vehic"
+  ],
+  "title": "INTERESTING: Satellite imagery shows Russia is refilling its long-term military storage bases with new and refurbished armored vehicles afte…",
+  "ts": "2026-10-18T10:02:30+00:00"
  }
 ]
