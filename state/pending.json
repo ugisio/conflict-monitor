@@ -103,5 +103,26 @@
   "uid": "a278eb500087daa8",
   "url": "https://t.me/astrapress/128471",
   "warning": false
+ },
+ {
+  "first_seen": "2026-10-18T02:31:59+00:00",
+  "kind": "post",
+  "lang": "ru",
+  "level": 1,
+  "note": "RU, independent; incidents inside Russia (Pskov, Leningrad region, Kaliningrad)",
+  "posted": false,
+  "published": "2026-10-18T02:14:37+00:00",
+  "reason": "region: ленинградск · matched “БПЛА” · another report of a story already in the channel",
+  "repeat_of": "За ночь силами ПВО сбито 610 украинских БПЛА, — Минобороны РФ Дроны самолетного типа сбивали над территориями Ленинградской, Новгородской, Т…",
+  "repeats": 0,
+  "source_id": "tg_astra",
+  "source_name": "ASTRA",
+  "summary": "",
+  "text": "В Санкт-Петербурге пылает «Петербургский нефтяной терминал» на фоне сообщений об атаке БПЛА, — OSINT-анализ ASTRA Красный уровень опасности по БПЛА в Ленинградской области объявили после полуночи. В то же время жители области и Санкт-Петербурга сообщали о…",
+  "tier": "osint",
+  "title": "В Санкт-Петербурге пылает «Петербургский нефтяной терминал» на фоне сообщений об атаке БПЛА, — OSINT-анализ ASTRA Красный уровень опасности …",
+  "uid": "4a5daf630e18e12f",
+  "url": "https://t.me/astrapress/128478",
+  "warning": false
  }
 ]
