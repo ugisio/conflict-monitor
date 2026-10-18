@@ -1,26 +1,5 @@
 [
  {
-  "level": 2,
-  "n": 2,
-  "source": "Google News — NATO & the Baltics",
-  "stems": [
-   "allia",
-   "centi",
-   "czech",
-   "every",
-   "gener",
-   "immin",
-   "launc",
-   "limit",
-   "ready",
-   "rutte",
-   "terri",
-   "unity"
-  ],
-  "title": "NATO does not see threat of imminent Russian attack, but is ready to defend every centimeter of its territory, - Rutte - Цензор.НЕТ",
-  "ts": "2026-10-15T08:01:32+00:00"
- },
- {
   "level": 1,
   "n": 1,
   "source": "Google News — Latvia security",
@@ -237,7 +216,7 @@
  },
  {
   "level": 2,
-  "n": 9,
+  "n": 10,
   "source": "Clash Report",
   "stems": [
    "actio",
@@ -255,27 +234,31 @@
    "decid",
    "destr",
    "detec",
+   "digit",
    "drone",
    "easte",
    "energ",
    "follo",
+   "hitti",
    "infra",
    "issue",
    "launc",
+   "lenin",
    "massi",
    "munic",
    "myste",
    "objec",
    "ogres",
+   "overn",
+   "peter",
    "possi",
+   "surro",
    "suspe",
    "swede",
    "takes",
+   "trans",
    "under",
-   "unfor",
-   "unide",
-   "urgen",
-   "zelen"
+   "unfor"
   ],
   "title": "Zelensky: At a time when Russia has launched massive attacks on our energy infrastructure, America has unfortunately decided to completely i…",
   "ts": "2026-10-17T09:13:10+00:00"

@@ -187,5 +187,26 @@
   "uid": "ebca5bf80b630115",
   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQd2ppUUVGWExVT29PdDdlU1RSQXlFQjdfWTU5Mlcwb2NlZ0xXUkZtQWtXVUdEa2stQVE1SnB1aGI3SmQzT3lUT0FSMEVsQUpwTUpNclVfalZQZXd5UUZwbUs3SHVSVUxKM0dRUWJqN3JvZEE3aHNZUVhIQnFnUzM1TkF3TElBY2xZaDhVcVpabTY2ZVBGYVgtZUlqVlNmUy1wZVhnV0pUTHNUZjViWXJ4OHVfSXM5NmNGUVkwcGNBcU5YX2s?oc=5",
   "warning": false
+ },
+ {
+  "first_seen": "2026-10-18T08:01:27+00:00",
+  "kind": "post",
+  "lang": "en",
+  "level": 1,
+  "note": "EN, conflict news aggregator",
+  "posted": false,
+  "published": "2026-10-18T07:58:23+00:00",
+  "reason": "region: baltic, russia · matched “drone” · another report of a story already in the channel",
+  "repeat_of": "Zelensky: At a time when Russia has launched massive attacks on our energy infrastructure, America has unfortunately decided to completely i…",
+  "repeats": 0,
+  "source_id": "tg_clashreport",
+  "source_name": "Clash Report",
+  "summary": "",
+  "text": "Ukraine launched a massive overnight drone attack on St. Petersburg and the surrounding Leningrad region, hitting energy, digital and transport infrastructure. Reported targets: — Petersburg Oil Terminal — the main fuel export hub on the Baltic, set on fire. — Ruchyi fuel depot — gasoline and diesel storage facility, fire reported. — VK data center — major server facility of Russia’s largest social network, attack confirmed by VK. — Vostochnaya substation — power facility next to the data center, about 20,000 people left without electricity. — Ozon warehouse — large logistics hub in Kolpino, fire confirmed by the company. — Western High-Speed Diameter bridge — cable-stayed expressway bridge, hit geolocated by analysts but not confirmed by officials.",
+  "tier": "osint",
+  "title": "Ukraine launched a massive overnight drone attack on St. Petersburg and the surrounding Leningrad region, hitting energy, digital and transp…",
+  "uid": "9e5e3c1c561dae54",
+  "url": "https://t.me/ClashReport/101612",
+  "warning": false
  }
 ]
