@@ -61,5 +61,26 @@
   "uid": "f51fba381bd8e47c",
   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNWlhekh4ajA0clBoSW9JcGhFUE1tdGliSVFxSkZUOHN5RzMwZjlhODJscmtlSm5jWGR3eGRWMXR4T1llWjN5X0lVRXY1WWVuNWJMRXBXR1NjLVF1cjZrZllUMVZQdFdBLTZlaUlTYmQ3dHJ1RXYyTTFSTjJiMDcxQV9kQ24ya21oQ2EwMk5LTW0yZ0wwbS1INGJ2d1Iwc19aY3VtSUNCd2xJaldVMnhhVFVxSmRhWG1RemgzREdZZlBaTXFXOFpkaHR3?oc=5",
   "warning": false
+ },
+ {
+  "first_seen": "2026-10-18T00:31:17+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": true,
+  "published": "2026-10-17T23:57:35+00:00",
+  "reason": "official warning about Russia / NATO · matched “escalat”",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "gnews_official_warnings",
+  "source_name": "Google News — official warnings",
+  "summary": "",
+  "text": "Polish Prime Minister Tusk warns of possible escalation of actions by russia even before Christmas - media reports Ukrainian news",
+  "tier": "news",
+  "title": "Polish Prime Minister Tusk warns of possible escalation of actions by russia even before Christmas - media reports - Ukrainian news",
+  "uid": "96e03d4de3704be2",
+  "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQS3lLaGxXZ0I3NmJSVWRCX1N3NXpldFA0ZTVidjZxel9CSnR6NW1yZVZWdHBweGprd0FpUUlHN2ZQMVh4bU55ZjZjWDdUTVg2aHlNT19KUzZrd1V6cGJOWFczby1jU3JJQWtxOUhwbGpTOUR5QU1EVHczT2F3TmlwVWtJYjFfYnBRTnZWM0lPSDVUSm5YYUFhdmUwR2dHQ1BhWlRmUlROWXBlSmRjWEtESXNoODZIQjAyQXExcExDU05PYUV2Szk40gHMAUFVX3lxTE14Qzl1UUJfVFlsNVhuaFk4RzFfWk9zOXR0emxtbjRPWFNyTF84cDltcU1tcjR4djlVWVNYMHd0YVNhSG1aa19CbThjd3I3S05HMzZlSkdxVzQ0R2x0QkF4VllEVDhDVTJoMDhoQkRmLU84T2NRNXlFRnhFREV4MU5VUGFVNnI1eGQ3ckgzQnlYTl9XREZXaFZwY3hEalhTRVlLZXJUclZwWXlFNll4SFpOc1hlNERBdUVEZ29VZVJFbi1vNWp4eldmVmJVMw?oc=5",
+  "warning": true
  }
 ]
