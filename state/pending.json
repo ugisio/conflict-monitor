@@ -838,5 +838,26 @@
   "uid": "70561a65cbb64012",
   "url": "https://t.me/novaya_europe/68529",
   "warning": false
+ },
+ {
+  "first_seen": "2026-10-18T16:01:32+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-18T15:39:10+00:00",
+  "reason": "region: lithuania · matched “Drone” · another report of a story already in the channel",
+  "repeat_of": "As long as Ukraine is fighting, the Russian Federation will not attack the Baltic states. The summer 2026 offensive proved this – Hrabskyi - LIGA.net",
+  "repeats": 0,
+  "source_id": "gnews_nato",
+  "source_name": "Google News — NATO & the Baltics",
+  "summary": "",
+  "text": "Drone Crashes in Lithuania – Ukraine Apologizes blue News",
+  "tier": "news",
+  "title": "Drone Crashes in Lithuania – Ukraine Apologizes - blue News",
+  "uid": "c6a335b653e1531f",
+  "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQcnNydDVRNUJPc2F0amRkM05oVGNqOGxzbzNBZ21EemdNVUQ4NXRqcDI1SktEd3JUdnUxYnZfeWVYUEF2aDZTaXAzS3FEUkNpY0g0VXR3Z2Y2N01GYm1ta1A5RFBKY1N4ZzQ5UVhYMkZUSGo1azRfOVV5eTJ6ajFvaFp5TXc2Y3hReC1SSl8wQUI?oc=5",
+  "warning": false
  }
 ]
