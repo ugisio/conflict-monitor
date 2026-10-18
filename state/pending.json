@@ -40,5 +40,26 @@
   "uid": "370a349a29f602a0",
   "url": "https://t.me/astrapress/128507",
   "warning": false
+ },
+ {
+  "first_seen": "2026-10-18T06:01:29+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-18T05:00:00+00:00",
+  "reason": "region: kaliningrad · matched “threat”",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "gnews_latvia_security",
+  "source_name": "Google News — Latvia security",
+  "summary": "",
+  "text": "Kaliningrad helped end Hitler’s war - now it's at the heart of Putin’s threat to Europe www.lbc.co.uk",
+  "tier": "news",
+  "title": "Kaliningrad helped end Hitler’s war - now it's at the heart of Putin’s threat to Europe - www.lbc.co.uk",
+  "uid": "aa3b18c2b11be3e9",
+  "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOcjNsdjNNYi1JdmVaRFdUNjVZNnJvVWc3NXdaNjdrUXNReWxDa2hpakVHNC14MFZHVHJULWlwd2tZdlVJOHl5X1FYZUNqUF81QU1KMjJxdEdHRkF4blJnYmhzNV80cHJNb2dEQXNJLWd4UWdCakdjTkZqc3lRNDZkcnJKS05IbU1jSzlBSlUzajFURnUxdEln?oc=5",
+  "warning": false
  }
 ]

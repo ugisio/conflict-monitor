@@ -2,22 +2,6 @@
  {
   "level": 1,
   "n": 2,
-  "source": "LSM (Latvian public media, EN)",
-  "stems": [
-   "confe",
-   "cultu",
-   "educa",
-   "healt",
-   "learn",
-   "train",
-   "watch"
-  ],
-  "title": "WATCH LIVE: Learning to Care: Education and Training in Culture and Health conference",
-  "ts": "2026-10-15T06:01:40+00:00"
- },
- {
-  "level": 1,
-  "n": 2,
   "source": "ERR News (Estonia, EN)",
   "stems": [
    "abroa",
@@ -409,5 +393,18 @@
   ],
   "title": "Latvia calls for visa ban on Russians - Financial Times",
   "ts": "2026-10-18T05:01:32+00:00"
+ },
+ {
+  "level": 2,
+  "n": 1,
+  "source": "Google News — Latvia security",
+  "stems": [
+   "heart",
+   "helpe",
+   "hitle",
+   "putin"
+  ],
+  "title": "Kaliningrad helped end Hitler’s war - now it's at the heart of Putin’s threat to Europe - www.lbc.co.uk",
+  "ts": "2026-10-18T06:01:39+00:00"
  }
 ]
