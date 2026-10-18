@@ -124,5 +124,26 @@
   "uid": "0e18d84a2641ea57",
   "url": "https://t.me/astrapress/128587",
   "warning": true
+ },
+ {
+  "first_seen": "2026-10-18T21:01:32+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-18T12:51:19+00:00",
+  "reason": "region: lithuania · matched “Drone” · another report of a story already in the channel",
+  "repeat_of": "Drone that crashed in Latvia confirmed as Ukrainian / Article - Latvian Public Media",
+  "repeats": 0,
+  "source_id": "gnews_nato",
+  "source_name": "Google News — NATO & the Baltics",
+  "summary": "",
+  "text": "‘Drone debris’ found in Lithuania after airspace alert TVP World",
+  "tier": "news",
+  "title": "‘Drone debris’ found in Lithuania after airspace alert - TVP World",
+  "uid": "b60d1a76d1012f40",
+  "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNSE1iNXBwQlpNSDNrNkFMbDVQTmRRZ1h1dkJvZ2ViZUlZVHZnRVEzM2lrTXNwNWIyTkNtNWZudVhSOUJmV1c1UHktUHM0QXJwdm9TZnM2WEpoTTB4a2N2c3RuamNmSHhzclhISkRCMVNGb19UcExOcnNaNlQtRHByNEJtbmxHTWlGZHZWbGZpbzN4STg?oc=5",
+  "warning": false
  }
 ]

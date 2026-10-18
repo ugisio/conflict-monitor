@@ -375,15 +375,18 @@
  },
  {
   "level": 2,
-  "n": 2,
+  "n": 3,
   "source": "Google News — Latvia security",
   "stems": [
+   "airsp",
+   "alert",
    "artic",
    "confi",
    "crash",
    "debri",
    "drone",
    "enter",
+   "found",
    "rural"
   ],
   "title": "Drone that crashed in Latvia confirmed as Ukrainian / Article - Latvian Public Media",
