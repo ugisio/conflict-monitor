@@ -271,5 +271,26 @@
   "uid": "6300a8ab4ba521a1",
   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQb2U2aVBWSkNqMkU1WVh6X3V2V241THBhbG9JNzctNjRDemhMMGwyMGJ1Ym5ZMnFBSUlmdzd5NHpwRXk2QjlqV05mcXB4RjNEc1BVN3lfYzQzSEdfRE1ybEdOcDlnc19rMXRnOU9Na2JETWY2SFZYRUwwY0VtU1VabmJUT0tGNF9GRkxWci1mbEs2TjNhQm93STBkMnRvbTAwQU5CQQ?oc=5",
   "warning": false
+ },
+ {
+  "first_seen": "2026-10-18T09:01:58+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-17T06:13:50+00:00",
+  "reason": "region: latvia, latvian · matched “mobilization” · single source, held at WATCH until another source corroborates · another report of a story already in the channel",
+  "repeat_of": "Zelensky: At a time when Russia has launched massive attacks on our energy infrastructure, America has unfortunately decided to completely i…",
+  "repeats": 0,
+  "source_id": "gnews_latvia_security",
+  "source_name": "Google News — Latvia security",
+  "summary": "",
+  "text": "Latvia to practice military mobilization this weekend / Article Latvian Public Media",
+  "tier": "news",
+  "title": "Latvia to practice military mobilization this weekend / Article - Latvian Public Media",
+  "uid": "e7e589441cb60848",
+  "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYXd4bTgwakVMNlNXcDh5X2NwODR3RGF0ZzVEN09RcFlFX3psaEVwLWM0ajFnOWZaNVZLbjc5OW9JcnAzWjgyWThqM2JJN05iN3BPMFBCM1BMX0JJNUhIOTdOYzNUUHVId09iRnNUTGc5VV9CeHRmSThWNVhLTGxOUHJ6XzhRR1ZRZHppUzM4TmYyUEo0Tm9SbDc2c3YwVlNfLWRZOXRPLUlORDVrclIwdXZ3MFlDbGc?oc=5",
+  "warning": false
  }
 ]
