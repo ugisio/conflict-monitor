@@ -82,5 +82,26 @@
   "uid": "96e03d4de3704be2",
   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQS3lLaGxXZ0I3NmJSVWRCX1N3NXpldFA0ZTVidjZxel9CSnR6NW1yZVZWdHBweGprd0FpUUlHN2ZQMVh4bU55ZjZjWDdUTVg2aHlNT19KUzZrd1V6cGJOWFczby1jU3JJQWtxOUhwbGpTOUR5QU1EVHczT2F3TmlwVWtJYjFfYnBRTnZWM0lPSDVUSm5YYUFhdmUwR2dHQ1BhWlRmUlROWXBlSmRjWEtESXNoODZIQjAyQXExcExDU05PYUV2Szk40gHMAUFVX3lxTE14Qzl1UUJfVFlsNVhuaFk4RzFfWk9zOXR0emxtbjRPWFNyTF84cDltcU1tcjR4djlVWVNYMHd0YVNhSG1aa19CbThjd3I3S05HMzZlSkdxVzQ0R2x0QkF4VllEVDhDVTJoMDhoQkRmLU84T2NRNXlFRnhFREV4MU5VUGFVNnI1eGQ3ckgzQnlYTl9XREZXaFZwY3hEalhTRVlLZXJUclZwWXlFNll4SFpOc1hlNERBdUVEZ29VZVJFbi1vNWp4eldmVmJVMw?oc=5",
   "warning": true
+ },
+ {
+  "first_seen": "2026-10-18T01:01:30+00:00",
+  "kind": "post",
+  "lang": "ru",
+  "level": 2,
+  "note": "RU, independent; incidents inside Russia (Pskov, Leningrad region, Kaliningrad)",
+  "posted": false,
+  "published": "2026-10-18T00:54:12+00:00",
+  "reason": "region: ленинградск · matched “БПЛА” · another report of a story already in the channel",
+  "repeat_of": "За ночь силами ПВО сбито 610 украинских БПЛА, — Минобороны РФ Дроны самолетного типа сбивали над территориями Ленинградской, Новгородской, Т…",
+  "repeats": 0,
+  "source_id": "tg_astra",
+  "source_name": "ASTRA",
+  "summary": "",
+  "text": "Санкт-Петербург, Москва и Ленинградская область под атакой БПЛА, во аэропортах введены ограничения на прием и выпуск воздушных судов, — власти Губернатор Ленинградской области сообщает об 57 сбитых БПЛА. Александр Дрозденко сообщил, что в Низино, Ломоносовского района, обломками БПЛА повреждены 4 автомобиля на парковке, зафиксировано возгорание. Читатели ASTRA сообщают о взрывах и работе ПВО в Подмосковье, а также в Санкт-Петербурге и Ленинградской области, в частности, в Кудрово. При этом петербуржцам не пришли СМС с оповещением об опасности БПЛА. А часть жителей города получили сообщения с сильной задержкой. Кроме этого мэр Москвы Сергей Собянин с 23:00 сообщает о сбитых беспилотниках. По состоянию на три часа ночи их было уже 87. О разрушениях и жертвах мэр не сообщает, но пишет, что специалисты экстренных служб работают на месте падения обломков. Росавиация заявила, что из-за атаки дронов введены ограничения в двух аэропортах Москвы, а также в Пулково. Видео OSINT-аналитиком ASTRA не верифицировано. 📸 Прислать фото/видео/информацию: @ helloastrabot 💥 Подписаться на ASTRA в Instagram , Facebook , X на русском , X на английском, WhatsApp и DeltaChat , TikTok",
+  "tier": "osint",
+  "title": "Санкт-Петербург, Москва и Ленинградская область под атакой БПЛА, во аэропортах введены ограничения на прием и выпуск воздушных судов, — влас…",
+  "uid": "a278eb500087daa8",
+  "url": "https://t.me/astrapress/128471",
+  "warning": false
  }
 ]
