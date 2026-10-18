@@ -289,15 +289,17 @@
  },
  {
   "level": 2,
-  "n": 3,
+  "n": 4,
   "source": "Clash Report",
   "stems": [
    "activ",
    "airsp",
+   "aizkr",
    "alert",
    "ameri",
    "anoth",
    "artic",
+   "bausk",
    "compl",
    "decid",
    "drone",
@@ -307,6 +309,9 @@
    "issue",
    "launc",
    "massi",
+   "munic",
+   "ogres",
+   "possi",
    "swede",
    "under",
    "unfor",
@@ -317,7 +322,7 @@
  },
  {
   "level": 2,
-  "n": 5,
+  "n": 6,
   "source": "ASTRA",
   "stems": [
    "astra",
@@ -333,6 +338,7 @@
    "введе",
    "возду",
    "выпус",
+   "горит",
    "губер",
    "данны",
    "дроны",
@@ -358,8 +364,7 @@
    "самол",
    "санкт",
    "сбива",
-   "сбито",
-   "силам"
+   "сбито"
   ],
   "title": "За ночь силами ПВО сбито 610 украинских БПЛА, — Минобороны РФ Дроны самолетного типа сбивали над территориями Ленинградской, Новгородской, Т…",
   "ts": "2026-10-17T10:31:30+00:00"
@@ -394,5 +399,15 @@
   ],
   "title": "Polish Prime Minister Tusk warns of possible escalation of actions by russia even before Christmas - media reports - Ukrainian news",
   "ts": "2026-10-18T00:31:25+00:00"
+ },
+ {
+  "level": 1,
+  "n": 1,
+  "source": "Google News — Latvia security",
+  "stems": [
+   "calls"
+  ],
+  "title": "Latvia calls for visa ban on Russians - Financial Times",
+  "ts": "2026-10-18T05:01:32+00:00"
  }
 ]
