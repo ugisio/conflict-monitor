@@ -1,1 +1,44 @@
-[]
+[
+ {
+  "first_seen": "2026-10-18T05:31:13+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-18T04:53:00+00:00",
+  "reason": "region: latvia · matched “threat” · another report of a story already in the channel",
+  "repeat_of": "Zelensky: At a time when Russia has launched massive attacks on our energy infrastructure, America has unfortunately decided to completely i…",
+  "repeats": 0,
+  "source_id": "lsm_en",
+  "source_name": "LSM (Latvian public media, EN)",
+  "summary": "",
+  "text": "The National Armed Forces have issued a warning covering Bauskas, Aizkraukles and Ogres municipalities regarding a potential threat to airspace. An orange cell broadcast alert was sent to residents of these municipalities. The warning that had been issued ended shortly after.",
+  "tier": "news",
+  "title": "Possible air threat warning in Bauskas, Aizkraukles and Ogres municipalities of Latvia is over",
+  "uid": "ef9d8f11d89beec2",
+  "url": "https://eng.lsm.lv/article/society/defence/18.10.2026-possible-air-threat-warning-in-bauskas-aizkraukles-and-ogres-municipalities-of-latvia-is-over.a664326/?utm_source=rss&utm_campaign=rss&utm_medium=links",
+  "warning": false
+ },
+ {
+  "first_seen": "2026-10-18T05:31:21+00:00",
+  "kind": "post",
+  "lang": "ru",
+  "level": 1,
+  "note": "RU, independent; incidents inside Russia (Pskov, Leningrad region, Kaliningrad)",
+  "posted": false,
+  "published": "2026-10-18T05:22:18+00:00",
+  "reason": "region: ленинградск · matched “БПЛА” · another report of a story already in the channel",
+  "repeat_of": "За ночь силами ПВО сбито 610 украинских БПЛА, — Минобороны РФ Дроны самолетного типа сбивали над территориями Ленинградской, Новгородской, Т…",
+  "repeats": 0,
+  "source_id": "tg_astra",
+  "source_name": "ASTRA",
+  "summary": "",
+  "text": "Четыре человека пострадали при атаке БПЛА на Ленобласть, около 20 тысяч человек остались без электричества, — губернатор По словам Дрозденко, над территорией Ленинградской области было сбито 135 БПЛА. Во Всеволожском районе обломки сбитых БПЛА упали на…",
+  "tier": "osint",
+  "title": "Четыре человека пострадали при атаке БПЛА на Ленобласть, около 20 тысяч человек остались без электричества, — губернатор По словам Дрозденко…",
+  "uid": "370a349a29f602a0",
+  "url": "https://t.me/astrapress/128507",
+  "warning": false
+ }
+]
