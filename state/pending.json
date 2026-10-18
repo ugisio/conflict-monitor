@@ -418,5 +418,26 @@
   "uid": "76bd3cb535385310",
   "url": "https://t.me/rybar/84006",
   "warning": false
+ },
+ {
+  "first_seen": "2026-10-18T10:31:25+00:00",
+  "kind": "post",
+  "lang": "ru",
+  "level": 2,
+  "note": "RU, Belarus opposition media — best coverage of Belarus border/military",
+  "posted": false,
+  "published": "2026-10-18T10:21:01+00:00",
+  "reason": "region: литв · matched “диверси” · another report of a story already in the channel",
+  "repeat_of": "Attempted arson at Lithuanian firm storing Starlink equipment, PM blames Russia",
+  "repeats": 0,
+  "source_id": "tg_nexta",
+  "source_name": "NEXTA Live",
+  "summary": "",
+  "text": "В Литве этой ночью неизвестные пытались поджечь предприятие, где хранится оборудование Starlink Попытка диверсии не удалась, сообщил на своей странице в Facebook премьер-министр страны Миндовгас Синкявичюс. В понедельник он созывает заседание Комиссии по национальной безопасности. Поводом для встречи станет ещё один инцидент — утренний прилёт дрона, из-за которого объявили высший уровень воздушной тревоги. Объекты Starlink уже становились целями возможных диверсий в Европе. 23 сентября в Польше загорелась наземная станция, а в октябре о возможном поджоге 11 из 17 антенн Starlink возле Софии сообщили болгары.",
+  "tier": "osint",
+  "title": "В Литве этой ночью неизвестные пытались поджечь предприятие, где хранится оборудование Starlink Попытка диверсии не удалась, сообщил на свое…",
+  "uid": "b41ae151bd76dc1a",
+  "url": "https://t.me/nexta_live/125147",
+  "warning": false
  }
 ]

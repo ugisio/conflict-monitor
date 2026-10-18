@@ -1,16 +1,5 @@
 [
  {
-  "level": 1,
-  "n": 1,
-  "source": "Google News — Latvia security",
-  "stems": [
-   "calls",
-   "visas"
-  ],
-  "title": "Latvia Calls for EU-Wide Ban on Russian Visas - Oj - Odessa Journal",
-  "ts": "2026-10-15T10:31:25+00:00"
- },
- {
   "level": 2,
   "n": 1,
   "source": "Clash Report",
@@ -390,7 +379,7 @@
  },
  {
   "level": 2,
-  "n": 1,
+  "n": 2,
   "source": "LRT (Lithuania, EN)",
   "stems": [
    "arson",
@@ -398,7 +387,19 @@
    "blame",
    "equip",
    "starl",
-   "stori"
+   "stori",
+   "дивер",
+   "литве",
+   "неизв",
+   "ночью",
+   "обору",
+   "подже",
+   "попыт",
+   "предп",
+   "пытал",
+   "сообщ",
+   "удала",
+   "храни"
   ],
   "title": "Attempted arson at Lithuanian firm storing Starlink equipment, PM blames Russia",
   "ts": "2026-10-18T10:02:30+00:00"
