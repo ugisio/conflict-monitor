@@ -303,10 +303,11 @@
  },
  {
   "level": 2,
-  "n": 2,
+  "n": 3,
   "source": "Google News — Latvia security",
   "stems": [
    "airbo",
+   "drone",
    "feder",
    "fight",
    "hrabs",
@@ -317,7 +318,10 @@
    "sever",
    "shelt",
    "summe",
-   "urged"
+   "suspe",
+   "track",
+   "urged",
+   "urges"
   ],
   "title": "As long as Ukraine is fighting, the Russian Federation will not attack the Baltic states. The summer 2026 offensive proved this – Hrabskyi - LIGA.net",
   "ts": "2026-10-17T20:01:36+00:00"
@@ -379,7 +383,7 @@
  },
  {
   "level": 2,
-  "n": 2,
+  "n": 3,
   "source": "LRT (Lithuania, EN)",
   "stems": [
    "arson",
@@ -389,14 +393,17 @@
    "starl",
    "stori",
    "дивер",
+   "котор",
    "литве",
    "неизв",
    "ночью",
    "обору",
    "подже",
+   "поджо",
    "попыт",
    "предп",
    "пытал",
+   "склад",
    "сообщ",
    "удала",
    "храни"
