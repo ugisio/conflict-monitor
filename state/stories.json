@@ -1,27 +1,6 @@
 [
  {
   "level": 1,
-  "n": 2,
-  "source": "ERR News (Estonia, EN)",
-  "stems": [
-   "abroa",
-   "ballo",
-   "elect",
-   "first",
-   "israe",
-   "kness",
-   "lower",
-   "missi",
-   "opens",
-   "parli",
-   "suppo",
-   "votin"
-  ],
-  "title": "Estonian parliament supports lower voting age at European Parliament elections",
-  "ts": "2026-10-15T06:31:21+00:00"
- },
- {
-  "level": 1,
   "n": 1,
   "source": "LRT (Lithuania, EN)",
   "stems": [
@@ -306,7 +285,7 @@
  },
  {
   "level": 2,
-  "n": 7,
+  "n": 8,
   "source": "ASTRA",
   "stems": [
    "astra",
@@ -328,8 +307,10 @@
    "дрозд",
    "дроны",
    "красн",
+   "крупн",
    "ленин",
    "леноб",
+   "масси",
    "миноб",
    "много",
    "момен",
@@ -343,27 +324,31 @@
    "остал",
    "петер",
    "повре",
+   "после",
    "постр",
    "прези",
-   "прием",
-   "путин",
-   "пылае",
-   "разме"
+   "прием"
   ],
   "title": "За ночь силами ПВО сбито 610 украинских БПЛА, — Минобороны РФ Дроны самолетного типа сбивали над территориями Ленинградской, Новгородской, Т…",
   "ts": "2026-10-17T10:31:30+00:00"
  },
  {
   "level": 2,
-  "n": 1,
+  "n": 2,
   "source": "Google News — Latvia security",
   "stems": [
+   "airbo",
    "feder",
    "fight",
    "hrabs",
    "offen",
    "prove",
-   "summe"
+   "resid",
+   "scram",
+   "sever",
+   "shelt",
+   "summe",
+   "urged"
   ],
   "title": "As long as Ukraine is fighting, the Russian Federation will not attack the Baltic states. The summer 2026 offensive proved this – Hrabskyi - LIGA.net",
   "ts": "2026-10-17T20:01:36+00:00"
