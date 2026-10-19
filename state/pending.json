@@ -208,5 +208,26 @@
   "uid": "577e4f95f1b65aef",
   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNzZZamY0emRmbXYxOHVTTE0yTGF5LTZqRUc5RC1mR1B5ajNtaDBISXlBckxYajZyNjFkcEtNYk9XcTFzb3dvb1Y4aVpUbmtqVzBKNUlwWmdaLTltR2toTkk1dFlBVXVIVUstaHBfN0hFZ1ByZExGVHBvYmJtZ05OVVY5aGJCN2lDZVNJTEh5VkJiZkZFTUczdFBQUzRtSnZOY2Vn?oc=5",
   "warning": false
+ },
+ {
+  "first_seen": "2026-10-19T14:31:29+00:00",
+  "kind": "market",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": null,
+  "reason": "probability moved +5.5 pp",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "polymarket",
+  "source_name": "Polymarket",
+  "summary": "",
+  "text": "was 43% → now 48% (resolves 2027-06-22)",
+  "tier": "market",
+  "title": "Market moved +6 pp: “Will TalTech/ALEXELA win the 2026-27 Estonia KML championship?” now 48%",
+  "uid": "7d8ab16d25f1b606",
+  "url": "https://polymarket.com/event/estonia-kml-2027-champion",
+  "warning": false
  }
 ]
