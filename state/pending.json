@@ -166,5 +166,26 @@
   "uid": "3b63cba96a975dcf",
   "url": "https://t.me/astrapress/128600",
   "warning": false
+ },
+ {
+  "first_seen": "2026-10-19T03:31:26+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": true,
+  "published": "2026-10-17T16:43:00+00:00",
+  "reason": "official warning about Russia / NATO · matched “Escalat”",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "gnews_flank_warnings",
+  "source_name": "Google News — eastern flank (PL/FI/NATO)",
+  "summary": "",
+  "text": "Escalations by Russian Federation in hybrid war can be expected even before Christmas, - Tusk Цензор.НЕТ",
+  "tier": "news",
+  "title": "Escalations by Russian Federation in hybrid war can be expected even before Christmas, - Tusk - Цензор.НЕТ",
+  "uid": "18a7bf64c6187c6a",
+  "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNmpqVGdkVUczYTBkUmo4OEZFdzR4N0MwUVlMMEJWb0wxVDZUUTdBNVotM0xpSjNQaS1MdlNfMVBzRmRCMmFtR2ZieVJ6OEtCVmxIQV9jclFaN21LLTNZd2VVUmQ2NlEtdjJYaFdqS3N4TXhVU0FzSDRoRXNOYjlsYmRtRk9RNkQwWW95c293V21hODRRSGlSeDFoTVd5VTZkY1VZT0dB?oc=5",
+  "warning": true
  }
 ]
