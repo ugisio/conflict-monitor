@@ -61,5 +61,26 @@
   "uid": "b39ded8def113431",
   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQeW5kc3pWMDdxclJWU2dYYTRuUjhHNGpRQWxzVzBsWFd5WU1GdDhCNjJ2czNCVmRvTldQM1F6SFh1a3lqbWxlVFl2djFDU1pMX0l6MUd6UTRlMnFtRF9FM0JXeE91MVZkWkdnWGFDNmxlUjk1aXQ4b29KQW9JRUlOLVk4WTFMOEVlU05hTnJZRjFfS0c4eXQ2SDZJRXR4eGdtenBxRHFZZ1poSkQ0Qk1Qbjc4MEFzZVk?oc=5",
   "warning": false
+ },
+ {
+  "first_seen": "2026-10-19T08:01:27+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-19T07:30:00+00:00",
+  "reason": "region: latvia, latvian, russia · matched “sabotage”",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "lsm_en",
+  "source_name": "LSM (Latvian public media, EN)",
+  "summary": "",
+  "text": "In August, a sabotage attempt took place at Leipzig Airport in Germany, which the German government has said was carried out by Russia. One of the suspected organizers of the attack is a Latvian citizen by the name of Oļegs Ļevuškins (Oleg Levushkin).",
+  "tier": "news",
+  "title": "Latvian citizen, Russian businessman, German sabotage suspect: who is Oleg Levushkin?",
+  "uid": "6dedda27bc0bfcec",
+  "url": "https://eng.lsm.lv/article/society/crime/19.10.2026-latvian-citizen-russian-businessman-german-sabotage-suspect-who-is-oleg-levushkin.a668125/?utm_source=rss&utm_campaign=rss&utm_medium=links",
+  "warning": false
  }
 ]

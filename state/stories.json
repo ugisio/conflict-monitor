@@ -1,29 +1,5 @@
 [
  {
-  "level": 1,
-  "n": 1,
-  "source": "ERR News (Estonia, EN)",
-  "stems": [
-   "bring",
-   "passp",
-   "plans"
-  ],
-  "title": "Estonia plans to bring back its blue passports from 2030",
-  "ts": "2026-10-16T07:31:35+00:00"
- },
- {
-  "level": 1,
-  "n": 1,
-  "source": "LRT (Lithuania, EN)",
-  "stems": [
-   "exten",
-   "patro",
-   "suppo"
-  ],
-  "title": "Lithuania extends military support for patrolling Kaliningrad border",
-  "ts": "2026-10-16T08:01:33+00:00"
- },
- {
   "level": 2,
   "n": 1,
   "source": "ERR News (Estonia, EN)",
@@ -467,5 +443,19 @@
   ],
   "title": "Escalations by Russian Federation in hybrid war can be expected even before Christmas, - Tusk - Цензор.НЕТ",
   "ts": "2026-10-19T03:31:35+00:00"
+ },
+ {
+  "level": 2,
+  "n": 1,
+  "source": "LSM (Latvian public media, EN)",
+  "stems": [
+   "busin",
+   "germa",
+   "levus",
+   "sabot",
+   "suspe"
+  ],
+  "title": "Latvian citizen, Russian businessman, German sabotage suspect: who is Oleg Levushkin?",
+  "ts": "2026-10-19T08:01:38+00:00"
  }
 ]
