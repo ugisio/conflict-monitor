@@ -1,1 +1,44 @@
-[]
+[
+ {
+  "first_seen": "2026-10-19T07:01:26+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-19T06:50:00+00:00",
+  "reason": "region: baltic, lithuania, nato · matched “threat” · another report of a story already in the channel",
+  "repeat_of": "Escalations by Russian Federation in hybrid war can be expected even before Christmas, - Tusk - Цензор.НЕТ",
+  "repeats": 0,
+  "source_id": "lrt_en",
+  "source_name": "LRT (Lithuania, EN)",
+  "summary": "",
+  "text": "International military exercises aimed at countering hybrid threats will take place in the Baltic Sea, around the port of Klaipėda and across western Lithuania from October 19-30, the Klaipėda municipality said Monday.",
+  "tier": "news",
+  "title": "NATO, Lithuanian troops holding hybrid threat exercises in western Lithuania",
+  "uid": "e0219aec3f997008",
+  "url": "https://www.lrt.lt/en/news-in-english/19/3087082/nato-lithuanian-troops-holding-hybrid-threat-exercises-in-western-lithuania",
+  "warning": false
+ },
+ {
+  "first_seen": "2026-10-19T07:01:26+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-19T06:40:00+00:00",
+  "reason": "region: lithuania · matched “drone” · another report of a story already in the channel",
+  "repeat_of": "Drone that crashed in Latvia confirmed as Ukrainian / Article - Latvian Public Media",
+  "repeats": 0,
+  "source_id": "lrt_en",
+  "source_name": "LRT (Lithuania, EN)",
+  "summary": "",
+  "text": "A drone that entered Lithuanian airspace and crashed in the northern Pasvalys district on Sunday was part of a Ukrainian attack on St Petersburg, Lithuania’s defence minister said.",
+  "tier": "news",
+  "title": "Lithuanian minister says Sunday drone crash was part of Ukrainian attack on St Petersburg",
+  "uid": "515ea65a1fcdb866",
+  "url": "https://www.lrt.lt/en/news-in-english/19/3087078/lithuanian-minister-says-sunday-drone-crash-was-part-of-ukrainian-attack-on-st-petersburg",
+  "warning": false
+ }
+]

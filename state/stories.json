@@ -310,7 +310,7 @@
  },
  {
   "level": 2,
-  "n": 3,
+  "n": 4,
   "source": "Google News — Latvia security",
   "stems": [
    "airsp",
@@ -322,7 +322,9 @@
    "drone",
    "enter",
    "found",
-   "rural"
+   "peter",
+   "rural",
+   "sunda"
   ],
   "title": "Drone that crashed in Latvia confirmed as Ukrainian / Article - Latvian Public Media",
   "ts": "2026-10-18T09:31:22+00:00"
@@ -446,15 +448,19 @@
  },
  {
   "level": 2,
-  "n": 1,
+  "n": 2,
   "source": "Google News — eastern flank (PL/FI/NATO)",
   "stems": [
    "befor",
    "chris",
    "escal",
+   "exerc",
    "expec",
    "feder",
-   "hybri"
+   "holdi",
+   "hybri",
+   "troop",
+   "weste"
   ],
   "title": "Escalations by Russian Federation in hybrid war can be expected even before Christmas, - Tusk - Цензор.НЕТ",
   "ts": "2026-10-19T03:31:35+00:00"
