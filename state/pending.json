@@ -19,5 +19,26 @@
   "uid": "966558c648e41b58",
   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZTlDV2ZJQ2x2dWRocnp3WDRVMzNOSmRYOHJ4eV9jNFMtSVlqZVRVaE5vQVRVdEJiMF9BS2ROMGhZSW9vU2F5bzRhTzdnWkVLX0k1Sk5ORHJBb0YxSjdkZl9BeVpRYVFnMnRwQzRfS20yR1prRXhyOHA2UE9qeU5VellHQWh1NWladDFSQjE4X3pvRUJWZFY0cF9mSQ?oc=5",
   "warning": false
+ },
+ {
+  "first_seen": "2026-10-19T20:01:29+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-19T13:43:00+00:00",
+  "reason": "region: lithuania · matched “drone” · another report of a story already in the channel",
+  "repeat_of": "Poland denies report that Sunday’s drone was launched from Lithuanian territory",
+  "repeats": 0,
+  "source_id": "gnews_nato",
+  "source_name": "Google News — NATO & the Baltics",
+  "summary": "",
+  "text": "Poland probes Ukrainian drone crash after Lithuania reports airspace breach TVP World",
+  "tier": "news",
+  "title": "Poland probes Ukrainian drone crash after Lithuania reports airspace breach - TVP World",
+  "uid": "201005732888f64c",
+  "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQcWpjU0lDRlBkN1A5bTN0SExiSTJXcVVITjkxWndiUTQ2QlVTTzMtT2RxS1M1cEJvNU9VNHdMdDRTWWZqSGpBcEpCb2s3TU5PRmhTaGhYWGVSRy10dmRRS2diSkpXc1hVUVBlUmczMVNJMFVnTXRRNTBFQXllTEYwWHBfM3NFdmZJNXl2NDFRZ1AtR0Jp?oc=5",
+  "warning": false
  }
 ]

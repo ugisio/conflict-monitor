@@ -389,14 +389,18 @@
  },
  {
   "level": 2,
-  "n": 2,
+  "n": 3,
   "source": "LRT (Lithuania, EN)",
   "stems": [
    "aimed",
+   "airsp",
+   "breac",
+   "crash",
    "denie",
    "drone",
    "launc",
    "peter",
+   "probe",
    "sunda",
    "terri"
   ],
