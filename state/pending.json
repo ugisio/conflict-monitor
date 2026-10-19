@@ -82,5 +82,26 @@
   "uid": "82f5bb592994381c",
   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRlo1TTR3aDd1M0FiRnJUZ3hmcFRwdkRCei1KZWw5emVQcjFiLWlKN1hRbDd4SngxUW53N2FGa2xaVVdQa1ZkamloN25ZT2VmY0V2OUdxRUl1QkZIZXo4R201WEZOd2NpbFVmc1EyNzl3eVFKRWRyQVNZVjBiR05ZWHhlNkg4YVlEU1Eya3dNbElFM0FlbEVjNkl6QQ?oc=5",
   "warning": false
+ },
+ {
+  "first_seen": "2026-10-19T22:17:03+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-19T07:12:13+00:00",
+  "reason": "region: latvia, latvian · matched “Drone” · another report of a story already in the channel",
+  "repeat_of": "Poland denies report that Sunday’s drone was launched from Lithuanian territory",
+  "repeats": 0,
+  "source_id": "gnews_latvia_security",
+  "source_name": "Google News — Latvia security",
+  "summary": "",
+  "text": "'Drone wall' can never be a total guarantee, says Latvian Defence Minister / Article Latvian Public Media",
+  "tier": "news",
+  "title": "'Drone wall' can never be a total guarantee, says Latvian Defence Minister / Article - Latvian Public Media",
+  "uid": "390c8bd0d104f965",
+  "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNUzMzeEQxWUFvR3BURzlnWmFDLXNYLVpJSkFpWDhFY242S1pDLWtlbGF5Qk5pS2pNUjVwNTZEV0xPWFBxZFE1N0lmZ0d3TVNyQ1lDVEs5V05sX2NlbXZoekxBMEpVZklIeGZjT0NvWklRZkpiYjhqSHhUSEdDZzQ4RkpySDlyeV9wUERLX0dIWE5PVEtwbW1qNWw5amkyOUdLai1CREY3OW1kWDZuRURqZGVPbE1vcjh0U1JjTFZlQzdWTDc0eHZwTFpWRFdnMFU?oc=5",
+  "warning": false
  }
 ]
