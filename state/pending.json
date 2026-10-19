@@ -40,5 +40,26 @@
   "uid": "515ea65a1fcdb866",
   "url": "https://www.lrt.lt/en/news-in-english/19/3087078/lithuanian-minister-says-sunday-drone-crash-was-part-of-ukrainian-attack-on-st-petersburg",
   "warning": false
+ },
+ {
+  "first_seen": "2026-10-19T07:31:23+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-19T06:22:25+00:00",
+  "reason": "region: lithuania, nato · matched “drone” · another report of a story already in the channel",
+  "repeat_of": "Drone that crashed in Latvia confirmed as Ukrainian / Article - Latvian Public Media",
+  "repeats": 0,
+  "source_id": "gnews_nato",
+  "source_name": "Google News — NATO & the Baltics",
+  "summary": "",
+  "text": "NATO scrambles fighter jets in Lithuania after unidentified drone enters country Gazeta Sot",
+  "tier": "news",
+  "title": "NATO scrambles fighter jets in Lithuania after unidentified drone enters country - Gazeta Sot",
+  "uid": "b39ded8def113431",
+  "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQeW5kc3pWMDdxclJWU2dYYTRuUjhHNGpRQWxzVzBsWFd5WU1GdDhCNjJ2czNCVmRvTldQM1F6SFh1a3lqbWxlVFl2djFDU1pMX0l6MUd6UTRlMnFtRF9FM0JXeE91MVZkWkdnWGFDNmxlUjk1aXQ4b29KQW9JRUlOLVk4WTFMOEVlU05hTnJZRjFfS0c4eXQ2SDZJRXR4eGdtenBxRHFZZ1poSkQ0Qk1Qbjc4MEFzZVk?oc=5",
+  "warning": false
  }
 ]
