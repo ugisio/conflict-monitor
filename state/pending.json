@@ -124,5 +124,26 @@
   "uid": "51d38507afa2b85b",
   "url": "https://www.lrt.lt/en/news-in-english/19/3087132/lithuania-has-evidence-sunday-s-drone-crossed-from-poland-presidential-adviser-says",
   "warning": false
+ },
+ {
+  "first_seen": "2026-10-19T12:01:28+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-19T11:46:00+00:00",
+  "reason": "region: kaliningrad, suwalki, nato, russia · matched “Suwalki”",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "gnews_latvia_security",
+  "source_name": "Google News — Latvia security",
+  "summary": "",
+  "text": "\"If Russia attacks NATO, Kaliningrad will be wiped out and Suwalki Corridor will cease to exist,\" - Pabriks Цензор.НЕТ",
+  "tier": "news",
+  "title": "\"If Russia attacks NATO, Kaliningrad will be wiped out and Suwalki Corridor will cease to exist,\" - Pabriks - Цензор.НЕТ",
+  "uid": "583b9feef34f340b",
+  "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQ3E0OGI2OGZubVlRcEUzX0ZZOUFKQTd2MkxNVGlMSlJSVTIzR2QyNjdHQjIxQm5nTFBld085Q1FDWDRDX1hVemJUb1o2RENTRFhHVTJEWFhZYWk2VExibjM3YTFuYkVweGNEMUhkRlEyMjhZNUdxcG9GS0RDbGp4ZzhLRHlpcnFaazMtdE1mamZJMEtnNkQ5amlneGhyQQ?oc=5",
+  "warning": false
  }
 ]
