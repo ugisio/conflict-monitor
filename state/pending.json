@@ -61,5 +61,26 @@
   "uid": "b1af694e0f017941",
   "url": "https://polymarket.com/event/estonia-kml-2027-champion",
   "warning": false
+ },
+ {
+  "first_seen": "2026-10-19T22:02:06+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-19T18:33:39+00:00",
+  "reason": "region: lithuania · matched “Sabotage” · another report of a story already in the channel",
+  "repeat_of": "Latvian citizen, Russian businessman, German sabotage suspect: who is Oleg Levushkin?",
+  "repeats": 0,
+  "source_id": "gnews_nato",
+  "source_name": "Google News — NATO & the Baltics",
+  "summary": "",
+  "text": "Fire at Starlink Center in Lithuania Was Sabotage, Officials Say The New York Times",
+  "tier": "news",
+  "title": "Fire at Starlink Center in Lithuania Was Sabotage, Officials Say - The New York Times",
+  "uid": "82f5bb592994381c",
+  "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRlo1TTR3aDd1M0FiRnJUZ3hmcFRwdkRCei1KZWw5emVQcjFiLWlKN1hRbDd4SngxUW53N2FGa2xaVVdQa1ZkamloN25ZT2VmY0V2OUdxRUl1QkZIZXo4R201WEZOd2NpbFVmc1EyNzl3eVFKRWRyQVNZVjBiR05ZWHhlNkg4YVlEU1Eya3dNbElFM0FlbEVjNkl6QQ?oc=5",
+  "warning": false
  }
 ]
