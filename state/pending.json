@@ -124,5 +124,26 @@
   "uid": "9225cf07e75fa8ff",
   "url": "https://t.me/ClashReport/102000",
   "warning": true
+ },
+ {
+  "first_seen": "2026-10-20T01:13:08+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-20T00:16:00+00:00",
+  "reason": "region: lithuania, nato · matched “drone” · another report of a story already in the channel",
+  "repeat_of": "Poland denies report that Sunday’s drone was launched from Lithuanian territory",
+  "repeats": 0,
+  "source_id": "gnews_nato",
+  "source_name": "Google News — NATO & the Baltics",
+  "summary": "",
+  "text": "Lithuania to seek NATO approval to shoot down drones without visual confirmation Apa.az",
+  "tier": "news",
+  "title": "Lithuania to seek NATO approval to shoot down drones without visual confirmation - Apa.az",
+  "uid": "58cb92f977bcac89",
+  "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNU0xtR3FtRVFjM2dobUJaZ2oteVlnTG9jcnZCanRtU002TV9mNE9BV2F0cXV6cTJkczh4Zk9Zc1FZMW1TY1dlNEZCNDdvMFNrNjVpcUFsdkRjUjB5VUJxVEYtZV9ZcTRJZ1FwWkE3NnFnWlR0WmhYeW84Q2x6TzNCWWhydUJWTDh5QnJKZG1veEpRQWZJMm1DTWJSR1lrMlF0WUFQcVdrNDI3TG5yMkYtVFJR?oc=5",
+  "warning": false
  }
 ]

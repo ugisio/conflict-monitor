@@ -391,13 +391,15 @@
  },
  {
   "level": 2,
-  "n": 4,
+  "n": 5,
   "source": "LRT (Lithuania, EN)",
   "stems": [
    "aimed",
    "airsp",
+   "appro",
    "artic",
    "breac",
+   "confi",
    "crash",
    "denie",
    "drone",
@@ -406,9 +408,12 @@
    "never",
    "peter",
    "probe",
+   "shoot",
    "sunda",
    "terri",
-   "total"
+   "total",
+   "visua",
+   "witho"
   ],
   "title": "Poland denies report that Sunday’s drone was launched from Lithuanian territory",
   "ts": "2026-10-19T13:31:26+00:00"
