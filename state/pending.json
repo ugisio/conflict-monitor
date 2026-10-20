@@ -292,5 +292,26 @@
   "uid": "7fedac7a1f49e38b",
   "url": "https://polymarket.com/event/estonia-kml-2027-champion",
   "warning": false
+ },
+ {
+  "first_seen": "2026-10-20T16:01:31+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": true,
+  "published": "2026-10-19T11:33:58+00:00",
+  "reason": "official warning about Russia / NATO · matched “Sabotage”",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "gnews_flank_warnings",
+  "source_name": "Google News — eastern flank (PL/FI/NATO)",
+  "summary": "",
+  "text": "\"Russia Will Intensify Escalation And Test Our Response\": Tusk Warns Of Sabotage Risk In Poland uatv.ua",
+  "tier": "news",
+  "title": "\"Russia Will Intensify Escalation And Test Our Response\": Tusk Warns Of Sabotage Risk In Poland - uatv.ua",
+  "uid": "7a50e280188d77c3",
+  "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUzBaUzB0V2syUnB2MTNQSVd3ZmZpblE3bENRZkc1c2FaLUpZTi1QTWFNVktFVEJDVFczeDVJdUltS2dycnF4SF8teTQ5Um9YN3pTcE1Gbm9pcU9BbXJka0RNcDdVYkZ5RnZHR1lHMjY3bnoxNjduTHVhVGtYc19KUDdIYmNmV0dKUmY4ZlVacGF4WU9uNzljQUtlTjJGOWs1NVk5TGg3TzNIUDdRT2NjVHhB?oc=5",
+  "warning": true
  }
 ]
