@@ -166,5 +166,26 @@
   "uid": "aa28f79f165ecd16",
   "url": "https://t.me/ClashReport/102071",
   "warning": true
+ },
+ {
+  "first_seen": "2026-10-20T11:31:19+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 1,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-20T11:20:00+00:00",
+  "reason": "region: estonia · matched “Reservist” · another report of a story already in the channel",
+  "repeat_of": "NATO 'experiments and trials' under way in Latvia",
+  "repeats": 0,
+  "source_id": "err_en",
+  "source_name": "ERR News (Estonia, EN)",
+  "summary": "",
+  "text": "Investments in ammunition and concrete are of no use without motivated fighters to back them up, writes reservist Karl Lumiste.",
+  "tier": "news",
+  "title": "Karl Lumiste: Reservists are both important and underpaid in Estonia",
+  "uid": "91e955258beb9556",
+  "url": "https://news.err.ee/1610171155/karl-lumiste-reservists-are-both-important-and-underpaid-in-estonia",
+  "warning": false
  }
 ]
