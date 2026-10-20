@@ -19,5 +19,26 @@
   "uid": "c1813ef31314fedb",
   "url": "https://t.me/astrapress/128722",
   "warning": false
+ },
+ {
+  "first_seen": "2026-10-20T06:31:12+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-20T06:25:00+00:00",
+  "reason": "region: lithuania, nato · matched “drone” · another report of a story already in the channel",
+  "repeat_of": "Poland denies report that Sunday’s drone was launched from Lithuanian territory",
+  "repeats": 0,
+  "source_id": "lrt_en",
+  "source_name": "LRT (Lithuania, EN)",
+  "summary": "",
+  "text": "Lithuania is seeking consultations with NATO on changing procedures to allow military aircraft to shoot down objects violating the country’s airspace even when pilots cannot identify them visually, Prime Minister Mindaugas Sinkevičius said Monday.",
+  "tier": "news",
+  "title": "Lithuania seeks NATO talks on shooting down drones without visual confirmation",
+  "uid": "bab545465375b07c",
+  "url": "https://www.lrt.lt/en/news-in-english/19/3088084/lithuania-seeks-nato-talks-on-shooting-down-drones-without-visual-confirmation",
+  "warning": false
  }
 ]
