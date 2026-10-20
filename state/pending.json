@@ -103,5 +103,26 @@
   "uid": "9971eda617882950",
   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOOERQOV93RERRa294bWIwOFduSExUeU4xUXhPZmREek1LR1JYamt1TG0yWVF0a240eDRSVkljT2NxMzZLU0xGUldmdkJzdUpnaDh1MlZ5VUhFYlVlZDRjXzJZUVctZkxwLTR5ZzJEYjFNOHU5MG94UWpxSk0yNEwwdnREdTFDYWdtTDlVWVR2Rkh0ZTZRR0Mwdi1FbGRKVmVJVURvS2hR?oc=5",
   "warning": false
+ },
+ {
+  "first_seen": "2026-10-20T22:01:32+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-20T17:46:54+00:00",
+  "reason": "region: baltic · matched “drone” · another report of a story already in the channel",
+  "repeat_of": "Zelensky to U.S. lawmakers: We received no warning from our partners about the first wave of Russian ballistic missile attacks. I'm talking …",
+  "repeats": 0,
+  "source_id": "gnews_latvia_security",
+  "source_name": "Google News — Latvia security",
+  "summary": "",
+  "text": "STILFOLD and partners to develop wing-in-ground drone for Baltic Sea defence Cision News",
+  "tier": "news",
+  "title": "STILFOLD and partners to develop wing-in-ground drone for Baltic Sea defence - Cision News",
+  "uid": "368e82a0fe699374",
+  "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQS2ZXS2Zsa09CZkh5SVowaGxYUGIzRDhGY2g2NzI1ZlJJMklmMTN3eGx6c1NtVnRBT3N2VDlQN0JQd3dvTjM4eHc5QkJRQ19kWkpUSFlhTzBPX1pmZGpCVVZZVXVBZEtEeEdOd0JRYUlIWlBBdVRTRTdEQzNXVUtkUHA1bUswSjlmMHlOSmhFZ1d2WE5OMldReldvRXhFQW1LUEF0S05kbEp3cWhMUF9Ra09oUHZ3Nl9DaTRiS1R4eGI?oc=5",
+  "warning": false
  }
 ]
