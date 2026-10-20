@@ -145,5 +145,26 @@
   "uid": "9623d4ecec2c8928",
   "url": "https://eng.lsm.lv/article/society/defence/20.10.2026-nato-experiments-and-trials-under-way-in-latvia.a668341/?utm_source=rss&utm_campaign=rss&utm_medium=links",
   "warning": false
+ },
+ {
+  "first_seen": "2026-10-20T11:01:31+00:00",
+  "kind": "post",
+  "lang": "en",
+  "level": 2,
+  "note": "EN, conflict news aggregator",
+  "posted": false,
+  "published": "2026-10-20T10:39:31+00:00",
+  "reason": "official warning about Russia / NATO · matched “official warning” · another report of a story already in the channel",
+  "repeat_of": "Poland denies report that Sunday’s drone was launched from Lithuanian territory",
+  "repeats": 0,
+  "source_id": "tg_clashreport",
+  "source_name": "Clash Report",
+  "summary": "",
+  "text": "NEW: Zelensky arrived in Oslo for talks with U.S. envoy Steve Witkoff and European partners on a plan to end the war with Russia. The meetings, hosted by Norwegian Prime Minister Jonas Gahr Støre and Finnish President Alexander Stubb, aim to develop peace proposals on security guarantees for Ukraine and terms for a lasting peace, which Witkoff would then present to Vladimir Putin. Zelensky was joined by top officials including presidential office head Kyrylo Budanov and intelligence chief Rustem Umerov, while Jared Kushner took part remotely.",
+  "tier": "osint",
+  "title": "NEW: Zelensky arrived in Oslo for talks with U.S. envoy Steve Witkoff and European partners on a plan to end the war with Russia. The meetin…",
+  "uid": "aa28f79f165ecd16",
+  "url": "https://t.me/ClashReport/102071",
+  "warning": true
  }
 ]
