@@ -1,55 +1,6 @@
 [
  {
   "level": 2,
-  "n": 22,
-  "source": "Google News — Latvia security",
-  "stems": [
-   "airbo",
-   "airsp",
-   "apolo",
-   "appli",
-   "artic",
-   "breac",
-   "commi",
-   "compa",
-   "crash",
-   "damag",
-   "debri",
-   "detec",
-   "diver",
-   "drone",
-   "easte",
-   "enter",
-   "eurof",
-   "explo",
-   "feder",
-   "fight",
-   "fires",
-   "force",
-   "found",
-   "hrabs",
-   "incid",
-   "inter",
-   "itali",
-   "movin",
-   "offen",
-   "outle",
-   "passi",
-   "preve",
-   "proje",
-   "prove",
-   "resid",
-   "scram",
-   "sever",
-   "shelt",
-   "shoot",
-   "sight"
-  ],
-  "title": "As long as Ukraine is fighting, the Russian Federation will not attack the Baltic states. The summer 2026 offensive proved this – Hrabskyi - LIGA.net",
-  "ts": "2026-10-17T20:01:36+00:00"
- },
- {
-  "level": 2,
   "n": 1,
   "source": "Google News — official warnings",
   "stems": [
@@ -450,12 +401,15 @@
  },
  {
   "level": 2,
-  "n": 2,
+  "n": 3,
   "source": "Google News — NATO & the Baltics",
   "stems": [
    "artic",
    "chang",
+   "deman",
    "drone",
+   "expla",
+   "incid",
    "inter",
    "posit",
    "reite",
@@ -519,5 +473,17 @@
   ],
   "title": "Сотрудник оружейного завода в Ленобласти заявил о задержке зарплат почти на два месяца На Заводе имени Морозова в Ленинградской области сотр…",
   "ts": "2026-10-20T19:31:25+00:00"
+ },
+ {
+  "level": 2,
+  "n": 1,
+  "source": "Google News — Latvia security",
+  "stems": [
+   "makes",
+   "nucle",
+   "putin"
+  ],
+  "title": "Putin Makes Nuclear Threats Over Kaliningrad - The Jamestown Foundation",
+  "ts": "2026-10-20T20:01:45+00:00"
  }
 ]
