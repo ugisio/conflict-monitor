@@ -229,5 +229,26 @@
   "uid": "4dbd872cd9d3b5aa",
   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQM1pFWlUxMjY4dWRNdE14bUR6YjFEU0hlVVN4d29mX0todnlUX3ZjYmF5WmZlTXRiTHRpM04wLWhVeFhFRzdJZHNZQ1YyalVXdmR3TzBySkFXMnNfX2hDMWYtWFRCZ1ZGemhrU2JVVWl0R0MzQnQyV0J4a25MNW5OOHhna3dhdmJaSWFfNEhoeVI4NUFUM2x0aDBYSktGNEI3UV8yNUN3?oc=5",
   "warning": false
+ },
+ {
+  "first_seen": "2026-10-20T14:01:31+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-20T13:47:59+00:00",
+  "reason": "region: lithuania, nato · matched “drone”",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "gnews_nato",
+  "source_name": "Google News — NATO & the Baltics",
+  "summary": "",
+  "text": "Lithuania seeks changes to NATO drone interception rules Anadolu Ajansı",
+  "tier": "news",
+  "title": "Lithuania seeks changes to NATO drone interception rules - Anadolu Ajansı",
+  "uid": "804e6d0a2a8df71d",
+  "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdHFuOTQySkNGeWw2LV96VHZ1ZENzRnRyanpWOTZ5ME1wamZlS3N0RHpUVDV0ME5lZGdObXQ2SWwtSnZkVl9mUENMQU1LaHZJSVFSaWlVYzhybFF0M0Y0WEZsZzhDUkxIWGs3bWJpb2J6THhtRl9rdjlmd3QyMzBZeVFJSUMtd0RmamZNOFZ6clVOZUV1d094a1A5V20?oc=5",
+  "warning": false
  }
 ]
