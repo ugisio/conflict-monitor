@@ -1,55 +1,6 @@
 [
  {
   "level": 2,
-  "n": 14,
-  "source": "Clash Report",
-  "stems": [
-   "actio",
-   "activ",
-   "airsp",
-   "aizkr",
-   "alert",
-   "ameri",
-   "anoth",
-   "appro",
-   "artic",
-   "bausk",
-   "compl",
-   "crash",
-   "decid",
-   "decla",
-   "destr",
-   "detec",
-   "digit",
-   "drone",
-   "easte",
-   "energ",
-   "entry",
-   "explo",
-   "follo",
-   "hitti",
-   "infra",
-   "issue",
-   "launc",
-   "lenin",
-   "massi",
-   "mobil",
-   "munic",
-   "myste",
-   "north",
-   "objec",
-   "ogres",
-   "overn",
-   "peter",
-   "possi",
-   "pract",
-   "spott"
-  ],
-  "title": "Zelensky: At a time when Russia has launched massive attacks on our energy infrastructure, America has unfortunately decided to completely i…",
-  "ts": "2026-10-17T09:13:10+00:00"
- },
- {
-  "level": 2,
   "n": 10,
   "source": "ASTRA",
   "stems": [
@@ -507,5 +458,20 @@
   ],
   "title": "Минобороны РФ: силы ПВО сбили за ночь 136 украинских беспилотников Дроны сбили над территориями Белгородской, Брянской, Воронежской, Калужск…",
   "ts": "2026-10-20T05:31:32+00:00"
+ },
+ {
+  "level": 2,
+  "n": 1,
+  "source": "ERR News (Estonia, EN)",
+  "stems": [
+   "centu",
+   "coast",
+   "germa",
+   "hidde",
+   "warsh",
+   "wreck"
+  ],
+  "title": "Century-old German warship wrecks off Estonian coast hold hidden oil threat",
+  "ts": "2026-10-20T09:31:35+00:00"
  }
 ]
