@@ -124,5 +124,26 @@
   "uid": "368e82a0fe699374",
   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQS2ZXS2Zsa09CZkh5SVowaGxYUGIzRDhGY2g2NzI1ZlJJMklmMTN3eGx6c1NtVnRBT3N2VDlQN0JQd3dvTjM4eHc5QkJRQ19kWkpUSFlhTzBPX1pmZGpCVVZZVXVBZEtEeEdOd0JRYUlIWlBBdVRTRTdEQzNXVUtkUHA1bUswSjlmMHlOSmhFZ1d2WE5OMldReldvRXhFQW1LUEF0S05kbEp3cWhMUF9Ra09oUHZ3Nl9DaTRiS1R4eGI?oc=5",
   "warning": false
+ },
+ {
+  "first_seen": "2026-10-20T23:01:25+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-20T07:05:56+00:00",
+  "reason": "region: latvia, latvian · matched “drone” · another report of a story already in the channel",
+  "repeat_of": "Zelensky to U.S. lawmakers: We received no warning from our partners about the first wave of Russian ballistic missile attacks. I'm talking …",
+  "repeats": 0,
+  "source_id": "gnews_latvia_security",
+  "source_name": "Google News — Latvia security",
+  "summary": "",
+  "text": "Latvia mulls compensation in case of drone damage / Article Latvian Public Media",
+  "tier": "news",
+  "title": "Latvia mulls compensation in case of drone damage / Article - Latvian Public Media",
+  "uid": "413e3f57ede89da1",
+  "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWkw4VFZSOHF0MmFlUGR5UzNMTXVhNzBXMkhQVlBxY2EzTE5Uck53dzBfN3JRemFDZXZQcmM5YjNPS0VFb3h1WG05RmVrMUJCR3NVdm9UMW1fY0RTWXF5MlhJRzA1bnZFeDlsaHFQZGRWRGkzSHF2VExUTDJRbFdCQlRCSjd1Y1RZTk5ObnJPWE1xdzB0NzIxZmxBZ2JvUDBQZUkxaVR5aWd0aVo4NVFkOGh3?oc=5",
+  "warning": false
  }
 ]
