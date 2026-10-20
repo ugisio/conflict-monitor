@@ -19,5 +19,26 @@
   "uid": "25d2390e2b4d6c0c",
   "url": "https://t.me/novaya_europe/68617",
   "warning": true
+ },
+ {
+  "first_seen": "2026-10-20T18:01:31+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-20T08:05:25+00:00",
+  "reason": "region: latvia, latvian · matched “drone” · another report of a story already in the channel",
+  "repeat_of": "Lithuania seeks changes to NATO drone interception rules - Anadolu Ajansı",
+  "repeats": 0,
+  "source_id": "gnews_latvia_security",
+  "source_name": "Google News — Latvia security",
+  "summary": "",
+  "text": "Latvia reiterates its position on Ukrainian drones / Article Latvian Public Media",
+  "tier": "news",
+  "title": "Latvia reiterates its position on Ukrainian drones / Article - Latvian Public Media",
+  "uid": "f042c868bf51a342",
+  "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPblNQcXFGaVo5Y1Jra2ZQZTh6WU9GODlpOU81R2p3aUdYVjNJQ0Q5MHZFYzRucUIzd01lNTNTWGZfTFNqNU11RHJTMzJUdjh2aHJYeXVwTDVreVJaT2ZTdXVyODRhbUNFS1lYY29UQklUd191VHgxZlZLd0xGaUEtSEFSZFRjemJDSXJKdnBSakFmaG51TktxZXJHeDI5NF9OSDBEWlo0UllFelpDaS0tX2xoNkp4U0U?oc=5",
+  "warning": false
  }
 ]
