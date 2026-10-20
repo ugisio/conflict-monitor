@@ -124,5 +124,26 @@
   "uid": "a65408e321f6603b",
   "url": "https://news.err.ee/1610171125/century-old-german-warship-wrecks-off-estonian-coast-hold-hidden-oil-threat",
   "warning": false
+ },
+ {
+  "first_seen": "2026-10-20T10:31:10+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 1,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-20T10:25:00+00:00",
+  "reason": "region: latvia, nato · matched “Defence Ministry (in text)”",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "lsm_en",
+  "source_name": "LSM (Latvian public media, EN)",
+  "summary": "",
+  "text": "Latvia is currently acting as a testbed for the latest defence technologies, according to a release from the Defence Ministry.",
+  "tier": "news",
+  "title": "NATO 'experiments and trials' under way in Latvia",
+  "uid": "9623d4ecec2c8928",
+  "url": "https://eng.lsm.lv/article/society/defence/20.10.2026-nato-experiments-and-trials-under-way-in-latvia.a668341/?utm_source=rss&utm_campaign=rss&utm_medium=links",
+  "warning": false
  }
 ]
