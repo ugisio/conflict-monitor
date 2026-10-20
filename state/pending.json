@@ -187,5 +187,26 @@
   "uid": "91e955258beb9556",
   "url": "https://news.err.ee/1610171155/karl-lumiste-reservists-are-both-important-and-underpaid-in-estonia",
   "warning": false
+ },
+ {
+  "first_seen": "2026-10-20T12:31:21+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-20T12:11:15+00:00",
+  "reason": "region: baltic, article 5 · matched “drone” · another report of a story already in the channel",
+  "repeat_of": "Poland denies report that Sunday’s drone was launched from Lithuanian territory",
+  "repeats": 0,
+  "source_id": "gnews_latvia_security",
+  "source_name": "Google News — Latvia security",
+  "summary": "",
+  "text": "St Petersburg drone raid revives Moscow's Article 51 threat against the Baltic states IntelliNews",
+  "tier": "news",
+  "title": "St Petersburg drone raid revives Moscow's Article 51 threat against the Baltic states - IntelliNews",
+  "uid": "d910219ce8e23759",
+  "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQQWE1Nlc3dzFpNU12Z3I3VXQ1Y3VORW9uejhRQnA3T3JHMjYxT2NVVEY0bm1mUllNdmJqdnBRMDA3cEZaSUkxcERpblhubFBjZ2NVZ1ZrT1l6M3BCRjdVV0VLeU85dUxmcFZqR242aGlteVR6dmJYM1VCZHc1VnN5ZkYxTHFlMjdZV3lqcnBtV3NNVV9xdFlqbGFpTTdRTVd2dG1SbUQtRUZxWkx0eUxJSUlvbDZKZXMtR3BrMzBheURBVkF5YmlmYlNqNVI4Q1BO?oc=5",
+  "warning": false
  }
 ]
