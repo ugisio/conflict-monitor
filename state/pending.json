@@ -82,5 +82,26 @@
   "uid": "f6b34363e120fc1e",
   "url": "https://eng.lsm.lv/article/culture/culture/20.10.2026-liepaja-2027-launches-its-latest-youth-programme.a668311/?utm_source=rss&utm_campaign=rss&utm_medium=links",
   "warning": false
+ },
+ {
+  "first_seen": "2026-10-20T09:01:31+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-20T08:27:05+00:00",
+  "reason": "region: latvia · matched “drone” · another report of a story already in the channel",
+  "repeat_of": "\"If Russia attacks NATO, Kaliningrad will be wiped out and Suwalki Corridor will cease to exist,\" - Pabriks - Цензор.НЕТ",
+  "repeats": 0,
+  "source_id": "gnews_latvia_security",
+  "source_name": "Google News — Latvia security",
+  "summary": "",
+  "text": "Intelic connects sensors and interceptor drone in Latvia C-UAS field test Unmanned airspace",
+  "tier": "news",
+  "title": "Intelic connects sensors and interceptor drone in Latvia C-UAS field test - Unmanned airspace",
+  "uid": "3f88dc9f7c29e31c",
+  "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxObThjM09zQV81OVhoMmhXdGprcnpteE9PSjV3YkRJMWlJZngydkhxRDVBbFNWZnlGclpBRE9PY2ZKQnJZUm82Qms4bkNqc25qb3VOeWR0dTZud1ZDN05ST245cFhhVnViUTJoR0ltSm1PSnB1TVRCMG1HcmVhV3BfZEhXYmhER1NZRzktTGFCUEMxakptVHBEc1JqbnpHeG9wNzZzVVBET3VadkxHZkt2SHlKT0lKeVZpSFdadHJhTGhLQnhneW1DckRQOWdma2Z0N3ZDMU1PWGs?oc=5",
+  "warning": false
  }
 ]
