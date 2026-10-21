@@ -1,15 +1,5 @@
 [
  {
-  "level": 1,
-  "n": 1,
-  "source": "Google News — Latvia security",
-  "stems": [
-   "calls"
-  ],
-  "title": "Latvia calls for visa ban on Russians - Financial Times",
-  "ts": "2026-10-18T05:01:32+00:00"
- },
- {
   "level": 2,
   "n": 1,
   "source": "Google News — Latvia security",
@@ -477,5 +467,17 @@
   ],
   "title": "Putin Makes Nuclear Threats Over Kaliningrad - The Jamestown Foundation",
   "ts": "2026-10-20T20:01:45+00:00"
+ },
+ {
+  "level": 1,
+  "n": 1,
+  "source": "LSM (Latvian public media, EN)",
+  "stems": [
+   "consc",
+   "expan",
+   "guard"
+  ],
+  "title": "Conscription to be expanded to Latvian State Border Guard",
+  "ts": "2026-10-21T05:01:32+00:00"
  }
 ]
