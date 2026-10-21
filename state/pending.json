@@ -145,5 +145,26 @@
   "uid": "6820fc782774693f",
   "url": "https://eng.lsm.lv/article/society/defence/21.10.2026-conscription-to-be-expanded-to-include-latvian-state-border-guard.a668438/?utm_source=rss&utm_campaign=rss&utm_medium=links",
   "warning": false
+ },
+ {
+  "first_seen": "2026-10-21T06:31:15+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-21T06:12:00+00:00",
+  "reason": "region: baltic, lithuania · matched “arson (in text)” · story escalated from L1 (4 reports so far)",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "lrt_en",
+  "source_name": "LRT (Lithuania, EN)",
+  "summary": "",
+  "text": "Lithuanian President Gitanas Nausėda will meet with Citi head Grant Carson on Wednesday as the largest US bank plans to open an office in the Baltic states.",
+  "tier": "news",
+  "title": "Lithuanian president to meet Citi head as US bank plans Baltic office",
+  "uid": "ceb7022b5b327e1f",
+  "url": "https://www.lrt.lt/en/news-in-english/19/3089065/lithuanian-president-to-meet-citi-head-as-us-bank-plans-baltic-office",
+  "warning": false
  }
 ]
