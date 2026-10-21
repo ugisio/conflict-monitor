@@ -19,5 +19,26 @@
   "uid": "f2080bcaf1487626",
   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTkRkOWxCS1p2d3M3N3JrenRZbkt1YjBtU3M2cFZTNUJpWmJKSlBXYXp6RW5XeFA5bU5qTVg5UEhOVjNNcFJSVVBPczVGa0dYUHhrM1gtZWVFdDFTbE5ZTkR3N2cxcWR3VFpRVlFsaFhvTkFBNkZxcHZkUjFNU1RPUU1BQ1BsTDJHblFmTE1kbWpSR09BVUpjVTdHU013b2hSbzlqTmpsenFHZFpJd0ZFMmN4cw?oc=5",
   "warning": false
+ },
+ {
+  "first_seen": "2026-10-21T20:01:21+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-21T19:40:15+00:00",
+  "reason": "region: latvia, latvian · matched “security alert” · single source, held at WATCH until another source corroborates",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "lsm_en",
+  "source_name": "LSM (Latvian public media, EN)",
+  "summary": "",
+  "text": "Due to possible cybersecurity risks, the LSM.lv portal, the Latvian Radio website, and the Latvian Radio mobile app were all temporarily suspended on Wednesday evening.",
+  "tier": "news",
+  "title": "Large number of Latvian websites taken offline over security alert",
+  "uid": "73c4c79076977c24",
+  "url": "https://eng.lsm.lv/article/features/media/21.10.2026-large-number-of-latvian-websites-taken-offline-over-security-alert.a668576/?utm_source=rss&utm_campaign=rss&utm_medium=links",
+  "warning": false
  }
 ]
