@@ -166,5 +166,26 @@
   "uid": "ceb7022b5b327e1f",
   "url": "https://www.lrt.lt/en/news-in-english/19/3089065/lithuanian-president-to-meet-citi-head-as-us-bank-plans-baltic-office",
   "warning": false
+ },
+ {
+  "first_seen": "2026-10-21T07:01:24+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-21T06:51:03+00:00",
+  "reason": "region: latvia, latvian · matched “drone (in text)”",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "lsm_en",
+  "source_name": "LSM (Latvian public media, EN)",
+  "summary": "",
+  "text": "Additional anti-tank trenches and sensors to detect drones, as well as other types of equipment, will be deployed to strengthen Latvia’s eastern border, as stated by Defence Minister Raivis Melnis on Wednesday morning during an interview on the Latvian Television programme “Morning Panorama”.",
+  "tier": "news",
+  "title": "Border reinforcement continues in Latvia",
+  "uid": "a4f5a141eb84ab63",
+  "url": "https://eng.lsm.lv/article/society/defence/21.10.2026-border-reinforcement-continues-in-latvia.a668463/?utm_source=rss&utm_campaign=rss&utm_medium=links",
+  "warning": false
  }
 ]
