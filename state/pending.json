@@ -334,5 +334,26 @@
   "uid": "983ca23293030d4a",
   "url": "https://polymarket.com/event/estonia-kml-2027-champion",
   "warning": false
+ },
+ {
+  "first_seen": "2026-10-21T11:31:18+00:00",
+  "kind": "post",
+  "lang": "en",
+  "level": 2,
+  "note": "EN, conflict news aggregator",
+  "posted": false,
+  "published": "2026-10-21T11:04:47+00:00",
+  "reason": "official warning about Russia / NATO · matched “official warning” · another report of a story already in the channel",
+  "repeat_of": "\"Russia Will Intensify Escalation And Test Our Response\": Tusk Warns Of Sabotage Risk In Poland - uatv.ua",
+  "repeats": 0,
+  "source_id": "tg_clashreport",
+  "source_name": "Clash Report",
+  "summary": "",
+  "text": "Zelensky: I spoke yesterday with Secretary Rubio. By the way, now intelligence works. Thank you so much. It was very dangerous for us not to get early warning information about ballistic attacks from the Russian side. Right now, it works. About Starlink, Starshield — it’s still limited, but the Secretary told me that he will work with his team on this, to unblock this question. God bless, it will be done.",
+  "tier": "osint",
+  "title": "Zelensky: I spoke yesterday with Secretary Rubio. By the way, now intelligence works. Thank you so much. It was very dangerous for us not to…",
+  "uid": "66267c108de133a0",
+  "url": "https://t.me/ClashReport/102310",
+  "warning": true
  }
 ]
