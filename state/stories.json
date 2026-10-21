@@ -447,13 +447,23 @@
  },
  {
   "level": 2,
-  "n": 1,
+  "n": 3,
   "source": "Google News — Latvia security",
   "stems": [
+   "confr",
+   "crash",
    "devel",
    "drone",
    "groun",
-   "under"
+   "hindu",
+   "readi",
+   "terri",
+   "testi",
+   "throu",
+   "times",
+   "train",
+   "under",
+   "wrong"
   ],
   "title": "Wing-in-Ground drone under development for Baltic defense - Marine Log",
   "ts": "2026-10-21T15:31:26+00:00"
