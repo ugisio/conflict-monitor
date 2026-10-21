@@ -1,1 +1,23 @@
-[]
+[
+ {
+  "first_seen": "2026-10-21T19:01:32+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 1,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-21T18:35:15+00:00",
+  "reason": "region: kaliningrad · matched “Training”",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "gnews_latvia_security",
+  "source_name": "Google News — Latvia security",
+  "summary": "",
+  "text": "Fighter Jet Crashes in Kaliningrad Region During Training Flight The Moscow Times",
+  "tier": "news",
+  "title": "Fighter Jet Crashes in Kaliningrad Region During Training Flight - The Moscow Times",
+  "uid": "f2080bcaf1487626",
+  "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTkRkOWxCS1p2d3M3N3JrenRZbkt1YjBtU3M2cFZTNUJpWmJKSlBXYXp6RW5XeFA5bU5qTVg5UEhOVjNNcFJSVVBPczVGa0dYUHhrM1gtZWVFdDFTbE5ZTkR3N2cxcWR3VFpRVlFsaFhvTkFBNkZxcHZkUjFNU1RPUU1BQ1BsTDJHblFmTE1kbWpSR09BVUpjVTdHU013b2hSbzlqTmpsenFHZFpJd0ZFMmN4cw?oc=5",
+  "warning": false
+ }
+]
