@@ -1,33 +1,6 @@
 [
  {
   "level": 2,
-  "n": 6,
-  "source": "Google News — Latvia security",
-  "stems": [
-   "advis",
-   "airsp",
-   "alert",
-   "artic",
-   "confi",
-   "crash",
-   "cross",
-   "debri",
-   "drone",
-   "enter",
-   "evide",
-   "fight",
-   "found",
-   "peter",
-   "rural",
-   "scram",
-   "sunda",
-   "unide"
-  ],
-  "title": "Drone that crashed in Latvia confirmed as Ukrainian / Article - Latvian Public Media",
-  "ts": "2026-10-18T09:31:22+00:00"
- },
- {
-  "level": 2,
   "n": 5,
   "source": "LRT (Lithuania, EN)",
   "stems": [
