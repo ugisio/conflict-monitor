@@ -1,63 +1,6 @@
 [
  {
   "level": 2,
-  "n": 5,
-  "source": "LRT (Lithuania, EN)",
-  "stems": [
-   "arson",
-   "attem",
-   "blame",
-   "equip",
-   "facil",
-   "large",
-   "linke",
-   "remai",
-   "space",
-   "starl",
-   "stori",
-   "suspe",
-   "vilni",
-   "дивер",
-   "котор",
-   "литве",
-   "неизв",
-   "ночью",
-   "обору",
-   "подже",
-   "поджо",
-   "попыт",
-   "предо",
-   "предп",
-   "пытал",
-   "склад",
-   "сообщ",
-   "удала",
-   "храни"
-  ],
-  "title": "Attempted arson at Lithuanian firm storing Starlink equipment, PM blames Russia",
-  "ts": "2026-10-18T10:02:30+00:00"
- },
- {
-  "level": 1,
-  "n": 1,
-  "source": "Clash Report",
-  "stems": [
-   "armor",
-   "bases",
-   "image",
-   "inter",
-   "refil",
-   "refur",
-   "satel",
-   "shows",
-   "stora",
-   "vehic"
-  ],
-  "title": "INTERESTING: Satellite imagery shows Russia is refilling its long-term military storage bases with new and refurbished armored vehicles afte…",
-  "ts": "2026-10-18T10:02:30+00:00"
- },
- {
-  "level": 2,
   "n": 3,
   "source": "Meduza",
   "stems": [
