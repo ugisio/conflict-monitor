@@ -418,5 +418,26 @@
   "uid": "13174076a7dbe385",
   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPT3JHOTVXUnBIMTYtQXE2bEVoVml6NEdCRGV2RkdYU2VJMW1UaHYzZERZSWZHbjhCaFMyUWFpZEdaREo3NFpzZVY4VXlBR0lYNVVvOHBLUGxObnZOUm5SRWNTMnNNY3VjaEdDVkhFOWRfN0FxeXIwM1VMa3FEcS16aGtIaw?oc=5",
   "warning": true
+ },
+ {
+  "first_seen": "2026-10-21T14:01:27+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 1,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-21T13:45:00+00:00",
+  "reason": "region: lithuania · matched “visa” · another report of a story already in the channel",
+  "repeat_of": "Lithuania seeks changes to NATO drone interception rules - Anadolu Ajansı",
+  "repeats": 0,
+  "source_id": "lrt_en",
+  "source_name": "LRT (Lithuania, EN)",
+  "summary": "",
+  "text": "Lithuania’s Foreign Ministry on Wednesday denied a claim as “manipulation” that the country had allegedly eased visa rules for Pakistani citizens.",
+  "tier": "news",
+  "title": "‘Attempt to manipulate’: Lithuania not easing visa rules for Pakistani citizens – ministry",
+  "uid": "1b8bfc775da5307b",
+  "url": "https://www.lrt.lt/en/news-in-english/19/3089368/attempt-to-manipulate-lithuania-not-easing-visa-rules-for-pakistani-citizens-ministry",
+  "warning": false
  }
 ]
