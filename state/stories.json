@@ -378,7 +378,7 @@
  },
  {
   "level": 2,
-  "n": 5,
+  "n": 6,
   "source": "Google News — NATO & the Baltics",
   "stems": [
    "artic",
@@ -389,9 +389,12 @@
    "deman",
    "drone",
    "expla",
+   "explo",
    "incid",
    "inter",
+   "inves",
    "measu",
+   "nause",
    "posit",
    "reite",
    "rules",
@@ -505,5 +508,16 @@
   ],
   "title": "Border reinforcement continues in Latvia",
   "ts": "2026-10-21T07:01:35+00:00"
+ },
+ {
+  "level": 2,
+  "n": 1,
+  "source": "Google News — Latvia security",
+  "stems": [
+   "holdi",
+   "persi"
+  ],
+  "title": "Holding the Line: Baltic Security in an Era of Persistent Threat - GLOBSEC",
+  "ts": "2026-10-21T08:01:37+00:00"
  }
 ]
