@@ -439,5 +439,26 @@
   "uid": "1b8bfc775da5307b",
   "url": "https://www.lrt.lt/en/news-in-english/19/3089368/attempt-to-manipulate-lithuania-not-easing-visa-rules-for-pakistani-citizens-ministry",
   "warning": false
+ },
+ {
+  "first_seen": "2026-10-21T15:31:17+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-21T15:00:47+00:00",
+  "reason": "region: baltic · matched “drone”",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "gnews_latvia_security",
+  "source_name": "Google News — Latvia security",
+  "summary": "",
+  "text": "Wing-in-Ground drone under development for Baltic defense Marine Log",
+  "tier": "news",
+  "title": "Wing-in-Ground drone under development for Baltic defense - Marine Log",
+  "uid": "c2a57383098ab1c4",
+  "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQNjZrS2NXdDkzalJza2NhaEdCaU1UMk1HSTdGLWd5SVNDYk5WOXY0Sm9MQUdJMzZaRXJFZWJhQ2xtLWI1NUp4M3R6eWxpenBtOHJ4djRydnU4WVVlNkYyMzB0dVBub1k1ZDUxcng1QjBKTC14V0M4ZUxKaTRUTmNFTWFYS25PbndtbzdvZVVybi1FMlhHS2JvOVBOMA?oc=5",
+  "warning": false
  }
 ]
