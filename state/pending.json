@@ -229,5 +229,26 @@
   "uid": "0e59dea7f7988577",
   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWTR4NGVyVE9yQ2tOVE1hc2wtWEM2NTl0RFlGSnk4OWxrT2FtYzN4Zk16d0FjUGNxY05hQkpCNnhJWU9YcktlYkpuZWFMYk9nSDVNS1poaE92YkU5UF9Dd003UTVOdW5hb0l0WkJFZE1kQm1reGdMODlWSkRGN2tJVEJJLUJ6OWU0NXNqQm9rZ01KUzF4clJ3QzdmcnZyTTA?oc=5",
   "warning": false
+ },
+ {
+  "first_seen": "2026-10-21T08:31:19+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-21T08:19:00+00:00",
+  "reason": "region: lithuania, article 5, nato, russia · official warning · matched “official warning” · another report of a story already in the channel",
+  "repeat_of": "Century-old German warship wrecks off Estonian coast hold hidden oil threat",
+  "repeats": 0,
+  "source_id": "lrt_en",
+  "source_name": "LRT (Lithuania, EN)",
+  "summary": "",
+  "text": "Russia is testing the limits of NATO’s collective defence by engaging in attacks that fall short of the alliance activating the Article 5 clause, Lithuanian Prime Minister Mindaugas Sinkevičius told LRT.lt in an interview published on Wednesday.",
+  "tier": "news",
+  "title": "Lithuanian PM: Russia is testing limits of NATO’s Article 5",
+  "uid": "69afc628881e05b5",
+  "url": "https://www.lrt.lt/en/news-in-english/19/3089141/lithuanian-pm-russia-is-testing-limits-of-nato-s-article-5",
+  "warning": true
  }
 ]
