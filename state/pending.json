@@ -397,5 +397,26 @@
   "uid": "86674d728df8cb72",
   "url": "https://t.me/astrapress/128895",
   "warning": false
+ },
+ {
+  "first_seen": "2026-10-21T13:31:18+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-21T13:19:34+00:00",
+  "reason": "region: lithuania, article 5, nato, russia · official warning · matched “official warning” · another report of a story already in the channel",
+  "repeat_of": "Lithuania seeks changes to NATO drone interception rules - Anadolu Ajansı",
+  "repeats": 0,
+  "source_id": "gnews_nato",
+  "source_name": "Google News — NATO & the Baltics",
+  "summary": "",
+  "text": "Lithuanian Prime Minister: Russia Is Testing the Limits of NATO's Article 5 UA.NEWS",
+  "tier": "news",
+  "title": "Lithuanian Prime Minister: Russia Is Testing the Limits of NATO's Article 5 - UA.NEWS",
+  "uid": "13174076a7dbe385",
+  "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPT3JHOTVXUnBIMTYtQXE2bEVoVml6NEdCRGV2RkdYU2VJMW1UaHYzZERZSWZHbjhCaFMyUWFpZEdaREo3NFpzZVY4VXlBR0lYNVVvOHBLUGxObnZOUm5SRWNTMnNNY3VjaEdDVkhFOWRfN0FxeXIwM1VMa3FEcS16aGtIaw?oc=5",
+  "warning": true
  }
 ]
