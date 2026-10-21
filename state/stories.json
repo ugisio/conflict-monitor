@@ -353,13 +353,21 @@
  },
  {
   "level": 2,
-  "n": 1,
+  "n": 2,
   "source": "ERR News (Estonia, EN)",
   "stems": [
+   "accor",
+   "aides",
+   "artic",
    "centu",
+   "chanc",
+   "claus",
    "coast",
+   "colle",
+   "consi",
    "germa",
    "hidde",
+   "invok",
    "warsh",
    "wreck"
   ],
@@ -383,11 +391,14 @@
  },
  {
   "level": 2,
-  "n": 3,
+  "n": 4,
   "source": "Google News — NATO & the Baltics",
   "stems": [
    "artic",
+   "boost",
    "chang",
+   "compa",
+   "cyber",
    "deman",
    "drone",
    "expla",
@@ -396,18 +407,29 @@
    "posit",
    "reite",
    "rules",
-   "seeks"
+   "seeks",
+   "utili"
   ],
   "title": "Lithuania seeks changes to NATO drone interception rules - Anadolu Ajansı",
   "ts": "2026-10-20T14:01:39+00:00"
  },
  {
   "level": 2,
-  "n": 1,
+  "n": 2,
   "source": "Google News — eastern flank (PL/FI/NATO)",
   "stems": [
+   "accor",
+   "acros",
+   "began",
+   "campa",
+   "cover",
    "escal",
+   "intel",
    "inten",
+   "major",
+   "opera",
+   "order",
+   "putin",
    "respo",
    "sabot"
   ],
@@ -470,12 +492,16 @@
  },
  {
   "level": 1,
-  "n": 1,
+  "n": 2,
   "source": "LSM (Latvian public media, EN)",
   "stems": [
    "consc",
+   "engli",
    "expan",
-   "guard"
+   "guard",
+   "invol",
+   "plans",
+   "servi"
   ],
   "title": "Conscription to be expanded to Latvian State Border Guard",
   "ts": "2026-10-21T05:01:32+00:00"
