@@ -19,5 +19,26 @@
   "uid": "1c05f4815054aa2a",
   "url": "https://polymarket.com/event/nato-x-russia-military-clash-in-2025",
   "warning": false
+ },
+ {
+  "first_seen": "2026-10-22T20:01:37+00:00",
+  "kind": "market",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": null,
+  "reason": "probability moved -5.0 pp",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "polymarket",
+  "source_name": "Polymarket",
+  "summary": "",
+  "text": "was 28% → now 24% (resolves 2026-11-16)",
+  "tier": "market",
+  "title": "Market moved -5 pp: “NATO x Russia military clash by November 15, 2026?” now 24%",
+  "uid": "0a11ba1803b706ef",
+  "url": "https://polymarket.com/event/nato-x-russia-military-clash-in-2025",
+  "warning": false
  }
 ]
