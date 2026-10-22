@@ -166,5 +166,26 @@
   "uid": "40e032ec5a785b38",
   "url": "https://eng.lsm.lv/article/society/defence/22.10.2026-airspace-alert-in-rezekne-and-kraslava-districts-of-latvia-is-now-over.a668082/?utm_source=rss&utm_campaign=rss&utm_medium=links",
   "warning": false
+ },
+ {
+  "first_seen": "2026-10-22T11:31:19+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-22T11:29:00+00:00",
+  "reason": "region: estonia · matched “Cyberattack (in text)”",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "err_en",
+  "source_name": "ERR News (Estonia, EN)",
+  "summary": "",
+  "text": "Cyberattack prevention startup Blackwall has raised €100 million from investors in a funding round that values the company at an estimated $2.2 billion.",
+  "tier": "news",
+  "title": "€100 million investment turns Estonian startup Blackwell into a unicorn",
+  "uid": "2bfaf5d09f259c71",
+  "url": "https://news.err.ee/1610172967/100-million-investment-turns-estonian-startup-blackwell-into-a-unicorn",
+  "warning": false
  }
 ]
