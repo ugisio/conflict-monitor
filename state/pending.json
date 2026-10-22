@@ -187,5 +187,26 @@
   "uid": "2bfaf5d09f259c71",
   "url": "https://news.err.ee/1610172967/100-million-investment-turns-estonian-startup-blackwell-into-a-unicorn",
   "warning": false
+ },
+ {
+  "first_seen": "2026-10-22T12:01:26+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-22T11:52:00+00:00",
+  "reason": "region: estonia · matched “drone” · another report of a story already in the channel",
+  "repeat_of": "Wing-in-Ground drone under development for Baltic defense - Marine Log",
+  "repeats": 0,
+  "source_id": "err_en",
+  "source_name": "ERR News (Estonia, EN)",
+  "summary": "",
+  "text": "Estonia will be able to significantly boost its drone surveillance, as the European Union has allocated over €30 million for the cause, Minister of Interior Igor Taro (Eesti 200) said on Thursday.",
+  "tier": "news",
+  "title": "Estonia receives €32 million from EU for drone surveillance",
+  "uid": "5638e5098841cafb",
+  "url": "https://news.err.ee/1610173066/estonia-receives-32-million-from-eu-for-drone-surveillance",
+  "warning": false
  }
 ]

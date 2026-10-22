@@ -1,29 +1,6 @@
 [
  {
   "level": 2,
-  "n": 3,
-  "source": "Google News — Latvia security",
-  "stems": [
-   "cease",
-   "conne",
-   "corri",
-   "drone",
-   "exist",
-   "field",
-   "forme",
-   "intel",
-   "inter",
-   "nigsb",
-   "pabri",
-   "senso",
-   "suwal",
-   "wiped"
-  ],
-  "title": "\"If Russia attacks NATO, Kaliningrad will be wiped out and Suwalki Corridor will cease to exist,\" - Pabriks - Цензор.НЕТ",
-  "ts": "2026-10-19T12:01:38+00:00"
- },
- {
-  "level": 2,
   "n": 12,
   "source": "LRT (Lithuania, EN)",
   "stems": [
@@ -412,7 +389,7 @@
  },
  {
   "level": 2,
-  "n": 5,
+  "n": 6,
   "source": "Google News — Latvia security",
   "stems": [
    "bottl",
@@ -427,7 +404,10 @@
    "groun",
    "hindu",
    "medic",
+   "milli",
    "readi",
+   "recei",
+   "surve",
    "terri",
    "testi",
    "throu",
