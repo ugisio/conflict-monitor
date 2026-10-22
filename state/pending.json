@@ -334,5 +334,26 @@
   "uid": "f609ccff4a64c5fc",
   "url": "https://polymarket.com/event/nato-x-russia-military-clash-in-2025",
   "warning": false
+ },
+ {
+  "first_seen": "2026-10-22T16:31:31+00:00",
+  "kind": "market",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": null,
+  "reason": "probability moved +5.0 pp",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "polymarket",
+  "source_name": "Polymarket",
+  "summary": "",
+  "text": "was 44% → now 48% (resolves 2027-06-22)",
+  "tier": "market",
+  "title": "Market moved +5 pp: “Will Tartu Ulikool Maks & Moorits win the 2026-27 Estonia KML championship?” now 48%",
+  "uid": "77e410b8e09fe7d7",
+  "url": "https://polymarket.com/event/estonia-kml-2027-champion",
+  "warning": false
  }
 ]
