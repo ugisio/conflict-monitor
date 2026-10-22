@@ -124,5 +124,26 @@
   "uid": "7e99a3cd5d862a04",
   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNYzZRVjllNzFlY2dQcG9EMDdNd2JYM3NnNGVEY1lXMGZQVTVfZmxkWVZqR0tMWVV1aGdFOXdKSzhfOVFMWl9ibjdlUTQ3WHBsaFdwV25FTWFLZEpUcHJWSUJDOHZoaUFQYWh1WGZ6YjJpN2pqczZXYVQ2bExKSVhQVnhuRQ?oc=5",
   "warning": false
+ },
+ {
+  "first_seen": "2026-10-22T10:01:49+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-22T09:50:00+00:00",
+  "reason": "region: latvia · matched “threat”",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "lsm_en",
+  "source_name": "LSM (Latvian public media, EN)",
+  "summary": "",
+  "text": "The National Armed Forces issued a warning covering Kraslavas and Rezeknes municipalities regarding a potential threat to airspace. A cell broadcasting alert was sent to residents of these municipalities.",
+  "tier": "news",
+  "title": "Possible air threat warning in Kraslava and Rezekne municipalities of Latvia",
+  "uid": "32ddcb0014a79c78",
+  "url": "https://eng.lsm.lv/article/society/defence/22.10.2026-possible-air-threat-warning-in-kraslava-and-rezekne-municipalities-of-latvia.a668082/?utm_source=rss&utm_campaign=rss&utm_medium=links",
+  "warning": false
  }
 ]
