@@ -467,15 +467,19 @@
  },
  {
   "level": 2,
-  "n": 1,
+  "n": 2,
   "source": "LSM (Latvian public media, EN)",
   "stems": [
+   "airsp",
    "alert",
+   "distr",
    "large",
    "numbe",
    "offli",
+   "slava",
    "taken",
-   "websi"
+   "websi",
+   "zekne"
   ],
   "title": "Large number of Latvian websites taken offline over security alert",
   "ts": "2026-10-21T20:01:32+00:00"

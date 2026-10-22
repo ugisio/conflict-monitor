@@ -145,5 +145,26 @@
   "uid": "32ddcb0014a79c78",
   "url": "https://eng.lsm.lv/article/society/defence/22.10.2026-possible-air-threat-warning-in-kraslava-and-rezekne-municipalities-of-latvia.a668082/?utm_source=rss&utm_campaign=rss&utm_medium=links",
   "warning": false
+ },
+ {
+  "first_seen": "2026-10-22T10:31:17+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-22T09:50:00+00:00",
+  "reason": "region: latvia, latvian · matched “threat (in text)” · another report of a story already in the channel",
+  "repeat_of": "Large number of Latvian websites taken offline over security alert",
+  "repeats": 0,
+  "source_id": "lsm_en",
+  "source_name": "LSM (Latvian public media, EN)",
+  "summary": "",
+  "text": "Latvia's National Armed Forces (NBS) announced that as of 12:39, a possible threat to Latvian airspace was declared in the Krāslava and Rēzekne districts in the east of the country. The alert was then cancelled at 13:16.",
+  "tier": "news",
+  "title": "Airspace alert in Rēzekne and Krāslava districts of Latvia is now over",
+  "uid": "40e032ec5a785b38",
+  "url": "https://eng.lsm.lv/article/society/defence/22.10.2026-airspace-alert-in-rezekne-and-kraslava-districts-of-latvia-is-now-over.a668082/?utm_source=rss&utm_campaign=rss&utm_medium=links",
+  "warning": false
  }
 ]
