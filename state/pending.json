@@ -82,5 +82,26 @@
   "uid": "2f4e641e9de6b6a6",
   "url": "https://eng.lsm.lv/article/features/commentary/22.10.2026-preventing-risks-or-quick-response-what-matters-most-in-the-age-of-cyberattacks.a668619/?utm_source=rss&utm_campaign=rss&utm_medium=links",
   "warning": false
+ },
+ {
+  "first_seen": "2026-10-22T09:01:33+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 1,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-22T08:57:00+00:00",
+  "reason": "region: lithuania · matched “defence minister (in text)”",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "lrt_en",
+  "source_name": "LRT (Lithuania, EN)",
+  "summary": "",
+  "text": "Lithuanian Prime Minister Mindaugas Sinkevičius said Thursday he had received assurances from the defence minister that all allocated defence funds would be spent properly and efficiently by the end of the year, despite about half of this year’s budget remaining unspent in mid-October.",
+  "tier": "news",
+  "title": "Lithuania will spend its military funding by year end, PM assures",
+  "uid": "a0cc220fb3e94d71",
+  "url": "https://www.lrt.lt/en/news-in-english/19/3090175/lithuania-will-spend-its-military-funding-by-year-end-pm-assures",
+  "warning": false
  }
 ]
