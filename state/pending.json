@@ -1,1 +1,23 @@
-[]
+[
+ {
+  "first_seen": "2026-10-22T05:31:11+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-22T05:22:00+00:00",
+  "reason": "region: estonia · matched “military exercise (in text)”",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "err_en",
+  "source_name": "ERR News (Estonia, EN)",
+  "summary": "",
+  "text": "The German military, for the first time, is practicing the deployment of additional troops to Estonia as part of the Brave Blue 26 military exercise.",
+  "tier": "news",
+  "title": "German military practices deploying troops to Estonia",
+  "uid": "83cb6ff5bfe22e49",
+  "url": "https://news.err.ee/1610172724/german-military-practices-deploying-troops-to-estonia",
+  "warning": false
+ }
+]

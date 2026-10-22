@@ -489,5 +489,18 @@
   ],
   "title": "Large number of Latvian websites taken offline over security alert",
   "ts": "2026-10-21T20:01:32+00:00"
+ },
+ {
+  "level": 2,
+  "n": 1,
+  "source": "ERR News (Estonia, EN)",
+  "stems": [
+   "deplo",
+   "germa",
+   "pract",
+   "troop"
+  ],
+  "title": "German military practices deploying troops to Estonia",
+  "ts": "2026-10-22T05:31:22+00:00"
  }
 ]
