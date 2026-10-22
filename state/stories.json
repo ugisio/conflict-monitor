@@ -428,15 +428,19 @@
  },
  {
   "level": 2,
-  "n": 3,
+  "n": 4,
   "source": "Google News — Latvia security",
   "stems": [
+   "bottl",
    "confr",
    "crash",
+   "depos",
    "devel",
+   "donat",
    "drone",
    "groun",
    "hindu",
+   "medic",
    "readi",
    "terri",
    "testi",
@@ -520,5 +524,20 @@
   ],
   "title": "808 украинских БПЛА уничтожены минувшей ночью, — Минобороны РФ «В течение прошедшей ночи с 20.00 21 октября до 8.00 22 октября дежурными сил…",
   "ts": "2026-10-22T06:31:25+00:00"
+ },
+ {
+  "level": 2,
+  "n": 1,
+  "source": "LSM (Latvian public media, EN)",
+  "stems": [
+   "cyber",
+   "matte",
+   "preve",
+   "quick",
+   "respo",
+   "risks"
+  ],
+  "title": "Preventing risks or quick response – what matters most in the age of cyberattacks?",
+  "ts": "2026-10-22T07:01:35+00:00"
  }
 ]
