@@ -103,5 +103,26 @@
   "uid": "a0cc220fb3e94d71",
   "url": "https://www.lrt.lt/en/news-in-english/19/3090175/lithuania-will-spend-its-military-funding-by-year-end-pm-assures",
   "warning": false
+ },
+ {
+  "first_seen": "2026-10-22T09:31:14+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 1,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-22T09:16:32+00:00",
+  "reason": "region: kaliningrad · matched “Training” · another report of a story already in the channel",
+  "repeat_of": "Wing-in-Ground drone under development for Baltic defense - Marine Log",
+  "repeats": 0,
+  "source_id": "gnews_latvia_security",
+  "source_name": "Google News — Latvia security",
+  "summary": "",
+  "text": "Su-30 Crash in Kaliningrad: Both Crew Eject on Training Flight MiGFlug",
+  "tier": "news",
+  "title": "Su-30 Crash in Kaliningrad: Both Crew Eject on Training Flight - MiGFlug",
+  "uid": "7e99a3cd5d862a04",
+  "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNYzZRVjllNzFlY2dQcG9EMDdNd2JYM3NnNGVEY1lXMGZQVTVfZmxkWVZqR0tMWVV1aGdFOXdKSzhfOVFMWl9ibjdlUTQ3WHBsaFdwV25FTWFLZEpUcHJWSUJDOHZoaUFQYWh1WGZ6YjJpN2pqczZXYVQ2bExKSVhQVnhuRQ?oc=5",
+  "warning": false
  }
 ]

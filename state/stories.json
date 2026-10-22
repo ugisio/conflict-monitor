@@ -412,7 +412,7 @@
  },
  {
   "level": 2,
-  "n": 4,
+  "n": 5,
   "source": "Google News — Latvia security",
   "stems": [
    "bottl",
@@ -422,6 +422,8 @@
    "devel",
    "donat",
    "drone",
+   "eject",
+   "fligh",
    "groun",
    "hindu",
    "medic",
