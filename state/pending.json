@@ -1,1 +1,23 @@
-[]
+[
+ {
+  "first_seen": "2026-10-23T07:01:27+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 1,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-23T06:42:00+00:00",
+  "reason": "region: lithuania · matched “defence spending” · another report of a story already in the channel",
+  "repeat_of": "Lithuania will spend its military funding by year end, PM assures",
+  "repeats": 0,
+  "source_id": "lrt_en",
+  "source_name": "LRT (Lithuania, EN)",
+  "summary": "",
+  "text": "There was considerable pressure, including from coalition partners, to sharply reduce defence spending while preparing next year’s government spending bill, Finance Minister Taurimas Valys said, defending the 2026 budget proposal that includes a sizable deficit.",
+  "tier": "news",
+  "title": "Lithuanian FinMin defends deficit budget: there was pressure to cut defence spending",
+  "uid": "dc582cd89353cdbe",
+  "url": "https://www.lrt.lt/en/news-in-english/19/3091085/lithuanian-finmin-defends-deficit-budget-there-was-pressure-to-cut-defence-spending",
+  "warning": false
+ }
+]

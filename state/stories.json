@@ -403,11 +403,15 @@
  },
  {
   "level": 1,
-  "n": 1,
+  "n": 2,
   "source": "LRT (Lithuania, EN)",
   "stems": [
    "assur",
+   "budge",
+   "defic",
+   "finmi",
    "fundi",
+   "press",
    "spend"
   ],
   "title": "Lithuania will spend its military funding by year end, PM assures",
