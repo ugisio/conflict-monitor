@@ -124,5 +124,26 @@
   "uid": "d3f66eb2dafd4ecd",
   "url": "https://t.me/nexta_live/125445",
   "warning": false
+ },
+ {
+  "first_seen": "2026-10-23T19:31:18+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-23T10:05:02+00:00",
+  "reason": "region: estonia, lithuania · matched “drone” · another report of a story already in the channel",
+  "repeat_of": "Lithuanian firms produce anti-drone netting to shield strategic objects – media",
+  "repeats": 0,
+  "source_id": "gnews_latvia_security",
+  "source_name": "Google News — Latvia security",
+  "summary": "",
+  "text": "EU awards €29.5M to Lithuania, Estonia for drone warhead production AeroTime",
+  "tier": "news",
+  "title": "EU awards €29.5M to Lithuania, Estonia for drone warhead production - AeroTime",
+  "uid": "199b874d730cd31c",
+  "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMDBIUU1nV3JPLUxLQkZRTS1JMTZNcFRTcXdCWUpHNDNIalVrUXZwMDVxVUZLYVBlcVFaQ01JNF9PQzZhbTl4X25pbVMzdGlrZXJMb0VIdjh5Y1FpeF90N0JmdDI4QmV1WUc1dHNYbVJsalFfLXJEa2d1RV8tUUlSOE9wYlIwTzRDa1hBdVZDUWxmUdIBlwFBVV95cUxPYkl3NzMxYW5RSmlTVkJMOXZZVW1vMF9wOUZDQXFUYl82eEpEZllFbWdZX2xsY0dPMlpoUkdWeUl6c2FXVEtka2pFWGp5LVl0U1BFWHZRUEM1OWcweHFjdEF2aURoOFgxZGZjOUtOY0pBUWhOdXlnU2VST045QXVQcmdBaEVJWWlfcV9GS3laamYyaXdYWkI4?oc=5",
+  "warning": false
  }
 ]
