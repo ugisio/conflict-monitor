@@ -40,5 +40,26 @@
   "uid": "0a11ba1803b706ef",
   "url": "https://polymarket.com/event/nato-x-russia-military-clash-in-2025",
   "warning": false
+ },
+ {
+  "first_seen": "2026-10-23T00:01:34+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-22T21:59:32+00:00",
+  "reason": "region: baltic, russia · matched “Navy” · story escalated from L1 (2 reports so far)",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "gnews_embassy",
+  "source_name": "Google News — embassies Baltics",
+  "summary": "",
+  "text": "Russian Navy training ship Perekop docks in Walvis Bay on four-ocean voyage THE Russian Navy’s Baltic Fleet training ship Perekop has arrived at the port of Walvis Bay, the Russian Defence Ministry’s press office reported. The visit is one stop on a training Instagram",
+  "tier": "news",
+  "title": "Russian Navy training ship Perekop docks in Walvis Bay on four-ocean voyage THE Russian Navy’s Baltic Fleet training ship Perekop has arrived at the port of Walvis Bay, the Russian Defence Ministry’s press office reported. The visit is one stop on a training - Instagram",
+  "uid": "1f2a70cb0401547e",
+  "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAxSjk0RndOWTZud05zeXI5X0tISDh2RDJqS3cwUFJtSTRVYk5XSWVqdTdKU0paRWJVUDhZbVhzTVZwU1ZmVUVySTA0Y2ZMUmVlRFE?oc=5",
+  "warning": false
  }
 ]
