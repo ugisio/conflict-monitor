@@ -1,18 +1,6 @@
 [
  {
   "level": 2,
-  "n": 1,
-  "source": "Google News — Latvia security",
-  "stems": [
-   "makes",
-   "nucle",
-   "putin"
-  ],
-  "title": "Putin Makes Nuclear Threats Over Kaliningrad - The Jamestown Foundation",
-  "ts": "2026-10-20T20:01:45+00:00"
- },
- {
-  "level": 2,
   "n": 4,
   "source": "LSM (Latvian public media, EN)",
   "stems": [
@@ -355,24 +343,33 @@
  },
  {
   "level": 2,
-  "n": 4,
+  "n": 5,
   "source": "LRT (Lithuania, EN)",
   "stems": [
+   "aeros",
    "artic",
    "award",
    "bareh",
+   "batch",
    "compl",
+   "deliv",
    "drone",
    "enter",
    "firms",
+   "heavy",
    "itali",
    "netti",
    "objec",
    "pilot",
+   "price",
    "produ",
+   "purch",
    "shiel",
    "speci",
+   "stock",
    "strat",
+   "targe",
+   "volat",
    "warfa",
    "warhe"
   ],
