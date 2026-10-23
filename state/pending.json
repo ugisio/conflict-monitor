@@ -1,1 +1,44 @@
-[]
+[
+ {
+  "first_seen": "2026-10-23T17:31:32+00:00",
+  "kind": "market",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": null,
+  "reason": "probability moved +8.5 pp",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "polymarket",
+  "source_name": "Polymarket",
+  "summary": "",
+  "text": "was 30% → now 38% (resolves 2026-11-01)",
+  "tier": "market",
+  "title": "Market moved +8 pp: “NATO x Russia military clash by October 31, 2026?” now 38%",
+  "uid": "3191b3a49f79e684",
+  "url": "https://polymarket.com/event/nato-x-russia-military-clash-in-2025",
+  "warning": false
+ },
+ {
+  "first_seen": "2026-10-23T17:31:32+00:00",
+  "kind": "market",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": null,
+  "reason": "probability moved +6.0 pp",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "polymarket",
+  "source_name": "Polymarket",
+  "summary": "",
+  "text": "was 41% → now 47% (resolves 2027-01-01)",
+  "tier": "market",
+  "title": "Market moved +6 pp: “NATO x Russia military clash by December 31, 2026?” now 47%",
+  "uid": "f1195fe102903f48",
+  "url": "https://polymarket.com/event/nato-x-russia-military-clash-in-2025",
+  "warning": false
+ }
+]
