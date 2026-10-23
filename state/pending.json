@@ -82,5 +82,26 @@
   "uid": "19a6274dbe30da5d",
   "url": "https://polymarket.com/event/nato-x-russia-military-clash-in-2025",
   "warning": false
+ },
+ {
+  "first_seen": "2026-10-23T04:31:15+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-23T04:05:35+00:00",
+  "reason": "region: kaliningrad, nato · matched “nuclear threat” · single source, held at WATCH until another source corroborates",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "gnews_latvia_security",
+  "source_name": "Google News — Latvia security",
+  "summary": "",
+  "text": "Slouching toward Kaliningrad, NATO dismisses a nuclear threat Responsible Statecraft",
+  "tier": "news",
+  "title": "Slouching toward Kaliningrad, NATO dismisses a nuclear threat - Responsible Statecraft",
+  "uid": "7e748b50d44f06fc",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5aS3NraDhRaDJaUG5QeEZSajZEdlUxeFV2YVFRaW5ZWmdZM2FJRlpoQ1YxOENHQW9CY2otU21Td2JmMXRyeWlIS3EyZXhrekRPZkkwQVNmWVlFWGdGNWxUN1dydVN6UTBVYlE?oc=5",
+  "warning": false
  }
 ]
