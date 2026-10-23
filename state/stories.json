@@ -1,37 +1,6 @@
 [
  {
   "level": 2,
-  "n": 3,
-  "source": "Google News — eastern flank (PL/FI/NATO)",
-  "stems": [
-   "accor",
-   "acros",
-   "began",
-   "campa",
-   "cover",
-   "dange",
-   "escal",
-   "intel",
-   "inten",
-   "major",
-   "opera",
-   "order",
-   "putin",
-   "respo",
-   "rubio",
-   "sabot",
-   "secre",
-   "spoke",
-   "thank",
-   "works",
-   "yeste",
-   "zelen"
-  ],
-  "title": "\"Russia Will Intensify Escalation And Test Our Response\": Tusk Warns Of Sabotage Risk In Poland - uatv.ua",
-  "ts": "2026-10-20T16:01:39+00:00"
- },
- {
-  "level": 2,
   "n": 1,
   "source": "Novaya Gazeta Europe",
   "stems": [
@@ -477,5 +446,18 @@
   ],
   "title": "Lithuanian firms produce anti-drone netting to shield strategic objects – media",
   "ts": "2026-10-23T08:01:45+00:00"
+ },
+ {
+  "level": 2,
+  "n": 1,
+  "source": "Google News — Latvia security",
+  "stems": [
+   "dange",
+   "first",
+   "strik",
+   "suwal"
+  ],
+  "title": "Dangerous NATO plan for Suwalki and Kaliningrad: Russia warns of first strike - Bankingnews",
+  "ts": "2026-10-23T16:01:40+00:00"
  }
 ]
