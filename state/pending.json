@@ -103,5 +103,26 @@
   "uid": "436a41dc2c204e3c",
   "url": "https://t.me/astrapress/129082",
   "warning": false
+ },
+ {
+  "first_seen": "2026-10-23T10:01:31+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-23T09:33:00+00:00",
+  "reason": "region: estonia · matched “drone” · another report of a story already in the channel",
+  "repeat_of": "€100 million investment turns Estonian startup Blackwell into a unicorn",
+  "repeats": 0,
+  "source_id": "err_en",
+  "source_name": "ERR News (Estonia, EN)",
+  "summary": "",
+  "text": "The Prosecutor's Office has closed its investigation into a drone that struck a smokestack at the Auvere Power Plant because it was unable to establish the exact circumstances of the incident.",
+  "tier": "news",
+  "title": "Investigation finds no deliberate activity aimed against Estonia in Auvere drone incident",
+  "uid": "0c462a41d7d122a4",
+  "url": "https://news.err.ee/1610174695/investigation-finds-no-deliberate-activity-aimed-against-estonia-in-auvere-drone-incident",
+  "warning": false
  }
 ]
