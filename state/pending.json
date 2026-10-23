@@ -19,5 +19,26 @@
   "uid": "dc582cd89353cdbe",
   "url": "https://www.lrt.lt/en/news-in-english/19/3091085/lithuanian-finmin-defends-deficit-budget-there-was-pressure-to-cut-defence-spending",
   "warning": false
+ },
+ {
+  "first_seen": "2026-10-23T08:01:34+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-23T07:34:00+00:00",
+  "reason": "region: lithuania · matched “drone”",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "lrt_en",
+  "source_name": "LRT (Lithuania, EN)",
+  "summary": "",
+  "text": "Lithuanian firms are producing anti-drone netting to shield the country’s strategic objects from potential attacks, business reps told the Verslo Žinios newspaper.",
+  "tier": "news",
+  "title": "Lithuanian firms produce anti-drone netting to shield strategic objects – media",
+  "uid": "d6f0fa70103d54e6",
+  "url": "https://www.lrt.lt/en/news-in-english/19/3091125/lithuanian-firms-produce-anti-drone-netting-to-shield-strategic-objects-media",
+  "warning": false
  }
 ]
