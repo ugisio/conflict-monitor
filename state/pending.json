@@ -61,5 +61,26 @@
   "uid": "1f2a70cb0401547e",
   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAxSjk0RndOWTZud05zeXI5X0tISDh2RDJqS3cwUFJtSTRVYk5XSWVqdTdKU0paRWJVUDhZbVhzTVZwU1ZmVUVySTA0Y2ZMUmVlRFE?oc=5",
   "warning": false
+ },
+ {
+  "first_seen": "2026-10-23T00:31:30+00:00",
+  "kind": "market",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": null,
+  "reason": "probability moved -5.0 pp",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "polymarket",
+  "source_name": "Polymarket",
+  "summary": "",
+  "text": "was 25% → now 20% (resolves 2026-12-01)",
+  "tier": "market",
+  "title": "Market moved -5 pp: “NATO x Russia military clash by November 30, 2026?” now 20%",
+  "uid": "19a6274dbe30da5d",
+  "url": "https://polymarket.com/event/nato-x-russia-military-clash-in-2025",
+  "warning": false
  }
 ]
