@@ -40,5 +40,26 @@
   "uid": "8057dd2ea7b2d6ed",
   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTUtpbGJJWDdwZFh3UVRuMFp6Y0t0MVQ4V0twX2RXd1ZDa0VRQ1pXdTQ2aHNNTk9hazZRamJpTWJfRmR0OXlZbXJpY09sV2ZVWUwxZVo0Wjh2eEFkSGVFZ19VTVZ3dnYzRTZOS2std1RLNUNoVmdmdER5SU4yYmd2RHVYdGg2bmJIdndtaHVMT0FCa1dHX0pmRmZHV0lhbTR4aVhJ?oc=5",
   "warning": false
+ },
+ {
+  "first_seen": "2026-10-24T15:01:45+00:00",
+  "kind": "market",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": null,
+  "reason": "probability moved +6.0 pp",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "polymarket",
+  "source_name": "Polymarket",
+  "summary": "",
+  "text": "was 16% → now 22% (resolves 2027-01-01)",
+  "tier": "market",
+  "title": "Market moved +6 pp: “Will Tartu JK Tammeka be runner-up in the 2026 Premium Liiga (Estonia)?” now 22%",
+  "uid": "be7f697cd5cf7b57",
+  "url": "https://polymarket.com/event/2026-soccer-premium-liiga-estonia-runner-up",
+  "warning": false
  }
 ]
