@@ -1,19 +1,5 @@
 [
  {
-  "level": 1,
-  "n": 1,
-  "source": "Google News — Latvia security",
-  "stems": [
-   "crash",
-   "durin",
-   "fight",
-   "fligh",
-   "train"
-  ],
-  "title": "Fighter Jet Crashes in Kaliningrad Region During Training Flight - The Moscow Times",
-  "ts": "2026-10-21T19:01:45+00:00"
- },
- {
   "level": 2,
   "n": 3,
   "source": "LSM (Latvian public media, EN)",
