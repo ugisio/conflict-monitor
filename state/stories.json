@@ -1,38 +1,6 @@
 [
  {
   "level": 2,
-  "n": 6,
-  "source": "Google News — Latvia security",
-  "stems": [
-   "bottl",
-   "confr",
-   "crash",
-   "depos",
-   "devel",
-   "donat",
-   "drone",
-   "eject",
-   "fligh",
-   "groun",
-   "hindu",
-   "medic",
-   "milli",
-   "readi",
-   "recei",
-   "surve",
-   "terri",
-   "testi",
-   "throu",
-   "times",
-   "train",
-   "under",
-   "wrong"
-  ],
-  "title": "Wing-in-Ground drone under development for Baltic defense - Marine Log",
-  "ts": "2026-10-21T15:31:26+00:00"
- },
- {
-  "level": 2,
   "n": 1,
   "source": "Google News — eastern flank (PL/FI/NATO)",
   "stems": [
@@ -372,5 +340,19 @@
   ],
   "title": "Latvia prepares rail network for military escalation - International Railway Journal",
   "ts": "2026-10-24T12:31:33+00:00"
+ },
+ {
+  "level": 2,
+  "n": 2,
+  "source": "LSM (Latvian public media, EN)",
+  "stems": [
+   "artic",
+   "crash",
+   "distr",
+   "drone",
+   "found"
+  ],
+  "title": "Crashed drone found in Alūksne district",
+  "ts": "2026-10-24T15:31:34+00:00"
  }
 ]
