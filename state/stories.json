@@ -1,34 +1,6 @@
 [
  {
   "level": 2,
-  "n": 4,
-  "source": "LSM (Latvian public media, EN)",
-  "stems": [
-   "consc",
-   "engli",
-   "expan",
-   "guard",
-   "inclu",
-   "invol",
-   "plans",
-   "servi"
-  ],
-  "title": "Lithuanian president to meet Citi head as US bank plans Baltic office",
-  "ts": "2026-10-21T06:31:27+00:00"
- },
- {
-  "level": 2,
-  "n": 1,
-  "source": "LSM (Latvian public media, EN)",
-  "stems": [
-   "conti",
-   "reinf"
-  ],
-  "title": "Border reinforcement continues in Latvia",
-  "ts": "2026-10-21T07:01:35+00:00"
- },
- {
-  "level": 2,
   "n": 1,
   "source": "Google News — Latvia security",
   "stems": [
