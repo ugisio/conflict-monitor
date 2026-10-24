@@ -293,16 +293,19 @@
  },
  {
   "level": 2,
-  "n": 3,
+  "n": 4,
   "source": "LSM (Latvian public media, EN)",
   "stems": [
+   "airsp",
    "artic",
    "crash",
    "distr",
    "drone",
    "engli",
+   "enter",
    "found",
-   "octob"
+   "octob",
+   "wreck"
   ],
   "title": "Crashed drone found in Alūksne district",
   "ts": "2026-10-24T15:31:34+00:00"

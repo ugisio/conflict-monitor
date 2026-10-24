@@ -1,1 +1,23 @@
-[]
+[
+ {
+  "first_seen": "2026-10-24T22:31:16+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-24T16:31:30+00:00",
+  "reason": "region: latvia · matched “Drone” · another report of a story already in the channel",
+  "repeat_of": "Crashed drone found in Alūksne district",
+  "repeats": 0,
+  "source_id": "gnews_latvia_security",
+  "source_name": "Google News — Latvia security",
+  "summary": "",
+  "text": "Drone wreckage found in Latvia; it may have entered the country’s airspace Mezha.net",
+  "tier": "news",
+  "title": "Drone wreckage found in Latvia; it may have entered the country’s airspace - Mezha.net",
+  "uid": "171ef7e9e16791f0",
+  "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQUWNYanV6WmdPUjE5Q3lJVjZVcktDWGl5VHdybEdQcGc0T0lrMlo5SkNJX2hOVWtYSm1xenBBNUt2Z3psNTlfeDZpWkRRREVPdURReHNuRi1BX1hiNjlab0tOUHBZNk52eW5RbWFpZVo0bGVRWmswR3lORV82cVVNelJWb01BUQ?oc=5",
+  "warning": false
+ }
+]
