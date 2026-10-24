@@ -19,5 +19,26 @@
   "uid": "da7d03844d102d4c",
   "url": "https://t.me/novaya_europe/68794",
   "warning": false
+ },
+ {
+  "first_seen": "2026-10-24T12:31:22+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-24T12:19:54+00:00",
+  "reason": "region: latvia · matched “escalat”",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "gnews_latvia_security",
+  "source_name": "Google News — Latvia security",
+  "summary": "",
+  "text": "Latvia prepares rail network for military escalation International Railway Journal",
+  "tier": "news",
+  "title": "Latvia prepares rail network for military escalation - International Railway Journal",
+  "uid": "8057dd2ea7b2d6ed",
+  "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTUtpbGJJWDdwZFh3UVRuMFp6Y0t0MVQ4V0twX2RXd1ZDa0VRQ1pXdTQ2aHNNTk9hazZRamJpTWJfRmR0OXlZbXJpY09sV2ZVWUwxZVo0Wjh2eEFkSGVFZ19VTVZ3dnYzRTZOS2std1RLNUNoVmdmdER5SU4yYmd2RHVYdGg2bmJIdndtaHVMT0FCa1dHX0pmRmZHV0lhbTR4aVhJ?oc=5",
+  "warning": false
  }
 ]
