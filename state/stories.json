@@ -49,22 +49,6 @@
   "ts": "2026-10-22T14:01:41+00:00"
  },
  {
-  "level": 1,
-  "n": 2,
-  "source": "LRT (Lithuania, EN)",
-  "stems": [
-   "assur",
-   "budge",
-   "defic",
-   "finmi",
-   "fundi",
-   "press",
-   "spend"
-  ],
-  "title": "Lithuania will spend its military funding by year end, PM assures",
-  "ts": "2026-10-22T09:01:44+00:00"
- },
- {
   "level": 2,
   "n": 1,
   "source": "LSM (Latvian public media, EN)",
@@ -296,15 +280,17 @@
  },
  {
   "level": 2,
-  "n": 1,
+  "n": 2,
   "source": "Google News — Latvia security",
   "stems": [
    "dange",
+   "gener",
    "growi",
    "hybri",
    "ident",
    "incid",
-   "month"
+   "month",
+   "scena"
   ],
   "title": "Russia’s Hybrid Attacks in Europe Are Growing More Dangerous, 54 Incidents Identified in Six Months - The Baltic Sentinel",
   "ts": "2026-10-25T07:31:34+00:00"

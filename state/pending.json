@@ -61,5 +61,26 @@
   "uid": "03ff5865c7dc634b",
   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ITU5BSC1oUGNqQlFVaGhmMkdvbmEtcElpU1huMTMzNU1hRmJRcHJJQTktT2hKelE0MzF0VE1GRm5DZ1Q3QXZQcHBRTmNVTEJtbE5YZ1IyWXplZEFodXhkTDg0dUpPUklRX01iRThLUFU?oc=5",
   "warning": false
+ },
+ {
+  "first_seen": "2026-10-25T09:21:20+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-25T09:00:01+00:00",
+  "reason": "region: estonia, nato, russia · planning/hypothetical wording, softened · matched “attack NATO? Estonia” · another report of a story already in the channel",
+  "repeat_of": "Russia’s Hybrid Attacks in Europe Are Growing More Dangerous, 54 Incidents Identified in Six Months - The Baltic Sentinel",
+  "repeats": 0,
+  "source_id": "gnews_nato",
+  "source_name": "Google News — NATO & the Baltics",
+  "summary": "",
+  "text": "Could Russia attack NATO? Estonian general identifies two dangerous scenarios Defence24.com",
+  "tier": "news",
+  "title": "Could Russia attack NATO? Estonian general identifies two dangerous scenarios - Defence24.com",
+  "uid": "62de3d618ccab11a",
+  "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOLUp1bW9ZWU1jZjMtcU1wcFB6UDh4LWF4TG13N2IyRzh5NEdPeTA4Y3FITTI2STZ6X1hlUUQtTjh3aXR5NHdzaFJXaG82akV4dTA5aFdsYzhlQXQydFJrYVNQWjh4dktPVVhaVHJ5ZGpXNmxkbW5aWF9yVDJ0QVRPT2VWdlp2SFJvUFhWRjcwMlI0bDEwYVUtRlpjeUVRQkxqN29keENsMEZZYV9qQ3BB?oc=5",
+  "warning": false
  }
 ]
