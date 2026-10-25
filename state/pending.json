@@ -229,5 +229,26 @@
   "uid": "feef5e9d78bc6f15",
   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNHcwbUJaTWxqd1pBcjVnVjBIZERpLXY5TWdTcTVBYUswSDVwMEFrX1BvRTBrMjlVOHVjQlZPTk5xejNRYzZjTDBkQ1gwYXU5VzR2S2xJZl93dHpibnF3akpoSmdZWkR5TmJ2QVFjN0pfc3ZwSlE0S2FXWVlrNlVjUmI0TnB6dm9JOXBQUGhieWZFaERwNENxWTBBYmV5bUNNUndZNlYxMTNEMklSN3N0TkxGc01RWnE5TXZNRnhkMHpXdw?oc=5",
   "warning": false
+ },
+ {
+  "first_seen": "2026-10-25T17:01:31+00:00",
+  "kind": "post",
+  "lang": "ru",
+  "level": 2,
+  "note": "RU, independent; incidents inside Russia (Pskov, Leningrad region, Kaliningrad)",
+  "posted": false,
+  "published": "2026-10-25T16:50:30+00:00",
+  "reason": "region: беларус · matched “атаковал грузовой поезд, шедший в Беларус” · single source, held at WATCH until another source corroborates · another report of a story already in the channel",
+  "repeat_of": "📝 Об актуальных угрозах Калининграду 📝 И необходимости отличать их от других Ошибки планирования начинаются с неверной интерпретации реально…",
+  "repeats": 0,
+  "source_id": "tg_astra",
+  "source_name": "ASTRA",
+  "summary": "",
+  "text": "В Брянской области дрон атаковал грузовой поезд, шедший в Беларусь, — власти По словам губернатора Брянской области Егорва Ковальчука, в результате атаки дрона грузового поезда «Брянск-Гомель» в Новозыбкове погиб 44-летний машинист. Корпус локомотива поврежден.",
+  "tier": "osint",
+  "title": "В Брянской области дрон атаковал грузовой поезд, шедший в Беларусь, — власти По словам губернатора Брянской области Егорва Ковальчука, в рез…",
+  "uid": "a2f7cb21e8ef7fa0",
+  "url": "https://t.me/astrapress/129326",
+  "warning": false
  }
 ]
