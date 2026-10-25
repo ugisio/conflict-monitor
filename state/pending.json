@@ -61,5 +61,26 @@
   "uid": "2fdf1e335608005e",
   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNaEU0MWJWTVBqcWg2U210RjVIQTA0MExiR01WUnlLdXVZcnVPNTUwTV95ekxXNTJuRVRLbFEtM1V3Q3VRUE1EQUpoVXY4N1hPVi1VNElXY3YyejdzUU1jTVg4TWEybWRBSVhzZ2Zqd2taN2JNdFE2SXJ0NWNuQUxmSHF5VEZpLVVCb0lDOFZreWV1M3BzV0NrWG82bWp5TkVYXzBGanJCY2xnRW1OVWlLM2VUT3lMdFpBNjloWUN3QUFEWm9pQ1BOR0RPTGNONXo0RkFVQi1qeXg?oc=5",
   "warning": false
+ },
+ {
+  "first_seen": "2026-10-25T20:31:24+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 1,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-24T19:00:10+00:00",
+  "reason": "region: latvia, latvian, belarus · matched “Border Guard chief” · another report of a story already in the channel",
+  "repeat_of": "Russia’s Hybrid Attacks in Europe Are Growing More Dangerous, 54 Incidents Identified in Six Months - The Baltic Sentinel",
+  "repeats": 0,
+  "source_id": "gnews_latvia_security",
+  "source_name": "Google News — Latvia security",
+  "summary": "",
+  "text": "Latvia is Belarus' first target for hybrid war: Border Guard chief / Article Latvian Public Media",
+  "tier": "news",
+  "title": "Latvia is Belarus' first target for hybrid war: Border Guard chief / Article - Latvian Public Media",
+  "uid": "499dd13c6457aac4",
+  "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxObmtUWHF6VXpBQmpZMU84NkJhNFRLZmlLS3g3dGIwSE5LZjJGUVJrQWFDNklHYmt6UUE4WUFZQ3RLX1FaNENSMlFjZXRuUjJHRmdqSjNKZURMMkx1SEU3aG9GRkp1dUpkSHFSdVVIamtSVXBnUzBvN3JWeW1BdHdOSTAzVGhnLXJ1THZSb2d1dENvem8zaHFIVlFwY1JpZUJFRkc0YlVoZE5GOWpvX2NpbGtFTjJtYzUtTVk0SlJYSloxdmRVRXc?oc=5",
+  "warning": false
  }
 ]
