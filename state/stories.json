@@ -1,23 +1,6 @@
 [
  {
   "level": 2,
-  "n": 2,
-  "source": "ERR News (Estonia, EN)",
-  "stems": [
-   "arres",
-   "briga",
-   "deplo",
-   "germa",
-   "pract",
-   "spyin",
-   "suspe",
-   "troop"
-  ],
-  "title": "German military practices deploying troops to Estonia",
-  "ts": "2026-10-22T05:31:22+00:00"
- },
- {
-  "level": 2,
   "n": 4,
   "source": "ASTRA",
   "stems": [
