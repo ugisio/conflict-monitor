@@ -50,19 +50,6 @@
  },
  {
   "level": 2,
-  "n": 1,
-  "source": "LSM (Latvian public media, EN)",
-  "stems": [
-   "krasl",
-   "munic",
-   "possi",
-   "rezek"
-  ],
-  "title": "Possible air threat warning in Kraslava and Rezekne municipalities of Latvia",
-  "ts": "2026-10-22T10:02:37+00:00"
- },
- {
-  "level": 2,
   "n": 3,
   "source": "ERR News (Estonia, EN)",
   "stems": [
