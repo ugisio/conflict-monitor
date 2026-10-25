@@ -183,9 +183,11 @@
  },
  {
   "level": 2,
-  "n": 4,
+  "n": 5,
   "source": "Google News — Latvia security",
   "stems": [
+   "adopt",
+   "alert",
    "artic",
    "basic",
    "contr",
@@ -195,8 +197,10 @@
    "drone",
    "explo",
    "facts",
+   "futur",
    "gener",
    "growi",
+   "hiera",
    "hybri",
    "ident",
    "incid",

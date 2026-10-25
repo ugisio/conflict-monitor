@@ -1,1 +1,23 @@
-[]
+[
+ {
+  "first_seen": "2026-10-25T18:31:12+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-24T16:54:20+00:00",
+  "reason": "region: latvia, latvian · matched “drone” · another report of a story already in the channel",
+  "repeat_of": "Russia’s Hybrid Attacks in Europe Are Growing More Dangerous, 54 Incidents Identified in Six Months - The Baltic Sentinel",
+  "repeats": 0,
+  "source_id": "gnews_latvia_security",
+  "source_name": "Google News — Latvia security",
+  "summary": "",
+  "text": "Future drone alerts in Latvia will adopt a new warning hierarchy / Article Latvian Public Media",
+  "tier": "news",
+  "title": "Future drone alerts in Latvia will adopt a new warning hierarchy / Article - Latvian Public Media",
+  "uid": "d909d41bb891a547",
+  "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZTdhZ2ktcVh3VzRkeWdfQUtpMEc5NmozOEk4b2ZianJscDFQVV9CU0xUQ1VQVURsMFEzT2dtZ2F6SUl3WVRsblVLNWRqTUxuWXZjdGZnd0ZJMzQwdnQ1Wng2MFF0REV0UG1YNGxfQXotc3JNRjJiMG9GZVpLWDFETk1iMWlMMlJRaHdZR3pKRFZPT0huTVlwaVlUX3pUTUxKWG5Ub3BOYjVnWktCc3E4cm1uaThudzBEbzNRRE9ManBqQ2h2R3c?oc=5",
+  "warning": false
+ }
+]
