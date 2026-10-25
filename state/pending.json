@@ -145,5 +145,26 @@
   "uid": "ae057efb811e20fa",
   "url": "https://t.me/novaya_europe/68845",
   "warning": false
+ },
+ {
+  "first_seen": "2026-10-25T14:01:30+00:00",
+  "kind": "post",
+  "lang": "en",
+  "level": 2,
+  "note": "EN, conflict news aggregator",
+  "posted": false,
+  "published": "2026-10-25T13:55:07+00:00",
+  "reason": "official warning about Russia / NATO · matched “official warning” · another report of a story already in the channel",
+  "repeat_of": "Defense minister: Light fighter jets could be procured within 4 years",
+  "repeats": 0,
+  "source_id": "tg_clashreport",
+  "source_name": "Clash Report",
+  "summary": "",
+  "text": "UK Defence Secretary Wes Streeting warned that Britain must be ready for war within 1,000 days, saying Russia and other adversaries could be capable of attacking by 2030. He said Britain must strengthen its military to deter attacks and be prepared to “fight and win” alongside its allies.",
+  "tier": "osint",
+  "title": "UK Defence Secretary Wes Streeting warned that Britain must be ready for war within 1,000 days, saying Russia and other adversaries could be…",
+  "uid": "35e72f6c67854df4",
+  "url": "https://t.me/ClashReport/102858",
+  "warning": true
  }
 ]
