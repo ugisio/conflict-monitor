@@ -277,5 +277,34 @@
   ],
   "title": "Crashed drone found in Alūksne district",
   "ts": "2026-10-24T15:31:34+00:00"
+ },
+ {
+  "level": 2,
+  "n": 1,
+  "source": "ERR News (Estonia, EN)",
+  "stems": [
+   "fight",
+   "light",
+   "procu",
+   "withi",
+   "years"
+  ],
+  "title": "Defense minister: Light fighter jets could be procured within 4 years",
+  "ts": "2026-10-25T07:31:34+00:00"
+ },
+ {
+  "level": 2,
+  "n": 1,
+  "source": "Google News — Latvia security",
+  "stems": [
+   "dange",
+   "growi",
+   "hybri",
+   "ident",
+   "incid",
+   "month"
+  ],
+  "title": "Russia’s Hybrid Attacks in Europe Are Growing More Dangerous, 54 Incidents Identified in Six Months - The Baltic Sentinel",
+  "ts": "2026-10-25T07:31:34+00:00"
  }
 ]

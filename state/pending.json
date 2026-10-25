@@ -1,1 +1,44 @@
-[]
+[
+ {
+  "first_seen": "2026-10-25T07:31:24+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-25T07:29:00+00:00",
+  "reason": "region: estonia · matched “drone (in text)”",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "err_en",
+  "source_name": "ERR News (Estonia, EN)",
+  "summary": "",
+  "text": "Minister of Defense Martin Herem has said Estonia could need around a dozen light fighter jets to counter jet-powered attack drones, and a procurement could take up to four years.",
+  "tier": "news",
+  "title": "Defense minister: Light fighter jets could be procured within 4 years",
+  "uid": "d8d494a9ee137b59",
+  "url": "https://news.err.ee/1610176465/defense-minister-light-fighter-jets-could-be-procured-within-4-years",
+  "warning": false
+ },
+ {
+  "first_seen": "2026-10-25T07:31:25+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-25T07:05:20+00:00",
+  "reason": "region: baltic, russia · matched “Hybrid Attack”",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "gnews_latvia_security",
+  "source_name": "Google News — Latvia security",
+  "summary": "",
+  "text": "Russia’s Hybrid Attacks in Europe Are Growing More Dangerous, 54 Incidents Identified in Six Months The Baltic Sentinel",
+  "tier": "news",
+  "title": "Russia’s Hybrid Attacks in Europe Are Growing More Dangerous, 54 Incidents Identified in Six Months - The Baltic Sentinel",
+  "uid": "e575434c7064deb8",
+  "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPendOQnVYd3JYelk0S1NEVjg1THFoWkwtSVRRZ1RqQXVLeUF6TTU5NHpHUS1FZGFkYS1HTWppaHNaMjRMbVE0ZG90Zlo0eUNpRnhydmJzd0xDcEFtZW9iWHk4YXJkM3cxY2VFODU1Z29mQ0hvYkdKeEVsVUhwdTcwZmcteHllektJODdxZ1hSdEd5aUNZNFNITHVpUEdUcWRnY1hsLURaTDJib2pwWF9uSnhIajBTdXRhbEZUWHhNV1VRakVIbzBQN245UzM?oc=5",
+  "warning": false
+ }
+]
