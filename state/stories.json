@@ -50,28 +50,6 @@
  },
  {
   "level": 2,
-  "n": 3,
-  "source": "ERR News (Estonia, EN)",
-  "stems": [
-   "activ",
-   "aimed",
-   "auver",
-   "black",
-   "delib",
-   "drone",
-   "finds",
-   "incid",
-   "inves",
-   "milli",
-   "start",
-   "turns",
-   "unico"
-  ],
-  "title": "€100 million investment turns Estonian startup Blackwell into a unicorn",
-  "ts": "2026-10-22T11:31:31+00:00"
- },
- {
-  "level": 2,
   "n": 1,
   "source": "Novaya Gazeta Europe",
   "stems": [
