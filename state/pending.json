@@ -40,5 +40,26 @@
   "uid": "e575434c7064deb8",
   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPendOQnVYd3JYelk0S1NEVjg1THFoWkwtSVRRZ1RqQXVLeUF6TTU5NHpHUS1FZGFkYS1HTWppaHNaMjRMbVE0ZG90Zlo0eUNpRnhydmJzd0xDcEFtZW9iWHk4YXJkM3cxY2VFODU1Z29mQ0hvYkdKeEVsVUhwdTcwZmcteHllektJODdxZ1hSdEd5aUNZNFNITHVpUEdUcWRnY1hsLURaTDJib2pwWF9uSnhIajBTdXRhbEZUWHhNV1VRakVIbzBQN245UzM?oc=5",
   "warning": false
+ },
+ {
+  "first_seen": "2026-10-25T08:01:24+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-25T07:30:36+00:00",
+  "reason": "region: latvia, riga · matched “Drone” · another report of a story already in the channel",
+  "repeat_of": "Crashed drone found in Alūksne district",
+  "repeats": 0,
+  "source_id": "gnews_latvia_security",
+  "source_name": "Google News — Latvia security",
+  "summary": "",
+  "text": "Drone Found in Latvia Days After the Army Called Off Search Riga Talk",
+  "tier": "news",
+  "title": "Drone Found in Latvia Days After the Army Called Off Search - Riga Talk",
+  "uid": "03ff5865c7dc634b",
+  "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ITU5BSC1oUGNqQlFVaGhmMkdvbmEtcElpU1huMTMzNU1hRmJRcHJJQTktT2hKelE0MzF0VE1GRm5DZ1Q3QXZQcHBRTmNVTEJtbE5YZ1IyWXplZEFodXhkTDg0dUpPUklRX01iRThLUFU?oc=5",
+  "warning": false
  }
 ]
