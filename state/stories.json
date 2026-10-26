@@ -1,41 +1,6 @@
 [
  {
   "level": 2,
-  "n": 5,
-  "source": "LRT (Lithuania, EN)",
-  "stems": [
-   "aeros",
-   "artic",
-   "award",
-   "bareh",
-   "batch",
-   "compl",
-   "deliv",
-   "drone",
-   "enter",
-   "firms",
-   "heavy",
-   "itali",
-   "netti",
-   "objec",
-   "pilot",
-   "price",
-   "produ",
-   "purch",
-   "shiel",
-   "speci",
-   "stock",
-   "strat",
-   "targe",
-   "volat",
-   "warfa",
-   "warhe"
-  ],
-  "title": "Lithuanian firms produce anti-drone netting to shield strategic objects – media",
-  "ts": "2026-10-23T08:01:45+00:00"
- },
- {
-  "level": 2,
   "n": 1,
   "source": "Google News — Latvia security",
   "stems": [
