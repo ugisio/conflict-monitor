@@ -1,29 +1,6 @@
 [
  {
   "level": 2,
-  "n": 2,
-  "source": "ERR News (Estonia, EN)",
-  "stems": [
-   "arriv",
-   "docks",
-   "fleet",
-   "himar",
-   "missi",
-   "ocean",
-   "perek",
-   "press",
-   "range",
-   "short",
-   "train",
-   "visit",
-   "voyag",
-   "walvi"
-  ],
-  "title": "Russian Navy training ship Perekop docks in Walvis Bay on four-ocean voyage THE Russian Navy’s Baltic Fleet training ship Perekop has arrived at the port of Walvis Bay, the Russian Defence Ministry’s ",
-  "ts": "2026-10-23T00:01:43+00:00"
- },
- {
-  "level": 2,
   "n": 1,
   "source": "Google News — Latvia security",
   "stems": [
