@@ -19,5 +19,26 @@
   "uid": "f2a44c29104361f5",
   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOeGJDc0RRclo0TmRDTS1laXgxOFREWnhCUVRzNDZMMGM0QXJEUVA2QmxnMTdSWHJjUmc1OVRtY2dwbEVqN3VvWmVoV281VEU4VFluaUJkZlN4QU1BVTlieGJrTmxBNE9Vc1Q0TExmTFRTdzFORWdBMEt1R2dhY293YXVsMW5rRFM5R2lLVkhMVUtQTEFoMURwTExFYXN6emVoLU52Y1hObw?oc=5",
   "warning": false
+ },
+ {
+  "first_seen": "2026-10-26T19:11:16+00:00",
+  "kind": "post",
+  "lang": "ru",
+  "level": 2,
+  "note": "RU, Belarus opposition media — best coverage of Belarus border/military",
+  "posted": true,
+  "published": "2026-10-26T19:10:30+00:00",
+  "reason": "official warning about Russia / NATO · matched “official warning”",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "tg_nexta",
+  "source_name": "NEXTA Live",
+  "summary": "",
+  "text": "Министр обороны Великобритании назвал сроки подготовки к войне с Россией К 2030 году Россия может настолько нарастить армию и военное производство, что получит возможность напасть на страны НАТО. Об этом заявил министр обороны Великобритании Уэс Стритинг в колонке для The Telegraph. По его словам, у Британии и союзников осталось чуть больше 1000 дней, чтобы подготовиться к возможной войне и быть готовыми победить. Министр подчеркнул, что сдерживание должно предотвратить нападение, но армия обязана быть готова и к прямому конфликту. Заявление прозвучало через два дня после запуска трёхлетней кампании Be Ready. Власти призвали британцев запасти воду и еду на три дня, а также держать дома фонари, батарейки, радиоприёмник и наличные на случай отключения света, связи и банковских систем.",
+  "tier": "osint",
+  "title": "Министр обороны Великобритании назвал сроки подготовки к войне с Россией К 2030 году Россия может настолько нарастить армию и военное произв…",
+  "uid": "6c9c073df9c09ee0",
+  "url": "https://t.me/nexta_live/125609",
+  "warning": true
  }
 ]
