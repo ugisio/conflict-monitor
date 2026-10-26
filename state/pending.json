@@ -1,1 +1,23 @@
-[]
+[
+ {
+  "first_seen": "2026-10-26T19:01:33+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-26T18:59:29+00:00",
+  "reason": "region: latvia, nato · matched “military exercise” · another report of a story already in the channel",
+  "repeat_of": "NATO launches large-scale military exercises in eastern Latvia - Apa.az",
+  "repeats": 0,
+  "source_id": "gnews_latvia_security",
+  "source_name": "Google News — Latvia security",
+  "summary": "",
+  "text": "NATO has launched the large-scale military exercise \"Resolute Reforger 2026\" in Latvia UA.NEWS",
+  "tier": "news",
+  "title": "NATO has launched the large-scale military exercise \"Resolute Reforger 2026\" in Latvia - UA.NEWS",
+  "uid": "f2a44c29104361f5",
+  "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOeGJDc0RRclo0TmRDTS1laXgxOFREWnhCUVRzNDZMMGM0QXJEUVA2QmxnMTdSWHJjUmc1OVRtY2dwbEVqN3VvWmVoV281VEU4VFluaUJkZlN4QU1BVTlieGJrTmxBNE9Vc1Q0TExmTFRTdzFORWdBMEt1R2dhY293YXVsMW5rRFM5R2lLVkhMVUtQTEFoMURwTExFYXN6emVoLU52Y1hObw?oc=5",
+  "warning": false
+ }
+]
