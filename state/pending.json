@@ -82,5 +82,26 @@
   "uid": "499dd13c6457aac4",
   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxObmtUWHF6VXpBQmpZMU84NkJhNFRLZmlLS3g3dGIwSE5LZjJGUVJrQWFDNklHYmt6UUE4WUFZQ3RLX1FaNENSMlFjZXRuUjJHRmdqSjNKZURMMkx1SEU3aG9GRkp1dUpkSHFSdVVIamtSVXBnUzBvN3JWeW1BdHdOSTAzVGhnLXJ1THZSb2d1dENvem8zaHFIVlFwY1JpZUJFRkc0YlVoZE5GOWpvX2NpbGtFTjJtYzUtTVk0SlJYSloxdmRVRXc?oc=5",
   "warning": false
+ },
+ {
+  "first_seen": "2026-10-26T00:40:21+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-24T15:49:00+00:00",
+  "reason": "region: latvia · matched “drone” · another report of a story already in the channel",
+  "repeat_of": "Russia’s Hybrid Attacks in Europe Are Growing More Dangerous, 54 Incidents Identified in Six Months - The Baltic Sentinel",
+  "repeats": 0,
+  "source_id": "gnews_latvia_security",
+  "source_name": "Google News — Latvia security",
+  "summary": "",
+  "text": "Wreckage of foreign drone found in Latvia, investigation underway Yahoo",
+  "tier": "news",
+  "title": "Wreckage of foreign drone found in Latvia, investigation underway - Yahoo",
+  "uid": "168caf8993049d38",
+  "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPV1prTmRwLWlxMUo2dHY4S3hONmNfeVRjRWN6VmFJZWlGRmpMRnpwT1dYblQ0UnhpNjNTamsxQTdTenhuUTVrYll5T0pwREQ2ZWE1UndmTGhjTF85SlV3TE94eHVHTmhWanBYREwyZm9mTW81Snd2Ukt2UTdZNG8wTUZOTTJmQ01zWHBReHNEQTFwZXo4N3VR?oc=5",
+  "warning": false
  }
 ]

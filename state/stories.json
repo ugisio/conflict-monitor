@@ -160,7 +160,7 @@
  },
  {
   "level": 2,
-  "n": 8,
+  "n": 9,
   "source": "Google News — Latvia security",
   "stems": [
    "adopt",
@@ -176,6 +176,8 @@
    "explo",
    "facts",
    "first",
+   "forei",
+   "found",
    "futur",
    "gener",
    "green",
@@ -185,6 +187,7 @@
    "hybri",
    "ident",
    "incid",
+   "inves",
    "lates",
    "limit",
    "littl",
@@ -194,7 +197,9 @@
    "prime",
    "scena",
    "targe",
-   "testi"
+   "testi",
+   "under",
+   "wreck"
   ],
   "title": "Russia’s Hybrid Attacks in Europe Are Growing More Dangerous, 54 Incidents Identified in Six Months - The Baltic Sentinel",
   "ts": "2026-10-25T07:31:34+00:00"
