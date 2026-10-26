@@ -103,5 +103,26 @@
   "uid": "2020e52446584e5a",
   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSTZjbERXb0ZsZExKM293eDRYNHc0ODdEbmFZcHBhMHJ2X2RTeWpwczBxc0c2bE4xRWZiYmRtQ1VrYjNOMGhuZUc0eE5STlliNG1JRzB5ZkJRTkgzRzRtc3lLc1Z3a2xPUmFDcS13NU9fNFFtSmtyUnZxS1RCTk9fUDJ4bmw4eDBMZUZKQnFuY1RpOVNSRmdMLWNn?oc=5",
   "warning": false
+ },
+ {
+  "first_seen": "2026-10-26T13:01:29+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-26T12:56:57+00:00",
+  "reason": "region: baltic · matched “Drone”",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "gnews_latvia_security",
+  "source_name": "Google News — Latvia security",
+  "summary": "",
+  "text": "Sweden Pays Saildrone for Baltic Sea Data, Not the Boats Collecting It DroneXL",
+  "tier": "news",
+  "title": "Sweden Pays Saildrone for Baltic Sea Data, Not the Boats Collecting It - DroneXL",
+  "uid": "063e9d98ff6f8205",
+  "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPa19qandRMzc4aHo5MmRjWTI4RkNweHFYTXhYTWtzdGJDa2MxcWo0Mm5FX3pnVUk3RDZXUXVrdHVETDF3S2JGOUFBMTBLZlFva2VDXzhEU2xJQUtaOEY4WG1ETW0xT2RoVS1zY3NMdEpOSHc5WnVuYzhPZEo4elQtTEo4SU9BZw?oc=5",
+  "warning": false
  }
 ]
