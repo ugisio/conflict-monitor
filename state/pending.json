@@ -40,5 +40,26 @@
   "uid": "bc09cdabdef30c5c",
   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPYU1zR3VBb095TWZOS3RtRGxVTENJYXJySWZYYkRiRmR5OTRLLVNxVEFOM0xyS0UtMm02aGQ4TnBjN20xYWxnRGQyS1l6cEtlUjNDUlU3ckVqZmo0Sm9nQjZPVTBZZTF1Vk0xY1hOM0Noc3ktbDMxNm1SWkpXeFB1NGsxeTg3ZXhhSmNDeW4xejdvR1JjU0lWN3luYWduZ1hF?oc=5",
   "warning": false
+ },
+ {
+  "first_seen": "2026-10-26T11:01:36+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 1,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-26T10:44:00+00:00",
+  "reason": "region: lithuania, nato · matched “Defence Ministry (in text)”",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "lrt_en",
+  "source_name": "LRT (Lithuania, EN)",
+  "summary": "",
+  "text": "Lithuania's expansion of its air force base in Šiauliai will allow it to accommodate 500 to 750 NATO troops “on a rotational basis”, the Defence Ministry said on Monday.",
+  "tier": "news",
+  "title": "Lithuania's Šiauliai air base expansion to accommodate up to 750 NATO troops",
+  "uid": "b2fe5c23f4dfffb3",
+  "url": "https://www.lrt.lt/en/news-in-english/19/3094206/lithuania-s-siauliai-air-base-expansion-to-accommodate-up-to-750-nato-troops",
+  "warning": false
  }
 ]
