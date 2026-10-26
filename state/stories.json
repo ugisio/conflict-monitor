@@ -268,10 +268,13 @@
  },
  {
   "level": 2,
-  "n": 1,
+  "n": 2,
   "source": "LRT (Lithuania, EN)",
   "stems": [
    "compa",
+   "engli",
+   "force",
+   "migra",
    "sabot",
    "suspe"
   ],

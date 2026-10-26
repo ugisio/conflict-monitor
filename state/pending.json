@@ -19,5 +19,26 @@
   "uid": "29fea7cecb14cb3e",
   "url": "https://t.me/astrapress/129370",
   "warning": false
+ },
+ {
+  "first_seen": "2026-10-26T08:01:32+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-26T07:33:05+00:00",
+  "reason": "region: latvia · matched “sabotage” · another report of a story already in the channel",
+  "repeat_of": "Lithuanian defence companies seek more state help amid suspected sabotage and threats",
+  "repeats": 0,
+  "source_id": "gnews_latvia_security",
+  "source_name": "Google News — Latvia security",
+  "summary": "",
+  "text": "Latvia says migrants forced into sabotage at border — LSM English UA.NEWS",
+  "tier": "news",
+  "title": "Latvia says migrants forced into sabotage at border — LSM English - UA.NEWS",
+  "uid": "bc09cdabdef30c5c",
+  "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPYU1zR3VBb095TWZOS3RtRGxVTENJYXJySWZYYkRiRmR5OTRLLVNxVEFOM0xyS0UtMm02aGQ4TnBjN20xYWxnRGQyS1l6cEtlUjNDUlU3ckVqZmo0Sm9nQjZPVTBZZTF1Vk0xY1hOM0Noc3ktbDMxNm1SWkpXeFB1NGsxeTg3ZXhhSmNDeW4xejdvR1JjU0lWN3luYWduZ1hF?oc=5",
+  "warning": false
  }
 ]
