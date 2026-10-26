@@ -82,5 +82,26 @@
   "uid": "2fff698c2085ff1a",
   "url": "https://eng.lsm.lv/article/society/crime/26.10.2026-cert-latvia-has-dodged-hundreds-of-hacker-attacks-recently.a669096/?utm_source=rss&utm_campaign=rss&utm_medium=links",
   "warning": false
+ },
+ {
+  "first_seen": "2026-10-26T12:01:27+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-26T11:46:00+00:00",
+  "reason": "region: latvia, nato · matched “military exercise”",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "gnews_latvia_security",
+  "source_name": "Google News — Latvia security",
+  "summary": "",
+  "text": "NATO launches large-scale military exercises in eastern Latvia Apa.az",
+  "tier": "news",
+  "title": "NATO launches large-scale military exercises in eastern Latvia - Apa.az",
+  "uid": "2020e52446584e5a",
+  "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSTZjbERXb0ZsZExKM293eDRYNHc0ODdEbmFZcHBhMHJ2X2RTeWpwczBxc0c2bE4xRWZiYmRtQ1VrYjNOMGhuZUc0eE5STlliNG1JRzB5ZkJRTkgzRzRtc3lLc1Z3a2xPUmFDcS13NU9fNFFtSmtyUnZxS1RCTk9fUDJ4bmw4eDBMZUZKQnFuY1RpOVNSRmdMLWNn?oc=5",
+  "warning": false
  }
 ]
