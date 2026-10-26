@@ -61,5 +61,26 @@
   "uid": "b2fe5c23f4dfffb3",
   "url": "https://www.lrt.lt/en/news-in-english/19/3094206/lithuania-s-siauliai-air-base-expansion-to-accommodate-up-to-750-nato-troops",
   "warning": false
+ },
+ {
+  "first_seen": "2026-10-26T11:31:20+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-26T11:13:53+00:00",
+  "reason": "region: latvia, latvian · matched “attack attempts have been successful. Latvia (in text)”",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "lsm_en",
+  "source_name": "LSM (Latvian public media, EN)",
+  "summary": "",
+  "text": "Over the last few days, there have been hundreds of attempts to hack Latvian websites, but none of these cyber-attack attempts have been successful. Latvian Radio obtained this information from CERT.lv, the cyber incident response centre.",
+  "tier": "news",
+  "title": "CERT: Latvia has dodged hundreds of hacker attacks recently",
+  "uid": "2fff698c2085ff1a",
+  "url": "https://eng.lsm.lv/article/society/crime/26.10.2026-cert-latvia-has-dodged-hundreds-of-hacker-attacks-recently.a669096/?utm_source=rss&utm_campaign=rss&utm_medium=links",
+  "warning": false
  }
 ]
