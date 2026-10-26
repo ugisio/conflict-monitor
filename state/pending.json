@@ -187,5 +187,26 @@
   "uid": "39860bf2cffd3d4f",
   "url": "https://t.me/nexta_live/125594",
   "warning": false
+ },
+ {
+  "first_seen": "2026-10-26T14:31:16+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-26T14:03:49+00:00",
+  "reason": "region: baltic · matched “Navy” · another report of a story already in the channel",
+  "repeat_of": "Sweden Pays Saildrone for Baltic Sea Data, Not the Boats Collecting It - DroneXL",
+  "repeats": 0,
+  "source_id": "gnews_latvia_security",
+  "source_name": "Google News — Latvia security",
+  "summary": "",
+  "text": "Saildrone Deploys Four Voyager USVs For Swedish Navy Baltic Sea Surveillance Mission Ocean News & Technology",
+  "tier": "news",
+  "title": "Saildrone Deploys Four Voyager USVs For Swedish Navy Baltic Sea Surveillance Mission - Ocean News & Technology",
+  "uid": "19fa5ddaee67700e",
+  "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPckVfMVlNMEdTdzF6SFVuZFljY3QyRnlTdzBUNUthU1FDMFl1b21LQjlDajlNVld4dWtuZmF1VlpmTVJkWklSUFAwUnZ2djBUODloUDFScjNpRVMzazdQc0tJc3d3Vy1JNG1OeEtvRGZNYkV2SUhLaFA3WThNNGNndU53ZlNsS3FqUDRiM3c2a3lDRy1UMURRU09FdmlYMFhUSVNxUXlpSDNJWWpRTXlsWGYwX3VxQndpc3kySw?oc=5",
+  "warning": false
  }
 ]
