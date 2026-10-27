@@ -1,1 +1,23 @@
-[]
+[
+ {
+  "first_seen": "2026-10-27T20:02:04+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-27T19:24:05+00:00",
+  "reason": "region: baltic · matched “Drone” · another report of a story already in the channel",
+  "repeat_of": "Test drone falls into the Baltic Sea near Ustka — Interia - UA.NEWS",
+  "repeats": 0,
+  "source_id": "gnews_latvia_security",
+  "source_name": "Google News — Latvia security",
+  "summary": "",
+  "text": "Polish Alpha Wing Drone Falls Into Baltic Sea After Engine Failure During Test Flights defence.newsd.in",
+  "tier": "news",
+  "title": "Polish Alpha Wing Drone Falls Into Baltic Sea After Engine Failure During Test Flights - defence.newsd.in",
+  "uid": "2bdf008d2d1621e7",
+  "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbnpmUzJ3SWlUQmNCQVhJWUgxVFRUUXA4N2xHRFdMX2VjSjBoS2hnLWFSMUVzSmtvSDVveEdEejFhaUs1V3YzZnNrbDhyVGVyNHNRbVRKV0VnaG1QMndlWHhNWTRjTDRNdHdBbjlVRXptZDBuQnRlV19qU2hFaDl3NWR0Q3JJWDladXRMc2FJOTZBTkp0Uld5a3F5MmcwY01QdVJQbDNndVBxU1Z5VlpEYmdOVS1PTm5JYmllb3hURE0?oc=5",
+  "warning": false
+ }
+]
