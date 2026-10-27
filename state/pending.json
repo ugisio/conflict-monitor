@@ -145,5 +145,26 @@
   "uid": "e308117afcdf642c",
   "url": "https://polymarket.com/event/estonia-kml-2027-champion",
   "warning": false
+ },
+ {
+  "first_seen": "2026-10-27T14:31:26+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-27T14:27:12+00:00",
+  "reason": "region: latvia, belarus · matched “sabotage”",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "gnews_latvia_security",
+  "source_name": "Google News — Latvia security",
+  "summary": "",
+  "text": "Latvia alleges Belarus-linked scheme forces migrants into sabotage InfoMigrants",
+  "tier": "news",
+  "title": "Latvia alleges Belarus-linked scheme forces migrants into sabotage - InfoMigrants",
+  "uid": "65576f998885a289",
+  "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQd3VGRzhleklEa01zRjdrUmFmMUNjamhRTW5pLXRvdVNiQ2lpTFRKbHVKNUlwVmpTTjg0QjJfdWdpSzAycm9CQXc1SXZBX2t0X2FvVXoxTjZLME9FQ28zRjI2QVV1VldhTXVxcU9NTjI0UngxbFduX0M1Y1UzS0VsanhrVklicUlMWm1uNV9iV1dXLTRwcnduZC1ZYm1WNng2Z0RwNVVYMmtTV2Nw?oc=5",
+  "warning": false
  }
 ]
