@@ -1,27 +1,6 @@
 [
  {
   "level": 2,
-  "n": 5,
-  "source": "LSM (Latvian public media, EN)",
-  "stems": [
-   "airsp",
-   "artic",
-   "calle",
-   "crash",
-   "distr",
-   "drone",
-   "engli",
-   "enter",
-   "found",
-   "octob",
-   "searc",
-   "wreck"
-  ],
-  "title": "Crashed drone found in Alūksne district",
-  "ts": "2026-10-24T15:31:34+00:00"
- },
- {
-  "level": 2,
   "n": 2,
   "source": "ERR News (Estonia, EN)",
   "stems": [
@@ -270,7 +249,7 @@
  },
  {
   "level": 2,
-  "n": 2,
+  "n": 3,
   "source": "NEXTA Live",
   "stems": [
    "alpha",
@@ -280,6 +259,10 @@
    "велик",
    "военн",
    "войне",
+   "встре",
+   "готов",
+   "должн",
+   "колле",
    "минис",
    "может",
    "назва",
@@ -294,7 +277,10 @@
    "произ",
    "росси",
    "сроки",
-   "трети"
+   "стрит",
+   "твёрд",
+   "трети",
+   "убежд"
   ],
   "title": "Министр обороны Великобритании назвал сроки подготовки к войне с Россией К 2030 году Россия может настолько нарастить армию и военное произв…",
   "ts": "2026-10-26T19:11:21+00:00"
@@ -348,17 +334,21 @@
  },
  {
   "level": 2,
-  "n": 2,
+  "n": 3,
   "source": "Google News — Latvia security",
   "stems": [
    "above",
+   "aircr",
    "altit",
    "drone",
+   "durin",
    "enter",
    "falls",
    "fligh",
+   "genda",
    "inter",
    "latga",
+   "loses",
    "restr",
    "ustka"
   ],
