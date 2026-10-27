@@ -1,1 +1,23 @@
-[]
+[
+ {
+  "first_seen": "2026-10-27T06:31:22+00:00",
+  "kind": "market",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": null,
+  "reason": "probability moved +5.5 pp",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "polymarket",
+  "source_name": "Polymarket",
+  "summary": "",
+  "text": "was 43% → now 48% (resolves 2027-06-22)",
+  "tier": "market",
+  "title": "Market moved +6 pp: “Will Tartu Ulikool Maks & Moorits win the 2026-27 Estonia KML championship?” now 48%",
+  "uid": "b99a355e05ef606b",
+  "url": "https://polymarket.com/event/estonia-kml-2027-champion",
+  "warning": false
+ }
+]
