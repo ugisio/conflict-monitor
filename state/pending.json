@@ -271,5 +271,26 @@
   "uid": "c4ac3e76e152a327",
   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcWJabkFtNUhEU3pIc0ZEMEcyZjVIemNmc1IxdXF2Yi1YMGktNmNCdXFibTFaZmFtc0VHZEptSDRrZ3U1dlhMbnc2cVZxbnFzeDF6UkJET2ljS2UtMEwtS0JFX2FOVWRlZmNWc3p4TjdlbW5xT3ZXZXJUa0hKSUdETXBhc2FWSkF1aGpjTEtRd3pwM2t6Snl5MkxMRS1hTmM?oc=5",
   "warning": false
+ },
+ {
+  "first_seen": "2026-10-27T17:31:35+00:00",
+  "kind": "market",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": null,
+  "reason": "probability moved -5.0 pp",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "polymarket",
+  "source_name": "Polymarket",
+  "summary": "",
+  "text": "was 49% → now 44% (resolves 2027-06-22)",
+  "tier": "market",
+  "title": "Market moved -5 pp: “Will BC Parnu win the 2026-27 Estonia KML championship?” now 44%",
+  "uid": "b68b3d20b2a8f403",
+  "url": "https://polymarket.com/event/estonia-kml-2027-champion",
+  "warning": false
  }
 ]
