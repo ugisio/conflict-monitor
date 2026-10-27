@@ -336,5 +336,40 @@
   ],
   "title": "Incident on the NATO border: debris of a UAV found in Latvia - ІА Король Данило",
   "ts": "2026-10-27T04:31:51+00:00"
+ },
+ {
+  "level": 2,
+  "n": 1,
+  "source": "ASTRA",
+  "stems": [
+   "войны",
+   "затяг",
+   "котор",
+   "напом",
+   "норве",
+   "перво",
+   "прези",
+   "премь",
+   "путин",
+   "разго",
+   "украи",
+   "финля"
+  ],
+  "title": "Путин в разговоре с президентом Финляндии и премьером Норвегии напомнил о «первопричинах» войны с Украиной, которая затягивается из-за «конф…",
+  "ts": "2026-10-27T12:01:41+00:00"
+ },
+ {
+  "level": 1,
+  "n": 1,
+  "source": "LRT (Lithuania, EN)",
+  "stems": [
+   "consc",
+   "conse",
+   "leade",
+   "propo",
+   "unive"
+  ],
+  "title": "Lithuanian conservative leader proposes universal conscription from 2030",
+  "ts": "2026-10-27T12:01:41+00:00"
  }
 ]
