@@ -40,5 +40,26 @@
   "uid": "6c9c073df9c09ee0",
   "url": "https://t.me/nexta_live/125609",
   "warning": true
+ },
+ {
+  "first_seen": "2026-10-27T01:01:43+00:00",
+  "kind": "market",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": null,
+  "reason": "probability moved +6.0 pp",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "polymarket",
+  "source_name": "Polymarket",
+  "summary": "",
+  "text": "was 44% → now 50% (resolves 2027-06-22)",
+  "tier": "market",
+  "title": "Market moved +6 pp: “Will Bigbank/Kalev win the 2026-27 Estonia KML championship?” now 50%",
+  "uid": "8db9b975a907b37e",
+  "url": "https://polymarket.com/event/estonia-kml-2027-champion",
+  "warning": false
  }
 ]
