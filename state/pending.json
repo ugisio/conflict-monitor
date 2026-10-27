@@ -103,5 +103,26 @@
   "uid": "01c5e60ac1080689",
   "url": "https://www.lrt.lt/en/news-in-english/19/3095225/lithuanian-conservative-leader-proposes-universal-conscription-from-2030",
   "warning": false
+ },
+ {
+  "first_seen": "2026-10-27T13:01:39+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-27T12:53:15+00:00",
+  "reason": "region: baltic · matched “drone”",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "gnews_latvia_security",
+  "source_name": "Google News — Latvia security",
+  "summary": "",
+  "text": "Test drone falls into the Baltic Sea near Ustka — Interia UA.NEWS",
+  "tier": "news",
+  "title": "Test drone falls into the Baltic Sea near Ustka — Interia - UA.NEWS",
+  "uid": "ffdd99213dd5b938",
+  "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVjVUUzBzc3Z1WENQLVdVUUFRZXZ4V3ZEazhYMmJCazdsMnp0SlIyNjJGSGRHQUhEckR1bEpiWDM0SDBhLTBJODBCRlJCWkxraER0YlZrOEhYUW5lT0pJcmpzUWoySG5oZW13MTkxWHdIWjFRYTFpMF91NWJxcWpCQmtfeEZDOGc?oc=5",
+  "warning": false
  }
 ]
