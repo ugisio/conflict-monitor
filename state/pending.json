@@ -124,5 +124,26 @@
   "uid": "51e58517851560dd",
   "url": "https://polymarket.com/event/estonia-kml-2027-champion",
   "warning": false
+ },
+ {
+  "first_seen": "2026-10-27T04:31:41+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-25T14:30:00+00:00",
+  "reason": "region: latvia, nato · matched “UAV”",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "gnews_latvia_security",
+  "source_name": "Google News — Latvia security",
+  "summary": "",
+  "text": "Incident on the NATO border: debris of a UAV found in Latvia ІА Король Данило",
+  "tier": "news",
+  "title": "Incident on the NATO border: debris of a UAV found in Latvia - ІА Король Данило",
+  "uid": "727d963f5a5c58e2",
+  "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMV8xRFp5cE9yM2ktZnJnUDlTdlZwMG9RWlk0VF9Hb3RqcWgtNEtQUllaWWE5SVNkSHVRdl9rOWJhT1gySWhHSkFsWGtCWV9XM25pZ092TVE0Q0hEaUphMi1zNDJvUjg3UVJRdF95SDRsSTYxSFl1dDU3S0xCZjlCNmNqR2RZcm5SNlpjcnNfS3ZzeFFDSW1uQWdxRTNjeWht?oc=5",
+  "warning": false
  }
 ]
