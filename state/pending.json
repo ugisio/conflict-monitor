@@ -40,5 +40,26 @@
   "uid": "b57654be31ed15fd",
   "url": "https://polymarket.com/event/estonia-kml-2027-champion",
   "warning": false
+ },
+ {
+  "first_seen": "2026-10-27T10:31:16+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-27T09:29:50+00:00",
+  "reason": "region: latvia, nato · matched “Exercises to Deploy NATO” · another report of a story already in the channel",
+  "repeat_of": "NATO launches large-scale military exercises in eastern Latvia - Apa.az",
+  "repeats": 0,
+  "source_id": "gnews_nato",
+  "source_name": "Google News — NATO & the Baltics",
+  "summary": "",
+  "text": "Latvia Launches Its Largest-Ever Exercises to Deploy NATO Multinational Brigade REFORM.news",
+  "tier": "news",
+  "title": "Latvia Launches Its Largest-Ever Exercises to Deploy NATO Multinational Brigade - REFORM.news",
+  "uid": "ecc5761a082a201c",
+  "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSndnQ2lSaVQxVHFpallKV2F5TERuMTV5a1VISGtJTkJHenE5clRKMTlKMHE0UE1Vam01VlIzSWZ2akZSY2NtcnhUUWZxX0sxeWZXLWJxdURzR3B2ME1RX0VydWRMRGU2aEVMaE1tYUJ2U0V3U1BqNnhDSjdVSW82TVBMeVhkb0RXQVUtSk9mcU1HMy11eE1JQXFQUmNlM0RkWU9jV3VB0gGrAUFVX3lxTE9RRTdRa1V6VW02ZExlM20xalRSUkZFMEVmaFZjc01RRXZ3bEtxNkVBdzQ5ZU5hQk9qcEN0czJjM3Z5NWZaTFItTnI4M0dybW11SllJMlNNb1NuTUxxMkdRMlBBXzY5U19rbGlIUlc2aDlWQ0htNzdYOTlfNlRmeDFBclFReWhYVTBPSHliVlpzYmtIMlF2cWpENGJzMEJXcG1MMmQ4ZWdfeUU0VQ?oc=5",
+  "warning": false
  }
 ]
