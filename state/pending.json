@@ -103,5 +103,26 @@
   "uid": "22093469cab4badd",
   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeHpJMGdJTDZOcDA0a1BRS21pZkhwZW1zbWlfN29tNnRhT0JnR2xWWTV2S2s1WWROdWgzNUdtTFktelJEa3RxOEJROUNoMUZud2tTaXhtSUZfSzJFbHUxWkh4TlJiZXZrbzZqVFlsbTdrNW1hemM3WDFUb0VKV3E5UjhGbkIzV0IwV2R4c1cwOUdLZVRlU2Z1QnJPbjVuV2dxclh0SVZJelpuSk5oNU9N?oc=5",
   "warning": false
+ },
+ {
+  "first_seen": "2026-10-28T13:31:21+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-28T13:24:14+00:00",
+  "reason": "region: baltic, nato, russia · matched “sabotage” · another report of a story already in the channel",
+  "repeat_of": "Latvia alleges Belarus-linked scheme forces migrants into sabotage - InfoMigrants",
+  "repeats": 0,
+  "source_id": "gnews_nato",
+  "source_name": "Google News — NATO & the Baltics",
+  "summary": "",
+  "text": "US Marines join NATO mission in the Baltic Sea to protect undersea cables from sabotage as Russia continues to lurk — 'around four dozen' recon and intel specialists deployed to deter seabed threats Tom's Hardware",
+  "tier": "news",
+  "title": "US Marines join NATO mission in the Baltic Sea to protect undersea cables from sabotage as Russia continues to lurk — 'around four dozen' recon and intel specialists deployed to deter seabed threats - Tom's Hardware",
+  "uid": "40663da379f76725",
+  "url": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxQWUVlaVpqX2E3dFFlRWljS1hzdmhiSVJfNVEwU3ZVaEZqWTF4M3AxZUFXcjN6Tl9mVDJod0tYbnI5WTJ3YzhIanVFTURvbE1TbVVPRGVVTnFSYksxekgwa1pGU3lTV2xMY3BKNGdMQzNvQkNsaXZxVnJfX1p5aDRGMDVWeHhoX2dkN0VuX200RmNSLXI3Z0JCVE82dDR2MlpHSUNhWUE5dUxrQ19tbnV0Ql9QQmNQVW1kbTc4LXZmYXFLZVROdTVIc1pzaW1paC1xTUY5clZwckxDYzN1QWpXeTdLSVFtQVlJRkU0RVlWdnJYU2xNeVRWQXcwdXhYZmdfZDZTZ200cmtfVm9KMFRPSl9ibEV5QVhLSWdvV0RGU1pqanRnYXNmakFVT2xQa0UybVZQSXhub3pMb1lEZTc1bVFwcWtHSGdlWXlDWlpIVXJTZjVtSDhYLQ?oc=5",
+  "warning": false
  }
 ]
