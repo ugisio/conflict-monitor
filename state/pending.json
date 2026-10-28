@@ -124,5 +124,26 @@
   "uid": "40663da379f76725",
   "url": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxQWUVlaVpqX2E3dFFlRWljS1hzdmhiSVJfNVEwU3ZVaEZqWTF4M3AxZUFXcjN6Tl9mVDJod0tYbnI5WTJ3YzhIanVFTURvbE1TbVVPRGVVTnFSYksxekgwa1pGU3lTV2xMY3BKNGdMQzNvQkNsaXZxVnJfX1p5aDRGMDVWeHhoX2dkN0VuX200RmNSLXI3Z0JCVE82dDR2MlpHSUNhWUE5dUxrQ19tbnV0Ql9QQmNQVW1kbTc4LXZmYXFLZVROdTVIc1pzaW1paC1xTUY5clZwckxDYzN1QWpXeTdLSVFtQVlJRkU0RVlWdnJYU2xNeVRWQXcwdXhYZmdfZDZTZ200cmtfVm9KMFRPSl9ibEV5QVhLSWdvV0RGU1pqanRnYXNmakFVT2xQa0UybVZQSXhub3pMb1lEZTc1bVFwcWtHSGdlWXlDWlpIVXJTZjVtSDhYLQ?oc=5",
   "warning": false
+ },
+ {
+  "first_seen": "2026-10-28T15:01:40+00:00",
+  "kind": "market",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": null,
+  "reason": "probability moved +5.0 pp",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "polymarket",
+  "source_name": "Polymarket",
+  "summary": "",
+  "text": "was 44% → now 49% (resolves 2027-07-01)",
+  "tier": "market",
+  "title": "Market moved +5 pp: “NATO downs another Russian drone before Russia x Ukraine peace talks?” now 49%",
+  "uid": "40d4bb7a3a8d50e6",
+  "url": "https://polymarket.com/event/nato-downs-another-russian-drone-before-russia-x-ukraine-peace-talks",
+  "warning": false
  }
 ]
