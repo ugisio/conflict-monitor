@@ -1,1 +1,23 @@
-[]
+[
+ {
+  "first_seen": "2026-10-28T06:31:28+00:00",
+  "kind": "market",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": null,
+  "reason": "probability moved +7.0 pp",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "polymarket",
+  "source_name": "Polymarket",
+  "summary": "",
+  "text": "was 44% → now 51% (resolves 2027-06-22)",
+  "tier": "market",
+  "title": "Market moved +7 pp: “Will Keila Basket win the 2026-27 Estonia KML championship?” now 51%",
+  "uid": "0cf590fbe902dd92",
+  "url": "https://polymarket.com/event/estonia-kml-2027-champion",
+  "warning": false
+ }
+]
