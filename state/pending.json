@@ -82,5 +82,26 @@
   "uid": "edc3462e461fab76",
   "url": "https://polymarket.com/event/nato-downs-another-russian-drone-before-russia-x-ukraine-peace-talks",
   "warning": false
+ },
+ {
+  "first_seen": "2026-10-28T12:31:29+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-28T11:30:00+00:00",
+  "reason": "region: baltic · matched “drone” · another report of a story already in the channel",
+  "repeat_of": "Test drone falls into the Baltic Sea near Ustka — Interia - UA.NEWS",
+  "repeats": 0,
+  "source_id": "gnews_latvia_security",
+  "source_name": "Google News — Latvia security",
+  "summary": "",
+  "text": "Four 33-foot drone sailboats with radar and cameras are sailing the Baltic for the Swedish navy, booked for 360 days apiece on a sea that moves 4,500 ships a day, after four just like them stayed on station 92 percent of the time for Denmark Autonocion.com",
+  "tier": "news",
+  "title": "Four 33-foot drone sailboats with radar and cameras are sailing the Baltic for the Swedish navy, booked for 360 days apiece on a sea that moves 4,500 ships a day, after four just like them stayed on station 92 percent of the time for Denmark - Autonocion.com",
+  "uid": "22093469cab4badd",
+  "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeHpJMGdJTDZOcDA0a1BRS21pZkhwZW1zbWlfN29tNnRhT0JnR2xWWTV2S2s1WWROdWgzNUdtTFktelJEa3RxOEJROUNoMUZud2tTaXhtSUZfSzJFbHUxWkh4TlJiZXZrbzZqVFlsbTdrNW1hemM3WDFUb0VKV3E5UjhGbkIzV0IwV2R4c1cwOUdLZVRlU2Z1QnJPbjVuV2dxclh0SVZJelpuSk5oNU9N?oc=5",
+  "warning": false
  }
 ]
