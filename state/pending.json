@@ -40,5 +40,26 @@
   "uid": "7eba263abb32df75",
   "url": "https://polymarket.com/event/nato-downs-another-russian-drone-before-russia-x-ukraine-peace-talks",
   "warning": false
+ },
+ {
+  "first_seen": "2026-10-28T00:01:40+00:00",
+  "kind": "market",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": null,
+  "reason": "probability moved -8.5 pp",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "polymarket",
+  "source_name": "Polymarket",
+  "summary": "",
+  "text": "was 44% → now 35% (resolves 2027-07-01)",
+  "tier": "market",
+  "title": "Market moved -8 pp: “NATO downs another Russian drone before Russia x Ukraine peace talks?” now 35%",
+  "uid": "7a881cbe75c88263",
+  "url": "https://polymarket.com/event/nato-downs-another-russian-drone-before-russia-x-ukraine-peace-talks",
+  "warning": false
  }
 ]
