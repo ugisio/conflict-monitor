@@ -292,5 +292,26 @@
   "uid": "5ced3c3851792035",
   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcmRzSDRRb1pYZXIwWWd6Y3Q0UDAxYS1sZnZtS2V0Y1BSQU1LR1h0QXN1T3lhYjRHU3NOYVEtd3BpQnVMeWl2dVpOdFd6Z3BFNWF2UkFuZnM3di0tUTZ2UVlzV2Y4OHowVUlLbFBJZ3JyLUFfS2o3ZHhrcWQ0Q1FILXg0WUR4MFR1TGRjVkxTd05pMHJpcGl3VEczLUFyMDJrNldjbl9B?oc=5",
   "warning": false
+ },
+ {
+  "first_seen": "2026-10-29T15:01:34+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-29T14:41:38+00:00",
+  "reason": "region: baltic · matched “drone” · another report of a story already in the channel",
+  "repeat_of": "Garisons: Drones have transformed modern warfare, but NATO is still experimenting - Baltic News Network",
+  "repeats": 0,
+  "source_id": "gnews_latvia_security",
+  "source_name": "Google News — Latvia security",
+  "summary": "",
+  "text": "European Commission rejects Baltic request for €500 million in drone defense funding — ERR News UA.NEWS",
+  "tier": "news",
+  "title": "European Commission rejects Baltic request for €500 million in drone defense funding — ERR News - UA.NEWS",
+  "uid": "98108260fa03c9c0",
+  "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRml6U19peC0yMDRnbmQwQVVfVzRybm1uWndIc21Wb2FrUTRjRVY2ZEMyRUhtaXgyTjVRWGRnakxGd2s5NlA5ZEliOF9XY3JhZWhvdWZRdjd6YVZYbF8yMTZiVXA4VFlXRnUwcG1tLVhhb1VoWDhnRXp6aE5BSmZWV1lienQyV2pSdXhIZGRWUllSQVFLTmxlQmhxQ1F5dzljWXZkdlVHM3FtTVZYY1A0?oc=5",
+  "warning": false
  }
 ]
