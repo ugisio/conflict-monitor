@@ -1,18 +1,5 @@
 [
  {
-  "level": 1,
-  "n": 1,
-  "source": "ERR News (Estonia, EN)",
-  "stems": [
-   "decis",
-   "fight",
-   "light",
-   "revie"
-  ],
-  "title": "Minister: Defense plan decisions must be reviewed, light fighter jets eyed",
-  "ts": "2026-10-26T14:01:48+00:00"
- },
- {
   "level": 2,
   "n": 3,
   "source": "NEXTA Live",
@@ -223,11 +210,12 @@
  },
  {
   "level": 2,
-  "n": 2,
+  "n": 3,
   "source": "Google News — Latvia security",
   "stems": [
    "borro",
    "bruss",
+   "commi",
    "drone",
    "exper",
    "garis",
@@ -323,5 +311,16 @@
   ],
   "title": "Lithuania to introduce universal military conscription in 2032, president says",
   "ts": "2026-10-29T12:31:26+00:00"
+ },
+ {
+  "level": 2,
+  "n": 1,
+  "source": "Google News — Latvia security",
+  "stems": [
+   "canno",
+   "ignor"
+  ],
+  "title": "Kaliningrad is more than the Suwałki Gap, and NATO cannot ignore it - Breaking Defense",
+  "ts": "2026-10-29T14:31:30+00:00"
  }
 ]
