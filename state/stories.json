@@ -210,7 +210,7 @@
  },
  {
   "level": 2,
-  "n": 4,
+  "n": 5,
   "source": "Google News — Latvia security",
   "stems": [
    "borro",
@@ -233,19 +233,24 @@
   "ts": "2026-10-29T07:01:46+00:00"
  },
  {
-  "level": 1,
-  "n": 1,
+  "level": 2,
+  "n": 2,
   "source": "LRT (Lithuania, EN)",
   "stems": [
    "armed",
    "buyin",
+   "clear",
    "consi",
    "force",
+   "given",
+   "guard",
    "palan",
-   "syste"
+   "right",
+   "syste",
+   "weapo"
   ],
-  "title": "Lithuania considers buying Palantir AI system for armed forces",
-  "ts": "2026-10-29T08:01:44+00:00"
+  "title": "Latvian border guards given clearer rights to use force and weapons",
+  "ts": "2026-10-29T15:30:32+00:00"
  },
  {
   "level": 2,
