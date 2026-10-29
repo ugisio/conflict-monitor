@@ -418,5 +418,26 @@
   "uid": "df56661273447b23",
   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZDlYTTNWQzd4aUhwSHdnaG1PX1pnNVRIZnY2VUx2RlI4cGdwYTJWdVZISkJPQy10VnB3cmdoWWUtTEVzVnlOSnBfSERtY2VkUzZYRVR5TnlxcGNLVUlnWnBfRWQ1bEtZbXJYYW9wSUl6R0h5eWJmalgzVW9QdWdNcFh1bHRkbFNGQ18yd2pVc185RU4xYTJROG05M07SAZgBQVVfeXFMUEM0T0tIOUNkMUU1cnZ2SUtXN3htMUFUVmR6RWVqY2k1VWpqd3A1YXNudjRqTW5zbVZFM2NFckF0RzhqM2NUUGZsQnpYSWwwd2ZpV002U056RzRaZmZ0N0g3QVY5VXhIVUp0RmlabWNsTWRQOWtDUlJQZk9FOGxDRUl4V3NDdklzRDNHd3BHb1hGaVlVVjRUQk4?oc=5",
   "warning": false
+ },
+ {
+  "first_seen": "2026-10-29T17:31:23+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-29T17:29:27+00:00",
+  "reason": "region: baltic · matched “drone” · another report of a story already in the channel",
+  "repeat_of": "Garisons: Drones have transformed modern warfare, but NATO is still experimenting - Baltic News Network",
+  "repeats": 0,
+  "source_id": "gnews_latvia_security",
+  "source_name": "Google News — Latvia security",
+  "summary": "",
+  "text": "The EU rejected the Baltic states’ €500m anti-drone funding request, suggesting a loan instead LIGA.net",
+  "tier": "news",
+  "title": "The EU rejected the Baltic states’ €500m anti-drone funding request, suggesting a loan instead - LIGA.net",
+  "uid": "0c63e4e58f044f36",
+  "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRTlLLUNRbmgyaXg5bEpRN2gwVU1yRWFodHpHOWVBVmFzZU1tMEw4bG5BRXg2MVU0ZnNZS3BVRV9JRFowaS1jOXQ0NTNqU243WDUwYXVNa2VFOEtoa2JPdXBYNVZ0bTFYUGFoVi05b2VBZG0tZHp1dFlNS1BNYURqdVRzWWVSbW9iMXVGdUMyWDUzZHJFamo0SG45YVRsZkFFNVJCWHlQMVJaSWFDQ1hqVjB0ZHVKU3Z4bHA3dzJKdlJWaUlhQ1BKWlRwYnJNb1cxVFRSWNIB2gFBVV95cUxOSFo5aF9fOFRzanhfRUdyYlFFSEc3WW10ZnBIZkM0SUZuTl9aQkR4OTBRUGY1SWNuN3NWN29iVDNMMDd0V1NTTFV4eTF0MUpobWVjajhNNVZRUVY2S2JBWjZoWlZrODFWWGVRWFo4TjVtTVl5V0RSYjFQQ3dNd25GMllKaTdOQUtOY2dCVmtacDE0RGtLa2dscTcweG1yVm95cGJnbGZoUk1jOTBSai0tVjBsRGlLNHQyeHBqMVlNbUFraXBYMUZKbllTc3BKWktlVUtiLXdXZjdldw?oc=5",
+  "warning": false
  }
 ]
