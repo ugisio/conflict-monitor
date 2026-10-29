@@ -40,5 +40,26 @@
   "uid": "a3182fca42964d64",
   "url": "https://www.lrt.lt/en/news-in-english/19/3097081/lithuania-considers-buying-palantir-ai-system-for-armed-forces",
   "warning": false
+ },
+ {
+  "first_seen": "2026-10-29T08:31:28+00:00",
+  "kind": "market",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": null,
+  "reason": "probability moved -7.0 pp",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "polymarket",
+  "source_name": "Polymarket",
+  "summary": "",
+  "text": "was 46% → now 38% (resolves 2027-07-01)",
+  "tier": "market",
+  "title": "Market moved -7 pp: “NATO downs another Russian drone before Russia x Ukraine peace talks?” now 38%",
+  "uid": "0fa046bb83111a68",
+  "url": "https://polymarket.com/event/nato-downs-another-russian-drone-before-russia-x-ukraine-peace-talks",
+  "warning": false
  }
 ]
