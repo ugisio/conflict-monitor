@@ -1,31 +1,5 @@
 [
  {
-  "level": 1,
-  "n": 1,
-  "source": "LRT (Lithuania, EN)",
-  "stems": [
-   "accom",
-   "expan",
-   "iauli",
-   "troop"
-  ],
-  "title": "Lithuania's Šiauliai air base expansion to accommodate up to 750 NATO troops",
-  "ts": "2026-10-26T11:01:48+00:00"
- },
- {
-  "level": 2,
-  "n": 1,
-  "source": "LSM (Latvian public media, EN)",
-  "stems": [
-   "dodge",
-   "hacke",
-   "hundr",
-   "recen"
-  ],
-  "title": "CERT: Latvia has dodged hundreds of hacker attacks recently",
-  "ts": "2026-10-26T11:31:32+00:00"
- },
- {
   "level": 2,
   "n": 3,
   "source": "Google News — Latvia security",
@@ -337,5 +311,28 @@
   ],
   "title": "Two German citizens arrested over suspected Starlink equipment arson attempt in Vilnius",
   "ts": "2026-10-29T10:01:37+00:00"
+ },
+ {
+  "level": 1,
+  "n": 1,
+  "source": "Rybar",
+  "stems": [
+   "брашо",
+   "винов",
+   "власт",
+   "задер",
+   "нашли",
+   "оборо",
+   "поджо",
+   "пожар",
+   "правд",
+   "предп",
+   "румын",
+   "следо",
+   "среди",
+   "украи"
+  ],
+  "title": "📝 Румынский поджог с украинским следом 📝 Власти Румынии нашли виновных в пожаре на оборонном предприятии в Брашове. Правда, среди задержанны…",
+  "ts": "2026-10-29T11:31:31+00:00"
  }
 ]
