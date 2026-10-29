@@ -397,5 +397,26 @@
   "uid": "090957bb35372616",
   "url": "https://t.me/ClashReport/103540",
   "warning": false
+ },
+ {
+  "first_seen": "2026-10-29T17:01:30+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-29T16:29:00+00:00",
+  "reason": "region: baltic · matched “drone” · another report of a story already in the channel",
+  "repeat_of": "Garisons: Drones have transformed modern warfare, but NATO is still experimenting - Baltic News Network",
+  "repeats": 0,
+  "source_id": "gnews_latvia_security",
+  "source_name": "Google News — Latvia security",
+  "summary": "",
+  "text": "European Commission rejects Baltic states' request for additional funding for anti-drone defenses The New Voice of Ukraine",
+  "tier": "news",
+  "title": "European Commission rejects Baltic states' request for additional funding for anti-drone defenses - The New Voice of Ukraine",
+  "uid": "df56661273447b23",
+  "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZDlYTTNWQzd4aUhwSHdnaG1PX1pnNVRIZnY2VUx2RlI4cGdwYTJWdVZISkJPQy10VnB3cmdoWWUtTEVzVnlOSnBfSERtY2VkUzZYRVR5TnlxcGNLVUlnWnBfRWQ1bEtZbXJYYW9wSUl6R0h5eWJmalgzVW9QdWdNcFh1bHRkbFNGQ18yd2pVc185RU4xYTJROG05M07SAZgBQVVfeXFMUEM0T0tIOUNkMUU1cnZ2SUtXN3htMUFUVmR6RWVqY2k1VWpqd3A1YXNudjRqTW5zbVZFM2NFckF0RzhqM2NUUGZsQnpYSWwwd2ZpV002U056RzRaZmZ0N0g3QVY5VXhIVUp0RmlabWNsTWRQOWtDUlJQZk9FOGxDRUl4V3NDdklzRDNHd3BHb1hGaVlVVjRUQk4?oc=5",
+  "warning": false
  }
 ]
