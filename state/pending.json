@@ -376,5 +376,26 @@
   "uid": "24c11c54b17e675e",
   "url": "https://t.me/nexta_live/125758",
   "warning": false
+ },
+ {
+  "first_seen": "2026-10-29T16:31:28+00:00",
+  "kind": "post",
+  "lang": "en",
+  "level": 1,
+  "note": "EN, conflict news aggregator",
+  "posted": false,
+  "published": "2026-10-29T16:15:17+00:00",
+  "reason": "region: lithuania · matched “Conscript” · another report of a story already in the channel",
+  "repeat_of": "Lithuania to introduce universal military conscription in 2032, president says",
+  "repeats": 0,
+  "source_id": "tg_clashreport",
+  "source_name": "Clash Report",
+  "summary": "",
+  "text": "Lithuania to Introduce Universal Military Conscription for Men in 2032 Lithuania will introduce universal military conscription for eligible young men in 2032, President Gitanas Nausėda announced. The annual intake is expected to rise from more than 5,000 to around 7,500, while military service for women will remain voluntary. READ MORE",
+  "tier": "osint",
+  "title": "Lithuania to Introduce Universal Military Conscription for Men in 2032 Lithuania will introduce universal military conscription for eligible…",
+  "uid": "090957bb35372616",
+  "url": "https://t.me/ClashReport/103540",
+  "warning": false
  }
 ]
