@@ -19,5 +19,26 @@
   "uid": "8dea924970be506b",
   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbmZiUEE5cFF2T0swWkdVUm1SWWRQdF94RHgyT0RJMF82Vk4xZzItb3FOR0hfZ3NaR3JlalFVQlNTamJSWWVpWHFjRktSVEYwQlN1ZmRvZG1fUjBaUFE0NWs3NWNFeGVoaUZ1THpObzZXRjkzdnREMjBOS0gtWGdVYXh2eU5QdXBVTENGeENiQkpWSzJ5NURyQ3h3SjBHa0xzcDJrZjZQcnhCVDRTTlVhbVhJMmlPdw?oc=5",
   "warning": false
+ },
+ {
+  "first_seen": "2026-10-29T08:01:32+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 1,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-29T07:34:00+00:00",
+  "reason": "region: lithuania · matched “Defence Minister (in text)”",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "lrt_en",
+  "source_name": "LRT (Lithuania, EN)",
+  "summary": "",
+  "text": "Lithuania is considering purchasing an artificial intelligence system developed by the US technology company Palantir for its armed forces, Defence Minister Robertas Kaunas said Wednesday.",
+  "tier": "news",
+  "title": "Lithuania considers buying Palantir AI system for armed forces",
+  "uid": "a3182fca42964d64",
+  "url": "https://www.lrt.lt/en/news-in-english/19/3097081/lithuania-considers-buying-palantir-ai-system-for-armed-forces",
+  "warning": false
  }
 ]
