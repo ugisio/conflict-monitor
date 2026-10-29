@@ -286,14 +286,20 @@
  },
  {
   "level": 2,
-  "n": 1,
+  "n": 2,
   "source": "Google News — Latvia security",
   "stems": [
+   "borro",
+   "bruss",
    "drone",
    "exper",
    "garis",
+   "milli",
    "moder",
+   "rejec",
+   "reque",
    "still",
+   "sugge",
    "trans",
    "warfa"
   ],
@@ -314,5 +320,22 @@
   ],
   "title": "Lithuania considers buying Palantir AI system for armed forces",
   "ts": "2026-10-29T08:01:44+00:00"
+ },
+ {
+  "level": 2,
+  "n": 1,
+  "source": "LRT (Lithuania, EN)",
+  "stems": [
+   "arres",
+   "arson",
+   "attem",
+   "equip",
+   "germa",
+   "starl",
+   "suspe",
+   "vilni"
+  ],
+  "title": "Two German citizens arrested over suspected Starlink equipment arson attempt in Vilnius",
+  "ts": "2026-10-29T10:01:37+00:00"
  }
 ]
