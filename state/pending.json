@@ -1,1 +1,23 @@
-[]
+[
+ {
+  "first_seen": "2026-10-29T07:01:36+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-29T06:49:48+00:00",
+  "reason": "region: baltic, nato · matched “Drone”",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "gnews_latvia_security",
+  "source_name": "Google News — Latvia security",
+  "summary": "",
+  "text": "Garisons: Drones have transformed modern warfare, but NATO is still experimenting Baltic News Network",
+  "tier": "news",
+  "title": "Garisons: Drones have transformed modern warfare, but NATO is still experimenting - Baltic News Network",
+  "uid": "8dea924970be506b",
+  "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbmZiUEE5cFF2T0swWkdVUm1SWWRQdF94RHgyT0RJMF82Vk4xZzItb3FOR0hfZ3NaR3JlalFVQlNTamJSWWVpWHFjRktSVEYwQlN1ZmRvZG1fUjBaUFE0NWs3NWNFeGVoaUZ1THpObzZXRjkzdnREMjBOS0gtWGdVYXh2eU5QdXBVTENGeENiQkpWSzJ5NURyQ3h3SjBHa0xzcDJrZjZQcnhCVDRTTlVhbVhJMmlPdw?oc=5",
+  "warning": false
+ }
+]
