@@ -40,5 +40,26 @@
   "uid": "6b1716caf20f24ad",
   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOQUVqZWtEamFQRWxub2ZCcFh4S3g1N0hkZUN2bHBmRHAzbUxEcDA3RWpadkdxSVhIakJZT0Z4YkpxSjd0cW9EaXYxeGNzM1d3ZUhaZFhiUTFaVUVpaWh2TEVidlJFbkJtMDZYTkZjWDJaQzRjcFRWN01KZ3E1Q09LYWxBRUFEVC1UQkNCZHBtQzFCYzRhc3NwUmZUQVdiX01zdjdLSHhyeUhReFNJa1E5RWx1NmFQYkxsWU16RUdTZVlKanhqOXc?oc=5",
   "warning": false
+ },
+ {
+  "first_seen": "2026-10-30T08:01:28+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-30T07:32:00+00:00",
+  "reason": "region: latvia, latvian, baltic · matched “fleet” · another report of a story already in the channel",
+  "repeat_of": "Two German citizens arrested over suspected Starlink equipment arson attempt in Vilnius",
+  "repeats": 0,
+  "source_id": "lrt_en",
+  "source_name": "LRT (Lithuania, EN)",
+  "summary": "",
+  "text": "The Latvian airline airBaltic will reduce the number of aircraft based in Vilnius from three to two for the winter season, as the carrier restructures its operations across the Baltic states and plans to cut hundreds of jobs.",
+  "tier": "news",
+  "title": "airBaltic to reduce Vilnius-based fleet to two aircraft as job cuts loom",
+  "uid": "11c8576540a614ca",
+  "url": "https://www.lrt.lt/en/news-in-english/19/3098074/airbaltic-to-reduce-vilnius-based-fleet-to-two-aircraft-as-job-cuts-loom",
+  "warning": false
  }
 ]
