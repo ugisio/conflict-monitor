@@ -166,7 +166,7 @@
  },
  {
   "level": 2,
-  "n": 4,
+  "n": 5,
   "source": "LRT (Lithuania, EN)",
   "stems": [
    "activ",
@@ -178,15 +178,18 @@
    "engag",
    "force",
    "given",
+   "givin",
    "guard",
    "hybri",
    "infra",
    "japan",
    "maint",
    "missi",
+   "never",
    "palan",
    "right",
    "syste",
+   "voice",
    "weapo"
   ],
   "title": "Latvian border guards given clearer rights to use force and weapons",
@@ -403,5 +406,26 @@
   ],
   "title": "Agricultural drones make first flights in Estonia as rules start to ease",
   "ts": "2026-10-30T10:31:25+00:00"
+ },
+ {
+  "level": 2,
+  "n": 1,
+  "source": "NEXTA Live",
+  "stems": [
+   "войну",
+   "загов",
+   "заяви",
+   "ирано",
+   "кремл",
+   "мисси",
+   "митин",
+   "начал",
+   "начин",
+   "прези",
+   "тезис",
+   "трамп"
+  ],
+  "title": "💥 Трамп заговорил тезисами Кремля! «Мы не начинали войну с Ираном. Это Иран начал войну с нами», — заявил на митинге в Миссисипи президент С…",
+  "ts": "2026-10-30T13:01:43+00:00"
  }
 ]
