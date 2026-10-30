@@ -343,5 +343,32 @@
   ],
   "title": "Литва введёт всеобщий воинский призыв для мужчин с 2032 года Сейчас ежегодно на службу отправляют более 5 000 молодых людей, а после реформы…",
   "ts": "2026-10-29T16:01:42+00:00"
+ },
+ {
+  "level": 2,
+  "n": 1,
+  "source": "Google News — Latvia security",
+  "stems": [
+   "curbs",
+   "putin",
+   "shipp"
+  ],
+  "title": "Putin says Russia does not want war with Europe, warns against Baltic Sea shipping curbs - Moneycontrol.com",
+  "ts": "2026-10-30T00:31:31+00:00"
+ },
+ {
+  "level": 1,
+  "n": 1,
+  "source": "Google News — embassies Baltics",
+  "stems": [
+   "chief",
+   "coope",
+   "highl",
+   "readi",
+   "train",
+   "visit"
+  ],
+  "title": "News - Lithuanian chief of defense visit highlights training, readiness cooperation - DVIDS",
+  "ts": "2026-10-30T00:31:31+00:00"
  }
 ]
