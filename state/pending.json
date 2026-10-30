@@ -1,1 +1,44 @@
-[]
+[
+ {
+  "first_seen": "2026-10-30T18:31:18+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-30T18:11:53+00:00",
+  "reason": "region: baltic, russia · planning/hypothetical wording, softened · matched “attack on the Baltic” · another report of a story already in the channel",
+  "repeat_of": "Pentagon Reportedly Urges Baltic and Other NATO Allies to Soften Rhetoric on Russian Threat - Cyprus Inform",
+  "repeats": 0,
+  "source_id": "gnews_nato",
+  "source_name": "Google News — NATO & the Baltics",
+  "summary": "",
+  "text": "Germany is accelerating military preparations amid the threat of a possible Russian attack on the Baltic states - media Українські Національні Новини (УНН)",
+  "tier": "news",
+  "title": "Germany is accelerating military preparations amid the threat of a possible Russian attack on the Baltic states - media - Українські Національні Новини (УНН)",
+  "uid": "6265e8ef56d7185c",
+  "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNQzUxYkV3YThhWWc0TUE4Zm51VkVaeXBlSlcyaWJPekRUT0dQN2Z3WHZHRXg3N1ZNUmhkTUNrb0dYaElWR1JGX19IakswTnYxcGxvMmRaV3FlQ0V2MXlOYzFKLW9TbjFFOExiQUVFc1lsWFlndTJNQTZnUl9TMmJTdl9lcTBqMFNITVRLYkVKUjl2RXJ0WkJJbzZxSXNUeXF5RUZDSjZ3WDVIWFJFN09JMG5IZFN6UUNmdXM2cTVGcWJKaTFxU2lKQUExcnRMM2lUYUlTQjlra9IB1gFBVV95cUxQRlV5UVRvTWdtTnMtS3JIc3FkOTZOLThSZ19qamtFalJOYS1MNmlBY3ByNXN1Yy1CaTlNRGJkZ3o1U3NjVFpBQ0VIWHFRVGhUNWk5LWozQnBybjZiS09JUVFlRzhiaU5uM1dsUmw3MUpJR0RLUTZMaHFXVXRxVVpZQTEzMmFrOEF0WTFnQWxiRkkxM1VDQ2xwYmJTbDZsenVEVEQwQkd3U083dFVUaXZBXzlqWGdQRVNMaUVXQ0RWS3YwSTRjWFFlS0xKZHRDZHQ1WEVPMFh3?oc=5",
+  "warning": false
+ },
+ {
+  "first_seen": "2026-10-30T18:31:25+00:00",
+  "kind": "market",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": null,
+  "reason": "probability moved +5.0 pp",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "polymarket",
+  "source_name": "Polymarket",
+  "summary": "",
+  "text": "was 45% → now 50% (resolves 2027-06-22)",
+  "tier": "market",
+  "title": "Market moved +5 pp: “Will BC Parnu win the 2026-27 Estonia KML championship?” now 50%",
+  "uid": "54569ead8a72634e",
+  "url": "https://polymarket.com/event/estonia-kml-2027-champion",
+  "warning": false
+ }
+]
