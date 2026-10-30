@@ -1,1 +1,23 @@
-[]
+[
+ {
+  "first_seen": "2026-10-30T06:21:54+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 1,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-30T05:55:00+00:00",
+  "reason": "region: estonia · matched “voting”",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "err_en",
+  "source_name": "ERR News (Estonia, EN)",
+  "summary": "",
+  "text": "Voters will be able to cast a ballot electronically on a smart device in next year's Riigikogu elections, the National Electoral Committee has agreed.",
+  "tier": "news",
+  "title": "Smart devices can be used for e-voting in Estonia's 2027 election",
+  "uid": "365949b49f363095",
+  "url": "https://news.err.ee/1610180908/smart-devices-can-be-used-for-e-voting-in-estonia-s-2027-election",
+  "warning": false
+ }
+]
