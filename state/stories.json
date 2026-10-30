@@ -1,38 +1,6 @@
 [
  {
   "level": 2,
-  "n": 3,
-  "source": "Google News — Latvia security",
-  "stems": [
-   "alleg",
-   "aroun",
-   "cable",
-   "conti",
-   "deplo",
-   "deter",
-   "dozen",
-   "force",
-   "golde",
-   "intel",
-   "linke",
-   "marin",
-   "migra",
-   "missi",
-   "prote",
-   "recon",
-   "sabot",
-   "scand",
-   "schem",
-   "seabe",
-   "speci",
-   "spotl",
-   "under"
-  ],
-  "title": "Latvia alleges Belarus-linked scheme forces migrants into sabotage - InfoMigrants",
-  "ts": "2026-10-27T14:31:38+00:00"
- },
- {
-  "level": 2,
   "n": 1,
   "source": "Google News — Latvia security",
   "stems": [
@@ -397,5 +365,17 @@
   ],
   "title": "Estonia's Russia expertise is respected by the US, says foreign minister",
   "ts": "2026-10-30T13:27:59+00:00"
+ },
+ {
+  "level": 2,
+  "n": 1,
+  "source": "LSM (Latvian public media, EN)",
+  "stems": [
+   "nasty",
+   "press",
+   "thing"
+  ],
+  "title": "Report: U.S. pressures Baltics not to say nasty things about Russia",
+  "ts": "2026-10-30T15:01:39+00:00"
  }
 ]
