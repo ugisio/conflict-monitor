@@ -1,48 +1,6 @@
 [
  {
   "level": 2,
-  "n": 6,
-  "source": "Google News — Latvia security",
-  "stems": [
-   "above",
-   "aircr",
-   "alpha",
-   "altit",
-   "apiec",
-   "booke",
-   "camer",
-   "dange",
-   "denma",
-   "drone",
-   "durin",
-   "engin",
-   "enter",
-   "failu",
-   "falls",
-   "fligh",
-   "genda",
-   "inter",
-   "latga",
-   "loses",
-   "moves",
-   "perce",
-   "publi",
-   "radar",
-   "restr",
-   "sailb",
-   "saili",
-   "ships",
-   "stati",
-   "staye",
-   "swedi",
-   "ustka",
-   "warne"
-  ],
-  "title": "Test drone falls into the Baltic Sea near Ustka — Interia - UA.NEWS",
-  "ts": "2026-10-27T13:01:52+00:00"
- },
- {
-  "level": 2,
   "n": 3,
   "source": "Google News — Latvia security",
   "stems": [
@@ -427,5 +385,17 @@
   ],
   "title": "💥 Трамп заговорил тезисами Кремля! «Мы не начинали войну с Ираном. Это Иран начал войну с нами», — заявил на митинге в Миссисипи президент С…",
   "ts": "2026-10-30T13:01:43+00:00"
+ },
+ {
+  "level": 2,
+  "n": 1,
+  "source": "ERR News (Estonia, EN)",
+  "stems": [
+   "exper",
+   "forei",
+   "respe"
+  ],
+  "title": "Estonia's Russia expertise is respected by the US, says foreign minister",
+  "ts": "2026-10-30T13:27:59+00:00"
  }
 ]
