@@ -385,12 +385,17 @@
  },
  {
   "level": 2,
-  "n": 1,
+  "n": 3,
   "source": "Google News — Latvia security",
   "stems": [
    "allie",
+   "asked",
+   "feder",
    "other",
    "penta",
+   "regar",
+   "restr",
+   "reute",
    "rheto",
    "softe",
    "urges"
