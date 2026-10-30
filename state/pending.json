@@ -166,5 +166,26 @@
   "uid": "052fe08d40cf3b94",
   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQlV6QlZ4MXVaY2NsU1A4QVdsdEVrYS00dV96NFR0eks0ajc3Z0pNOXJldlRmVURmZlhfWjdKV2hSU3hXczFFcy1LNldSLVE0ZjQzbDc1ZldHQm9jcWFaWDd5ejdlZE0zNU5aLWo3U2lkTm1XZVFaRDhYR2JIZmZKTkF3cFRaV2ZhQUxCeWRWQms0Wjd5cmtpQnh0ZUlCMDA5WExQRHlaWW9DQWltd1E?oc=5",
   "warning": false
+ },
+ {
+  "first_seen": "2026-10-30T01:01:32+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-30T00:40:59+00:00",
+  "reason": "region: kaliningrad, russia · matched “missile systems on active duty in Kaliningrad” · single source, held at WATCH until another source corroborates · another report of a story already in the channel",
+  "repeat_of": "Latvian border guards given clearer rights to use force and weapons",
+  "repeats": 0,
+  "source_id": "gnews_latvia_security",
+  "source_name": "Google News — Latvia security",
+  "summary": "",
+  "text": "Russia maintains S-400 missile systems on active duty in Kaliningrad and engages in US-Japan air-to-air missile cooperation. Vietnam.vn",
+  "tier": "news",
+  "title": "Russia maintains S-400 missile systems on active duty in Kaliningrad and engages in US-Japan air-to-air missile cooperation. - Vietnam.vn",
+  "uid": "c5e149ef739837b5",
+  "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZjcxZm8ydzJ6aHN0d29OOUpuMi1mNW10V201NEMtYVZXZ2gyZHlqN3dEVzZSdU9hTE9aSzlISUJ4Y2dneUZzY0tOZE80RGY4Rm1SZ1BGX1pMb2d2SDY0REo0ZGZnTGtja3RGZV9ERmRLeWp1NGROLUdGbTlKQjNfY0MwakhDMi1UdG5NYjI4T1UwN1JOWTNEdTJYbnZCdFBqMnlCTVJfdWRDUDNpNXZXLTVlNA?oc=5",
+  "warning": false
  }
 ]
