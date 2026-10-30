@@ -201,7 +201,7 @@
  },
  {
   "level": 2,
-  "n": 3,
+  "n": 4,
   "source": "LRT (Lithuania, EN)",
   "stems": [
    "activ",
@@ -214,6 +214,8 @@
    "force",
    "given",
    "guard",
+   "hybri",
+   "infra",
    "japan",
    "maint",
    "missi",
@@ -396,7 +398,7 @@
  },
  {
   "level": 2,
-  "n": 3,
+  "n": 4,
   "source": "Google News — Latvia security",
   "stems": [
    "allie",
@@ -413,5 +415,25 @@
   ],
   "title": "Pentagon Reportedly Urges Baltic and Other NATO Allies to Soften Rhetoric on Russian Threat - Cyprus Inform",
   "ts": "2026-10-30T06:31:27+00:00"
+ },
+ {
+  "level": 2,
+  "n": 2,
+  "source": "ERR News (Estonia, EN)",
+  "stems": [
+   "agric",
+   "being",
+   "drone",
+   "effor",
+   "first",
+   "fligh",
+   "nethe",
+   "rules",
+   "start",
+   "steps",
+   "techn"
+  ],
+  "title": "Agricultural drones make first flights in Estonia as rules start to ease",
+  "ts": "2026-10-30T10:31:25+00:00"
  }
 ]
