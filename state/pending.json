@@ -271,5 +271,26 @@
   "uid": "b3b3251fa9b3d912",
   "url": "https://polymarket.com/event/cs2-gg1-esprot-2026-10-31",
   "warning": false
+ },
+ {
+  "first_seen": "2026-10-30T12:31:43+00:00",
+  "kind": "market",
+  "lang": "en",
+  "level": 3,
+  "note": "",
+  "posted": true,
+  "published": null,
+  "reason": "probability moved +16.5 pp",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "polymarket",
+  "source_name": "Polymarket",
+  "summary": "",
+  "text": "was 50% → now 66% (resolves 2026-10-31)",
+  "tier": "market",
+  "title": "Market moved +16 pp: “Counter-Strike: Optibet vs Fraternity (BO3) - Battle of Baltics Playoffs” now 66%",
+  "uid": "10255e43436572e8",
+  "url": "https://polymarket.com/event/cs2-optibe-frt-2026-10-31",
+  "warning": false
  }
 ]
