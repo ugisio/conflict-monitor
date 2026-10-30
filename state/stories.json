@@ -295,12 +295,17 @@
  },
  {
   "level": 2,
-  "n": 4,
+  "n": 7,
   "source": "Google News — Latvia security",
   "stems": [
    "allie",
    "asked",
+   "commi",
+   "denie",
+   "drone",
    "feder",
+   "loans",
+   "milli",
    "other",
    "penta",
    "regar",
@@ -308,6 +313,7 @@
    "reute",
    "rheto",
    "softe",
+   "sourc",
    "urges"
   ],
   "title": "Pentagon Reportedly Urges Baltic and Other NATO Allies to Soften Rhetoric on Russian Threat - Cyprus Inform",
