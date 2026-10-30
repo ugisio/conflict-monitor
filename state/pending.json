@@ -19,5 +19,26 @@
   "uid": "365949b49f363095",
   "url": "https://news.err.ee/1610180908/smart-devices-can-be-used-for-e-voting-in-estonia-s-2027-election",
   "warning": false
+ },
+ {
+  "first_seen": "2026-10-30T06:31:18+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-30T06:04:06+00:00",
+  "reason": "region: baltic, nato, russia · matched “Threat”",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "gnews_latvia_security",
+  "source_name": "Google News — Latvia security",
+  "summary": "",
+  "text": "Pentagon Reportedly Urges Baltic and Other NATO Allies to Soften Rhetoric on Russian Threat Cyprus Inform",
+  "tier": "news",
+  "title": "Pentagon Reportedly Urges Baltic and Other NATO Allies to Soften Rhetoric on Russian Threat - Cyprus Inform",
+  "uid": "6b1716caf20f24ad",
+  "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOQUVqZWtEamFQRWxub2ZCcFh4S3g1N0hkZUN2bHBmRHAzbUxEcDA3RWpadkdxSVhIakJZT0Z4YkpxSjd0cW9EaXYxeGNzM1d3ZUhaZFhiUTFaVUVpaWh2TEVidlJFbkJtMDZYTkZjWDJaQzRjcFRWN01KZ3E1Q09LYWxBRUFEVC1UQkNCZHBtQzFCYzRhc3NwUmZUQVdiX01zdjdLSHhyeUhReFNJa1E5RWx1NmFQYkxsWU16RUdTZVlKanhqOXc?oc=5",
+  "warning": false
  }
 ]
