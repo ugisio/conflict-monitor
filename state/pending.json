@@ -103,5 +103,26 @@
   "uid": "c437fce36f81f2b3",
   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNjVEY3ZlZ2FSamtYSlhYSmxLUDRGTkVsQVUwaUV5czNaV0cyQ3lwcTNMTEZpd3IzUTFLWVB1Vm03TjAyVVBwc2FWSlJCbXdkS1ZvaXdXdFRMaFlPbUlrWDF6NUNpQWs3b1ljNS1KQWpydlRQZFEzQ1Jsb3E2WGdNQzdSTmxqZHJQd0UzSl94bFh6TE9kRVNWanNCMEhaQXJiNzlrV09zaEZ5Wm5Xa2c?oc=5",
   "warning": false
+ },
+ {
+  "first_seen": "2026-10-30T09:31:28+00:00",
+  "kind": "post",
+  "lang": "ru",
+  "level": 2,
+  "note": "RU, Belarus opposition media — best coverage of Belarus border/military",
+  "posted": false,
+  "published": "2026-10-30T09:26:22+00:00",
+  "reason": "region: латви, балти, эстони, литв · matched “угроз (in text)” · another report of a story already in the channel",
+  "repeat_of": "Литва введёт всеобщий воинский призыв для мужчин с 2032 года Сейчас ежегодно на службу отправляют более 5 000 молодых людей, а после реформы…",
+  "repeats": 0,
+  "source_id": "tg_nexta",
+  "source_name": "NEXTA Live",
+  "summary": "",
+  "text": "🇺🇸 США призвали страны Балтии «не шуметь» и перестать резко высказываться о России. Что? Reuters со ссылкой на источники сообщает, что в последние недели американские чиновники обращались с такой просьбой к Литве, Латвии и Эстонии. В Вашингтоне считают, что резкие высказывания о российской угрозе могут усиливать напряжённость и вредить безопасности Европы. Среди заявлений, привлёкших внимание, — утверждение европейских лидеров о том, что Россия «загнана в угол, как крыса» из-за войны против Украины и прибегает ко всё более отчаянным мерам. Просят больше так не говорить.",
+  "tier": "osint",
+  "title": "🇺🇸 США призвали страны Балтии «не шуметь» и перестать резко высказываться о России. Что? Reuters со ссылкой на источники сообщает, что в пос…",
+  "uid": "d84e969080bbd54f",
+  "url": "https://t.me/nexta_live/125810",
+  "warning": false
  }
 ]
