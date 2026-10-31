@@ -1,1 +1,23 @@
-[]
+[
+ {
+  "first_seen": "2026-10-31T18:31:23+00:00",
+  "kind": "market",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": null,
+  "reason": "probability moved -44.9 pp",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "polymarket",
+  "source_name": "Polymarket",
+  "summary": "",
+  "text": "was 45% → now 0% (resolves 2026-10-31)",
+  "tier": "market",
+  "title": "Market moved -45 pp: “Counter-Strike: Optibet vs Galaxy Gaming (BO3) - Battle of Baltics Playoffs” now 0%",
+  "uid": "1b5fe7f2c507847b",
+  "url": "https://polymarket.com/event/cs2-optibe-gg1-2026-10-31",
+  "warning": false
+ }
+]
