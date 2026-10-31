@@ -103,5 +103,26 @@
   "uid": "4e7e3d16afc3f092",
   "url": "https://polymarket.com/event/cs2-optibe-frt-2026-10-31",
   "warning": false
+ },
+ {
+  "first_seen": "2026-10-31T03:31:23+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 1,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-31T03:20:31+00:00",
+  "reason": "region: kaliningrad, nato · matched “training”",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "gnews_nato",
+  "source_name": "Google News — NATO & the Baltics",
+  "summary": "",
+  "text": "More men, more training: why this NATO nation next to Kaliningrad plans major conscription expansion | Videos Hindustan Times",
+  "tier": "news",
+  "title": "More men, more training: why this NATO nation next to Kaliningrad plans major conscription expansion | Videos - Hindustan Times",
+  "uid": "be49cde32a25d46e",
+  "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQZTZJNnVVbUtWNXlCUWNyLUJXd3ZOZ003cmthal9JNlRrUUxiZXVQZko4Y2dUdDNWWWtCTFlBWjd1aTNicmJsekFCRExhOThhbFJQbG9OX3pwMVhnblhDVzhuWk5ZSVFCTThIWUtiQ05wSHEwX2xvc3FXNXRZUWRLcC1oV1BmVVZHamlVV3VYNjl0NnEtS2tCZEx4RWQtc3B3STlBU1BSOXFUR2JXS2xtY0xjSl91dGtMWnhueGM2dWJmVWg4Mks0djNNWUJUYWRLV0RlNDNpaklDU2ZjNDhURWV4andsb3BsT1F2NVVR0gHzAUFVX3lxTE55NVh4YXZlS0o5dXJ5NlNYVVdKVjRxT0tnMWl1Y2R2WU1zYmd6TVRQbGVHZ0tNTGF5Vy1JTkt4cjM1ZWlDUWhwbXhlX2puYm9WdWFxTVRqRmJMczJkZlY5N0ZqY0ZjQnVPMTJoa0czb2pSZ0gwdjhnb1lxYVVWQ0RaNEFTZUxvR3BvN1doSUVQeHNoY1lvLXpDeHREZWc5UTlla2QtNGpCZnVhWUJvbmpoZURMWHVyemRCbzZJeU5aX0FLaUdnamZBU3M0WF9PNThNaHpJT3luZ1VaWnI4UGI4WFpGbFR6NGF5bVVueXdtM0xUSQ?oc=5",
+  "warning": false
  }
 ]
