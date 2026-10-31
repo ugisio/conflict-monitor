@@ -19,5 +19,26 @@
   "uid": "1b5fe7f2c507847b",
   "url": "https://polymarket.com/event/cs2-optibe-gg1-2026-10-31",
   "warning": false
+ },
+ {
+  "first_seen": "2026-10-31T19:01:29+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-30T16:08:20+00:00",
+  "reason": "region: latvia · matched “threat”",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "gnews_latvia_security",
+  "source_name": "Google News — Latvia security",
+  "summary": "",
+  "text": "Possible airspace threat in Latvia's east is over / Article LSM",
+  "tier": "news",
+  "title": "Possible airspace threat in Latvia's east is over / Article - LSM",
+  "uid": "f2e456ed7e1ca52e",
+  "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQS3d5LTVSM2g4Y0NfeExieC1GM3BOX1pHeVB2bjh4QzRsd2dNeFRvRW1YaEMyRkZLOTBJdzRmVmdsNGoySl9GeEN0UGNFQkNTc0xYODgxZU01ejcxbFc0N2xGR2J2WVZHR0V3U2o1S1lpZFdMemF0UHBhU2dMVVBqMUgxTzQ5NDVLeE5Ydm9ZOE5jeWVaXzJNUmxKOHVMZXNmVllHVVlCTDVQbjdudVo5Yw?oc=5",
+  "warning": false
  }
 ]
