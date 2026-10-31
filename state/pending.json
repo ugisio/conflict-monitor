@@ -229,5 +229,26 @@
   "uid": "1d6f1f4331300747",
   "url": "https://polymarket.com/event/estonia-kml-2027-champion",
   "warning": false
+ },
+ {
+  "first_seen": "2026-10-31T14:01:35+00:00",
+  "kind": "market",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": null,
+  "reason": "probability moved +5.5 pp",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "polymarket",
+  "source_name": "Polymarket",
+  "summary": "",
+  "text": "was 40% → now 45% (resolves 2026-10-31)",
+  "tier": "market",
+  "title": "Market moved +6 pp: “Counter-Strike: Galaxy Gaming vs Esprots (BO3) - Battle of Baltics Playoffs” now 45%",
+  "uid": "a3479397c2ef813f",
+  "url": "https://polymarket.com/event/cs2-gg1-esprot-2026-10-31",
+  "warning": false
  }
 ]
