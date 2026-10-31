@@ -292,5 +292,26 @@
   "uid": "cd5fd0d625bec77c",
   "url": "https://t.me/novaya_europe/69120",
   "warning": false
+ },
+ {
+  "first_seen": "2026-10-31T16:01:33+00:00",
+  "kind": "market",
+  "lang": "en",
+  "level": 3,
+  "note": "",
+  "posted": true,
+  "published": null,
+  "reason": "probability moved +36.5 pp",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "polymarket",
+  "source_name": "Polymarket",
+  "summary": "",
+  "text": "was 64% → now 100% (resolves 2026-10-31)",
+  "tier": "market",
+  "title": "Market moved +36 pp: “Counter-Strike: Galaxy Gaming vs Esprots (BO3) - Battle of Baltics Playoffs” now 100%",
+  "uid": "000d2a46e7b56599",
+  "url": "https://polymarket.com/event/cs2-gg1-esprot-2026-10-31",
+  "warning": false
  }
 ]
