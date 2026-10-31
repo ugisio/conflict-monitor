@@ -40,5 +40,26 @@
   "uid": "f2e456ed7e1ca52e",
   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQS3d5LTVSM2g4Y0NfeExieC1GM3BOX1pHeVB2bjh4QzRsd2dNeFRvRW1YaEMyRkZLOTBJdzRmVmdsNGoySl9GeEN0UGNFQkNTc0xYODgxZU01ejcxbFc0N2xGR2J2WVZHR0V3U2o1S1lpZFdMemF0UHBhU2dMVVBqMUgxTzQ5NDVLeE5Ydm9ZOE5jeWVaXzJNUmxKOHVMZXNmVllHVVlCTDVQbjdudVo5Yw?oc=5",
   "warning": false
+ },
+ {
+  "first_seen": "2026-10-31T21:31:16+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": true,
+  "published": "2026-10-30T23:55:47+00:00",
+  "reason": "region: baltic, russia · official warning · matched “official warning”",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "gnews_embassy",
+  "source_name": "Google News — embassies Baltics",
+  "summary": "",
+  "text": "Putin Warns Russia is Ready For War With Europe, Would Turn Baltic Sea Into Second Strait of Hormuz Breitbart News",
+  "tier": "news",
+  "title": "Putin Warns Russia is Ready For War With Europe, Would Turn Baltic Sea Into Second Strait of Hormuz - Breitbart News",
+  "uid": "cd9d5c7033c9fae0",
+  "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPb3dsS241Tm5KYlJ5RVNqRDREUDFfZnZuVWpMaEZaTmU3WHpKX0paa2NhbktvN2N6UGFTcGJISWFiSEQ5ZllQUXhoSUlnaEVBdkV1NFJtYmFpdDZrSk5jR2RsaEhiODB6OHo5S2x5Ml9ZWVFOMjZmT19LalRIMkVtMVh0MGFPU0FkUW9OOGZBY2lucTdZVWJn0gGcAUFVX3lxTFBjOHpSa2VUUTlsbnFsNnNDbFhFQTNoSnVvRzFydlRfbjhib0Y4RDVfN2txc0tkR1NKbFhQVFRqSlJoajVEZXNQU1Q3WGFoSGNsV291NnlnTTdfODlYdTVrejZQUzV0clhPQWxoeGRpUWgwN1YtSkVJRDVXYUFaUHRtQ011eXFuMVkyTXNxY0toZ0dNRm8yaEtkTU14Uw?oc=5",
+  "warning": true
  }
 ]
