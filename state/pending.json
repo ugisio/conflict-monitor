@@ -250,5 +250,26 @@
   "uid": "a3479397c2ef813f",
   "url": "https://polymarket.com/event/cs2-gg1-esprot-2026-10-31",
   "warning": false
+ },
+ {
+  "first_seen": "2026-10-31T15:01:34+00:00",
+  "kind": "market",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": null,
+  "reason": "probability moved -37.5 pp",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "polymarket",
+  "source_name": "Polymarket",
+  "summary": "",
+  "text": "was 75% → now 38% (resolves 2026-10-31)",
+  "tier": "market",
+  "title": "Market moved -38 pp: “Counter-Strike: Galaxy Gaming vs Esprots (BO3) - Battle of Baltics Playoffs” now 38%",
+  "uid": "b4251f72ced9acf5",
+  "url": "https://polymarket.com/event/cs2-gg1-esprot-2026-10-31",
+  "warning": false
  }
 ]
