@@ -82,5 +82,26 @@
   "uid": "8ffb8c5049b0dca3",
   "url": "https://t.me/nexta_live/125944",
   "warning": false
+ },
+ {
+  "first_seen": "2026-11-01T17:31:18+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-11-01T17:09:00+00:00",
+  "reason": "region: latvia · matched “threat (in text)”",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "lsm_en",
+  "source_name": "LSM (Latvian public media, EN)",
+  "summary": "",
+  "text": "The National Armed Forces has issued a warning covering Ludzas and Krāslavas municipalities regarding a threat to airspace. A orange cell broadcast alert was sent to residents of these municipalities.",
+  "tier": "news",
+  "title": "Air alert in Ludzas and Krāslavas municipalities of Latvia",
+  "uid": "477ac5121dc0ed3e",
+  "url": "https://eng.lsm.lv/article/society/defence/01.11.2026-air-alert-in-ludzas-and-kraslavas-municipalities-of-latvia.a669214/?utm_source=rss&utm_campaign=rss&utm_medium=links",
+  "warning": false
  }
 ]
