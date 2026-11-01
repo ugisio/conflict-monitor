@@ -61,5 +61,26 @@
   "uid": "cd9d5c7033c9fae0",
   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPb3dsS241Tm5KYlJ5RVNqRDREUDFfZnZuVWpMaEZaTmU3WHpKX0paa2NhbktvN2N6UGFTcGJISWFiSEQ5ZllQUXhoSUlnaEVBdkV1NFJtYmFpdDZrSk5jR2RsaEhiODB6OHo5S2x5Ml9ZWVFOMjZmT19LalRIMkVtMVh0MGFPU0FkUW9OOGZBY2lucTdZVWJn0gGcAUFVX3lxTFBjOHpSa2VUUTlsbnFsNnNDbFhFQTNoSnVvRzFydlRfbjhib0Y4RDVfN2txc0tkR1NKbFhQVFRqSlJoajVEZXNQU1Q3WGFoSGNsV291NnlnTTdfODlYdTVrejZQUzV0clhPQWxoeGRpUWgwN1YtSkVJRDVXYUFaUHRtQ011eXFuMVkyTXNxY0toZ0dNRm8yaEtkTU14Uw?oc=5",
   "warning": true
+ },
+ {
+  "first_seen": "2026-11-01T01:31:24+00:00",
+  "kind": "market",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": null,
+  "reason": "probability moved -5.0 pp",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "polymarket",
+  "source_name": "Polymarket",
+  "summary": "",
+  "text": "was 50% → now 46% (resolves 2027-06-22)",
+  "tier": "market",
+  "title": "Market moved -5 pp: “Will Keila KK win the 2026-27 Estonia KML championship?” now 46%",
+  "uid": "aad0c80356f00291",
+  "url": "https://polymarket.com/event/estonia-kml-2027-champion",
+  "warning": false
  }
 ]
