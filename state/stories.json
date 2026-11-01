@@ -31,31 +31,6 @@
   "ts": "2026-10-29T15:30:32+00:00"
  },
  {
-  "level": 1,
-  "n": 1,
-  "source": "LSM (Latvian public media, EN)",
-  "stems": [
-   "certi",
-   "coach",
-   "serio"
-  ],
-  "title": "Latvia to take coach certification more seriously",
-  "ts": "2026-10-29T12:31:26+00:00"
- },
- {
-  "level": 1,
-  "n": 2,
-  "source": "LRT (Lithuania, EN)",
-  "stems": [
-   "consc",
-   "eligi",
-   "intro",
-   "unive"
-  ],
-  "title": "Lithuania to introduce universal military conscription in 2032, president says",
-  "ts": "2026-10-29T12:31:26+00:00"
- },
- {
   "level": 2,
   "n": 1,
   "source": "Google News — Latvia security",
@@ -320,17 +295,21 @@
  },
  {
   "level": 2,
-  "n": 2,
+  "n": 3,
   "source": "Google News — Latvia security",
   "stems": [
    "airsp",
    "artic",
+   "dibax",
    "downi",
    "drone",
+   "netwo",
    "possi",
    "senio",
    "shows",
    "soldi",
+   "targe",
+   "teste",
    "willi"
   ],
   "title": "Possible airspace threat in Latvia's east is over / Article - LSM",

@@ -19,5 +19,26 @@
   "uid": "8bed45b17eb9ddb8",
   "url": "https://polymarket.com/event/estonia-kml-2027-champion",
   "warning": false
+ },
+ {
+  "first_seen": "2026-11-01T12:31:21+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-31T17:12:20+00:00",
+  "reason": "region: latvia, nato · matched “Drone” · another report of a story already in the channel",
+  "repeat_of": "Possible airspace threat in Latvia's east is over / Article - LSM",
+  "repeats": 0,
+  "source_id": "gnews_latvia_security",
+  "source_name": "Google News — Latvia security",
+  "summary": "",
+  "text": "NATO’s DiBaX 2026 in Latvia: 5G, Counter-Drone and AI Targeting Tested on One Network Envanter Medya",
+  "tier": "news",
+  "title": "NATO’s DiBaX 2026 in Latvia: 5G, Counter-Drone and AI Targeting Tested on One Network - Envanter Medya",
+  "uid": "83d8a99445a7bbdf",
+  "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNXzl4WHFPcldkUkRxQXk2MUdHQVJleEFHU3pjNUMydFRSR2J0MmU5ZWg0dFBaZHBSMXdjX01QMjhzNktQSU5nQnh5R0xYcGZyWXlWN0tDWFVfTEVtM1dfZWNxZnc2OGJXaDlSUk10dEdkQWU3TTFzRjBXbmNLY2lDTFFFbmpoN3pHYkE?oc=5",
+  "warning": false
  }
 ]
