@@ -32,17 +32,6 @@
  },
  {
   "level": 2,
-  "n": 1,
-  "source": "Google News — Latvia security",
-  "stems": [
-   "canno",
-   "ignor"
-  ],
-  "title": "Kaliningrad is more than the Suwałki Gap, and NATO cannot ignore it - Breaking Defense",
-  "ts": "2026-10-29T14:31:30+00:00"
- },
- {
-  "level": 2,
   "n": 4,
   "source": "NEXTA Live",
   "stems": [
@@ -328,5 +317,20 @@
   ],
   "title": "Putin Warns Russia is Ready For War With Europe, Would Turn Baltic Sea Into Second Strait of Hormuz - Breitbart News",
   "ts": "2026-10-31T21:31:24+00:00"
+ },
+ {
+  "level": 2,
+  "n": 1,
+  "source": "Google News — Latvia security",
+  "stems": [
+   "capab",
+   "exper",
+   "subma",
+   "suppo",
+   "swede",
+   "under"
+  ],
+  "title": "How Sweden’s Baltic submarine expertise supports NATO’s undersea defence capabilities - Defence Industry Europe",
+  "ts": "2026-11-01T15:01:35+00:00"
  }
 ]
