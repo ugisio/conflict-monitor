@@ -61,5 +61,26 @@
   "uid": "c5ee18515c9d54d6",
   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNblZ0bmNhQnBpYlhVUHVLOXE0MG5qZ0gzQmVISDZzNS1wejVKeEVaNUtaNlRqSGhqakVLYnJFM3JMTnJxNWZuYnZjWjgxcXg5WE1xT2s4c1F3T2VhYzNGZm1MRV9RQTZfRDAyMmhGMXNZbWhvY0dSZDVONjAxdzBZaEJaX2hkaDFOT1J3VGo5MU45V0YxamF1bjAyU25RODZaM19HcTFtcXlQc1VHQ1pYZW9R?oc=5",
   "warning": false
+ },
+ {
+  "first_seen": "2026-11-01T16:01:36+00:00",
+  "kind": "post",
+  "lang": "ru",
+  "level": 2,
+  "note": "RU, Belarus opposition media — best coverage of Belarus border/military",
+  "posted": false,
+  "published": "2026-11-01T15:40:09+00:00",
+  "reason": "region: калининград, росси · matched “учения (in text)”",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "tg_nexta",
+  "source_name": "NEXTA Live",
+  "summary": "",
+  "text": "✈️ Стали известны подробности крушения российского Су-30 над Калининградской областью Ранее в СМИ писали, что 21 октября истребитель Су-30 разбился во время учебного полёта. Оба пилота успели катапультироваться и выжили. Теперь появилась информация, что самолёт столкнулся с другим Су-30. Утверждается, что второй истребитель получил серьёзные повреждения крыла, но сумел вернуться на аэродром. Получается, один учебный полёт — и сразу два повреждённых истребителя. Это что за учения такие? По самоденацификации российской авиации? 😂️ ️️️️️",
+  "tier": "osint",
+  "title": "✈️ Стали известны подробности крушения российского Су-30 над Калининградской областью Ранее в СМИ писали, что 21 октября истребитель Су-30 р…",
+  "uid": "8ffb8c5049b0dca3",
+  "url": "https://t.me/nexta_live/125944",
+  "warning": false
  }
 ]
