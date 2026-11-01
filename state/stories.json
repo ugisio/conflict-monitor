@@ -297,15 +297,34 @@
  },
  {
   "level": 2,
-  "n": 2,
+  "n": 3,
   "source": "LSM (Latvian public media, EN)",
   "stems": [
    "alert",
+   "brief",
+   "easte",
+   "issue",
    "ludza",
    "munic",
    "slava"
   ],
   "title": "Air alert in Ludzas and Krāslavas municipalities of Latvia",
   "ts": "2026-11-01T17:31:30+00:00"
+ },
+ {
+  "level": 2,
+  "n": 1,
+  "source": "Google News — Latvia security",
+  "stems": [
+   "artic",
+   "drone",
+   "found",
+   "incid",
+   "possi",
+   "relat",
+   "shard"
+  ],
+  "title": "Shards found in Latvia, possibly related to drone incident / Article - LSM",
+  "ts": "2026-11-01T20:31:23+00:00"
  }
 ]
