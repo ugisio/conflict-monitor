@@ -410,12 +410,18 @@
  },
  {
   "level": 2,
-  "n": 1,
+  "n": 2,
   "source": "Google News — Latvia security",
   "stems": [
    "airsp",
    "artic",
-   "possi"
+   "downi",
+   "drone",
+   "possi",
+   "senio",
+   "shows",
+   "soldi",
+   "willi"
   ],
   "title": "Possible airspace threat in Latvia's east is over / Article - LSM",
   "ts": "2026-10-31T19:01:39+00:00"

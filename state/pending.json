@@ -103,5 +103,26 @@
   "uid": "4d3e3330615d4c36",
   "url": "https://polymarket.com/event/estonia-kml-2027-champion",
   "warning": false
+ },
+ {
+  "first_seen": "2026-11-01T05:01:25+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-10-31T02:11:30+00:00",
+  "reason": "region: latvia, nato · matched “Drone” · another report of a story already in the channel",
+  "repeat_of": "Possible airspace threat in Latvia's east is over / Article - LSM",
+  "repeats": 0,
+  "source_id": "gnews_nato",
+  "source_name": "Google News — NATO & the Baltics",
+  "summary": "",
+  "text": "Drone downing shows NATO willingness to defend Latvia, says senior soldier / Article LSM",
+  "tier": "news",
+  "title": "Drone downing shows NATO willingness to defend Latvia, says senior soldier / Article - LSM",
+  "uid": "6078cb02e546725c",
+  "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSG9YNFJHOXNqRjl6U21Vb2UxeHNXOXVGdDJzV3pRaS1ockJybVduczhIQjVtalBjNDJXdDhJRVhqMTd4dHVGSWhyTWJCR2pzSHpCbkp0NHItZ3JLZW1ETGFoYl9qSkh3MDEtU0w1QkJiTHhzcEFmUHJ0SHZwd0hwZTFWZ2dJVHZtZUZ6Yk4wckRJeXZtVWswcXZCTk5NaHl5ZDFVeFpGNFZGREhrQTIyTDJMbzQ1dEVnV1k3ZldkQXQ1SmtibnJ1N2UxdTFLOVRFMEE?oc=5",
+  "warning": false
  }
 ]
