@@ -103,5 +103,26 @@
   "uid": "e01f9ed8a73a6854",
   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZ3BzVUE4OEpkbWw2WkltTUZCWUxZdGs4VUd2QWNWWHVBSmJsbWZmWkwtNnZVSTE5VWlaREFnN2ZVajBfUkpsckoycmtoNm1sbEJsNXNtQWNSaFhJTHNqcFJoSlNKcmJRV1lwSTJsS2RsTV9zQ3pjMEdtaE10N3JCNGlxR3cwUDVlRVdwX2l4ZVhGT0tkTVh0VG1DYXoxUkE?oc=5",
   "warning": false
+ },
+ {
+  "first_seen": "2026-11-01T21:01:27+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-11-01T20:44:40+00:00",
+  "reason": "region: kaliningrad, russia · matched “spy”",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "gnews_latvia_security",
+  "source_name": "Google News — Latvia security",
+  "summary": "",
+  "text": "Russia's new suspected radar in Kaliningrad could spy deep into Europe DW.com",
+  "tier": "news",
+  "title": "Russia's new suspected radar in Kaliningrad could spy deep into Europe - DW.com",
+  "uid": "ce1f526eeba840f0",
+  "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdFI1cnhfdFhUQnRHcUVLVld4WWx3Mm9jUVBwVDRvQTlhRUJGalNiaURNS3FWMWhiaGZ2UjNOT251cXA1WkhULWNib3NTeFpZelB2bXhfTDV6M0cweUI4UjFiN2k3STJrMnpHRzRGYXJsSm11dXVFUkhuVEMyYjBlSnJHZ0Zid0hrdEJQRHJGbzZ6WlBhSzlV0gGXAUFVX3lxTE1LMVhVYm9ZbVAwams1enBvZGZqTWZoYlk0bmgxMUM2Ul9FaHhsLThmdnNQSUpqTk8tTDZEQnpla0pTTlNacFZzUEV2WmhoUE1FUlV5ZnhYcDhUTFFOTXhjVkNWeU5WY3NBQWNtYVE2eEllbUJnVGVqTHZ1SUxOZE5jTmxXWXNTZFlsYnNXd3c2ZVd2TDF3aWc?oc=5",
+  "warning": false
  }
 ]
