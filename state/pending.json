@@ -61,5 +61,26 @@
   "uid": "269546a75f289cd0",
   "url": "https://t.me/ClashReport/103975",
   "warning": true
+ },
+ {
+  "first_seen": "2026-11-02T09:31:16+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-11-02T07:30:00+00:00",
+  "reason": "region: latvia, latvian · matched “drone” · another report of a story already in the channel",
+  "repeat_of": "Shards found in Latvia, possibly related to drone incident / Article - LSM",
+  "repeats": 0,
+  "source_id": "gnews_latvia_security",
+  "source_name": "Google News — Latvia security",
+  "summary": "",
+  "text": "Latvian military deploys interceptor drone after unidentified drone violates its airspace Українська правда",
+  "tier": "news",
+  "title": "Latvian military deploys interceptor drone after unidentified drone violates its airspace - Українська правда",
+  "uid": "c96cd178ae12a3b3",
+  "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5BTDUwNlowWHN3NGRLT1dtNmRFbmxQaHZFU19PMXdwWXFPMnZWMWlYbVpyRk5aQnNSQWcxNDM5Z2FDNE40dDhiYV9zN1p6YVZsNkh1UTlDQ3hiRG5VQVRtWmlVZDQ?oc=5",
+  "warning": false
  }
 ]

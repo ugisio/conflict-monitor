@@ -234,11 +234,13 @@
  },
  {
   "level": 2,
-  "n": 2,
+  "n": 3,
   "source": "Google News — Latvia security",
   "stems": [
+   "airsp",
    "artic",
    "blaze",
+   "deplo",
    "drone",
    "first",
    "found",
@@ -248,7 +250,8 @@
    "possi",
    "relat",
    "shard",
-   "unide"
+   "unide",
+   "viola"
   ],
   "title": "Shards found in Latvia, possibly related to drone incident / Article - LSM",
   "ts": "2026-11-01T20:31:23+00:00"
