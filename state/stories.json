@@ -1,17 +1,5 @@
 [
  {
-  "level": 2,
-  "n": 1,
-  "source": "LSM (Latvian public media, EN)",
-  "stems": [
-   "nasty",
-   "press",
-   "thing"
-  ],
-  "title": "Report: U.S. pressures Baltics not to say nasty things about Russia",
-  "ts": "2026-10-30T15:01:39+00:00"
- },
- {
   "level": 1,
   "n": 1,
   "source": "Google News — NATO & the Baltics",
@@ -333,5 +321,18 @@
   ],
   "title": "Chancellor of Justice: Defense Forces broke law on Legio background check",
   "ts": "2026-11-02T12:31:36+00:00"
+ },
+ {
+  "level": 2,
+  "n": 2,
+  "source": "Google News — Latvia security",
+  "stems": [
+   "launc",
+   "opera",
+   "sabot",
+   "speci"
+  ],
+  "title": "Poland Launches Special Operation on Kaliningrad Border Over Russian Sabotage Threat - UNITED24 Media",
+  "ts": "2026-11-02T15:01:54+00:00"
  }
 ]
