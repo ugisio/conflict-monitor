@@ -325,12 +325,17 @@
  },
  {
   "level": 2,
-  "n": 1,
+  "n": 2,
   "source": "Clash Report",
   "stems": [
+   "allie",
    "canno",
+   "conce",
    "conve",
+   "loses",
+   "midte",
    "refin",
+   "repub",
    "respo",
    "sever",
    "simpl",
@@ -339,5 +344,20 @@
   ],
   "title": "Zelensky: Yes. We had several conversations with President Trump about attacks on refineries. We said that we cannot simply not respond afte…",
   "ts": "2026-11-02T09:02:07+00:00"
+ },
+ {
+  "level": 2,
+  "n": 1,
+  "source": "ERR News (Estonia, EN)",
+  "stems": [
+   "chain",
+   "freez",
+   "hacke",
+   "raise",
+   "super",
+   "tempe"
+  ],
+  "title": "Hackers raised freezer temperature at Estonian supermarket chain to +50°C",
+  "ts": "2026-11-02T10:01:34+00:00"
  }
 ]
