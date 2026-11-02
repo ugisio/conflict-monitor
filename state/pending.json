@@ -124,5 +124,26 @@
   "uid": "6e714286b69d9cb7",
   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNU2VuUk0wc29FVF9zckQ2OFp5ZzdLM0RWRlRpUElpTDVRNXgyZ1J3WUtac0FOc3h0bDlNRnBUaGdxbU9wNlhyX3RqQjFEQ0lieGZtcnk3bmFCMjZuVjdjY29YVlQydnZTeGZxTzlyZFdOZXBPTTVVOTlhY0xNVmEwdXdzMlNmX3AxNGVvMjE0S28zNWl5WmJNZGhIaV9nWm56VHBQNXlVN19MZVVVajlMbA?oc=5",
   "warning": false
+ },
+ {
+  "first_seen": "2026-11-02T23:51:17+00:00",
+  "kind": "market",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": null,
+  "reason": "probability moved -5.0 pp",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "polymarket",
+  "source_name": "Polymarket",
+  "summary": "",
+  "text": "was 50% → now 46% (resolves 2027-06-22)",
+  "tier": "market",
+  "title": "Market moved -5 pp: “Will Bigbank/Kalev win the 2026-27 Estonia KML championship?” now 46%",
+  "uid": "ba5a8a8790b6d0f9",
+  "url": "https://polymarket.com/event/estonia-kml-2027-champion",
+  "warning": false
  }
 ]
