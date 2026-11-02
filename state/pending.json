@@ -124,5 +124,26 @@
   "uid": "f42efec99c65c443",
   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOaFJGTTVBOEdtNGZCbmZ0VGdnVTNSLTlQMHc0T1RzZ1l0dl9nNk03akZUMkFUNHNlVk1NLWs0U1J1VXBONENicmwta3RKWXJ0TEQtdVFzdlVsSWl2akZ3ZTZKdnhKdXhPYVhSVGNrSzdFdURhamJ6TTRhRHJxWHgtVXF0UmpvSy02OVE5YVU5RjhIdi03UnJwVWN5aGZVYnZEU1JOSGpCQkI5cjA4WEhoM0hkY3A?oc=5",
   "warning": false
+ },
+ {
+  "first_seen": "2026-11-02T11:01:27+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 1,
+  "note": "",
+  "posted": false,
+  "published": "2026-11-02T10:51:05+00:00",
+  "reason": "region: latvia, latvian · matched “NBS (in text)” · another report of a story already in the channel",
+  "repeat_of": "Air alert in Ludzas and Krāslavas municipalities of Latvia",
+  "repeats": 0,
+  "source_id": "lsm_en",
+  "source_name": "LSM (Latvian public media, EN)",
+  "summary": "",
+  "text": "Latvia's National Armed Forces (NBS) have deployed a first new \"mobile surveillance device\" on the Latvian state border to the Krāslava region, the NBS said in a release on November 2nd.",
+  "tier": "news",
+  "title": "Latvia sends 'mobile surveillance device' to eastern border",
+  "uid": "196599d3cbd60433",
+  "url": "https://eng.lsm.lv/article/society/defence/02.11.2026-latvia-sends-mobile-surveillance-device-to-eastern-border.a670167/?utm_source=rss&utm_campaign=rss&utm_medium=links",
+  "warning": false
  }
 ]

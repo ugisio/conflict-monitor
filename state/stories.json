@@ -198,16 +198,20 @@
  },
  {
   "level": 2,
-  "n": 3,
+  "n": 4,
   "source": "LSM (Latvian public media, EN)",
   "stems": [
    "alert",
    "brief",
+   "devic",
    "easte",
    "issue",
    "ludza",
+   "mobil",
    "munic",
-   "slava"
+   "sends",
+   "slava",
+   "surve"
   ],
   "title": "Air alert in Ludzas and Krāslavas municipalities of Latvia",
   "ts": "2026-11-01T17:31:30+00:00"
