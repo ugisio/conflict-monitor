@@ -260,10 +260,11 @@
  },
  {
   "level": 2,
-  "n": 1,
+  "n": 2,
   "source": "ERR News (Estonia, EN)",
   "stems": [
    "activ",
+   "airsp",
    "expel",
    "preve"
   ],
@@ -383,5 +384,19 @@
   ],
   "title": "🚨 Польша начала спецоперацию на границе с Россией из-за угрозы диверсий Польская военная разведка и спецслужбы союзников предупредили о возм…",
   "ts": "2026-11-02T20:01:41+00:00"
+ },
+ {
+  "level": 2,
+  "n": 2,
+  "source": "LSM (Latvian public media, EN)",
+  "stems": [
+   "alert",
+   "artic",
+   "balvi",
+   "ludza",
+   "munic"
+  ],
+  "title": "Air threat alert in Latvia's Balvi, Ludza municipalities is over",
+  "ts": "2026-11-02T23:01:52+00:00"
  }
 ]
