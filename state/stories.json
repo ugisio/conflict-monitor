@@ -234,16 +234,21 @@
  },
  {
   "level": 2,
-  "n": 1,
+  "n": 2,
   "source": "Google News — Latvia security",
   "stems": [
    "artic",
+   "blaze",
    "drone",
+   "first",
    "found",
    "incid",
+   "inter",
+   "objec",
    "possi",
    "relat",
-   "shard"
+   "shard",
+   "unide"
   ],
   "title": "Shards found in Latvia, possibly related to drone incident / Article - LSM",
   "ts": "2026-11-01T20:31:23+00:00"
@@ -302,5 +307,34 @@
   ],
   "title": "212 украинских БПЛА перехвачены и уничтожены над РФ и аннексированным Крымом, — Минобороны РФ «В течение прошедшей ночи дежурными силами ПВО…",
   "ts": "2026-11-02T06:01:36+00:00"
+ },
+ {
+  "level": 2,
+  "n": 1,
+  "source": "ERR News (Estonia, EN)",
+  "stems": [
+   "activ",
+   "expel",
+   "preve"
+  ],
+  "title": "Russian citizen expelled to 'prevent activities' that 'threaten' Estonia",
+  "ts": "2026-11-02T09:02:07+00:00"
+ },
+ {
+  "level": 2,
+  "n": 1,
+  "source": "Clash Report",
+  "stems": [
+   "canno",
+   "conve",
+   "refin",
+   "respo",
+   "sever",
+   "simpl",
+   "trump",
+   "zelen"
+  ],
+  "title": "Zelensky: Yes. We had several conversations with President Trump about attacks on refineries. We said that we cannot simply not respond afte…",
+  "ts": "2026-11-02T09:02:07+00:00"
  }
 ]
