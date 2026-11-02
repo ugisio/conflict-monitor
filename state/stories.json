@@ -218,14 +218,16 @@
  },
  {
   "level": 2,
-  "n": 3,
+  "n": 4,
   "source": "Google News — Latvia security",
   "stems": [
+   "aircr",
    "airsp",
    "artic",
    "blaze",
    "deplo",
    "drone",
+   "enter",
    "first",
    "found",
    "incid",

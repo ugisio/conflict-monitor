@@ -145,5 +145,26 @@
   "uid": "196599d3cbd60433",
   "url": "https://eng.lsm.lv/article/society/defence/02.11.2026-latvia-sends-mobile-surveillance-device-to-eastern-border.a670167/?utm_source=rss&utm_campaign=rss&utm_medium=links",
   "warning": false
+ },
+ {
+  "first_seen": "2026-11-02T11:31:18+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-11-02T10:49:00+00:00",
+  "reason": "region: latvia, belarus · matched “drone” · another report of a story already in the channel",
+  "repeat_of": "Shards found in Latvia, possibly related to drone incident / Article - LSM",
+  "repeats": 0,
+  "source_id": "gnews_latvia_security",
+  "source_name": "Google News — Latvia security",
+  "summary": "",
+  "text": "Latvia deploys interceptor drone against unidentified aircraft entering from Belarus Hromadske",
+  "tier": "news",
+  "title": "Latvia deploys interceptor drone against unidentified aircraft entering from Belarus - Hromadske",
+  "uid": "e850f525764c5e44",
+  "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdjJKN2R4R0FZUXpKdldnZVhkaFAxTkRxNk9rN19HTUFvNTNQWmhnMzNldWFEMC1QeWtQXzdGNEtFNmFENkFicVRlSEMweUFpOHMyZnRETUtZSWlONEQwVHB2MEJyUTl5QkdmVEluVjV3Zks5d2dTeEhXUTUtTzNUYXFURG9GQkVDV1J0NHJnZUkwUXI3Y3dyQ1lOaE90Y3ozbGt0cHFQQnBaSDZ1MUZ2U2ZDdzJNcWd5Sm01bEJRY9IBxAFBVV95cUxPYXU2eVE0TWJDd0k5RVdCTnlwMTRCSHpZdXJaVDNMZ253SW85bDBOY0xma0JWSjdjZkxPbXJBRGZLVFNWNUUyYUN3R2pjSXgyaG5FT05vWGhZU21KRDNYRkMyNzAxREZuOGkzZU9rbG53M2l3Q0xWX2JHbDUyaFBmdjhiN0lTeGx1cmJsampCXzA0VHVPMmZKT3VSSHhRZDc5UGp0RGtzNUtrNDM5UGFFUmtQOUMyTEFCZllESWxPTnFZaG5M?oc=5",
+  "warning": false
  }
 ]
