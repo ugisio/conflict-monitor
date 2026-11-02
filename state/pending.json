@@ -1,1 +1,44 @@
-[]
+[
+ {
+  "first_seen": "2026-11-02T20:01:32+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-11-02T19:25:59+00:00",
+  "reason": "region: kaliningrad, nato · matched “provocat” · another report of a story already in the channel",
+  "repeat_of": "UK Defense Secretary Wes Streeting: We all wish that we could take President Putin's assurances that he doesn't seek war with Europe at face…",
+  "repeats": 0,
+  "source_id": "gnews_latvia_security",
+  "source_name": "Google News — Latvia security",
+  "summary": "",
+  "text": "Before NATO's Kaliningrad 'war', Putin's warships penetrate British waters in shocking provocation | Videos Hindustan Times",
+  "tier": "news",
+  "title": "Before NATO's Kaliningrad 'war', Putin's warships penetrate British waters in shocking provocation | Videos - Hindustan Times",
+  "uid": "7e076833e1cd24c8",
+  "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQNW9JdDVzTU00T3gySnJIdFpMeUFoOHhtT2hUdzVWUWZPOHlXdFRtcDBIaURiemRBb1EwbTRJRkp3eEllUVBKbzE1WFowMGtwNl95Tnd0NlZmSExkdnk4dDFPY2tGYldnYWRqanZrTzI4cHREcjBGc0I2d2todDBHQlJ0TGMtY3dxWEw2dzQzQnhqR3pUX1JsWE56ZVByejk5ZE0wOGVvdEYzcGIySWF5UVZZdnZpa2p3WHRpZWpTRVVjamJMOVdzaC0zT2RRMHJzemhwVmNYT0JJaFJYSDFseWFrZUwta0HSAewBQVVfeXFMTnlaWkZEMU9HV0tyWnJvYTNaSlJaaTg5Y1lHRUFZVTl1NzBiem1qT0R2TmhSQzR1TzhjVzFzOG56SFdVX21jX2RLcnllekgtUU5Qc0wwd2lPbnJhLWZHM3N1VjBPOWYteHZiakV0SDgyaF9mc1JrOFpWRVVEeWdxbktoZGs3WVJjVlZyZjJ4ajZady1BaV81enR5SVhRS1V5a0JRd0Z4LWwtaWJhRmFGZkRNNnFOY2lCYmhuNGJld2dxLWdRS3AydkJfZFMyVmRXTFJhTlExdzNqeWl1Y0dMOEQzem83TEI5SElsTm4?oc=5",
+  "warning": false
+ },
+ {
+  "first_seen": "2026-11-02T20:01:36+00:00",
+  "kind": "post",
+  "lang": "ru",
+  "level": 1,
+  "note": "RU, Belarus opposition media — best coverage of Belarus border/military",
+  "posted": false,
+  "published": "2026-11-02T19:43:05+00:00",
+  "reason": "region: калининград, росси · matched “диверси”",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "tg_nexta",
+  "source_name": "NEXTA Live",
+  "summary": "",
+  "text": "🚨 Польша начала спецоперацию на границе с Россией из-за угрозы диверсий Польская военная разведка и спецслужбы союзников предупредили о возможных диверсиях в ближайшие дни. Один из сценариев — попытка проникновения вооружённых групп из Калининградской области РФ, сообщил глава польской полиции Марек Боронь. В приграничные районы перебросили дополнительные силы полиции, включая антитеррористические подразделения. К операции также привлекли армию, пограничников и спецслужбы. Для координации действий создан специальный штаб. Власти подчёркивают, что операция носит превентивный характер. Тем временем всего в 37 км от польской границы Россия достраивает огромную радиолокационную станцию, сообщает Deutsche Welle. Предполагается, что она сможет обнаруживать воздушные цели на расстоянии до 3000 км — в зоне её действия окажется значительная часть Европы, включая Германию, Францию и Великобританию.",
+  "tier": "osint",
+  "title": "🚨 Польша начала спецоперацию на границе с Россией из-за угрозы диверсий Польская военная разведка и спецслужбы союзников предупредили о возм…",
+  "uid": "e40f6181733375e0",
+  "url": "https://t.me/nexta_live/126019",
+  "warning": false
+ }
+]

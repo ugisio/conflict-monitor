@@ -342,16 +342,46 @@
  },
  {
   "level": 2,
-  "n": 1,
+  "n": 2,
   "source": "Clash Report",
   "stems": [
    "assur",
+   "befor",
+   "briti",
    "doesn",
+   "penet",
+   "provo",
    "putin",
    "secre",
-   "stree"
+   "shock",
+   "stree",
+   "video",
+   "warsh",
+   "water"
   ],
   "title": "UK Defense Secretary Wes Streeting: We all wish that we could take President Putin's assurances that he doesn't seek war with Europe at face…",
   "ts": "2026-11-02T18:01:36+00:00"
+ },
+ {
+  "level": 1,
+  "n": 1,
+  "source": "NEXTA Live",
+  "stems": [
+   "военн",
+   "грани",
+   "дивер",
+   "начал",
+   "польс",
+   "польш",
+   "преду",
+   "разве",
+   "росси",
+   "союзн",
+   "спецо",
+   "спецс",
+   "угроз"
+  ],
+  "title": "🚨 Польша начала спецоперацию на границе с Россией из-за угрозы диверсий Польская военная разведка и спецслужбы союзников предупредили о возм…",
+  "ts": "2026-11-02T20:01:41+00:00"
  }
 ]
