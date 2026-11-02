@@ -324,13 +324,14 @@
  },
  {
   "level": 2,
-  "n": 2,
+  "n": 3,
   "source": "Google News — Latvia security",
   "stems": [
    "launc",
    "opera",
    "sabot",
-   "speci"
+   "speci",
+   "terro"
   ],
   "title": "Poland Launches Special Operation on Kaliningrad Border Over Russian Sabotage Threat - UNITED24 Media",
   "ts": "2026-11-02T15:01:54+00:00"

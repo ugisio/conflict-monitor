@@ -334,5 +334,26 @@
   "uid": "978c0e20d4dc3517",
   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOR0hxZTY4ZGxGc1lhalloQVcxQTVrcGpSVjd0NFlUM1g1QkpialN0V2RFU3hEYllMa2ZyR0ZuMGpHa3A2TlVsSV9Pa2UzSEJVdEJZY1F4N3hZVFlMb2w0UnFhaG90TTBRYnBqdHktUGJEM3B0anVpT3pPUmN0NTY0WkxYUmJYbmwzdFZQeS0tcnNRWC14bzc1UlJjTEM?oc=5",
   "warning": false
+ },
+ {
+  "first_seen": "2026-11-02T16:02:35+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-11-02T15:32:00+00:00",
+  "reason": "region: kaliningrad · matched “sabotage” · another report of a story already in the channel",
+  "repeat_of": "Poland Launches Special Operation on Kaliningrad Border Over Russian Sabotage Threat - UNITED24 Media",
+  "repeats": 0,
+  "source_id": "gnews_latvia_security",
+  "source_name": "Google News — Latvia security",
+  "summary": "",
+  "text": "Poland launches counter-terror op over Kaliningrad 'sabotage' threats TVP World",
+  "tier": "news",
+  "title": "Poland launches counter-terror op over Kaliningrad 'sabotage' threats - TVP World",
+  "uid": "b950be4ac2165c01",
+  "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSEY4U1A4STlIbTRVQng4bDZHQ29aUDBVbTI4bk5KRjlsRGk1WFR1QzZFQ2ZQR3NBdnVsLWhOaHg3QTRLNzE4SGtXbVl4dEd0SU55NHE1c0RlLWhVMG9nZ19MOUsyd2RQUm83dVhHbG1FbVZjQ2MtbnVRMU9KVUVqUWxpOWN4TmxrSkZNTWRNUQ?oc=5",
+  "warning": false
  }
 ]
