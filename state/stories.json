@@ -260,13 +260,17 @@
  },
  {
   "level": 2,
-  "n": 2,
+  "n": 3,
   "source": "ERR News (Estonia, EN)",
   "stems": [
    "activ",
    "airsp",
+   "brief",
    "expel",
-   "preve"
+   "found",
+   "objec",
+   "preve",
+   "world"
   ],
   "title": "Russian citizen expelled to 'prevent activities' that 'threaten' Estonia",
   "ts": "2026-11-02T09:02:07+00:00"

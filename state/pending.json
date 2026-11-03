@@ -145,5 +145,26 @@
   "uid": "ba5a8a8790b6d0f9",
   "url": "https://polymarket.com/event/estonia-kml-2027-champion",
   "warning": false
+ },
+ {
+  "first_seen": "2026-11-03T00:31:23+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-11-02T23:56:03+00:00",
+  "reason": "region: latvia, nato, russia · matched “threat” · another report of a story already in the channel",
+  "repeat_of": "Russian citizen expelled to 'prevent activities' that 'threaten' Estonia",
+  "repeats": 0,
+  "source_id": "gnews_latvia_security",
+  "source_name": "Google News — Latvia security",
+  "summary": "",
+  "text": "Latvia says NATO jets activated after brief airspace threat; ‘object’ found near Russian border | World News Hindustan Times",
+  "tier": "news",
+  "title": "Latvia says NATO jets activated after brief airspace threat; ‘object’ found near Russian border | World News - Hindustan Times",
+  "uid": "b7b45c5b145bca0a",
+  "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOR3g4OENQWnh1a2ZiMVNnVXpJeVBTV3dqbXZaM0RuOWwwVUMwbk9WU0lUSl9OY1Z5eXUzU3R0OUdqT2lUR0VCSlpOR0g2R3ExMlBneFJBOC1GVFhfTGtTVzhEc051aS1UMGVZMjBBTVYtZzN6QzNoMFo3ZHNUTUxhdDdCeFBuTGxDS3lfNHB1T0luWFNJcVVjTUMwWl9JMm82UDZ6U1NFVjJPUE5Iak00X1NqT0NJeWpXY1FMNTh2QUttY25UWmQtRjVIamdTZEFJeGxGUVM2QXFiWElzMXRtYUUzNVpBX1dQY1c00gHwAUFVX3lxTE45UGpud1IwTWRLWlNkMEh4d0pDQlNhd1lkWi1SZ1FZNm8yd2F4Q3R5cVJNcWhqTWJqa1h5Z29TclZhUEJTWklFaWpEeThKX3hvMnNXNjJOTDhEUmRLcGxZaHhBTkFEaGxDR21IaXFzTHZfMldFN2Rud2pKdzlCMnFSZVRKQktkbE8wczNyUC1HVmF2Z0I1N3h5cEZIZHM0VGZNYzQ0YjN0ZmNvc0VvS2JmQ2RUM2VlalhLSDJ1blRiWllyTldNWEg3TlFsTVlNYWRCQWp5NUlSSTRBMlB5OVgtbVA2NDVDckJjUUgwQVUyLQ?oc=5",
+  "warning": false
  }
 ]
