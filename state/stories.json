@@ -387,7 +387,7 @@
  },
  {
   "level": 2,
-  "n": 10,
+  "n": 11,
   "source": "Google News — Latvia security",
   "stems": [
    "aircr",
@@ -402,11 +402,13 @@
    "exerc",
    "fundi",
    "incid",
+   "integ",
    "inter",
    "milli",
    "multi",
    "netwo",
    "other",
+   "rapid",
    "recen",
    "relea",
    "renew",
@@ -414,6 +416,8 @@
    "scram",
    "suppo",
    "takin",
+   "targe",
+   "testi",
    "tests",
    "unide",
    "viola"
@@ -481,13 +485,19 @@
  },
  {
   "level": 2,
-  "n": 2,
+  "n": 3,
   "source": "Google News — Latvia security",
   "stems": [
    "block",
+   "donal",
+   "excla",
+   "flash",
    "guard",
+   "possi",
    "preve",
+   "prime",
    "provo",
+   "spott",
    "suspe",
    "warne"
   ],
