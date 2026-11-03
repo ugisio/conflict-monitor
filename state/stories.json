@@ -409,7 +409,7 @@
  },
  {
   "level": 2,
-  "n": 9,
+  "n": 10,
   "source": "Google News — Latvia security",
   "stems": [
    "aircr",
@@ -425,6 +425,7 @@
    "fundi",
    "incid",
    "inter",
+   "milli",
    "multi",
    "netwo",
    "other",

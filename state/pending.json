@@ -586,5 +586,26 @@
   "uid": "c1c39c8b182b5aa2",
   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQM0hrNjBqMzB1bXhjY2JWTk9SQ2tJQ0pIRkgyazB6VE1tV2lrOXBuQTVpLU8xaUp2M3VTNFhFaXFTS3haVVRjVzZZUzZmUm9sUXBBNTlzcHBUcVVrd2JKcU1ZMGlzX1V2UkRta2xIOFlUVDlZV3ZoZ3dFSHNFSEUwYzNTQQ?oc=5",
   "warning": false
+ },
+ {
+  "first_seen": "2026-11-03T17:31:33+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-11-03T16:34:33+00:00",
+  "reason": "region: baltic · matched “Drone” · another report of a story already in the channel",
+  "repeat_of": "A drone crashed near Latvia’s border with Russia — Interia - UA.NEWS",
+  "repeats": 0,
+  "source_id": "gnews_nato",
+  "source_name": "Google News — NATO & the Baltics",
+  "summary": "",
+  "text": "Baltic States May Renew €500 Million EU Funding Request for Anti-Drone Defence defence.newsd.in",
+  "tier": "news",
+  "title": "Baltic States May Renew €500 Million EU Funding Request for Anti-Drone Defence - defence.newsd.in",
+  "uid": "8c593e719716313f",
+  "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUnpKc05vMF9yR1pmRFI0VDB6QTdGVGljTmRMTzU0Zl90dVBkVHcxZFVLNnBrc1ZNLWFreWYzZWNHSXRWTXdxYkQ4eHFTWmVqXzZNYjV3WEZqUGVneDNKOU9HWVlKWkdjVlRmd0hLNUtmRTRDWGtxWi05Y0hLZ1BoYW1MSWQtWE1NV0lYdHV0eHZrX0E0VmZQMHZES0h4aW9MZFo1TGZJUnJBLU1URUlCaWl4SkpGZw?oc=5",
+  "warning": false
  }
 ]
