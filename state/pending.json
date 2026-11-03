@@ -1,1 +1,23 @@
-[]
+[
+ {
+  "first_seen": "2026-11-03T06:31:20+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-11-03T06:00:00+00:00",
+  "reason": "region: kaliningrad, nato, russia · matched “spy”",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "gnews_latvia_security",
+  "source_name": "Google News — Latvia security",
+  "summary": "",
+  "text": "NATO reconnaissance aircraft spy for 4 hours near Russia's Kaliningrad region Laodong.vn",
+  "tier": "news",
+  "title": "NATO reconnaissance aircraft spy for 4 hours near Russia's Kaliningrad region - Laodong.vn",
+  "uid": "4a2ffa75785de394",
+  "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTm1KU1ZTRFVzMTNnbDVwZ2J6OUd5YTc2TWZYTXUxeWx3cTNkZmdQQ1hweGRjUm1uMUNHU3ZtT2tMWS03QUE5X1VLa2RGUWcwSmJKQzhyaS1TR0NHYi1tZmEtbE41dDJNcDlJeGpwMnlLNy0tWjFfb2R3SXNnb2VaV1NZT041ZHpyel8xNlRsYU5QVUN3eFhuRlc3bnE0dGZELTJXWjJqb0M3SEhPWFFIYjRYekxfdw?oc=5",
+  "warning": false
+ }
+]
