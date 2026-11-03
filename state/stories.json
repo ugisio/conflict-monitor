@@ -302,12 +302,14 @@
  },
  {
   "level": 2,
-  "n": 3,
+  "n": 4,
   "source": "ERR News (Estonia, EN)",
   "stems": [
+   "activ",
    "airsp",
    "armed",
    "backg",
+   "brief",
    "broke",
    "chanc",
    "check",

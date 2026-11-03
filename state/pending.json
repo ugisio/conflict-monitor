@@ -145,5 +145,26 @@
   "uid": "effd24ba4d41148e",
   "url": "https://polymarket.com/event/estonia-kml-2027-champion",
   "warning": false
+ },
+ {
+  "first_seen": "2026-11-03T10:01:30+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-11-02T23:02:00+00:00",
+  "reason": "region: latvia, nato · matched “threat” · another report of a story already in the channel",
+  "repeat_of": "Chancellor of Justice: Defense Forces broke law on Legio background check",
+  "repeats": 0,
+  "source_id": "gnews_latvia_security",
+  "source_name": "Google News — Latvia security",
+  "summary": "",
+  "text": "Latvia briefly warns of airspace threat, says NATO jets activated The Straits Times",
+  "tier": "news",
+  "title": "Latvia briefly warns of airspace threat, says NATO jets activated - The Straits Times",
+  "uid": "7c4fa0ecca6eab3a",
+  "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOLXdjZThxNmRJall0U1ZrN3VuUHpQcnYxMlp4djJyOHJkYlZneGY3SkRVTVdud0R0ZHZRV0RnSjYxdU0tUHpSZmQyVHhGSElhX0RlUmRXMFhSSWFuWlZiMGVaa1VISk5uU01pSGpjYkpjOU5aSjVIZW5ua0h2RlQ5d3lRN2Nia2xZaTFsMHk4SFNsUFhveFVTTjlrTkttckU?oc=5",
+  "warning": false
  }
 ]
