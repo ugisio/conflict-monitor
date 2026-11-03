@@ -376,5 +376,26 @@
   "uid": "bd5045ecbba80e55",
   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZk5ERk1BaWVoaWRRWVlFSUpVNXo5V1lnbWhTY0FrUlNCRUhfR3RUb2RRdE9LZ2wzdU40YVV1aGdIT0pyMzJtNEVZMTNPbVhhRndLMHB5X3d2R3lnUWtHaUs2NndmakxMYnY2VHBpSVljUllKLXlDRERZZjdOMzZNU1QxcU9VLVJDZC1feE4yaDFXcDFCejhabnFHZy1LRlUyREpoM1NmbUNfLUZqQVBDcUR2eFFObGM?oc=5",
   "warning": false
+ },
+ {
+  "first_seen": "2026-11-03T14:31:21+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-11-03T14:20:54+00:00",
+  "reason": "official warning about Russia / NATO · matched “official warning” · another report of a story already in the channel",
+  "repeat_of": "UK Defense Secretary Wes Streeting: We all wish that we could take President Putin's assurances that he doesn't seek war with Europe at face…",
+  "repeats": 0,
+  "source_id": "gnews_official_warnings",
+  "source_name": "Google News — official warnings",
+  "summary": "",
+  "text": "Tusk warns of suspicious activity along Poland-Russia border overnight RBC-Ukraine",
+  "tier": "news",
+  "title": "Tusk warns of suspicious activity along Poland-Russia border overnight - RBC-Ukraine",
+  "uid": "c812d9a6f2015d91",
+  "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPQjBzTVYyLXluRWtNRzd4VjhXem1BWVZKU1pnbEFQLW13YkRfUHdCNjhDRUUwamljV01PTFFsSUE1RXlLS2lSVkRHYVVBaFplNDhIaldBcDNGSWltbmEweUhZaktBa3kxNEFtVGJCdTkzamN0R0NOcS03dzRERGhsTTY0T2xTTzFNUEdtai1jNXhrZTcwa3JUY0dR?oc=5",
+  "warning": true
  }
 ]
