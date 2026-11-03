@@ -40,5 +40,26 @@
   "uid": "c8c6870579b75fe0",
   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB3c285OXpBNjdHcnFfekdpOU9DdHEtZnpLT3pONDB1ZFBJYzNTMjg2TXpsaHZUSC1IMEV4ZXcyWGhTLVNfTXBfWExHV0NlQmF5bEtOSXlQMnJZUGt4TEU3QzBsUXjSAXBBVV95cUxORGdFTVBHUVM1YXM4Q0lkenZwSlVSOEk1emhRbVkzRUw4NVdCZ3pUbGZrNEU5a1ZXWTVISUpDOXJWbWlGLUpESjhEV19jNTM5eDNVWnhHWlhwNURnOWlsSFEwbGtwOVFTVnFYSG5pRkxV?oc=5",
   "warning": false
+ },
+ {
+  "first_seen": "2026-11-03T08:01:33+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-11-03T07:48:33+00:00",
+  "reason": "region: latvia, russia · matched “drone” · another report of a story already in the channel",
+  "repeat_of": "A drone crashed near Latvia’s border with Russia — Interia - UA.NEWS",
+  "repeats": 0,
+  "source_id": "gnews_latvia_security",
+  "source_name": "Google News — Latvia security",
+  "summary": "",
+  "text": "An unidentified drone crashed in Latvia near the border with Russia UA.NEWS",
+  "tier": "news",
+  "title": "An unidentified drone crashed in Latvia near the border with Russia - UA.NEWS",
+  "uid": "e188569a4e0bf736",
+  "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMGdNcXFCZ1hiSDNaUnljV3A1RmZLZ1J6ZktvNWRGaWRna0gxNVkyUUNWTHpoNV9SNENqTXloby0xa2FBSWhaMmIzbzJ5YzlKLV9tSnJsLXl6ZkVtQU02OXdNT1d1WHFQeUpzS0Fkam1HcjFrQVFNRWstNDgzQmJKTlRDRUgyZ1ZL?oc=5",
+  "warning": false
  }
 ]

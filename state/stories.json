@@ -393,14 +393,15 @@
  },
  {
   "level": 2,
-  "n": 2,
+  "n": 3,
   "source": "Google News — Latvia security",
   "stems": [
    "aircr",
    "crash",
    "deplo",
    "drone",
-   "inter"
+   "inter",
+   "unide"
   ],
   "title": "A drone crashed near Latvia’s border with Russia — Interia - UA.NEWS",
   "ts": "2026-11-03T05:01:40+00:00"
