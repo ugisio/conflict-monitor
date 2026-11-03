@@ -326,7 +326,7 @@
  },
  {
   "level": 2,
-  "n": 3,
+  "n": 4,
   "source": "Google News — Latvia security",
   "stems": [
    "launc",
@@ -399,14 +399,18 @@
  },
  {
   "level": 2,
-  "n": 3,
+  "n": 4,
   "source": "Google News — Latvia security",
   "stems": [
    "aircr",
    "crash",
    "deplo",
+   "detec",
    "drone",
+   "exerc",
    "inter",
+   "netwo",
+   "tests",
    "unide"
   ],
   "title": "A drone crashed near Latvia’s border with Russia — Interia - UA.NEWS",
