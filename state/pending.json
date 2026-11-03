@@ -1,1 +1,23 @@
-[]
+[
+ {
+  "first_seen": "2026-11-03T18:31:18+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-11-03T17:53:29+00:00",
+  "reason": "region: kaliningrad · matched “Provocat”",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "gnews_latvia_security",
+  "source_name": "Google News — Latvia security",
+  "summary": "",
+  "text": "Poland Says Border Guards Blocked Suspected Provocation Near Kaliningrad Around Prague",
+  "tier": "news",
+  "title": "Poland Says Border Guards Blocked Suspected Provocation Near Kaliningrad - Around Prague",
+  "uid": "dccb3816d74cc7af",
+  "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOX2g4MWZQeTNyaGV5M1NpUG15dHd3VGE5NlktX1RnVl9RdnFtbUxsb0dHbVE2cnU0OG9EUmU0SkN5UUYwdFpsb2JidFl0YlVNR3RqRVVteDNmUDJuU2d3d2RqTmlhRzU1RWdORzhqTi1GRmFTaEIyZWxuV0RRdmVjcjB1VEl4SDZ3RVBNQUZhN2Q5SHRHRE1rVnctMG5oSVNVMU1mOGhUVC03enVBR0E4?oc=5",
+  "warning": false
+ }
+]
