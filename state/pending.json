@@ -208,5 +208,26 @@
   "uid": "28817ff7fd8f440a",
   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE05ajA3VUt1cFcyUzB5V2ZFUVBQQzZJTFJvb3ljVTZCa2otdDdvUUpGeEJhTWdOZjYzTmtxYUtxWUg5ZnB2dEN2UFJvM0paS3o1TncxcDZrOE8?oc=5",
   "warning": false
+ },
+ {
+  "first_seen": "2026-11-03T11:01:40+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-11-03T10:31:33+00:00",
+  "reason": "region: baltic, russia · matched “Warship” · another report of a story already in the channel",
+  "repeat_of": "UK Defense Secretary Wes Streeting: We all wish that we could take President Putin's assurances that he doesn't seek war with Europe at face…",
+  "repeats": 0,
+  "source_id": "gnews_latvia_security",
+  "source_name": "Google News — Latvia security",
+  "summary": "",
+  "text": "Now You See Me, Now You Don’t: Russia Gives Baltic Warships a Camouflage Makeover UNITED24 Media",
+  "tier": "news",
+  "title": "Now You See Me, Now You Don’t: Russia Gives Baltic Warships a Camouflage Makeover - UNITED24 Media",
+  "uid": "79c90d25cb31869d",
+  "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNcnhWMWd4TEZ0UHpLRUNuUi00WDZaNkFGTHMzNkdnUHBfX25mY3JweURBaW9FUDl4Z196LTlneG1iRVJNVm5NWFN2OGFPYTVnQXJBWVVGUkcwYlJmSkhScUg2NkcxejdzUDk0QTBOem5NYzhkVnBRSU5yMWR1MThRcV94cUdVLVRybmcxa2tBTXZueFBVOHE2Ni10UEtkZGVPZlRzdGZaNy0zUHhoZHlxUEtpeXZFUU96MGNBOENfTXRKMmM?oc=5",
+  "warning": false
  }
 ]
