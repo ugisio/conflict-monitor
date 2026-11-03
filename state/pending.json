@@ -355,5 +355,26 @@
   "uid": "9beac1e946a6dd57",
   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNY01TY19UVDkzbkg5VGpaNHRGRVpHYjQ5bWQ1Zm1UbEtDZmhIYlVkUVFvVlloczYtWDRaUUtEbDZiVUJFT0cxaXFzczdoYnRRQ0pFd09UaWtBVGZMaVJTNkctTElvZmVRWTNGRW42blV3R3hVQzRvMVVDWmh1MEJyVlBXWUhOSVNoVVRNZw?oc=5",
   "warning": false
+ },
+ {
+  "first_seen": "2026-11-03T14:01:32+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-11-03T13:40:44+00:00",
+  "reason": "region: eastern flank, nato, russia · planning/hypothetical wording, softened · matched “troop deployment” · another report of a story already in the channel",
+  "repeat_of": "Poland Launches Special Operation on Kaliningrad Border Over Russian Sabotage Threat - UNITED24 Media",
+  "repeats": 0,
+  "source_id": "gnews_nato",
+  "source_name": "Google News — NATO & the Baltics",
+  "summary": "",
+  "text": "Russian sabotage tests NATO’s eastern flank as Washington reviews troop deployments Washington Times",
+  "tier": "news",
+  "title": "Russian sabotage tests NATO’s eastern flank as Washington reviews troop deployments - Washington Times",
+  "uid": "bd5045ecbba80e55",
+  "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZk5ERk1BaWVoaWRRWVlFSUpVNXo5V1lnbWhTY0FrUlNCRUhfR3RUb2RRdE9LZ2wzdU40YVV1aGdIT0pyMzJtNEVZMTNPbVhhRndLMHB5X3d2R3lnUWtHaUs2NndmakxMYnY2VHBpSVljUllKLXlDRERZZjdOMzZNU1QxcU9VLVJDZC1feE4yaDFXcDFCejhabnFHZy1LRlUyREpoM1NmbUNfLUZqQVBDcUR2eFFObGM?oc=5",
+  "warning": false
  }
 ]
