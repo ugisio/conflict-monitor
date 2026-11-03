@@ -405,7 +405,7 @@
  },
  {
   "level": 2,
-  "n": 4,
+  "n": 6,
   "source": "Google News — Latvia security",
   "stems": [
    "aircr",
@@ -414,8 +414,14 @@
    "detec",
    "drone",
    "exerc",
+   "fundi",
    "inter",
+   "multi",
    "netwo",
+   "renew",
+   "reque",
+   "suppo",
+   "takin",
    "tests",
    "unide"
   ],
