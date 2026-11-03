@@ -82,5 +82,26 @@
   "uid": "0b3984bc5491be7e",
   "url": "https://polymarket.com/event/estonia-kml-2027-champion",
   "warning": false
+ },
+ {
+  "first_seen": "2026-11-03T09:02:06+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-11-01T17:32:48+00:00",
+  "reason": "region: latvia, latvian · matched “threat” · another report of a story already in the channel",
+  "repeat_of": "Chancellor of Justice: Defense Forces broke law on Legio background check",
+  "repeats": 0,
+  "source_id": "gnews_latvia_security",
+  "source_name": "Google News — Latvia security",
+  "summary": "",
+  "text": "Latvian Armed Forces warn of possible threat to airspace — LSM English UA.NEWS",
+  "tier": "news",
+  "title": "Latvian Armed Forces warn of possible threat to airspace — LSM English - UA.NEWS",
+  "uid": "7adfdad1660cd382",
+  "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPaFZNc0t4bU9yNFM1ZjQ0cTlXN2hZaGVhUkxsRlJjTjIwQlZvSWFlbHI4a1ZpeHcxYlRtdXMzd3J2SVBNb0pwV0xPUzRsWUpiREJ1ZF9GZ3RGajFPNkV3cnZmUUtTSlhJSDFTRnRNcXplUkhYMTRBa0VrRE5Xa0llMUhuMVh1X0JOWGxVNXk5dnhqVV9hQ1E3NWVWT01ESHBlVXhrdXdNN1c5MmFmUHdzNg?oc=5",
+  "warning": false
  }
 ]

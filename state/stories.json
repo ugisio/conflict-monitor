@@ -302,16 +302,20 @@
  },
  {
   "level": 2,
-  "n": 2,
+  "n": 3,
   "source": "ERR News (Estonia, EN)",
   "stems": [
+   "airsp",
+   "armed",
    "backg",
    "broke",
    "chanc",
    "check",
+   "engli",
    "force",
    "justi",
    "legio",
+   "possi",
    "soldi",
    "train"
   ],
