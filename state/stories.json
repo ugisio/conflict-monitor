@@ -387,12 +387,15 @@
  },
  {
   "level": 2,
-  "n": 3,
+  "n": 4,
   "source": "LSM (Latvian public media, EN)",
   "stems": [
    "alert",
    "artic",
    "balvi",
+   "gentl",
+   "invok",
+   "ladie",
    "lifts",
    "ludza",
    "munic"
@@ -451,5 +454,17 @@
   ],
   "title": "В Латвии ночью объявили воздушную тревогу из-за неизвестного летательного объекта В ночь на 3 ноября в восточных районах Латвии — Балвском и…",
   "ts": "2026-11-03T09:31:24+00:00"
+ },
+ {
+  "level": 2,
+  "n": 1,
+  "source": "LRT (Lithuania, EN)",
+  "stems": [
+   "criti",
+   "hybri",
+   "kinet"
+  ],
+  "title": "Lithuanian president criticises ‘hybrid threat’ term, says some Russian attacks ‘kinetic’",
+  "ts": "2026-11-03T11:31:27+00:00"
  }
 ]
