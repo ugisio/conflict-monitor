@@ -481,13 +481,15 @@
  },
  {
   "level": 2,
-  "n": 1,
+  "n": 2,
   "source": "Google News — Latvia security",
   "stems": [
    "block",
    "guard",
+   "preve",
    "provo",
-   "suspe"
+   "suspe",
+   "warne"
   ],
   "title": "Poland Says Border Guards Blocked Suspected Provocation Near Kaliningrad - Around Prague",
   "ts": "2026-11-03T18:31:27+00:00"
