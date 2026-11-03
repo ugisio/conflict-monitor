@@ -124,5 +124,26 @@
   "uid": "dc4635e4afe71d40",
   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONk1uWUJNQUFlSkdyTXBDWTJETG40bHpLTGk3c1F2VjBNcWk4dmNSY19SVm11QlBnMTZaVGs5N3BYNjR4eVByVUwxTHFLTVE5U1ZzU2swUHNMZmRINnJWRE5vSlh6dmJ0LUJBVnR1ZHU4by1RQUtMNmttbjNMeC1pRDRCZTR0bDJtMm9VczdTbmN3dC1YUGFydTNrYnhrMGowTXNjWnQzczQtTVk?oc=5",
   "warning": false
+ },
+ {
+  "first_seen": "2026-11-03T23:31:14+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-11-03T22:56:04+00:00",
+  "reason": "region: lithuania, belarus, russia · matched “threat” · another report of a story already in the channel",
+  "repeat_of": "Poland Says Border Guards Blocked Suspected Provocation Near Kaliningrad - Around Prague",
+  "repeats": 0,
+  "source_id": "gnews_latvia_security",
+  "source_name": "Google News — Latvia security",
+  "summary": "",
+  "text": "German military personnel in Lithuania have stepped up surveillance of Belarus and Russia due to the threat of provocations Українські Національні Новини (УНН)",
+  "tier": "news",
+  "title": "German military personnel in Lithuania have stepped up surveillance of Belarus and Russia due to the threat of provocations - Українські Національні Новини (УНН)",
+  "uid": "5d31e7d4e9198964",
+  "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQUEpScHJEb2pDbXplUTZkZm5ucE5PaWd4Z2pUQmUxTzJqX2J1eVlNTTlOdlg1UVk1UlBfMG10bUpBQ3E5MUxTN3F0a0NyUjVDcUFpTWxhTnd3MDNuekFfdWpwcmZFR0NENUVQT0NtX1Uxa0JtYm1mNHhEdnN0NDdyUnRyUVM3VnNZMXVCYWVjSUE2MFdrYkwzNkFNT0g4bUg5cWswdzlveXBJS19GNUVwT1BnZ0dQVzRTQl9fUk00UDJIS085RGVmb0N2OXhjUkRhRU5MemFIYURWWks3bkxF0gHeAUFVX3lxTE1jRi01emJQMWhtdy1oQmc5LU9MUmZmM0JIZGlhMkFYSVZBdmxXSDd2Qi1SdnFYTDNCSUxWU0gwUkRaRDBHZ19qeXFHcVZ6NUFqTEh4ZTBNLXVvYklkdW1FTGZoQUZGVkhpaHZkZWxydDFRYXZPVlBfQ0NZUFN5d3RBUHRwZ3hXeEJRSnhGb2M0N3loZTRKZzh5TmpRVWNKdFdTUUtTdi1CN05uSm14RUdnUjJtV0h6NXdXVVlEcGRsZkI5QU1HNVNvQ1FrVUROcHdJNjZZeDRySndFajVWUQ?oc=5",
+  "warning": false
  }
 ]
