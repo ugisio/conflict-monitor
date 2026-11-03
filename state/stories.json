@@ -328,7 +328,7 @@
  },
  {
   "level": 2,
-  "n": 3,
+  "n": 4,
   "source": "Clash Report",
   "stems": [
    "assur",
@@ -338,12 +338,15 @@
    "doesn",
    "gives",
    "makeo",
+   "overn",
    "penet",
+   "possi",
    "provo",
    "putin",
    "secre",
    "shock",
    "stree",
+   "thwar",
    "video",
    "warsh",
    "water"
@@ -460,5 +463,18 @@
   ],
   "title": "Lithuanian president criticises ‘hybrid threat’ term, says some Russian attacks ‘kinetic’",
   "ts": "2026-11-03T11:31:27+00:00"
+ },
+ {
+  "level": 2,
+  "n": 1,
+  "source": "ERR News (Estonia, EN)",
+  "stems": [
+   "despi",
+   "expan",
+   "maint",
+   "risks"
+  ],
+  "title": "Minister: Estonia must expand defenses despite maintenance risks",
+  "ts": "2026-11-03T13:31:30+00:00"
  }
 ]
