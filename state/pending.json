@@ -19,5 +19,26 @@
   "uid": "4a2ffa75785de394",
   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTm1KU1ZTRFVzMTNnbDVwZ2J6OUd5YTc2TWZYTXUxeWx3cTNkZmdQQ1hweGRjUm1uMUNHU3ZtT2tMWS03QUE5X1VLa2RGUWcwSmJKQzhyaS1TR0NHYi1tZmEtbE41dDJNcDlJeGpwMnlLNy0tWjFfb2R3SXNnb2VaV1NZT041ZHpyel8xNlRsYU5QVUN3eFhuRlc3bnE0dGZELTJXWjJqb0M3SEhPWFFIYjRYekxfdw?oc=5",
   "warning": false
+ },
+ {
+  "first_seen": "2026-11-03T07:01:34+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-11-03T06:09:00+00:00",
+  "reason": "region: latvia, nato · matched “Drone” · another report of a story already in the channel",
+  "repeat_of": "A drone crashed near Latvia’s border with Russia — Interia - UA.NEWS",
+  "repeats": 0,
+  "source_id": "gnews_latvia_security",
+  "source_name": "Google News — Latvia security",
+  "summary": "",
+  "text": "Drone crashes in Latvia: NATO aircraft and interceptor drones deployed Українська правда",
+  "tier": "news",
+  "title": "Drone crashes in Latvia: NATO aircraft and interceptor drones deployed - Українська правда",
+  "uid": "c8c6870579b75fe0",
+  "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB3c285OXpBNjdHcnFfekdpOU9DdHEtZnpLT3pONDB1ZFBJYzNTMjg2TXpsaHZUSC1IMEV4ZXcyWGhTLVNfTXBfWExHV0NlQmF5bEtOSXlQMnJZUGt4TEU3QzBsUXjSAXBBVV95cUxORGdFTVBHUVM1YXM4Q0lkenZwSlVSOEk1emhRbVkzRUw4NVdCZ3pUbGZrNEU5a1ZXWTVISUpDOXJWbWlGLUpESjhEV19jNTM5eDNVWnhHWlhwNURnOWlsSFEwbGtwOVFTVnFYSG5pRkxV?oc=5",
+  "warning": false
  }
 ]

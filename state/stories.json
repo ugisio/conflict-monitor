@@ -393,10 +393,12 @@
  },
  {
   "level": 2,
-  "n": 1,
+  "n": 2,
   "source": "Google News — Latvia security",
   "stems": [
+   "aircr",
    "crash",
+   "deplo",
    "drone",
    "inter"
   ],
