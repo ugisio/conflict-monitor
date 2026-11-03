@@ -61,5 +61,26 @@
   "uid": "e188569a4e0bf736",
   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMGdNcXFCZ1hiSDNaUnljV3A1RmZLZ1J6ZktvNWRGaWRna0gxNVkyUUNWTHpoNV9SNENqTXloby0xa2FBSWhaMmIzbzJ5YzlKLV9tSnJsLXl6ZkVtQU02OXdNT1d1WHFQeUpzS0Fkam1HcjFrQVFNRWstNDgzQmJKTlRDRUgyZ1ZL?oc=5",
   "warning": false
+ },
+ {
+  "first_seen": "2026-11-03T08:31:31+00:00",
+  "kind": "market",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": null,
+  "reason": "probability moved -5.0 pp",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "polymarket",
+  "source_name": "Polymarket",
+  "summary": "",
+  "text": "was 50% → now 44% (resolves 2027-06-22)",
+  "tier": "market",
+  "title": "Market moved -5 pp: “Will Keila KK win the 2026-27 Estonia KML championship?” now 44%",
+  "uid": "0b3984bc5491be7e",
+  "url": "https://polymarket.com/event/estonia-kml-2027-champion",
+  "warning": false
  }
 ]
