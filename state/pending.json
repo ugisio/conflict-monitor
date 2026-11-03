@@ -208,5 +208,26 @@
   "uid": "6b440db51bbc408e",
   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB2dGUyZHpLVGU2SURiR0NZTmY4clpHV01CQzdyT1pfWFYtN0ROYVV5eDlsOVBkaFlOb0t3LUpyaFZYZTBCRk1NY3BhN1pCeHV6ZUlZWWFaX2I3cEJGVVFj?oc=5",
   "warning": false
+ },
+ {
+  "first_seen": "2026-11-03T04:31:21+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-11-03T03:41:43+00:00",
+  "reason": "region: latvia, russia · matched “threat” · another report of a story already in the channel",
+  "repeat_of": "Air threat alert in Latvia's Balvi, Ludza municipalities is over",
+  "repeats": 0,
+  "source_id": "gnews_latvia_security",
+  "source_name": "Google News — Latvia security",
+  "summary": "",
+  "text": "Latvia lifts air threat alert near Russian border Operativ Məlumat Mərkəzi",
+  "tier": "news",
+  "title": "Latvia lifts air threat alert near Russian border - Operativ Məlumat Mərkəzi",
+  "uid": "9d7e5e9f281e8a72",
+  "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNU1JZdUJYX0l5Wi14bW1ZajJEalZ5ZWE0RnZQdHI3TW8zV1A0OF9DLU1QUDdMSnNaNi1KOUtDNVRGQ1FXZTdEWGRDTFdYTVRJclFEeEpIZm04U1VDa1NEaU52N0UwbkpQNHdwNngwTmEwYW9kXzh0WFgwbm9wYTVCSnYwbWducEJxMHhUamd3?oc=5",
+  "warning": false
  }
 ]

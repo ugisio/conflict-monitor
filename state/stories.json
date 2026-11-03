@@ -378,12 +378,13 @@
  },
  {
   "level": 2,
-  "n": 2,
+  "n": 3,
   "source": "LSM (Latvian public media, EN)",
   "stems": [
    "alert",
    "artic",
    "balvi",
+   "lifts",
    "ludza",
    "munic"
   ],
