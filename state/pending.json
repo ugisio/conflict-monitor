@@ -145,5 +145,26 @@
   "uid": "5d31e7d4e9198964",
   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQUEpScHJEb2pDbXplUTZkZm5ucE5PaWd4Z2pUQmUxTzJqX2J1eVlNTTlOdlg1UVk1UlBfMG10bUpBQ3E5MUxTN3F0a0NyUjVDcUFpTWxhTnd3MDNuekFfdWpwcmZFR0NENUVQT0NtX1Uxa0JtYm1mNHhEdnN0NDdyUnRyUVM3VnNZMXVCYWVjSUE2MFdrYkwzNkFNT0g4bUg5cWswdzlveXBJS19GNUVwT1BnZ0dQVzRTQl9fUk00UDJIS085RGVmb0N2OXhjUkRhRU5MemFIYURWWks3bkxF0gHeAUFVX3lxTE1jRi01emJQMWhtdy1oQmc5LU9MUmZmM0JIZGlhMkFYSVZBdmxXSDd2Qi1SdnFYTDNCSUxWU0gwUkRaRDBHZ19qeXFHcVZ6NUFqTEh4ZTBNLXVvYklkdW1FTGZoQUZGVkhpaHZkZWxydDFRYXZPVlBfQ0NZUFN5d3RBUHRwZ3hXeEJRSnhGb2M0N3loZTRKZzh5TmpRVWNKdFdTUUtTdi1CN05uSm14RUdnUjJtV0h6NXdXVVlEcGRsZkI5QU1HNVNvQ1FrVUROcHdJNjZZeDRySndFajVWUQ?oc=5",
   "warning": false
+ },
+ {
+  "first_seen": "2026-11-04T04:31:21+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-11-04T04:26:07+00:00",
+  "reason": "region: kaliningrad · matched “Sabotage”",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "gnews_latvia_security",
+  "source_name": "Google News — Latvia security",
+  "summary": "",
+  "text": "Poland Floods Kaliningrad Border With Police and Commandos After Sabotage Warning The SOFX Report",
+  "tier": "news",
+  "title": "Poland Floods Kaliningrad Border With Police and Commandos After Sabotage Warning - The SOFX Report",
+  "uid": "29d69698f635c14f",
+  "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQalEyRVBjdC1mVnB6YWJCV0ZFLUtSbER5cXcyMlFEamxnVXFsME44a3dXeFh4M2NBcDVNRE9QTnFTZWpyVzRlNVJjWmVVT0c4ZVhmWUhHZUR0YS1CalgtaHVNelBwclhrbHV6ZDFQNUVFS2FwckZTMXFocnVXNGRKcXRxREEyVGdNQ3FxMUJzalVzTzZaeV9uYUNGcFZmM09zUkxZRzZB?oc=5",
+  "warning": false
  }
 ]
