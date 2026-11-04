@@ -1,1 +1,23 @@
-[]
+[
+ {
+  "first_seen": "2026-11-04T22:01:27+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": true,
+  "published": "2026-11-04T08:40:00+00:00",
+  "reason": "official warning about Russia / NATO · matched “military exercise”",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "gnews_flank_warnings",
+  "source_name": "Google News — eastern flank (PL/FI/NATO)",
+  "summary": "",
+  "text": "Tusk warns of Russian provocations as Poland prepares for large-scale military exercises Головне в Україні",
+  "tier": "news",
+  "title": "Tusk warns of Russian provocations as Poland prepares for large-scale military exercises - Головне в Україні",
+  "uid": "b79d1d51e36fad97",
+  "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONnY3OVJLTlllTWtlZE1QZXU5ZElVc0dRV3J5dEtMT1o3eEg3SkJPSXZHNlhmdnVDd1phOVo5UmJqOEJkUVVQLVA4cHlFRW54dm5oV29RSFJJMVBydjFZUHdPVzQzU3VNLVFaWTJBOENFVGdWZVVOWDg1YmNkaTJ1X19odHlsT3l6TU5ua1NhLVZManlrQUk1UGItNkVEYUYyMUZRajdicXg0YmJsT3A4anFTX1RrYy1laHNSY0xR0gHDAUFVX3lxTFBONVZOQTFXOHdDckMzOHROR2otU3c0elE0Nkg3dUtjMXNhTDRFVmxsUG5WOGM3c3J4UDdUamdmQVdFTlNkNHlMeHRZcDFXOUIxa2VKMEFlcTU5LV9VVUJibnNUaE1sVkFDa2xTNzJiYzdwaTFDb0NVN2Q4M1lfVy1xVE90UktORThlUG5ydWg4dTMyT2tjc2JBZlR1U3l5Nld2OGFTOEFVRUVibVZFaGxVeEF0VEZZUFAxbUtkZ1BBMFVGOA?oc=5",
+  "warning": true
+ }
+]
