@@ -324,14 +324,17 @@
  },
  {
   "level": 2,
-  "n": 2,
+  "n": 3,
   "source": "NEXTA Live",
   "stems": [
    "военн",
    "возмо",
+   "воспр",
    "грани",
    "дивер",
+   "кажды",
    "калин",
+   "много",
    "начал",
    "облас",
    "польс",
@@ -341,12 +344,16 @@
    "премь",
    "прово",
    "разве",
+   "разго",
    "расск",
    "росси",
    "случи",
    "союзн",
+   "спект",
    "спецо",
    "спецс",
+   "сторо",
+   "туску",
    "угроз",
    "фонар"
   ],
@@ -507,5 +514,20 @@
   ],
   "title": "Poland Floods Kaliningrad Border With Police and Commandos After Sabotage Warning - The SOFX Report",
   "ts": "2026-11-04T04:31:32+00:00"
+ },
+ {
+  "level": 2,
+  "n": 1,
+  "source": "ERR News (Estonia, EN)",
+  "stems": [
+   "cover",
+   "cyber",
+   "damag",
+   "exper",
+   "insur",
+   "store"
+  ],
+  "title": "Insurance won't cover cyberattack damage to stores, experts warn",
+  "ts": "2026-11-04T07:57:41+00:00"
  }
 ]
