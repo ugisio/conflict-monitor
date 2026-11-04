@@ -208,5 +208,26 @@
   "uid": "d5e16d044cb73f2e",
   "url": "https://news.err.ee/1610185936/service-dogs-take-on-greater-role-as-security-situation-worsens",
   "warning": false
+ },
+ {
+  "first_seen": "2026-11-04T16:31:09+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-11-04T16:27:15+00:00",
+  "reason": "region: baltic, nato · matched “GPS Jamming” · another report of a story already in the channel",
+  "repeat_of": "Poland Says Border Guards Blocked Suspected Provocation Near Kaliningrad - Around Prague",
+  "repeats": 0,
+  "source_id": "gnews_latvia_security",
+  "source_name": "Google News — Latvia security",
+  "summary": "",
+  "text": "From the Baltic to the Black Sea: Large-Scale GPS Jamming Detected Along NATO Borders Мілітарний",
+  "tier": "news",
+  "title": "From the Baltic to the Black Sea: Large-Scale GPS Jamming Detected Along NATO Borders - Мілітарний",
+  "uid": "a496a33434a19f7f",
+  "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbkhnYkxlVlpmZ1BzT3Y2T3lkQWRTTlFEM29uNFFxVHVCdUJZYlYtT0l4NUFVdWhoUTNtM2NqTExDZ0ZKZlB4SnlRMEpfZ1JGU3N6dnZIYVlfVGVpUENnUl9qd0FrdjJlV21oQmJLMkxVa3JZS1hsdUlheUg3OE8zS19EanhBQTY2bVg3YXJUVGlFTEVRUGc1c1ktcThZUVN1UlN2anlrWTRaQ1p4N1BhaVItRDRtbDQ?oc=5",
+  "warning": false
  }
 ]
