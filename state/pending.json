@@ -145,5 +145,26 @@
   "uid": "d64ac92b6a0928d0",
   "url": "https://eng.lsm.lv/article/society/defence/04.11.2026-police-drills-to-take-place-at-riga-central-station-at-night.a670530/?utm_source=rss&utm_campaign=rss&utm_medium=links",
   "warning": false
+ },
+ {
+  "first_seen": "2026-11-04T14:31:18+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-11-04T14:08:00+00:00",
+  "reason": "region: lithuania · matched “Cyberattack” · another report of a story already in the channel",
+  "repeat_of": "Insurance won't cover cyberattack damage to stores, experts warn",
+  "repeats": 0,
+  "source_id": "lrt_en",
+  "source_name": "LRT (Lithuania, EN)",
+  "summary": "",
+  "text": "A series of cyberattacks targeting supermarket refrigeration systems across Europe has not affected stores in Lithuania, local retailers say, although cybersecurity experts warn that poorly protected remote access to equipment could leave businesses vulnerable.",
+  "tier": "news",
+  "title": "Cyberattacks on supermarket refrigeration systems spare Lithuania, retailers say",
+  "uid": "a74fc943d3c1c3b8",
+  "url": "https://www.lrt.lt/en/news-in-english/19/3104650/cyberattacks-on-supermarket-refrigeration-systems-spare-lithuania-retailers-say",
+  "warning": false
  }
 ]
