@@ -187,5 +187,26 @@
   "uid": "02119614393d666f",
   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQdWtjRWFKUHBnZW4xMWl2S3hablBWVlVJeUJqX3FlNUQ2RHp3a0VyNl8wSXFIQi1zMDkzMWNfU1N0a25LeTNOSDZxOVJUR0IxY0ZVSVBnUFJ5R1JmdkhDWXpEa09lWXN5WjRYTGx3bUJkR2R4cXZQbHFjVFdmaG9VR0stcktiME8xZ3E1NDRyaFc4VW5jY1hxS3ZTRUpfQkFQbXM1WXViY1pNYkdCODYyUUNtbzNpOWQxTnctaGtLcDRtNnF3MjBuX2Nkd3RKMW9YYkhpYmtpajhhVnM?oc=5",
   "warning": false
+ },
+ {
+  "first_seen": "2026-11-04T15:31:12+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 1,
+  "note": "",
+  "posted": false,
+  "published": "2026-11-04T15:18:00+00:00",
+  "reason": "region: estonia · matched “training (in text)”",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "err_en",
+  "source_name": "ERR News (Estonia, EN)",
+  "summary": "",
+  "text": "Service dogs' role and scope is being expanded as Estonia's security situation gains in complexity the head of the internal security academy's canine training center said.",
+  "tier": "news",
+  "title": "Service dogs take on greater role as security situation worsens",
+  "uid": "d5e16d044cb73f2e",
+  "url": "https://news.err.ee/1610185936/service-dogs-take-on-greater-role-as-security-situation-worsens",
+  "warning": false
  }
 ]
