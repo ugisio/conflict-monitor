@@ -1,21 +1,6 @@
 [
  {
   "level": 2,
-  "n": 1,
-  "source": "Google News — Latvia security",
-  "stems": [
-   "capab",
-   "exper",
-   "subma",
-   "suppo",
-   "swede",
-   "under"
-  ],
-  "title": "How Sweden’s Baltic submarine expertise supports NATO’s undersea defence capabilities - Defence Industry Europe",
-  "ts": "2026-11-01T15:01:35+00:00"
- },
- {
-  "level": 2,
   "n": 3,
   "source": "NEXTA Live",
   "stems": [
@@ -478,9 +463,10 @@
  },
  {
   "level": 2,
-  "n": 6,
+  "n": 7,
   "source": "Google News — Latvia security",
   "stems": [
+   "along",
    "armie",
    "becau",
    "block",
@@ -491,6 +477,7 @@
    "genui",
    "germa",
    "guard",
+   "overn",
    "perso",
    "possi",
    "preve",

@@ -166,5 +166,26 @@
   "uid": "a74fc943d3c1c3b8",
   "url": "https://www.lrt.lt/en/news-in-english/19/3104650/cyberattacks-on-supermarket-refrigeration-systems-spare-lithuania-retailers-say",
   "warning": false
+ },
+ {
+  "first_seen": "2026-11-04T15:01:26+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-11-04T14:48:18+00:00",
+  "reason": "region: kaliningrad, russia · matched “provocat” · another report of a story already in the channel",
+  "repeat_of": "Poland Says Border Guards Blocked Suspected Provocation Near Kaliningrad - Around Prague",
+  "repeats": 0,
+  "source_id": "gnews_latvia_security",
+  "source_name": "Google News — Latvia security",
+  "summary": "",
+  "text": "Poland: Tusk prevents suspected overnight provocation along Russian border in Kaliningrad exclave Plataforma Media",
+  "tier": "news",
+  "title": "Poland: Tusk prevents suspected overnight provocation along Russian border in Kaliningrad exclave - Plataforma Media",
+  "uid": "02119614393d666f",
+  "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQdWtjRWFKUHBnZW4xMWl2S3hablBWVlVJeUJqX3FlNUQ2RHp3a0VyNl8wSXFIQi1zMDkzMWNfU1N0a25LeTNOSDZxOVJUR0IxY0ZVSVBnUFJ5R1JmdkhDWXpEa09lWXN5WjRYTGx3bUJkR2R4cXZQbHFjVFdmaG9VR0stcktiME8xZ3E1NDRyaFc4VW5jY1hxS3ZTRUpfQkFQbXM1WXViY1pNYkdCODYyUUNtbzNpOWQxTnctaGtLcDRtNnF3MjBuX2Nkd3RKMW9YYkhpYmtpajhhVnM?oc=5",
+  "warning": false
  }
 ]
