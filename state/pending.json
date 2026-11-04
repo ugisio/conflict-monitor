@@ -61,5 +61,26 @@
   "uid": "99425ef5e29ac6b5",
   "url": "https://www.lrt.lt/en/news-in-english/19/3103099/lithuania-considers-state-owned-drone-holding-company-to-boost-domestic-industry",
   "warning": false
+ },
+ {
+  "first_seen": "2026-11-04T11:31:19+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-11-04T10:04:34+00:00",
+  "reason": "region: baltic, nato, russia · matched “sabotage” · another report of a story already in the channel",
+  "repeat_of": "Poland Floods Kaliningrad Border With Police and Commandos After Sabotage Warning - The SOFX Report",
+  "repeats": 0,
+  "source_id": "gnews_latvia_security",
+  "source_name": "Google News — Latvia security",
+  "summary": "",
+  "text": "Baltic Sentry makes sabotage too costly for Russia, NATO man tells lawmakers EU Perspectives",
+  "tier": "news",
+  "title": "Baltic Sentry makes sabotage too costly for Russia, NATO man tells lawmakers - EU Perspectives",
+  "uid": "bceccc04fd79c342",
+  "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNLWxUb3lxVC0xcXVncGhySmwwNERiTU56Q2dTSTNXcVJUcHMwYjBuMGJ1WllNdV9mN1d0THR1ZE44QjlVX2hFdk5ZN2Z5LUM4Q2RtZWQ0YkdGSzhtUEI3dkR6ZHVHd2hQb0hvVVEtT3VKcEFleWtnd3E5SnFtUU1oMTJrX3dUWE0wUWpRUW5nUlkyQnVOdjRTM2pnbDRhWXMzZFI3c0ktcWl5Q2d0NkE?oc=5",
+  "warning": false
  }
 ]

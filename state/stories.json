@@ -504,13 +504,18 @@
  },
  {
   "level": 2,
-  "n": 1,
+  "n": 2,
   "source": "Google News — Latvia security",
   "stems": [
    "comma",
+   "costl",
    "flood",
+   "lawma",
+   "makes",
    "polic",
-   "sabot"
+   "sabot",
+   "sentr",
+   "tells"
   ],
   "title": "Poland Floods Kaliningrad Border With Police and Commandos After Sabotage Warning - The SOFX Report",
   "ts": "2026-11-04T04:31:32+00:00"
