@@ -250,5 +250,26 @@
   "uid": "a30d56240d79f394",
   "url": "https://news.err.ee/1610187106/estonia-to-pay-for-around-200-conscripts-language-training-annually",
   "warning": false
+ },
+ {
+  "first_seen": "2026-11-05T16:31:20+00:00",
+  "kind": "post",
+  "lang": "ru",
+  "level": 2,
+  "note": "RU, Belarus opposition media — best coverage of Belarus border/military",
+  "posted": false,
+  "published": "2026-11-05T15:33:31+00:00",
+  "reason": "region: литв, беларус · matched “угроз” · another report of a story already in the channel",
+  "repeat_of": "Получат ли страны Балтии ядерное оружие? В сентябре 2026 года президент Латвии Эдгар Ринкевич заявил, что страна может разместить у себя яде…",
+  "repeats": 0,
+  "source_id": "tg_nexta",
+  "source_name": "NEXTA Live",
+  "summary": "",
+  "text": "⚠️ Литва отрабатывает жуткий сценарий: эвакуацию Вильнюса и приграничных районов при военной угрозе со стороны Беларуси В стране проходят крупнейшие учения «Купол Витиса 2026», которые продлятся до 3 октября. Власти проверяют, как государство будет действовать…",
+  "tier": "osint",
+  "title": "⚠️ Литва отрабатывает жуткий сценарий: эвакуацию Вильнюса и приграничных районов при военной угрозе со стороны Беларуси В стране проходят кр…",
+  "uid": "cfbac856dc2b851a",
+  "url": "https://t.me/nexta_live/126164",
+  "warning": false
  }
 ]
