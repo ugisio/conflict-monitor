@@ -1,1 +1,23 @@
-[]
+[
+ {
+  "first_seen": "2026-11-05T06:31:14+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 1,
+  "note": "",
+  "posted": false,
+  "published": "2026-11-05T06:00:00+00:00",
+  "reason": "region: lithuania · matched “training”",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "gnews_embassy",
+  "source_name": "Google News — embassies Baltics",
+  "summary": "",
+  "text": "Lithuanian chief of defense visit highlights training, readiness, military cooperation Fort Hood Sentinel",
+  "tier": "news",
+  "title": "Lithuanian chief of defense visit highlights training, readiness, military cooperation - Fort Hood Sentinel",
+  "uid": "d1f1cbb8a69c8fce",
+  "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQTXh2dkhJTG9OTEs5d2JoWkpJZHFQYzdaZlVrR2w4Y3NuVDhJbUc3WjJQckxkWEhHRktTVlFPT2kzajBkLW9RRjhfdV9yTHF1MnVOX3RPSlF4LWh0VjRtQjN3M011Ykp2bmtJNk5XdE5qN2JwVzVRM3Z2cmhyLWhJVjFoTXpqZE1wX1g4ZGU4aWxOZ1p4Rm1sdEhzekJlSEFnZUxOWFotYWtBZEV2TnM4QWZ1Z2ZpbmNCVGhuWmlIb1hKVW55OW9Ka0hzVVo3THVSRjZXU21hSjVSYW5BVS1TOXNCRklpNl9OMG1mbldJZldVRUEyTlJBd2E5OF8?oc=5",
+  "warning": false
+ }
+]
