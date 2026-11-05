@@ -400,17 +400,23 @@
   "ts": "2026-11-04T08:31:26+00:00"
  },
  {
-  "level": 1,
-  "n": 1,
+  "level": 2,
+  "n": 2,
   "source": "ERR News (Estonia, EN)",
   "stems": [
+   "arson",
+   "damag",
    "great",
+   "offer",
+   "onlin",
+   "prope",
    "servi",
    "situa",
-   "worse"
+   "worse",
+   "youth"
   ],
-  "title": "Service dogs take on greater role as security situation worsens",
-  "ts": "2026-11-04T15:31:22+00:00"
+  "title": "Estonian youths offer arson and property damage services online",
+  "ts": "2026-11-05T08:01:35+00:00"
  },
  {
   "level": 2,

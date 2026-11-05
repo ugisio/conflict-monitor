@@ -82,5 +82,26 @@
   "uid": "2526cfed590aba97",
   "url": "https://www.lrt.lt/en/news-in-english/19/3105072/lithuania-ready-to-host-additional-us-troops-defence-minister-says",
   "warning": false
+ },
+ {
+  "first_seen": "2026-11-05T08:01:23+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-11-05T07:42:00+00:00",
+  "reason": "region: estonia, russia · matched “arson” · story escalated from L1 (2 reports so far)",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "err_en",
+  "source_name": "ERR News (Estonia, EN)",
+  "summary": "",
+  "text": "Russia is stepping up its campaign of arson and sabotage across Europe, increasingly recruiting petty criminals through social media to carry out attacks that test the limits of Western tolerance and risk causing mass casualties, Estonian security experts warn.",
+  "tier": "news",
+  "title": "Estonian youths offer arson and property damage services online",
+  "uid": "9677799e078d0537",
+  "url": "https://news.err.ee/1610186890/estonian-youths-offer-arson-and-property-damage-services-online",
+  "warning": false
  }
 ]
