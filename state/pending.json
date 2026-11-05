@@ -103,5 +103,26 @@
   "uid": "9677799e078d0537",
   "url": "https://news.err.ee/1610186890/estonian-youths-offer-arson-and-property-damage-services-online",
   "warning": false
+ },
+ {
+  "first_seen": "2026-11-05T09:01:37+00:00",
+  "kind": "market",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": null,
+  "reason": "probability moved +5.0 pp",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "polymarket",
+  "source_name": "Polymarket",
+  "summary": "",
+  "text": "was 44% → now 50% (resolves 2027-06-22)",
+  "tier": "market",
+  "title": "Market moved +5 pp: “Will TalTech/ALEXELA win the 2026-27 Estonia KML championship?” now 50%",
+  "uid": "f28d7056ee9b1563",
+  "url": "https://polymarket.com/event/estonia-kml-2027-champion",
+  "warning": false
  }
 ]
