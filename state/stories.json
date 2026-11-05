@@ -39,24 +39,6 @@
  },
  {
   "level": 2,
-  "n": 4,
-  "source": "LSM (Latvian public media, EN)",
-  "stems": [
-   "alert",
-   "artic",
-   "balvi",
-   "gentl",
-   "invok",
-   "ladie",
-   "lifts",
-   "ludza",
-   "munic"
-  ],
-  "title": "Air threat alert in Latvia's Balvi, Ludza municipalities is over",
-  "ts": "2026-11-02T23:01:52+00:00"
- },
- {
-  "level": 2,
   "n": 11,
   "source": "Google News — Latvia security",
   "stems": [
