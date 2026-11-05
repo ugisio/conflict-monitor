@@ -1,47 +1,6 @@
 [
  {
   "level": 2,
-  "n": 5,
-  "source": "ERR News (Estonia, EN)",
-  "stems": [
-   "activ",
-   "airsp",
-   "brief",
-   "expel",
-   "follo",
-   "found",
-   "objec",
-   "polic",
-   "preve",
-   "world"
-  ],
-  "title": "Russian citizen expelled to 'prevent activities' that 'threaten' Estonia",
-  "ts": "2026-11-02T09:02:07+00:00"
- },
- {
-  "level": 2,
-  "n": 2,
-  "source": "Clash Report",
-  "stems": [
-   "allie",
-   "canno",
-   "conce",
-   "conve",
-   "loses",
-   "midte",
-   "refin",
-   "repub",
-   "respo",
-   "sever",
-   "simpl",
-   "trump",
-   "zelen"
-  ],
-  "title": "Zelensky: Yes. We had several conversations with President Trump about attacks on refineries. We said that we cannot simply not respond afte…",
-  "ts": "2026-11-02T09:02:07+00:00"
- },
- {
-  "level": 2,
   "n": 2,
   "source": "ERR News (Estonia, EN)",
   "stems": [
