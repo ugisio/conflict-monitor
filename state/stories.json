@@ -40,18 +40,6 @@
  {
   "level": 2,
   "n": 1,
-  "source": "LRT (Lithuania, EN)",
-  "stems": [
-   "criti",
-   "hybri",
-   "kinet"
-  ],
-  "title": "Lithuanian president criticises ‘hybrid threat’ term, says some Russian attacks ‘kinetic’",
-  "ts": "2026-11-03T11:31:27+00:00"
- },
- {
-  "level": 2,
-  "n": 1,
   "source": "ERR News (Estonia, EN)",
   "stems": [
    "despi",
@@ -371,5 +359,20 @@
   ],
   "title": "More than 6,000 NATO troops to take part in German-led exercises in Lithuania",
   "ts": "2026-11-06T09:31:12+00:00"
+ },
+ {
+  "level": 2,
+  "n": 1,
+  "source": "Google News — NATO & the Baltics",
+  "stems": [
+   "artic",
+   "limit",
+   "nause",
+   "provo",
+   "pushi",
+   "putin"
+  ],
+  "title": "Putin Is Pushing the Limits of NATO's Article 5 with His Provocations, Says Nauseda - UA.NEWS",
+  "ts": "2026-11-06T12:01:33+00:00"
  }
 ]
