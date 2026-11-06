@@ -235,6 +235,25 @@ def score(text: str) -> tuple[int, str]:
     return best, why
 
 
+# A WATCH needs a security context in the *headline*: a Russia/Belarus/NATO actor, or a clearly military / hybrid event.
+# Otherwise "Estonian supermarket hacked", "Orlen threatens to close refinery", "unions see quota as threat to wages",
+# "Lithuania considers state-owned drone company" all became WATCH just because a generic word matched.
+ACTOR = re.compile(r"russia|belarus|kremlin|\bnato\b|kaliningrad|moscow|putin|lukashenk|росси|беларус|кремл|\bнато\b|калинингр|москв|путин|лукашенк", re.I)
+HARD_CONTEXT = re.compile(
+    r"sabotage|arson|espionage|\bspy\b|\bspies\b|missile|air (raid|alert|threat|defen[cs]e)|airspace|invasion|\binvad|\bwar\b|"
+    r"military|armed forces|troops|mobili[sz]|hybrid|drone (incident|incursion|crash|strike|attack|shot|downed|debris|fell|falls|crashed|violat)|"
+    r"gps (jamming|spoofing)|evacuat|border (guard|closure|crossing)|embassy|travel (warning|advisory|alert)s?|threat level|"
+    r"диверси|шпион|ракет|воздушн\w+ (тревог|пространств)|вторжен|войн|военн|войск|эвакуац|посольств|гибридн|поджог", re.I)
+
+
+# Court verdicts about past incidents, and Russian security services arresting people inside Russia, are not news
+# about a coming attack on the Baltics ("Finnish court jails captain over cable sabotage", "FSB detains Leningrad-region
+# resident planning a railway sabotage").
+COURT = re.compile(r"\b(court|jails?|jailed|sentenc\w+|convict\w+|fined|verdict)\b|\bсуд\b|приговор|осужд|осудил", re.I)
+DOMESTIC_ARREST = re.compile(r"(фсб|fsb|ск рф|следственн\w+ комитет).{0,100}(задержа|арестова|detain|arrest)|(задержа|арестова)\w*.{0,60}жител\w+ .{0,40}(област|края|республик|москв|петербург)", re.I)
+BALTIC_PLACE = re.compile(r"latvia|estonia|lithuania|baltic|\bnato\b|латви|эстони|литв|балти|прибалт|\bнато\b|rīga|riga|рига", re.I)
+
+
 def classify(item: Item, src: dict, cfg: dict, llm_enabled: bool = False) -> Item | None:
     """Return the item with level/reason set, or None if it should be dropped as irrelevant.
     Items that come back with level 0 are LLM candidates only (dropped later if the LLM leaves them at 0)."""
@@ -265,6 +284,7 @@ def classify(item: Item, src: dict, cfg: dict, llm_enabled: bool = False) -> Ite
             lvl_b, why_b = score(clean(item.text))
             lvl_b = min(lvl_b, 2)
             lvl, why = (lvl_t, why_t) if lvl_t >= lvl_b else (lvl_b, why_b + " (in text)")
+            from_body = lvl_b > lvl_t
         else:
             lvl, why = score(text)
         # "Embassy closed" because of a public holiday is routine, whatever the source.
@@ -275,6 +295,16 @@ def classify(item: Item, src: dict, cfg: dict, llm_enabled: bool = False) -> Ite
             if item.warning:
                 lvl = max(lvl, 2)             # a senior official's warning is always at least WATCH
                 why = why or "official warning"
+            if lvl <= 2 and not item.warning:
+                if COURT.search(item.title):
+                    return None
+                if DOMESTIC_ARREST.search(item.title) and not BALTIC_PLACE.search(item.title):
+                    return None
+            if lvl == 2 and not item.warning:
+                title = item.title if item.kind != "post" else f"{item.title} {item.text[:400]}"
+                ctx = ACTOR.search(title) if from_body else (ACTOR.search(title) or HARD_CONTEXT.search(title))
+                if not ctx:
+                    return None                   # a generic keyword in ordinary local news: not security news
             if lvl == 0:
                 # ordinary regional news — keep only as an LLM candidate if it is security-adjacent
                 if llm_enabled and SOFT.search(text):
