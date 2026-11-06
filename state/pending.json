@@ -1,1 +1,23 @@
-[]
+[
+ {
+  "first_seen": "2026-11-06T18:31:14+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 1,
+  "note": "",
+  "posted": false,
+  "published": "2026-11-06T18:00:50+00:00",
+  "reason": "region: lithuania, nato · matched “drill”",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "gnews_nato",
+  "source_name": "Google News — NATO & the Baltics",
+  "summary": "",
+  "text": "NATO drills in Lithuania to test allied combat readiness Latest news from Azerbaijan",
+  "tier": "news",
+  "title": "NATO drills in Lithuania to test allied combat readiness - Latest news from Azerbaijan",
+  "uid": "3154393b16936428",
+  "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRW1NdFp3ZFhDd2lvUEhmaDhEb3RpVmlMV2N2ckxBaG9zMXFsMzZpcTBLQ2lWelhOV0NvY28xNlBiZVBUMVlIMU5IWE1Xdng1aWtBbEx0bjZ5a3V0MDVLei04NzZ2dnJLLTBRQ25EZzQ0NFFuX2RBX2ZmdWhrUVpaYUtBQQ?oc=5",
+  "warning": false
+ }
+]
