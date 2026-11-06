@@ -380,7 +380,10 @@ sources:
     type: polymarket
     queries: ["Russia NATO", "Russia invade", "Baltic", "Latvia", "Estonia", "Lithuania", "Belarus", "Kaliningrad", "Article 5"]
     include: [nato, baltic, latvia, estonia, lithuania, belarus, kaliningrad, poland, finland, "article 5"]
-    exclude: [ukraine ceasefire, zelensky, crimea, election, parliament, seats, saeima, seimas, riigikogu, coalition, prime minister of]
-    move_watch_pp: 5      # probability move (percentage points) since last check → WATCH
-    move_elevated_pp: 15  # → ELEVATED
+    # a market must be about a security event (require) and not about sport/esports/politics (exclude)
+    require: [war, invade, invasion, attack, military, troops, nuclear, missile, nato, "article 5", "article 4", border, airspace, drone, sabotage, mobilization, mobilisation, blockade, annex, "armed conflict"]
+    exclude: [ukraine ceasefire, zelensky, crimea, election, parliament, seats, saeima, seimas, riigikogu, coalition, prime minister of, championship, league, "world cup", "champions league", playoff, " vs ", "(bo3)", "(bo5)", bo3, bo5, esport, counter-strike, cs2, valorant, dota, basketball, football, soccer, hockey, tennis, eurovision, olympic, kml, fifa, uefa, nba]
+    min_volume: 20000     # USD traded; thin markets are noise
+    move_watch_pp: 10     # probability move (percentage points) since last check → WATCH
+    move_elevated_pp: 25  # → ELEVATED
     tier: market
