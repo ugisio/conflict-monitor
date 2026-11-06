@@ -40,5 +40,26 @@
   "uid": "253965a4fa210169",
   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbmJYUHZ1OUZrRk5iazJXaWN6MTdhSGdIakV6dW5YdUcxckY4QTlyNGFKVEIzZXdPZmdoSXJqaE5vLVhPZ3Y0d2xWRkZERUlJM21PYzhOLVpGSkMzdzJrZUsyTllkLU5mV2VkZTdBVkdpWW9sLUZ4d0V3TXFvd0EtclhESEh4Y2pDMzBnYzZPSi1rTjlJQmdySHY4WGprSkhf?oc=5",
   "warning": true
+ },
+ {
+  "first_seen": "2026-11-06T12:31:07+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-11-06T12:17:11+00:00",
+  "reason": "region: lithuania, article 5, nato · official warning · matched “official warning” · another report of a story already in the channel",
+  "repeat_of": "Putin Is Pushing the Limits of NATO's Article 5 with His Provocations, Says Nauseda - UA.NEWS",
+  "repeats": 0,
+  "source_id": "gnews_nato",
+  "source_name": "Google News — NATO & the Baltics",
+  "summary": "",
+  "text": "Putin is getting closer to testing NATO's Article 5 - Lithuanian President RBC-Ukraine",
+  "tier": "news",
+  "title": "Putin is getting closer to testing NATO's Article 5 - Lithuanian President - RBC-Ukraine",
+  "uid": "1ff4b740a532bd84",
+  "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQY3BUY3g3a1pQZUZOSGZ0bF9SRkYzN2FkakxnMHhOU0NaclNkbDBnWmVjTEloYUdaaUNJTjBON05GNzJpbXZfcHFSQVYwcTB3VnJLWjJ0MlFwaVV4MXUxODZDcDlpWkxSTlIwVXdMd184TjJoYTByZ2lrbEJRT3MzMEpTSWozUVRQYU1kU0dzYnBKTm8?oc=5",
+  "warning": true
  }
 ]
