@@ -383,6 +383,10 @@ def fetch_polymarket(src: dict, state: State) -> list[Item]:
                     continue
                 if src.get("exclude") and matches_any(q_title, src.get("exclude")):
                     continue
+                if src.get("require") and not matches_any(q_title, src.get("require")):
+                    continue                                   # e.g. an Estonian basketball league is not a security market
+                if float(m.get("volumeNum") or m.get("volume") or 0) < float(src.get("min_volume", 0)):
+                    continue                                   # thin markets swing 5+ points on a single trade
                 end = m.get("endDate") or ev.get("endDate") or ""
                 if end and end < now_utc().isoformat():
                     continue
