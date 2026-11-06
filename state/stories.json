@@ -39,19 +39,6 @@
  },
  {
   "level": 2,
-  "n": 1,
-  "source": "ERR News (Estonia, EN)",
-  "stems": [
-   "despi",
-   "expan",
-   "maint",
-   "risks"
-  ],
-  "title": "Minister: Estonia must expand defenses despite maintenance risks",
-  "ts": "2026-11-03T13:31:30+00:00"
- },
- {
-  "level": 2,
   "n": 8,
   "source": "Google News — Latvia security",
   "stems": [
@@ -425,5 +412,31 @@
   ],
   "title": "Молдова может ввести визы для граждан России и Беларуси Молдова рассматривает возможность введения визового режима для граждан ряда стран, в…",
   "ts": "2026-11-06T13:31:19+00:00"
+ },
+ {
+  "level": 2,
+  "n": 1,
+  "source": "LRT (Lithuania, EN)",
+  "stems": [
+   "calme"
+  ],
+  "title": "Lithuania’s border with Kaliningrad calmer than Poland’s, defence minister says",
+  "ts": "2026-11-06T14:01:35+00:00"
+ },
+ {
+  "level": 1,
+  "n": 1,
+  "source": "ERR News (Estonia, EN)",
+  "stems": [
+   "acces",
+   "chanc",
+   "conce",
+   "consc",
+   "denta",
+   "flags",
+   "justi"
+  ],
+  "title": "Justice chancellor flags concern over conscripts' dental care access",
+  "ts": "2026-11-06T14:01:35+00:00"
  }
 ]
