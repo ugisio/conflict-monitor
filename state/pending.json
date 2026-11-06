@@ -1,1 +1,23 @@
-[]
+[
+ {
+  "first_seen": "2026-11-06T09:31:04+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-11-06T09:14:00+00:00",
+  "reason": "region: lithuania, nato · matched “military exercise (in text)”",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "lrt_en",
+  "source_name": "LRT (Lithuania, EN)",
+  "summary": "",
+  "text": "Two German military exercises involving more than 6,000 troops are set to begin in Lithuania on Friday and continue until December 3, the Lithuanian Armed Forces said.",
+  "tier": "news",
+  "title": "More than 6,000 NATO troops to take part in German-led exercises in Lithuania",
+  "uid": "0548296e3bc4dcbe",
+  "url": "https://www.lrt.lt/en/news-in-english/19/3106178/more-than-6-000-nato-troops-to-take-part-in-german-led-exercises-in-lithuania",
+  "warning": false
+ }
+]
