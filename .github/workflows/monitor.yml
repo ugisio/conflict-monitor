@@ -65,10 +65,15 @@ jobs:
             echo "no state changes"
           else
             git commit -m "state: $(date -u +%Y-%m-%dT%H:%MZ) [skip ci]"
-            # retry once in case a concurrent push happened (e.g. a code edit while this run was going)
-            git push || (git pull --rebase && git push) || {
-              git rebase --abort 2>/dev/null || true
-              echo "::error::state push rejected twice — another commit landed on main during this run"
-              exit 1
-            }
+            # The remote can move while this run works (a code edit, a manual run). Our state is always the
+            # newer truth for these files, so replay our commit on top with "ours wins" and push again.
+            for attempt in 1 2 3; do
+              git push && exit 0
+              echo "push rejected (attempt $attempt) - rebasing onto origin/main"
+              git fetch origin main
+              git rebase -X theirs origin/main || git rebase --abort
+              sleep $((attempt * 3))
+            done
+            echo "::error::state push rejected 3 times"
+            exit 1
           fi
