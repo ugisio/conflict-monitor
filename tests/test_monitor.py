@@ -94,9 +94,13 @@ def test_background_ukraine_mentions_do_not_score():
                    "while German and Spanish are rising, the education ministry said.")
     assert classify.classify(it, _src("news"), CFG) is None          # ordinary news → dropped entirely
     # body text can add at most WATCH, never an alert
-    it = Item(source_id="x", source_name="X", title="Latvian parliament debates school funding", url="u",
+    it = Item(source_id="x", source_name="X", title="Russia drone incursion: Latvian parliament debates response", url="u",
               text="Officials also discussed a drone incursion into Latvia last week.")
     assert classify.classify(it, _src("news"), CFG).level == 2
+    # …but a headline with no security context is ordinary news even if the body mentions a drone
+    it = Item(source_id="x", source_name="X", title="Latvian parliament debates school funding", url="u",
+              text="Officials also discussed a drone incursion into Latvia last week.")
+    assert classify.classify(it, _src("news"), CFG) is None
     # …but the same thing in the headline is ELEVATED (a drone incursion is an incident → WATCH; troops are not)
     it = Item(source_id="x", source_name="X", title="Russian drone incursion into Latvia confirmed by army", url="u")
     assert classify.classify(it, _src("news"), CFG).level == 2
@@ -329,6 +333,50 @@ def test_polymarket_move(tmp_path):
     with mock.patch.object(fetchers, "http_get", return_value=FakeResp(data=ev)):
         items = fetchers.fetch_polymarket(src, st)
     assert len(items) == 1 and items[0].level == 3 and "+17 pp" in items[0].title
+
+
+def test_local_news_noise_is_dropped():
+    """6 Nov: supermarket hack, wage 'threat', Orlen, FSB arrest, court verdict were all posted as WATCH."""
+    for title, text, kind in [
+        ("Hackers raised freezer temperature at Estonian supermarket chain to +50°C", "cyber attack on stores in Estonia", "article"),
+        ("Trade unions see Estonia's new immigration quota as threat to wages", "", "article"),
+        ("Lithuania weighs energy windfall tax as Orlen threatens to close down refinery", "", "article"),
+        ("Lithuania considers state-owned drone holding company to boost domestic industry", "", "article"),
+        ("Insurance won't cover cyberattack damage to stores, experts warn", "Estonia", "article"),
+        ("Finnish court jails Russian captain over Baltic Sea cable sabotage - Euronews.com", "", "article"),
+        ("Сотрудники ФСБ задержали 48-летнего жителя Ленинградской области, готовившего диверсию на объекте железнодорожного транспорта", "", "post"),
+    ]:
+        tier = "osint" if kind == "post" else "news"
+        out = classify.classify(Item(source_id="s", source_name="S", title=title, url="u", text=text, kind=kind, tier=tier),
+                                {"id": "s", "tier": tier}, CFG)
+        assert out is None, title
+    for title in ["GPS jamming hits almost all of NATO’s eastern flank in one day",
+                  "Drone crashed near Latvia’s border with Russia"]:
+        out = classify.classify(Item(source_id="s", source_name="S", title=title, url="u"), _src("news"), CFG)
+        assert out is not None and out.level == 2, title
+
+
+def test_polymarket_ignores_sports_esports_and_thin_markets(tmp_path):
+    st = tmp_state(tmp_path)
+    src = next(s for s in CFG["sources"] if s["id"] == "polymarket")
+    def ev(q, vol=500000):
+        return {"events": [{"slug": "e", "title": q, "active": True, "closed": False,
+                            "markets": [{"slug": q, "question": q, "outcomePrices": '["0.40","0.60"]',
+                                         "endDate": "2027-06-01T00:00:00Z", "volumeNum": vol}]}]}
+    kept = ["Will Russia attack a NATO member by 2027?", "Russia x Estonia military clash by June 30?"]
+    dropped = [("Will TalTech/ALEXELA win the 2026-27 Estonia KML championship?", 500000),
+               ("Counter-Strike: Galaxy Gaming vs Esprots (BO3) - Battle of Baltics Playoff", 500000),
+               ("Will Estonia win Eurovision 2027?", 500000), ("Latvia election: will the coalition include X?", 500000),
+               ("Will Russia attack Estonia in 2027?", 1000)]            # thin market
+    for q in kept:
+        with mock.patch.object(fetchers, "http_get", return_value=FakeResp(data=ev(q))):
+            fetchers.fetch_polymarket(src, st)
+        assert q in [m["question"] for m in st.get_snapshot("polymarket")["markets"]], q
+        st.set_snapshot("polymarket", {"markets": []})
+    for q, vol in dropped:
+        with mock.patch.object(fetchers, "http_get", return_value=FakeResp(data=ev(q, vol))):
+            fetchers.fetch_polymarket(src, st)
+        assert st.get_snapshot("polymarket")["markets"] == [], q
 
 
 # ---------------------------------------------------------------- formatting
