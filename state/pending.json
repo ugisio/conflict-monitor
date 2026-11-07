@@ -19,5 +19,26 @@
   "uid": "0ab85a8a09a0892e",
   "url": "https://pl.usembassy.gov/security-alert-update-shooting-in-krakow-main-market-square/",
   "warning": false
+ },
+ {
+  "first_seen": "2026-11-07T20:31:10+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-11-07T19:59:15+00:00",
+  "reason": "region: kaliningrad, russia · matched “attack as war fears grow over Russia's Kaliningrad” · single source, held at WATCH until another source corroborates",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "gnews_latvia_security",
+  "source_name": "Google News — Latvia security",
+  "summary": "",
+  "text": "Krakow shooting shocks US? Poland hit by deadly attack as war fears grow over Russia's Kaliningrad | Hindustan Times Hindustan Times",
+  "tier": "news",
+  "title": "Krakow shooting shocks US? Poland hit by deadly attack as war fears grow over Russia's Kaliningrad | Hindustan Times - Hindustan Times",
+  "uid": "2c6e81be592d6a59",
+  "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOUmdoZjkzUHlPZjJSc3c5SEFGQ0NOTnVYZlRjWnE3c292NmtZYUZ5OUFQNXBmUXhRNVk4MEVLZG5mYVJiaFNWLTc3UFhCSUN0UEQtMkROajJOYlpCejJncXZSRW1Fd1pVR0cwUkV6QklocEpuZ1RZd09MeVNjNlhNdTIybXU5eUlfNDJpTU9pY3BRMWNSdzZ1WlB2MEdfd1lpb0ZmOGMtRThVcTM1VkRTLUJ5ZGpXaUFYNDVDc3JQbjlFUDc4MGR6N1J5bWZUNzlOU2JuZTZpUVRmWlNiVk5PV0JGc1JlckM2UDZaaWdaU2FNS0pQUzdxdl9B0gH_AUFVX3lxTE0yZ05ZNjBhVkNGZ2NnMjQ2YktKel9TZWJodngtdUN4aEVoUnk3d2RQSWF0UmhTRmI4SUNzT1FQdFlLQ3J4Y0NmODVaOHdSZWlmUmk2a0poNlRFRk9id25zYlRBbWFEbzVJY3o0T0tGb1V3aDhaV0hma0d1bFJMYkthcTNEUG1pUDdad3hTNmdZY1lkT1hHanJVTkFTUkJrbVA4WFlfTks3Q2tEOS1GTEhkN3VLOUlka0xvUlNKY3R4Q3FqaFU4eFV4M3k4T25KSGp6a2RMTmhZNUQ1bkpRS2JCVkJoR1VsWmlhSE1DR1ZFZDB4R0lyZFVyX2poMG9Qaw?oc=5",
+  "warning": false
  }
 ]
