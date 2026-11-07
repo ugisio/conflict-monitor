@@ -48,6 +48,8 @@ def build_digest(items: list[Item], state: State, cfg: dict, tz, overall: int, s
                 more = f" <i>(+{folded[it.title]} more report{'s' if folded[it.title] != 1 else ''})</i>" if folded.get(it.title) else ""
                 link = f' — <a href="{esc(it.url)}">{esc(it.source_name)}</a>' if it.url else f" — {esc(it.source_name)}"
                 body = esc(it.summary or it.title)
+                if not it.summary and it.tier == "official" and it.kind == "alert" and it.text and len(it.text) > 80:
+                    body += f"<blockquote expandable>{esc(it.text[:500].rsplit(' ', 1)[0])} …</blockquote>"
                 lines.append(f"• {body}{link}{more}{flag}")
             if len(group) > 15:
                 lines.append(f"  … and {len(group) - 15} more")
