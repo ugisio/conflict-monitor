@@ -19,5 +19,26 @@
   "uid": "7e7f2e896660a688",
   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNQlFCU2FkVlhodDlDaDBrMkJRWDR0ZmlrVF9PcjY4dkpVWFhDdkNRYWw4NXhodU1IbUJFaFBsWXY0WlFNbXp2MEx0RnAwTi0xS2NDWUc3U3BqaU1hUlc1MlFPWlNlRFU4dXR4R0g4LTVpMGtFNTUtNGpTQ0VhSXpFcEljT1hndDFkZWNBUjFkZ0F1SXY4dU5vdEtqVVRhazFkTURIRFBLVmE1Y0xfalBWYkdTRU53RGM4T2tUUi1TWkNYZVhLY0YtLWhtc3lPdw?oc=5",
   "warning": false
+ },
+ {
+  "first_seen": "2026-11-07T16:31:03+00:00",
+  "kind": "alert",
+  "lang": "en",
+  "level": 3,
+  "note": "",
+  "posted": true,
+  "published": "2026-11-07T15:52:43+00:00",
+  "reason": "matched “Security Alert”",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "us_embassy_warsaw",
+  "source_name": "US Embassy Warsaw alerts",
+  "summary": "",
+  "text": "The post Security Alert – Shooting in Krakow Main Market Square appeared first on U.S. Embassy In Poland .",
+  "tier": "official",
+  "title": "Security Alert – Shooting in Krakow Main Market Square",
+  "uid": "4dde29f1bf814c46",
+  "url": "https://pl.usembassy.gov/security-alert-shooting-in-krakow-main-market-square/",
+  "warning": false
  }
 ]
