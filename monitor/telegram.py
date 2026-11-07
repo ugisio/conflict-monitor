@@ -151,10 +151,6 @@ def format_alert(item: Item, cfg: dict, tz) -> str:
     lines = [f"{head} · {esc(item.source_name)} · {when}", f"<b>{esc(item.title)}</b>"]
     if item.summary:
         lines.append(esc(item.summary))
-    elif item.tier == "official" and item.kind == "alert" and item.text and len(item.text) > 80:
-        # Embassy / government alerts are what this monitor exists for: show the actual wording, not a headline.
-        body = item.text if len(item.text) <= 1500 else item.text[:1500].rsplit(" ", 1)[0] + " …"
-        lines.append(f"<blockquote expandable>{esc(body)}</blockquote>")
     elif item.text and item.kind in ("advisory_change", "alert", "market"):
         lines.append(f"<pre>{esc(item.text[:700])}</pre>" if item.kind == "advisory_change" else esc(item.text[:400]))
     if item.note:
