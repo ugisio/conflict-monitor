@@ -1,1 +1,23 @@
-[]
+[
+ {
+  "first_seen": "2026-11-07T19:01:16+00:00",
+  "kind": "alert",
+  "lang": "en",
+  "level": 3,
+  "note": "",
+  "posted": true,
+  "published": "2026-11-07T17:14:45+00:00",
+  "reason": "matched “Security Alert”",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "us_embassy_warsaw",
+  "source_name": "US Embassy Warsaw alerts",
+  "summary": "",
+  "text": "The post Security Alert Update – Shooting in Krakow Main Market Square appeared first on U.S. Embassy In Poland .",
+  "tier": "official",
+  "title": "Security Alert Update – Shooting in Krakow Main Market Square",
+  "uid": "0ab85a8a09a0892e",
+  "url": "https://pl.usembassy.gov/security-alert-update-shooting-in-krakow-main-market-square/",
+  "warning": false
+ }
+]
