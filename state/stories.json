@@ -222,9 +222,11 @@
  },
  {
   "level": 2,
-  "n": 4,
+  "n": 5,
   "source": "Google News — NATO & the Baltics",
   "stems": [
+   "alarm",
+   "allia",
    "artic",
    "close",
    "conti",
@@ -234,6 +236,7 @@
    "provo",
    "pushi",
    "putin",
+   "raise",
    "testi"
   ],
   "title": "Putin Is Pushing the Limits of NATO's Article 5 with His Provocations, Says Nauseda - UA.NEWS",

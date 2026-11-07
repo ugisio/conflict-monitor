@@ -1,1 +1,23 @@
-[]
+[
+ {
+  "first_seen": "2026-11-07T10:01:19+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-11-07T09:52:22+00:00",
+  "reason": "region: lithuania, article 5, nato · matched “provocat” · another report of a story already in the channel",
+  "repeat_of": "Putin Is Pushing the Limits of NATO's Article 5 with His Provocations, Says Nauseda - UA.NEWS",
+  "repeats": 0,
+  "source_id": "gnews_nato",
+  "source_name": "Google News — NATO & the Baltics",
+  "summary": "",
+  "text": "Lithuania raises alarm over provocations near alliance borders as Putin close to NATO Article 5 test London Business News",
+  "tier": "news",
+  "title": "Lithuania raises alarm over provocations near alliance borders as Putin close to NATO Article 5 test - London Business News",
+  "uid": "7e7f2e896660a688",
+  "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNQlFCU2FkVlhodDlDaDBrMkJRWDR0ZmlrVF9PcjY4dkpVWFhDdkNRYWw4NXhodU1IbUJFaFBsWXY0WlFNbXp2MEx0RnAwTi0xS2NDWUc3U3BqaU1hUlc1MlFPWlNlRFU4dXR4R0g4LTVpMGtFNTUtNGpTQ0VhSXpFcEljT1hndDFkZWNBUjFkZ0F1SXY4dU5vdEtqVVRhazFkTURIRFBLVmE1Y0xfalBWYkdTRU53RGM4T2tUUi1TWkNYZVhLY0YtLWhtc3lPdw?oc=5",
+  "warning": false
+ }
+]
