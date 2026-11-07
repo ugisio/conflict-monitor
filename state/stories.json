@@ -1,26 +1,6 @@
 [
  {
   "level": 2,
-  "n": 2,
-  "source": "ERR News (Estonia, EN)",
-  "stems": [
-   "cover",
-   "cyber",
-   "damag",
-   "exper",
-   "insur",
-   "refri",
-   "retai",
-   "spare",
-   "store",
-   "super",
-   "syste"
-  ],
-  "title": "Insurance won't cover cyberattack damage to stores, experts warn",
-  "ts": "2026-11-04T07:57:41+00:00"
- },
- {
-  "level": 2,
   "n": 1,
   "source": "LRT (Lithuania, EN)",
   "stems": [
