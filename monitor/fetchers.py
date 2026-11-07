@@ -59,6 +59,34 @@ def clean_alert_body(html: str, limit: int = 2500) -> str:
     return text[:limit]
 
 
+def summarize_alert(body: str, max_chars: int = 480) -> str:
+    """Rules-only summary of a cleaned embassy alert: what happened (first sentences) + the top actions.
+    Built from the *full* text, so the Telegram line says more than the headline without quoting the whole post."""
+    lines = [l.strip() for l in (body or "").split("\n") if l.strip()]
+    if not lines:
+        return ""
+    idx = next((i for i, l in enumerate(lines) if re.match(r"(?:\W*)actions?\s+to\s+take", l, re.I)), None)
+    head = lines[:idx] if idx is not None else lines
+    acts = [l[2:].strip() for l in (lines[idx + 1:] if idx is not None else []) if l.startswith("• ")]
+    prose = []
+    for l in head:
+        if l.startswith("• ") or (len(l) < 25 and l.endswith(":")):
+            continue
+        prose.append(re.sub(r"^(?:event|location|summary)\s*:\s*", "", l, flags=re.I))
+    sents = [x.strip() for x in re.split(r"(?<=[.!?])\s+", " ".join(prose)) if x.strip()]
+    sents = [x for x in sents if not re.search(r"worldwide caution|smart traveler|follow us", x, re.I)]
+    event = ""
+    for x in sents:
+        if len(event) + len(x) > max_chars - 120 and event:
+            break
+        event = (event + " " + x).strip()
+    out = event
+    if acts:
+        a = "; ".join((x if len(x) <= 80 else x[:80].rsplit(" ", 1)[0] + "…").rstrip(".") for x in acts[:3])
+        out = f"{out} Actions: {a}.".strip()
+    return out[:max_chars].strip()
+
+
 def parse_date(s) -> str | None:
     if not s:
         return None
@@ -171,11 +199,13 @@ def fetch_rss(src: dict, state: State) -> list[Item]:
             continue                                           # same text as last time: nothing new
         if too_old(published, src.get("max_age_days")):
             continue
+        short = ""
         if body and len(body) > len(summary):
-            summary = body                                      # official alert: the full cleaned text, not the stub
+            summary = body                                      # official alert: classify on the full cleaned text
+            short = summarize_alert(body)                       # ...and tell the reader what it says, briefly
         items.append(Item(source_id=src["id"], source_name=src["name"], title=title, url=link,
                           text=summary[:2500 if body else 1200], published=published, kind="news" if src.get("tier") == "news" else "alert",
-                          tier=src.get("tier", "news"), note=src.get("note", "")))
+                          tier=src.get("tier", "news"), note=src.get("note", ""), summary=short))
     return items
 
 
