@@ -40,6 +40,25 @@ def html_to_text(html: str) -> str:
     return norm_ws(soup.get_text(" "))
 
 
+_BOILER = re.compile(r"\s*(Assistance:|Assistance\b\s*(?:U\.S\.|Embassy|Consulate)|U\.S\. Embassy Warsaw\b.{0,40}Telephone|State Department\s*[-–]\s*Consular Affairs|Follow us on|Stay Connected|Enroll in (?:the )?Smart Traveler|Enroll in STEP\b).*$", re.S | re.I)
+
+
+def clean_alert_body(html: str, limit: int = 2500) -> str:
+    """Embassy RSS items carry only a stub in <description> but the full alert in <content:encoded>.
+    Strip links/images/contact blocks and keep the event description plus the 'Actions to Take' list."""
+    soup = BeautifulSoup(html or "", "lxml")
+    for t in soup(["script", "style", "noscript", "img", "figure"]):
+        t.decompose()
+    blocks = []
+    for el in soup.find_all(["p", "li", "h1", "h2", "h3", "h4"]):
+        t = norm_ws(el.get_text(" "))
+        if t and not re.match(r"The post .{0,300}appeared first on", t, re.I):
+            blocks.append(("• " if el.name == "li" else "") + t)
+    text = "\n".join(blocks) if blocks else norm_ws(soup.get_text(" "))
+    text = _BOILER.sub("", text).strip()
+    return text[:limit]
+
+
 def parse_date(s) -> str | None:
     if not s:
         return None
@@ -117,6 +136,8 @@ def fetch_rss(src: dict, state: State) -> list[Item]:
         title = norm_ws(getattr(e, "title", "") or "")
         link = getattr(e, "link", "") or ""
         summary = html_to_text(getattr(e, "summary", "") or getattr(e, "description", "") or "")
+        full_html = (getattr(e, "content", None) or [{}])[0].get("value", "") if getattr(e, "content", None) else ""
+        body = clean_alert_body(full_html) if (src.get("tier") == "official" and full_html) else ""
         published = parse_date(getattr(e, "published", None) or getattr(e, "updated", None))
         if not title:
             continue
@@ -150,8 +171,10 @@ def fetch_rss(src: dict, state: State) -> list[Item]:
             continue                                           # same text as last time: nothing new
         if too_old(published, src.get("max_age_days")):
             continue
+        if body and len(body) > len(summary):
+            summary = body                                      # official alert: the full cleaned text, not the stub
         items.append(Item(source_id=src["id"], source_name=src["name"], title=title, url=link,
-                          text=summary[:1200], published=published, kind="news" if src.get("tier") == "news" else "alert",
+                          text=summary[:2500 if body else 1200], published=published, kind="news" if src.get("tier") == "news" else "alert",
                           tier=src.get("tier", "news"), note=src.get("note", "")))
     return items
 
