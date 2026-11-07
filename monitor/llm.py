@@ -22,7 +22,7 @@ Alert scale:
 5 CRITICAL — attack/incursion under way or imminent, martial law / state of emergency.
 
 Return ONLY a JSON array; one object per input item, same order, fields:
-{"i": <index>, "level": <0-5>, "summary": "<one English sentence, max 160 chars, what happened + why it matters>", "why": "<max 12 words>"}"""
+{"i": <index>, "level": <0-5>, "summary": "<one English sentence, max 160 chars, what happened + why it matters; for tier=official embassy/government alerts read the whole text and give 2 sentences, max 350 chars: what happened, then what the embassy tells people to do>", "why": "<max 12 words>"}"""
 
 
 def enabled(cfg: dict) -> bool:
@@ -44,7 +44,7 @@ def grade(items: list[Item], cfg: dict) -> list[Item]:
     for start in range(0, len(items), batch):
         chunk = items[start:start + batch]
         payload = [{"i": i, "source": it.source_name, "source_note": it.note, "tier": it.tier,
-                    "rule_level": it.level, "title": it.title, "text": it.text[:900], "published": it.published}
+                    "rule_level": it.level, "title": it.title, "text": it.text[:2500 if it.tier == "official" else 900], "published": it.published}
                    for i, it in enumerate(chunk)]
         try:
             msg = client.messages.create(
@@ -69,7 +69,7 @@ def grade(items: list[Item], cfg: dict) -> list[Item]:
             else:
                 it.level = lvl
             if g.get("summary"):
-                it.summary = str(g["summary"])[:220]
+                it.summary = str(g["summary"])[:380 if it.tier == "official" else 220]
             if g.get("why"):
                 it.reason = str(g["why"])[:120]
     return items
