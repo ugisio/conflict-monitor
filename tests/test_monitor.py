@@ -709,3 +709,21 @@ def test_israel_nsc_press_coverage():
     }.items():
         out = classify.classify(Item(source_id="g", source_name="GN NSC", title=title, url="u"), src, CFG)
         assert out is not None and out.level == want, (title, out and out.level)
+
+
+def test_embassy_alert_uses_full_content_and_shows_it():
+    from monitor.fetchers import clean_alert_body
+    from monitor.core import Item
+    from monitor.telegram import format_alert
+    html = ('<p>The post Security Alert appeared first on X.</p>'
+            '<p><b>Location:</b> Krakow, Main Market Square</p><p>Shots were fired; the suspect is in custody.</p>'
+            '<h3>Actions to Take:</h3><ul><li>Avoid the area.</li><li>Call 1-1-2 in an emergency.</li></ul>'
+            '<h3>Assistance:</h3><p>U.S. Embassy Warsaw Telephone +48 22 504 2000</p>')
+    body = clean_alert_body(html)
+    assert "suspect is in custody" in body and "• Avoid the area." in body
+    assert "Telephone" not in body
+    cfg = CFG
+    it = Item(source_id="x", source_name="US Embassy Warsaw alerts", title="Security Alert", url="u",
+              text=body, kind="alert", tier="official", level=3, reason="r")
+    msg = format_alert(it, cfg, __import__("zoneinfo").ZoneInfo("Europe/Riga"))
+    assert "suspect is in custody" in msg and "Avoid the area" in msg
