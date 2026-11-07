@@ -40,5 +40,26 @@
   "uid": "9a0de03ffc7b9a15",
   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOWTV3SF9teDlmN0k3cElmUllKdXVOY1dVUEpnZGNFekhJTkR3UkRXemtqaWpzWUIyUnJvTFlWWGJ1MkxLWXE5SUNoR1pUVXY5WWotNXh1RXV6YkNZRHdVbW5WNHcyQnFpWVphT1VqN0tiU05naEZpd3Vjc0QxWkVhbmRMVk1ISjNmOXptMkUzM0xsaVZiTHRmei13clY?oc=5",
   "warning": true
+ },
+ {
+  "first_seen": "2026-11-07T04:31:09+00:00",
+  "kind": "post",
+  "lang": "ru",
+  "level": 2,
+  "note": "RU, pro-Kremlin military blogger — adversary-side signal, treat claims with care",
+  "posted": false,
+  "published": "2026-11-07T04:29:28+00:00",
+  "reason": "region: балти, нато, росси · matched “флот (in text)”",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "tg_rybar",
+  "source_name": "Rybar",
+  "summary": "",
+  "text": "▶ РЫБАРЬ ПОЯСНЯЕТ: БАЛТИКА ПОД КОНТРОЛЕМ ЗАПАДА? В новом выпуске «Рыбарь поясняет» разбираемся, почему в НАТО не могут просто взять и перекрыть Балтийское море для России, как под предлогом защиты подводной инфраструктуры усиливается контроль над судоходством и чем грозят российскому флоту и торговым судам постоянные задержания и санкционное давление. Приятного просмотра! #пояснение #эфиры ✉ MAX 💸 Поддержать нас",
+  "tier": "osint",
+  "title": "▶ РЫБАРЬ ПОЯСНЯЕТ: БАЛТИКА ПОД КОНТРОЛЕМ ЗАПАДА? В новом выпуске «Рыбарь поясняет» разбираемся, почему в НАТО не могут просто взять и перекр…",
+  "uid": "2d3c8db5e5b1f396",
+  "url": "https://t.me/rybar/84491",
+  "warning": false
  }
 ]
