@@ -1,23 +1,6 @@
 [
  {
   "level": 2,
-  "n": 2,
-  "source": "Google News — Latvia security",
-  "stems": [
-   "cable",
-   "capta",
-   "court",
-   "expan",
-   "incid",
-   "jails",
-   "opera",
-   "sabot"
-  ],
-  "title": "Finnish court jails Russian captain over Baltic Sea cable sabotage - Euronews.com",
-  "ts": "2026-11-05T10:31:23+00:00"
- },
- {
-  "level": 2,
   "n": 1,
   "source": "LRT (Lithuania, EN)",
   "stems": [
