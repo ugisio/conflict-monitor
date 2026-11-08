@@ -28,53 +28,6 @@
  },
  {
   "level": 2,
-  "n": 1,
-  "source": "ERR News (Estonia, EN)",
-  "stems": [
-   "immig",
-   "quota",
-   "trade",
-   "union",
-   "wages"
-  ],
-  "title": "Trade unions see Estonia's new immigration quota as threat to wages",
-  "ts": "2026-11-05T07:31:31+00:00"
- },
- {
-  "level": 2,
-  "n": 1,
-  "source": "ASTRA",
-  "stems": [
-   "готов",
-   "данны",
-   "дивер",
-   "желез",
-   "жител",
-   "задер",
-   "ленин",
-   "летне",
-   "облас",
-   "объек",
-   "сотру",
-   "транс"
-  ],
-  "title": "Сотрудники ФСБ задержали 48-летнего жителя Ленинградской области, готовившего диверсию на объекте железнодорожного транспорта По данным ведо…",
-  "ts": "2026-11-05T07:31:31+00:00"
- },
- {
-  "level": 1,
-  "n": 1,
-  "source": "LRT (Lithuania, EN)",
-  "stems": [
-   "addit",
-   "ready",
-   "troop"
-  ],
-  "title": "Lithuania ready to host additional US troops, defence minister says",
-  "ts": "2026-11-05T07:31:31+00:00"
- },
- {
-  "level": 2,
   "n": 2,
   "source": "Google News — Latvia security",
   "stems": [
