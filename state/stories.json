@@ -1,33 +1,6 @@
 [
  {
   "level": 2,
-  "n": 3,
-  "source": "ERR News (Estonia, EN)",
-  "stems": [
-   "aggra",
-   "arson",
-   "cable",
-   "capta",
-   "court",
-   "crimi",
-   "damag",
-   "great",
-   "jails",
-   "membe",
-   "offer",
-   "onlin",
-   "prope",
-   "sabot",
-   "servi",
-   "situa",
-   "worse",
-   "youth"
-  ],
-  "title": "Estonian youths offer arson and property damage services online",
-  "ts": "2026-11-05T08:01:35+00:00"
- },
- {
-  "level": 2,
   "n": 2,
   "source": "Google News — Latvia security",
   "stems": [
