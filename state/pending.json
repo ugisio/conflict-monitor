@@ -19,5 +19,26 @@
   "uid": "b9c3ec2c6d3d6c04",
   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOc0VsRHZRR3lFMG5PQ3h0blpqQTltUHJNejNRYjgxb3lJNmI1UHY5dnRuMUd4VWFfU3B3ZmliWGk0SHZSMGNvMVpNMFp5VWRncm9pVlJ1NnVqNk5WM1hzb3MtM2ItM3AzNXZhLVBYM1ZnZzd1eHhhUHJkMmxmeTRET0lkV1M5QktoNDdKcUJBZlEtX2s5N3o4blNlOGE3V3I2UlNEcHRWOXdvMXUzWG5kazczWFdUdWRXVXJN?oc=5",
   "warning": false
+ },
+ {
+  "first_seen": "2026-11-09T04:31:20+00:00",
+  "kind": "post",
+  "lang": "ru",
+  "level": 1,
+  "note": "RU, pro-Kremlin military blogger — adversary-side signal, treat claims with care",
+  "posted": false,
+  "published": "2026-11-09T04:29:28+00:00",
+  "reason": "region: калининград, нато, росси · matched “учения” · another report of a story already in the channel",
+  "repeat_of": "Десять стран Северной Европы создадут морской альянс для сдерживания России Альянс собирается усилить противодействие российским подлодкам в…",
+  "repeats": 0,
+  "source_id": "tg_rybar",
+  "source_name": "Rybar",
+  "summary": "",
+  "text": "▶ РЫБАРЬ ПОЯСНЯЕТ: ПОЛЬША — ГИЕНА ЕВРОПЫ? В новом выпуске «Рыбарь поясняет» разбираемся, зачем в Варшаве призывают НАТО к масштабным учениям у Калининградской области, почему польские политики рассуждают о быстром поражении России и какими последствиями для самой Польши может обернуться прямое столкновение с Москвой. Приятного просмотра! #пояснение #эфиры ✉ MAX 💸 Поддержать нас",
+  "tier": "osint",
+  "title": "▶ РЫБАРЬ ПОЯСНЯЕТ: ПОЛЬША — ГИЕНА ЕВРОПЫ? В новом выпуске «Рыбарь поясняет» разбираемся, зачем в Варшаве призывают НАТО к масштабным учениям…",
+  "uid": "4fb85c73ee9f893a",
+  "url": "https://t.me/rybar/84555",
+  "warning": false
  }
 ]
