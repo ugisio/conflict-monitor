@@ -187,5 +187,26 @@
   "uid": "746c42799a5d42b3",
   "url": "https://t.me/rybar/84570",
   "warning": false
+ },
+ {
+  "first_seen": "2026-11-09T16:01:27+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-11-09T15:55:32+00:00",
+  "reason": "region: baltic, nato · matched “Exercise Dynamic Merlin 26 - mc.nato” · another report of a story already in the channel",
+  "repeat_of": "NATO sub hunters in Baltic exercise to face drone attacks - UK Defence Journal",
+  "repeats": 0,
+  "source_id": "gnews_latvia_security",
+  "source_name": "Google News — Latvia security",
+  "summary": "",
+  "text": "Submarine hunters take to the Baltic Sea during new NATO Exercise Dynamic Merlin 26 mc.nato.int",
+  "tier": "news",
+  "title": "Submarine hunters take to the Baltic Sea during new NATO Exercise Dynamic Merlin 26 - mc.nato.int",
+  "uid": "8831efafde992d0f",
+  "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNcWZ1N0JVaTNFZE9qTF9ha2ZPUW14ZDI0cTBTbG9mNENNVXZpTzU5a29Gc0FUNlNJMVJkWDJfaEdhbmhXeTNnUmZIS0wzdnBsMUxpcWFHd052eWtjNEZ5Uzd5bm1vc2tZX19EOVp2SDZlazJsT010VHNkNWFFWjdFdU52akRlWF84NnEzQjVYS3A3b0VGVGF1N1I0QXBsajZVSFlkWFJFVGladVlTSGlENVd4QW1Dcmdpc202bFRWNFBpY1d6dUtiaGZQdw?oc=5",
+  "warning": false
  }
 ]
