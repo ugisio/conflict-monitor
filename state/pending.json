@@ -145,5 +145,26 @@
   "uid": "9510f6542d476fd3",
   "url": "https://t.me/astrapress/130626",
   "warning": false
+ },
+ {
+  "first_seen": "2026-11-09T13:01:25+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-11-08T11:11:06+00:00",
+  "reason": "region: latvia, belarus · matched “Drone” · another report of a story already in the channel",
+  "repeat_of": "NATO sub hunters in Baltic exercise to face drone attacks - UK Defence Journal",
+  "repeats": 0,
+  "source_id": "gnews_latvia_security",
+  "source_name": "Google News — Latvia security",
+  "summary": "",
+  "text": "Drone that was shot down in Latvia entered from Belarus / Article LSM",
+  "tier": "news",
+  "title": "Drone that was shot down in Latvia entered from Belarus / Article - LSM",
+  "uid": "152908fe6513239d",
+  "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNcjFWNlhMRU5mVmpZTFExY2ZPU1dnN29kb3haSUVpVHVuSkZsMVVMLUFENnU4YWxrV1N2T2k2Y2dHcUxWN1dLOFBranFHUWk5bWlsTEF4RkQ3TmVxcWdkNVR4OWhfYV9sZ1hQdkNRVlMtOFhhdTZqTzVhcnpYVzFrLWN0eXZtS3BhMjdVUHd4dWE5UVdxcmpWeWhhdkM1WnFyeUFHUHZpVDFCLXlpUFdJQzZjWlE3NXhnQmc?oc=5",
+  "warning": false
  }
 ]
