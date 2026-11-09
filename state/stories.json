@@ -1,28 +1,6 @@
 [
  {
   "level": 2,
-  "n": 5,
-  "source": "Google News — NATO & the Baltics",
-  "stems": [
-   "alarm",
-   "allia",
-   "artic",
-   "close",
-   "conti",
-   "getti",
-   "limit",
-   "nause",
-   "provo",
-   "pushi",
-   "putin",
-   "raise",
-   "testi"
-  ],
-  "title": "Putin Is Pushing the Limits of NATO's Article 5 with His Provocations, Says Nauseda - UA.NEWS",
-  "ts": "2026-11-06T12:01:33+00:00"
- },
- {
-  "level": 2,
   "n": 2,
   "source": "Clash Report",
   "stems": [
@@ -169,17 +147,20 @@
  },
  {
   "level": 2,
-  "n": 4,
+  "n": 5,
   "source": "NEXTA Live",
   "stems": [
    "альян",
    "атако",
    "беспи",
    "варша",
+   "велик",
+   "военн",
    "выпус",
    "гиена",
    "горит",
    "губер",
+   "девят",
    "десят",
    "дрозд",
    "европ",
@@ -208,10 +189,7 @@
    "север",
    "сегод",
    "собир",
-   "созда",
-   "сообщ",
-   "стран",
-   "ударо"
+   "созда"
   ],
   "title": "❗️ Под Петербургом горит один из крупнейших НПЗ России Ночью Ленинградскую область атаковали 113 беспилотников, сообщил губернатор Дрозденко…",
   "ts": "2026-11-09T06:01:37+00:00"
@@ -251,17 +229,21 @@
  },
  {
   "level": 2,
-  "n": 2,
+  "n": 3,
   "source": "Google News — Latvia security",
   "stems": [
    "apolo",
+   "begin",
    "drone",
+   "dynam",
    "exerc",
    "expla",
    "failu",
    "hunte",
+   "merli",
    "resid",
-   "shoot"
+   "shoot",
+   "subma"
   ],
   "title": "NATO sub hunters in Baltic exercise to face drone attacks - UK Defence Journal",
   "ts": "2026-11-09T06:31:23+00:00"
