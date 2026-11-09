@@ -121,12 +121,13 @@
  },
  {
   "level": 2,
-  "n": 5,
+  "n": 6,
   "source": "Google News — Latvia security",
   "stems": [
    "apolo",
    "artic",
    "begin",
+   "canad",
    "drone",
    "durin",
    "dynam",
@@ -136,6 +137,8 @@
    "failu",
    "hunte",
    "merli",
+   "perma",
+   "posit",
    "resid",
    "shoot",
    "subma"
