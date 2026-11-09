@@ -1,1 +1,23 @@
-[]
+[
+ {
+  "first_seen": "2026-11-09T06:31:13+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-11-09T06:00:46+00:00",
+  "reason": "region: baltic, nato · matched “drone”",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "gnews_latvia_security",
+  "source_name": "Google News — Latvia security",
+  "summary": "",
+  "text": "NATO sub hunters in Baltic exercise to face drone attacks UK Defence Journal",
+  "tier": "news",
+  "title": "NATO sub hunters in Baltic exercise to face drone attacks - UK Defence Journal",
+  "uid": "7834160dbd1d5e74",
+  "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNLUFTQnVlM2NTOUJSN0pkNWh6dEN6WXUwWmM5eTZsZ1dMZm9YaDdsazZYaFR1NWVaOFphdzY5QkhfVW40VlBNWDNCN2MtelZxNVB5SmVMNzU3aDlaQWxybkRPZ0NUQmktX2dla0ZKc1RiYWlQNzJhMWcxVUJVZlhkZ1ZGLTI1NXVkR3FxeDJaNlZHY2kw?oc=5",
+  "warning": false
+ }
+]
