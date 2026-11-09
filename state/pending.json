@@ -1,1 +1,23 @@
-[]
+[
+ {
+  "first_seen": "2026-11-09T03:01:23+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-11-09T02:36:25+00:00",
+  "reason": "region: baltic, russia · matched “navy”",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "gnews_latvia_security",
+  "source_name": "Google News — Latvia security",
+  "summary": "",
+  "text": "Finland's navy chief says Russia's presence in the Baltic Sea may have peaked for now Sky News",
+  "tier": "news",
+  "title": "Finland's navy chief says Russia's presence in the Baltic Sea may have peaked for now - Sky News",
+  "uid": "b9c3ec2c6d3d6c04",
+  "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOc0VsRHZRR3lFMG5PQ3h0blpqQTltUHJNejNRYjgxb3lJNmI1UHY5dnRuMUd4VWFfU3B3ZmliWGk0SHZSMGNvMVpNMFp5VWRncm9pVlJ1NnVqNk5WM1hzb3MtM2ItM3AzNXZhLVBYM1ZnZzd1eHhhUHJkMmxmeTRET0lkV1M5QktoNDdKcUJBZlEtX2s5N3o4blNlOGE3V3I2UlNEcHRWOXdvMXUzWG5kazczWFdUdWRXVXJN?oc=5",
+  "warning": false
+ }
+]
