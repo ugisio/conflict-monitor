@@ -208,5 +208,26 @@
   "uid": "8831efafde992d0f",
   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNcWZ1N0JVaTNFZE9qTF9ha2ZPUW14ZDI0cTBTbG9mNENNVXZpTzU5a29Gc0FUNlNJMVJkWDJfaEdhbmhXeTNnUmZIS0wzdnBsMUxpcWFHd052eWtjNEZ5Uzd5bm1vc2tZX19EOVp2SDZlazJsT010VHNkNWFFWjdFdU52akRlWF84NnEzQjVYS3A3b0VGVGF1N1I0QXBsajZVSFlkWFJFVGladVlTSGlENVd4QW1Dcmdpc202bFRWNFBpY1d6dUtiaGZQdw?oc=5",
   "warning": false
+ },
+ {
+  "first_seen": "2026-11-09T17:01:26+00:00",
+  "kind": "alert",
+  "lang": "en",
+  "level": 3,
+  "note": "",
+  "posted": true,
+  "published": "2026-11-09T16:13:15+00:00",
+  "reason": "matched “Security Alert”",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "us_embassy_warsaw",
+  "source_name": "US Embassy Warsaw alerts",
+  "summary": "Krakow Area Schools Polish police told several Kraków-area schools, including international schools, that they had received threats against them. Police are investigating these threats fully and monitoring the situation closely. Schools may have increased police presence. We will continue to monitor and provide updates. We encourage U.S. U.S. Actions: Avoid crowds and demonstrations; Be aware of your surroundings; Keep a low profile.",
+  "text": "Location: Krakow Area Schools\nEvent: Polish police told several Kraków-area schools, including international schools, that they had received threats against them. Police are investigating these threats fully and monitoring the situation closely. Schools may have increased police presence. We will continue to monitor and provide updates.\nWe encourage U.S. citizens to review our Worldwide Caution. U.S. citizens are strongly encouraged to maintain a high level of vigilance and practice good situational awareness when traveling abroad especially during holiday festivals or public events. In the event of an emergency, call 1-1-2 for Polish Emergency Services.\nActions to Take\n• Avoid crowds and demonstrations.\n• Be aware of your surroundings.\n• Keep a low profile.\n• Monitor local media for updates.\n•",
+  "tier": "official",
+  "title": "Security Alert: U.S. Consulate General Krakow: November 9, 2026",
+  "uid": "2b51f5f3f38f3a07",
+  "url": "https://pl.usembassy.gov/security-alert-u-s-consulate-general-krakow-november-9-2026/",
+  "warning": false
  }
 ]
