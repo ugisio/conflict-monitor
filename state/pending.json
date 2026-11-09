@@ -61,5 +61,26 @@
   "uid": "1d989b6a60e96518",
   "url": "https://t.me/rybar/84559",
   "warning": false
+ },
+ {
+  "first_seen": "2026-11-09T08:01:27+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 1,
+  "note": "",
+  "posted": false,
+  "published": "2026-11-09T07:55:27+00:00",
+  "reason": "region: latvia, latvian · matched “Defence Minister”",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "lsm_en",
+  "source_name": "LSM (Latvian public media, EN)",
+  "summary": "",
+  "text": "Latvian Defence Minister Raivis Melnis would be ready to continue working in his post even if Prime Minister Andris Kulbergs (United List) forms a government without the New Unity party, Melnis said on Monday in the Latvian Television programme \"Morning Panorama\".",
+  "tier": "news",
+  "title": "Defence Minister Melnis ready to carry on regardless",
+  "uid": "44624355027343de",
+  "url": "https://eng.lsm.lv/article/society/defence/09.11.2026-defence-minister-melnis-ready-to-carry-on-regardless.a671088/?utm_source=rss&utm_campaign=rss&utm_medium=links",
+  "warning": false
  }
 ]
