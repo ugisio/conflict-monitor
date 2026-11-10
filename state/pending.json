@@ -313,5 +313,26 @@
   "uid": "4cfc858fd12198b9",
   "url": "https://news.err.ee/1610191762/estonian-kickboxer-ahead-of-wbc-fight-more-girls-than-boys-in-the-gym-now",
   "warning": false
+ },
+ {
+  "first_seen": "2026-11-10T15:01:27+00:00",
+  "kind": "post",
+  "lang": "ru",
+  "level": 2,
+  "note": "RU, Belarus opposition media — best coverage of Belarus border/military",
+  "posted": true,
+  "published": "2026-11-10T14:37:34+00:00",
+  "reason": "official warning about Russia / NATO · matched “official warning”",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "tg_nexta",
+  "source_name": "NEXTA Live",
+  "summary": "",
+  "text": "⚡️ Зеленский предупредил европейцев: «Никто не остановил Путина, никто его не уничтожил, и он до сих пор жив» Президент Украины призвал Европу как можно быстрее извлечь уроки из происходящего. «Это огромная проблема, когда самая большая по территории страна в мире решает оккупировать другую страну. Мы читали об этом в учебниках истории и знаем, к чему это может привести», — заявил Зеленский в Копенгагенском университете. С дискуссии по вопросам безопасности Владимир Зеленский начал свой визит в Данию.",
+  "tier": "osint",
+  "title": "⚡️ Зеленский предупредил европейцев: «Никто не остановил Путина, никто его не уничтожил, и он до сих пор жив» Президент Украины призвал Евро…",
+  "uid": "46903c47d7f4a297",
+  "url": "https://t.me/nexta_live/126412",
+  "warning": true
  }
 ]
