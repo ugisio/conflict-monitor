@@ -271,5 +271,26 @@
   "uid": "bd41c522fc791721",
   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOaHRyNDVoSVgxd05qV2w5RUxDYzdiV01rbE1JTUtvVkd2aHlVcXcyTXAtRTZuZzd2UlpkQWhRYnd4Q2w1dUFKMjBTcjg2X20tMGpMX3Vvd3NYVGJHUjh6NjJzeFpkdnBYdUZDbUN2T1V3MEo3TDVfc1hRZXIyZzFCdnBnZzRILTV5cG5QUkZtTDc5WGttU1NVbGNTeGNudjZnNGhRcEMwYXFMeXpwb25OYQ?oc=5",
   "warning": false
+ },
+ {
+  "first_seen": "2026-11-10T13:31:13+00:00",
+  "kind": "alert",
+  "lang": "en",
+  "level": 1,
+  "note": "Read via Google News (the embassy site refuses GitHub's servers): headline only - open the link for the full alert.",
+  "posted": false,
+  "published": "2026-11-09T08:00:00+00:00",
+  "reason": "",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "us_embassy_warsaw",
+  "source_name": "US Embassy Warsaw alerts",
+  "summary": "",
+  "text": "Medicare Changes Effective November 9, 2026 U.S. Embassy In Poland (.gov)",
+  "tier": "official",
+  "title": "Medicare Changes Effective November 9, 2026 - U.S. Embassy In Poland (.gov)",
+  "uid": "20ddf8be281fe628",
+  "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBxclQydU5GckM4R0hyOXROeWl5OEdaRjVuNDVINkJENHhIYzJnNjFnMFphczQ5M3JPZnlnTHVkS3NDUDlLNnpOYUtPV0UtSFM0clk5V1BkRWVuRThxZm11THB5MDJuaEMtT1Bwc0I0VFpDMVc0c0VZ?oc=5",
+  "warning": false
  }
 ]
