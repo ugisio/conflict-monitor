@@ -230,12 +230,14 @@
  },
  {
   "level": 2,
-  "n": 3,
+  "n": 4,
   "source": "Google News — Latvia security",
   "stems": [
    "begin",
    "condu",
+   "cross",
    "drill",
+   "evacu",
    "exerc",
    "force",
    "holds",

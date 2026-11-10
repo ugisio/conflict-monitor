@@ -355,5 +355,26 @@
   "uid": "bc6f9a19f1e611c1",
   "url": "https://t.me/nexta_live/126415",
   "warning": true
+ },
+ {
+  "first_seen": "2026-11-10T16:22:34+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-11-10T15:48:25+00:00",
+  "reason": "region: latvia, lithuania · planning/hypothetical wording, softened · matched “evacuation” · another report of a story already in the channel",
+  "repeat_of": "NATO holds submarine-hunting drills in Baltic - Arab News",
+  "repeats": 0,
+  "source_id": "gnews_latvia_security",
+  "source_name": "Google News — Latvia security",
+  "summary": "",
+  "text": "Lithuania and Latvia conduct cross-border evacuation exercises Yahoo",
+  "tier": "news",
+  "title": "Lithuania and Latvia conduct cross-border evacuation exercises - Yahoo",
+  "uid": "b64c063fe89b961d",
+  "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNN09CTy13YmhEUW1OMXFlVE9LVmhOYUg5Ti1ab181dnFlV2Ricl9CVXdybGJQaHRieUt5RkdlbHpqMUJqNi1BckJWQ3pwanRWemxTRHp3ODNvazBERWtmVDZtTmNPaUxVYXBoU043TTJZb0p0SEY1dUJDRUF3dHVtOVZkSnFhT29RM2RUaTM4ek45ZHhZSkp0MF9B?oc=5",
+  "warning": false
  }
 ]
