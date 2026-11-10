@@ -247,9 +247,10 @@
  },
  {
   "level": 2,
-  "n": 4,
+  "n": 5,
   "source": "Google News — NATO & the Baltics",
   "stems": [
+   "airsp",
    "alert",
    "artic",
    "dauga",
@@ -257,11 +258,13 @@
    "engli",
    "evacu",
    "irani",
+   "issue",
    "ludza",
    "milde",
    "munic",
    "orang",
    "possi",
+   "poten",
    "slava",
    "strik",
    "trigg"

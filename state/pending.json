@@ -103,5 +103,26 @@
   "uid": "04d47b97eafb8c77",
   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQWx6TkpxdU5NeldhTTlsMTA2RklPdlVIZnYwWkZJcXVvUTkxM081UnROWUZ0Vzd0TUFwZFRQbWxLalNZUUszM3FldUlmSEpaemJLdV82NnB4Uk5mcjhMQ2h6dGVvWnpUY1d3SEc1UE9Zck1DVkVWbURmMG13VmM1R1RnNFYzT3lIOEt1TmtOdjA0bzB4MWtr?oc=5",
   "warning": false
+ },
+ {
+  "first_seen": "2026-11-10T23:01:28+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-11-10T22:20:00+00:00",
+  "reason": "region: latvia · matched “threat” · another report of a story already in the channel",
+  "repeat_of": "RAF Mildenhall Evacuation: Would an Iranian Strike Trigger NATO Article 5? - Diplomacy and Law",
+  "repeats": 0,
+  "source_id": "gnews_latvia_security",
+  "source_name": "Google News — Latvia security",
+  "summary": "",
+  "text": "Latvia issues potential airspace threat alerts Breakingthenews.net",
+  "tier": "news",
+  "title": "Latvia issues potential airspace threat alerts - Breakingthenews.net",
+  "uid": "2c4d030ed30310f2",
+  "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQcHczN3FnVlJDbDEwZ2JkaG11LWdIVkdqOWlBWWl5cEp0d2ZkYkFHck1iVnNoZ2U3eTJtSExuQ09iQlczMW1FNG5sZl9XU3FkZTEzMkotNDRFQW5oUVNYUDh3VGRvaTZHTGJTVjVjSlV1cHRUWlFmdWVVR3VOQzdZSDJNblRsRnlJblZTUkljTlBOaDNkR1E?oc=5",
+  "warning": false
  }
 ]
