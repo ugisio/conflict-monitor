@@ -229,5 +229,26 @@
   "uid": "fe6a7b4ab701356c",
   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBkZGdROWZMbDlCcjF3dFlmWmJXTklCX1A3czdVcDNkY3g1NWQyQ3lkTTNBUkhLZGxGajZWcUVsNXFjYkYzVjV3YjZabW42ajItdDM1dTVlQlJkd3Zkb0lIWg?oc=5",
   "warning": false
+ },
+ {
+  "first_seen": "2026-11-10T12:31:12+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-11-10T12:23:03+00:00",
+  "reason": "region: baltic, nato · matched “Submarine” · another report of a story already in the channel",
+  "repeat_of": "NATO holds submarine-hunting drills in Baltic - Arab News",
+  "repeats": 0,
+  "source_id": "gnews_latvia_security",
+  "source_name": "Google News — Latvia security",
+  "summary": "",
+  "text": "8 NATO Nations Begin Submarine Warfare Exercise in Baltic Sea Ratopati",
+  "tier": "news",
+  "title": "8 NATO Nations Begin Submarine Warfare Exercise in Baltic Sea - Ratopati",
+  "uid": "ed7a2c2b453cfb73",
+  "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObEkyRk96OThpVG9meEcyQTBFckVLMHQyTEY0eVd0akNrbEpEeDNTMjl5c1BhamFTcnFqSHBtZWZQT0ptTHF3NUJHZjhYYnJwU3VvaFROY0xxSkMtc3ZYYjZQdURRZjZYTG8wY09LQ3B1QnZiNW81NklocnUzRERWWjZzVG5GTy1sM1pkUW1oUWNncTNnOHlEZUU5ZDZhYzZrclFOS21iSlhWRkU?oc=5",
+  "warning": false
  }
 ]
