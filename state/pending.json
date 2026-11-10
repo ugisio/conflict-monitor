@@ -124,5 +124,26 @@
   "uid": "a4647b60baf1162c",
   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE55UnFmcWoyemd0eXFwMEh6bTZxSHpjX3RYSDZSVEkxSi1yaUx4R3I1VXZ4bjI4OWo5T1NFTXhrWTVoc0d3M3VxVWtWYjJPZk5EMFFV?oc=5",
   "warning": false
+ },
+ {
+  "first_seen": "2026-11-10T08:01:20+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 1,
+  "note": "",
+  "posted": false,
+  "published": "2026-11-10T07:48:00+00:00",
+  "reason": "region: lithuania · matched “social security”",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "lrt_en",
+  "source_name": "LRT (Lithuania, EN)",
+  "summary": "",
+  "text": "Lithuania’s Social Security and Labour Minister Inga Ruginienė has questioned the need for an advisory referendum on the constitutional definition of family, saying existing legislation already provides a clear framework and that organising the vote would cost about €5.5 million.",
+  "tier": "news",
+  "title": "Lithuanian social security minister questions need for family definition referendum",
+  "uid": "46438038b8dfaa5c",
+  "url": "https://www.lrt.lt/en/news-in-english/19/3110089/lithuanian-social-security-minister-questions-need-for-family-definition-referendum",
+  "warning": false
  }
 ]
