@@ -250,5 +250,26 @@
   "uid": "ed7a2c2b453cfb73",
   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObEkyRk96OThpVG9meEcyQTBFckVLMHQyTEY0eVd0akNrbEpEeDNTMjl5c1BhamFTcnFqSHBtZWZQT0ptTHF3NUJHZjhYYnJwU3VvaFROY0xxSkMtc3ZYYjZQdURRZjZYTG8wY09LQ3B1QnZiNW81NklocnUzRERWWjZzVG5GTy1sM1pkUW1oUWNncTNnOHlEZUU5ZDZhYzZrclFOS21iSlhWRkU?oc=5",
   "warning": false
+ },
+ {
+  "first_seen": "2026-11-10T13:01:21+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-11-10T12:24:48+00:00",
+  "reason": "region: baltic, nato · matched “submarine” · another report of a story already in the channel",
+  "repeat_of": "NATO holds submarine-hunting drills in Baltic - Arab News",
+  "repeats": 0,
+  "source_id": "gnews_latvia_security",
+  "source_name": "Google News — Latvia security",
+  "summary": "",
+  "text": "NATO mobilizes forces from 8 countries to conduct submarine hunting exercises in the Baltic Sea Laodong.vn",
+  "tier": "news",
+  "title": "NATO mobilizes forces from 8 countries to conduct submarine hunting exercises in the Baltic Sea - Laodong.vn",
+  "uid": "bd41c522fc791721",
+  "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOaHRyNDVoSVgxd05qV2w5RUxDYzdiV01rbE1JTUtvVkd2aHlVcXcyTXAtRTZuZzd2UlpkQWhRYnd4Q2w1dUFKMjBTcjg2X20tMGpMX3Vvd3NYVGJHUjh6NjJzeFpkdnBYdUZDbUN2T1V3MEo3TDVfc1hRZXIyZzFCdnBnZzRILTV5cG5QUkZtTDc5WGttU1NVbGNTeGNudjZnNGhRcEMwYXFMeXpwb25OYQ?oc=5",
+  "warning": false
  }
 ]

@@ -218,14 +218,17 @@
  },
  {
   "level": 2,
-  "n": 2,
+  "n": 3,
   "source": "Google News — Latvia security",
   "stems": [
    "begin",
+   "condu",
    "drill",
    "exerc",
+   "force",
    "holds",
    "hunti",
+   "mobil",
    "subma",
    "warfa"
   ],
