@@ -143,6 +143,17 @@ def text_diff(old: str, new: str, max_lines: int = 14) -> str:
 
 # ------------------------------------------------------------------ RSS / Atom
 
+def _rss_fallback(src: dict, state: State) -> list[Item]:
+    """The official site refuses our requests (it started answering 405 to GitHub's servers on 10 Nov). We do not
+    try to get around that; the same posts are followed through a public Google News 'site:' query instead.
+    Headlines + links only, and only the last 3 days, so the different URLs do not make old alerts look new."""
+    print(f"[rss] {src['id']}: site refused the request, using Google News fallback")
+    return fetch_rss({**src, "url": src["fallback_rss"], "fallback_rss": None, "fallback_html": None,
+                      "max_age_days": 3, "include": None,
+                      "note": "Read via Google News (the embassy site refuses GitHub's servers): headline only - "
+                              "open the link for the full alert."}, state)
+
+
 def fetch_rss(src: dict, state: State) -> list[Item]:
     items: list[Item] = []
     try:
@@ -150,9 +161,13 @@ def fetch_rss(src: dict, state: State) -> list[Item]:
         feed = feedparser.parse(r.content)
         entries = feed.entries
     except Exception as e:
+        if src.get("fallback_rss"):
+            return _rss_fallback(src, state)
         if src.get("fallback_html"):
             return fetch_html_links({**src, "url": src["fallback_html"], "selector": src.get("fallback_selector", "a")}, state)
         raise
+    if not entries and src.get("fallback_rss"):
+        return _rss_fallback(src, state)
     if not entries and src.get("fallback_html"):
         return fetch_html_links({**src, "url": src["fallback_html"], "selector": src.get("fallback_selector", "a")}, state)
 
