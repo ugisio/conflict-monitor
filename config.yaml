@@ -115,6 +115,7 @@ sources:
     name: US Embassy Riga alerts
     type: rss
     url: https://lv.usembassy.gov/category/alert/feed/
+    fallback_rss: "https://news.google.com/rss/search?q=site:lv.usembassy.gov+when:3d&hl=en-US&gl=US&ceid=US:en"
     fallback_html: https://lv.usembassy.gov/category/alert/
     fallback_selector: "h2 a, h3 a, .entry-title a, article a[rel=bookmark]"
     tier: official
@@ -227,6 +228,7 @@ sources:
     name: US Embassy Tallinn alerts
     type: rss
     url: https://ee.usembassy.gov/category/alert/feed/
+    fallback_rss: "https://news.google.com/rss/search?q=site:ee.usembassy.gov+when:3d&hl=en-US&gl=US&ceid=US:en"
     tier: official
     base_level: 1
     max_age_days: 30
@@ -235,6 +237,7 @@ sources:
     name: US Embassy Vilnius alerts
     type: rss
     url: https://lt.usembassy.gov/category/alert/feed/
+    fallback_rss: "https://news.google.com/rss/search?q=site:lt.usembassy.gov+when:3d&hl=en-US&gl=US&ceid=US:en"
     tier: official
     base_level: 1
     max_age_days: 30
@@ -243,6 +246,7 @@ sources:
     name: US Embassy Warsaw alerts
     type: rss
     url: https://pl.usembassy.gov/category/alert/feed/
+    fallback_rss: "https://news.google.com/rss/search?q=site:pl.usembassy.gov+when:3d&hl=en-US&gl=US&ceid=US:en"
     tier: official
     base_level: 1
     max_age_days: 30
@@ -251,6 +255,7 @@ sources:
     name: US Embassy Helsinki alerts
     type: rss
     url: https://fi.usembassy.gov/category/alert/feed/
+    fallback_rss: "https://news.google.com/rss/search?q=site:fi.usembassy.gov+when:3d&hl=en-US&gl=US&ceid=US:en"
     tier: official
     base_level: 1
     max_age_days: 30
