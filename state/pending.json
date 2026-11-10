@@ -208,5 +208,26 @@
   "uid": "017bd45665e47832",
   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQXoyY3VfeThDcUpRZThKNm1URWFJN3dCRHFlaGtzcW1fQk5EWXVUaDFUZWM3SnBRUFUzdU9tOVRQWDhLT2l1ZFY0b0ZpSWF1WVVKTzRXeThoSFMxYzlQamNnc1prdEJaYkxhUkYyWjRzRDlWLUJVSVFIbUFwS2MwQXZGQnJRUmVSUlFTaA?oc=5",
   "warning": false
+ },
+ {
+  "first_seen": "2026-11-10T12:01:29+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-11-10T11:45:37+00:00",
+  "reason": "region: article 5, nato · planning/hypothetical wording, softened · matched “Trigger NATO Article 5”",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "gnews_nato",
+  "source_name": "Google News — NATO & the Baltics",
+  "summary": "",
+  "text": "RAF Mildenhall Evacuation: Would an Iranian Strike Trigger NATO Article 5? Diplomacy and Law",
+  "tier": "news",
+  "title": "RAF Mildenhall Evacuation: Would an Iranian Strike Trigger NATO Article 5? - Diplomacy and Law",
+  "uid": "fe6a7b4ab701356c",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBkZGdROWZMbDlCcjF3dFlmWmJXTklCX1A3czdVcDNkY3g1NWQyQ3lkTTNBUkhLZGxGajZWcUVsNXFjYkYzVjV3YjZabW42ajItdDM1dTVlQlJkd3Zkb0lIWg?oc=5",
+  "warning": false
  }
 ]
