@@ -247,13 +247,16 @@
  },
  {
   "level": 2,
-  "n": 1,
+  "n": 2,
   "source": "Google News — NATO & the Baltics",
   "stems": [
+   "alert",
    "artic",
    "evacu",
    "irani",
+   "ludza",
    "milde",
+   "munic",
    "strik",
    "trigg"
   ],
@@ -291,5 +294,20 @@
   ],
   "title": "⚡️ Зеленский предупредил европейцев: «Никто не остановил Путина, никто его не уничтожил, и он до сих пор жив» Президент Украины призвал Евро…",
   "ts": "2026-11-10T15:01:40+00:00"
+ },
+ {
+  "level": 2,
+  "n": 1,
+  "source": "LSM (Latvian public media, EN)",
+  "stems": [
+   "alert",
+   "dauga",
+   "ludza",
+   "munic",
+   "possi",
+   "slava"
+  ],
+  "title": "Air threat alert in Ludza municipality of Latvia; possible air threat alert in Augšdaugava and Krāslava municipalities",
+  "ts": "2026-11-10T21:55:49+00:00"
  }
 ]

@@ -1,1 +1,44 @@
-[]
+[
+ {
+  "first_seen": "2026-11-10T21:55:38+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-11-10T21:31:00+00:00",
+  "reason": "region: latvia, latvian · matched “threat”",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "lsm_en",
+  "source_name": "LSM (Latvian public media, EN)",
+  "summary": "",
+  "text": "Latvia's National Armed Forces (NBS) issued an orange level alert over a potential threat to Latvian airspace.",
+  "tier": "news",
+  "title": "Air threat alert in Ludza municipality of Latvia; possible air threat alert in Augšdaugava and Krāslava municipalities",
+  "uid": "5df35e9ffefa65e1",
+  "url": "https://eng.lsm.lv/article/society/defence/10.11.2026-air-threat-alert-in-ludza-municipality-of-latvia-possible-air-threat-alert-in-augsdaugava-and-kraslava-municipalities.a671412/?utm_source=rss&utm_campaign=rss&utm_medium=links",
+  "warning": false
+ },
+ {
+  "first_seen": "2026-11-10T21:55:39+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-11-10T21:36:00+00:00",
+  "reason": "region: latvia · matched “threat” · another report of a story already in the channel",
+  "repeat_of": "RAF Mildenhall Evacuation: Would an Iranian Strike Trigger NATO Article 5? - Diplomacy and Law",
+  "repeats": 0,
+  "source_id": "gnews_latvia_security",
+  "source_name": "Google News — Latvia security",
+  "summary": "",
+  "text": "Air threat alert in Ludza municipality of Latvia / Article LSM",
+  "tier": "news",
+  "title": "Air threat alert in Ludza municipality of Latvia / Article - LSM",
+  "uid": "f71a503b0ac0c610",
+  "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZVlPQ1Vtd1Q1Nzk3eUYzNkY4cnhRd0JDajRNTld6UjFTRUJhUDF2eGNqSFBlS050SkdCOGZYX3A2Nm5HT0h1MkJmV0lPWURDTG56RTNJWi1oX0FSRFZWMDl3Wnp3ZnVVZTZ6ZEVaalY5Z0d5RFJBOVNJNjNSTzF2RTFUa0NqZUZ0RE5YdjkxeWF1Qnd6LVMyUW1SRHhremVLYmVFdjNSak1GUGc1ZHJPYg?oc=5",
+  "warning": false
+ }
+]
