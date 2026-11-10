@@ -292,5 +292,26 @@
   "uid": "20ddf8be281fe628",
   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBxclQydU5GckM4R0hyOXROeWl5OEdaRjVuNDVINkJENHhIYzJnNjFnMFphczQ5M3JPZnlnTHVkS3NDUDlLNnpOYUtPV0UtSFM0clk5V1BkRWVuRThxZm11THB5MDJuaEMtT1Bwc0I0VFpDMVc0c0VZ?oc=5",
   "warning": false
+ },
+ {
+  "first_seen": "2026-11-10T14:31:12+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 1,
+  "note": "",
+  "posted": false,
+  "published": "2026-11-10T14:06:00+00:00",
+  "reason": "region: estonia · matched “training (in text)”",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "err_en",
+  "source_name": "ERR News (Estonia, EN)",
+  "summary": "",
+  "text": "Estonian kickboxer Astrid Johanna Grents is fighting for a WBC international title on Saturday, saying girls now sometimes outnumber boys in the training hall.",
+  "tier": "news",
+  "title": "Estonian kickboxer ahead of WBC fight: More girls than boys in the gym now",
+  "uid": "4cfc858fd12198b9",
+  "url": "https://news.err.ee/1610191762/estonian-kickboxer-ahead-of-wbc-fight-more-girls-than-boys-in-the-gym-now",
+  "warning": false
  }
 ]
