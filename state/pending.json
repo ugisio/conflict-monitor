@@ -649,5 +649,26 @@
   "uid": "32ba4e8e5d6c5525",
   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVXZnQVZ3TW5IUks4Y0k0MkRLTUhyRWtWQW5mWWgtTTAxS3l1RklBNGdkTDZXVnJOeFV2bzVtUDhNWnR1UUIzZXRLR3N2eVFGdnlDQm8xZzkwN0swdkQyOWFEUGdPT2ZyWE52TEhzbDctVDN2eVk2ckRRRzRGdHJNNkdGcTZYd2dRX2lDUUp1azdRc0M4QlhXYjFzcFZOSHpBOG8xenlyeVp2UQ?oc=5",
   "warning": false
+ },
+ {
+  "first_seen": "2026-11-11T09:14:24+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-11-11T09:08:43+00:00",
+  "reason": "region: latvia, latvian · matched “drone” · another report of a story already in the channel",
+  "repeat_of": "NATO holds submarine-hunting drills in Baltic - Arab News",
+  "repeats": 0,
+  "source_id": "lsm_en",
+  "source_name": "LSM (Latvian public media, EN)",
+  "summary": "",
+  "text": "As previously reported, overnight from November 10th to November 11th, there were multiple airspace alerts issued covering much of eastern and central Latvia. The National Armed Forces (NBS) has now outlined what prompted the alerts to be issued and withdrawn.",
+  "tier": "news",
+  "title": "Latvian armed forces outline reasons for multiple drone alerts",
+  "uid": "7bf7af52028b1c86",
+  "url": "https://eng.lsm.lv/article/society/defence/11.11.2026-latvian-armed-forces-outline-reasons-for-multiple-drone-alerts.a671452/?utm_source=rss&utm_campaign=rss&utm_medium=links",
+  "warning": false
  }
 ]
