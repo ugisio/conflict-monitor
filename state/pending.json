@@ -796,5 +796,26 @@
   "uid": "e24188772395728c",
   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1WLW9PNEd0M3NaME5FZVVhalh1dElOZE9MVzUzeTBuTWIteTRrZkktRlNmbEZkb2htVkdnblN0ZTZEQlNQVTJQRlhQOGNLREdNTDR5dG9PMFk2dDE2UzV3OE5FcVpzQlBacUNfRGZB?oc=5",
   "warning": false
+ },
+ {
+  "first_seen": "2026-11-11T11:01:32+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-11-11T10:37:29+00:00",
+  "reason": "region: latvia, lithuania · matched “drone” · another report of a story already in the channel",
+  "repeat_of": "RAF Mildenhall Evacuation: Would an Iranian Strike Trigger NATO Article 5? - Diplomacy and Law",
+  "repeats": 0,
+  "source_id": "gnews_latvia_security",
+  "source_name": "Google News — Latvia security",
+  "summary": "",
+  "text": "Unidentified drones enter airspace of Latvia and Lithuania وكالة سبأ",
+  "tier": "news",
+  "title": "Unidentified drones enter airspace of Latvia and Lithuania - وكالة سبأ",
+  "uid": "73813a059f9e39ba",
+  "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5wYl9ETmVPaHZvQmdoZGdFNnJaNTRyY3pkbmtpUWgwbTlqYU1TTzk2T0xlZGRjcXFRX09xLS1iclFaeUsxRkRITndiNmt0V25DZWFoZXVwMzk?oc=5",
+  "warning": false
  }
 ]
