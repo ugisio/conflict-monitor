@@ -250,7 +250,7 @@
  },
  {
   "level": 2,
-  "n": 28,
+  "n": 32,
   "source": "Google News — NATO & the Baltics",
   "stems": [
    "above",
@@ -262,6 +262,7 @@
    "alert",
    "anado",
    "artic",
+   "attem",
    "brief",
    "cause",
    "dauga",
@@ -275,24 +276,23 @@
    "expor",
    "fight",
    "fires",
+   "follo",
    "incur",
+   "inter",
    "irani",
    "issue",
    "later",
    "lifte",
    "ludza",
+   "major",
    "massi",
    "milde",
    "munic",
+   "night",
    "orang",
    "overn",
-   "possi",
-   "poten",
-   "scram",
-   "shelt",
-   "shuts",
-   "sight",
-   "slava"
+   "place",
+   "possi"
   ],
   "title": "RAF Mildenhall Evacuation: Would an Iranian Strike Trigger NATO Article 5? - Diplomacy and Law",
   "ts": "2026-11-10T12:01:37+00:00"
@@ -442,5 +442,17 @@
   ],
   "title": "Russia arrests two suspected Polish spies in Kaliningrad, Ifx reports - TVP World",
   "ts": "2026-11-11T06:31:20+00:00"
+ },
+ {
+  "level": 2,
+  "n": 1,
+  "source": "Google News — Latvia security",
+  "stems": [
+   "claim",
+   "netwo",
+   "uncov"
+  ],
+  "title": "Russia Claims to Have Uncovered Polish Spy Network in Kaliningrad Region - REFORM.news",
+  "ts": "2026-11-11T09:01:40+00:00"
  }
 ]
