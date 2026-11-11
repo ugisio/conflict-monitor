@@ -1069,5 +1069,26 @@
   "uid": "f2af47fa8f6e0aaa",
   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxONzZzTVFOSlQzSDRhMGszWDE2MXRuTzR6UXFoZWgzN2dOY01uenlEZnBPY1hUd0hQNmdYOTRTQmVsZnlrQjUwVWdDSzhuMjhXMG9XcW9zTmtTaUt5ZWVjeDNiX21QWGh5RjlGd3Y5a1B1T1lrVGp2VFFYeEVCd2lvWWJZb0FYcHJyUXJZOGlyWHIzeFlkYmc2V2dWUk5venY3aUtGcmtyc3JQWTdZV1EzeU9QWFc1VWdIRm04X2V1MGxreHZleUpMQnR2T3NaeldsY3lCampHdw?oc=5",
   "warning": false
+ },
+ {
+  "first_seen": "2026-11-11T14:01:28+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-11-11T13:30:00+00:00",
+  "reason": "region: baltic, russia · matched “Attack Sparks Fire at Russia's Key Baltic” · single source, held at WATCH until another source corroborates · another report of a story already in the channel",
+  "repeat_of": "NATO Fighter Jets Twice Fail to Shoot Down Unknown Drone Over Lithuania - Мілітарний",
+  "repeats": 0,
+  "source_id": "gnews_latvia_security",
+  "source_name": "Google News — Latvia security",
+  "summary": "",
+  "text": "Ukrainian Drone Attack Sparks Fire at Russia's Key Baltic Oil Export Hub Crude Oil Prices Today | OilPrice.com",
+  "tier": "news",
+  "title": "Ukrainian Drone Attack Sparks Fire at Russia's Key Baltic Oil Export Hub - Crude Oil Prices Today | OilPrice.com",
+  "uid": "fd97482dde6631f5",
+  "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNWGkyXzk2S2ROZHJETlhVSUlSV25vZGk4ZTQ4WUwxejdoaXUtR25CRmhsSlVfRExhdGtWb3JCdGU4cGlyQkRZSVFGWjJLQk5ZR1E0d3VHdGszUm92Qmp6T2xmNFRORXBsMllhdGk4aVZqazFBUHhHOEI3NmhJR2U1QUtYMzgwekNGQWx3ZXdpQkNiOFlfekEyaDNnTFVzVnh0eF9XMW9kMHJoRU9iTGNUM0dvN3BoUHppYXFFVUR2LWJjVHlxbUHSAcsBQVVfeXFMT3RxUkxUVlZreGM1bC0tT1h2SWZQRDVpVS1zQmw2a0VzVXNMSGZPR3Fxd3RUOXFhVDBJWEdwemI1aVVDeHhVeFVfekFpWVlteXVXNnhMMnctXy1rUC0xNk1jRjdBaXF4UEFDbnRFa0VWNHBsYTRueXNJdzh2UExVTWNNUVpfQkotVW5TTXZ5R2JsbHFNV3JMNmdfSHR6akVNcFBXMXRvTUhESlpfRmVTc0xWYVZ4R2NkbVhKZUY5LUZpVlU2ZDFiYVVvOFU?oc=5",
+  "warning": false
  }
 ]
