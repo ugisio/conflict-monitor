@@ -311,17 +311,27 @@
   "ts": "2026-11-10T12:01:37+00:00"
  },
  {
-  "level": 1,
-  "n": 1,
+  "level": 2,
+  "n": 3,
   "source": "ERR News (Estonia, EN)",
   "stems": [
    "ahead",
+   "appro",
+   "armed",
+   "condi",
+   "drone",
+   "expla",
    "fight",
+   "force",
    "girls",
-   "kickb"
+   "kickb",
+   "opera",
+   "shoot",
+   "twice",
+   "unkno"
   ],
-  "title": "Estonian kickboxer ahead of WBC fight: More girls than boys in the gym now",
-  "ts": "2026-11-10T14:31:22+00:00"
+  "title": "NATO Fighter Jets Twice Fail to Shoot Down Unknown Drone Over Lithuania - Мілітарний",
+  "ts": "2026-11-11T12:01:41+00:00"
  },
  {
   "level": 2,
@@ -374,14 +384,23 @@
  },
  {
   "level": 2,
-  "n": 1,
+  "n": 3,
   "source": "LSM (Latvian public media, EN)",
   "stems": [
    "alert",
+   "compa",
    "dauga",
+   "drone",
+   "enter",
+   "issue",
+   "launc",
    "ludza",
    "munic",
+   "offen",
+   "outle",
+   "overn",
    "possi",
+   "shelt",
    "slava"
   ],
   "title": "Air threat alert in Ludza municipality of Latvia; possible air threat alert in Augšdaugava and Krāslava municipalities",
