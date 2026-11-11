@@ -61,5 +61,26 @@
   "uid": "f65b04d0b130b1b1",
   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxObEduSk9pc1dxVTBvZ2dfZzhvRkViZEFtZXNscEl1YTQ5dWxzTmJNOEVvRWNWQVg0eGgyaFk4S3l2M1pWeXZOMFBEVUQ4TTFmUHZZYzVwbnJKMWNZNHZTLTlSQ001TUlWTXVja2h3Yjdjb0NBcWhySVhEdFJidW0za2E3MFVSVnY0YUxvSmlOLUZjOTdJdmdaa1d5UG9pd3Z6SUpaYU9USUFzZ2dMbXVPWGRZSW9GQmNIUmhPWm03YnNQMGpUT0piMDY4Y2dJQm8?oc=5",
   "warning": false
+ },
+ {
+  "first_seen": "2026-11-11T22:31:16+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-11-11T22:01:00+00:00",
+  "reason": "region: baltic, russia · matched “attack triggers fire in Russia’s Baltic” · single source, held at WATCH until another source corroborates · another report of a story already in the channel",
+  "repeat_of": "NATO Fighter Jets Twice Fail to Shoot Down Unknown Drone Over Lithuania - Мілітарний",
+  "repeats": 0,
+  "source_id": "gnews_latvia_security",
+  "source_name": "Google News — Latvia security",
+  "summary": "",
+  "text": "Drone attack triggers fire in Russia’s Baltic port of Ust-Luga, Ukraine says it launched attack The Straits Times",
+  "tier": "news",
+  "title": "Drone attack triggers fire in Russia’s Baltic port of Ust-Luga, Ukraine says it launched attack - The Straits Times",
+  "uid": "4454517b84d68f93",
+  "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUFA0Q0NfWk1SaGtMb2pOYV85QWptTTVZNldNVS1CclV2LUpTbjNGbE5HY2J6aFFXME1WZGZLQ0VydnNsTFljOVdwamhscEEwb0g1d0hHandjZndhamZ4YmtqVjExaHdqSXFSUjd0UjFfR25KckZCQjMwc29VSGowSXZBaGpSQ3dYOVNUNTBaMnhSQmlUQ2wycjUtSDRZTTNtNTlzNVJ5SlRuVVZodFhpSlRFVkpPYU5xQVRBQXU1Qkd2ckNER3FjSkR1ek5nVTdy?oc=5",
+  "warning": false
  }
 ]
