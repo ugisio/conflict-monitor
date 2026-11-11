@@ -250,10 +250,11 @@
  },
  {
   "level": 2,
-  "n": 8,
+  "n": 9,
   "source": "Google News — NATO & the Baltics",
   "stems": [
    "acros",
+   "activ",
    "airsp",
    "alert",
    "artic",
@@ -261,6 +262,7 @@
    "decla",
    "drone",
    "engli",
+   "escal",
    "evacu",
    "fight",
    "irani",

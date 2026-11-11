@@ -250,5 +250,26 @@
   "uid": "c55312b4cec4cffb",
   "url": "https://t.me/astrapress/130738",
   "warning": false
+ },
+ {
+  "first_seen": "2026-11-11T04:01:20+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-11-11T00:23:51+00:00",
+  "reason": "region: latvia, belarus · matched “Threat” · another report of a story already in the channel",
+  "repeat_of": "RAF Mildenhall Evacuation: Would an Iranian Strike Trigger NATO Article 5? - Diplomacy and Law",
+  "repeats": 0,
+  "source_id": "gnews_latvia_security",
+  "source_name": "Google News — Latvia security",
+  "summary": "",
+  "text": "Latvia Activates Air Defenses as Belarus Airspace Threat Escalates Demokratis.co.id",
+  "tier": "news",
+  "title": "Latvia Activates Air Defenses as Belarus Airspace Threat Escalates - Demokratis.co.id",
+  "uid": "b2e3d6f387e5e8e9",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBnSi00ODQydUdjeXE1aGZRNEd1aktnV2xpTWk1bzdkUXNTemswWWZvLWgxQ3pqdzNqcHBoN0tmWE90UzFraVB1dDZJNzNkMEdXbXZKN044NEFNNkJTRXRUNjNKNVlYU2ZSNmc?oc=5",
+  "warning": false
  }
 ]
