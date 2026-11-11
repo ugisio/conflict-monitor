@@ -138,17 +138,21 @@
  },
  {
   "level": 2,
-  "n": 5,
+  "n": 7,
   "source": "ASTRA",
   "stems": [
    "актив",
+   "амери",
    "антон",
    "атаки",
+   "атако",
    "балти",
    "брита",
    "бывши",
+   "велик",
    "видно",
    "власт",
+   "военн",
    "война",
    "восст",
    "высту",
@@ -157,10 +161,14 @@
    "годам",
    "горит",
    "горсо",
+   "губер",
    "дании",
    "депут",
    "дипло",
+   "дрозд",
    "дроно",
+   "дроны",
+   "задер",
    "зарев",
    "захот",
    "здрав",
@@ -172,15 +180,7 @@
    "ленин",
    "лондо",
    "мечта",
-   "морск",
-   "облас",
-   "однак",
-   "остан",
-   "пионе",
-   "пожар",
-   "покин",
-   "порта",
-   "порто"
+   "морск"
   ],
   "title": "Калининградский активист Антон Гендриксон покинул Россию из-за угрозы уголовного преследования Бывший депутат горсовета Пионерского Антон Ге…",
   "ts": "2026-11-10T07:01:35+00:00"
@@ -250,7 +250,7 @@
  },
  {
   "level": 2,
-  "n": 10,
+  "n": 12,
   "source": "Google News — NATO & the Baltics",
   "stems": [
    "acros",
@@ -258,6 +258,7 @@
    "airsp",
    "alert",
    "artic",
+   "cause",
    "dauga",
    "decla",
    "drone",
@@ -265,6 +266,7 @@
    "escal",
    "evacu",
    "fight",
+   "incur",
    "irani",
    "issue",
    "ludza",
@@ -368,5 +370,18 @@
   ],
   "title": "Russia's presence in the Baltic Sea has reached its peak, says the commander of the Finnish Navy - LIGA.net",
   "ts": "2026-11-11T02:01:35+00:00"
+ },
+ {
+  "level": 2,
+  "n": 1,
+  "source": "Google News — Latvia security",
+  "stems": [
+   "detec",
+   "image",
+   "large",
+   "space"
+  ],
+  "title": "Russia reports attack on its largest Baltic port. Fire detected from space – image - LIGA.net",
+  "ts": "2026-11-11T06:01:34+00:00"
  }
 ]
