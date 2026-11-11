@@ -312,7 +312,7 @@
  },
  {
   "level": 2,
-  "n": 5,
+  "n": 6,
   "source": "ERR News (Estonia, EN)",
   "stems": [
    "ahead",
@@ -320,6 +320,7 @@
    "appro",
    "armed",
    "condi",
+   "cover",
    "drone",
    "expla",
    "fight",
@@ -328,6 +329,7 @@
    "issue",
    "kickb",
    "opera",
+   "probl",
    "scram",
    "shoot",
    "strik",

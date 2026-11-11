@@ -1048,5 +1048,26 @@
   "uid": "85dc65b90eccded3",
   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONEp4cDhpcFFGZFNoWURFLS1xVnZLaXlCWGJSSFlhRy1paDdWZXpDWEMwdUZGWVhlajdXZEs4c2NGNHVEaEFFY0lQUzdYOU9SM1Z1djhheEtDemZQSm9JMTloaDEtNHcyd2Ixb1gxcTRRb0NlV0xWMV9lalM2dFVfVlZQQUJiZlpRTjdnZHRvTFI?oc=5",
   "warning": false
+ },
+ {
+  "first_seen": "2026-11-11T13:31:15+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-11-10T13:15:28+00:00",
+  "reason": "region: baltic, nato · matched “Drone” · another report of a story already in the channel",
+  "repeat_of": "NATO Fighter Jets Twice Fail to Shoot Down Unknown Drone Over Lithuania - Мілітарний",
+  "repeats": 0,
+  "source_id": "gnews_nato",
+  "source_name": "Google News — NATO & the Baltics",
+  "summary": "",
+  "text": "NATO Has A Problem: Baltic Countries Issue Alerts Warning Citizens to 'Take Cover' from Ukraine War Drones National Security Journal",
+  "tier": "news",
+  "title": "NATO Has A Problem: Baltic Countries Issue Alerts Warning Citizens to 'Take Cover' from Ukraine War Drones - National Security Journal",
+  "uid": "f2af47fa8f6e0aaa",
+  "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxONzZzTVFOSlQzSDRhMGszWDE2MXRuTzR6UXFoZWgzN2dOY01uenlEZnBPY1hUd0hQNmdYOTRTQmVsZnlrQjUwVWdDSzhuMjhXMG9XcW9zTmtTaUt5ZWVjeDNiX21QWGh5RjlGd3Y5a1B1T1lrVGp2VFFYeEVCd2lvWWJZb0FYcHJyUXJZOGlyWHIzeFlkYmc2V2dWUk5venY3aUtGcmtyc3JQWTdZV1EzeU9QWFc1VWdIRm04X2V1MGxreHZleUpMQnR2T3NaeldsY3lCampHdw?oc=5",
+  "warning": false
  }
 ]
