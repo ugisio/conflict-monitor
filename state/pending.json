@@ -229,5 +229,26 @@
   "uid": "caa0e2e0d3282029",
   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOYWROdmVaMFlvQkR5LUQzZkNleDFibkozbHdqcUg1MzZGSzRBSGp1ZUl6OVdTUUcwRWRXaVVuNDl3bXVRSjlrNHQ5eW0tLWMtckhsOUpXcUpkLXZPeXpkTUprSnZ1Yk4waUZqZmdqVWI2bHRJbERLZkhYMHBRd0RoMGgwRWV2Vnp5aEJhSjRzYklHcVNfRFNIVjhoQjZIeUMxZGRCNzVBNXA0MVJTa3owUkhua3pUR0lZemFDSjU2QWRCRVZXYzBDdW9n0gHPAUFVX3lxTFBJeTRXekRzWUR5alNCbS1WS2lLUmEtaENWRFFJcngwS0hQUVFZRFRUc1M3amszcmhyRVV4MUJ4T19vUlZWVTBxUVNxdF93bXFQZWJJLUw0VEQ2aWNPMHRlM0NMY1A1bURSZnhlbm01anFKdG93SEt4NzVEaWlURktlMGliTUVIYWFqdXBnbU1lTGFLbHN0aWxRZFVOTkw2dFBjRjVUR3JpLURXbTA0RkhfaXlSLUU5LWJNWFhKaXdSNTYweGJYQlhtZDBMSDdGdw?oc=5",
   "warning": false
+ },
+ {
+  "first_seen": "2026-11-11T03:31:16+00:00",
+  "kind": "post",
+  "lang": "ru",
+  "level": 2,
+  "note": "RU, independent; incidents inside Russia (Pskov, Leningrad region, Kaliningrad)",
+  "posted": false,
+  "published": "2026-11-11T03:22:04+00:00",
+  "reason": "region: балти, ленинградск, росси · matched “дрон (in text)” · another report of a story already in the channel",
+  "repeat_of": "Калининградский активист Антон Гендриксон покинул Россию из-за угрозы уголовного преследования Бывший депутат горсовета Пионерского Антон Ге…",
+  "repeats": 0,
+  "source_id": "tg_astra",
+  "source_name": "ASTRA",
+  "summary": "",
+  "text": "В Ленинградской области пожар в районе порта Усть-Луга. Это один из самых крупных морских торговых портов России на Балтийском море Читатели ASTRA делятся видео масштабного пожара из Кингисеппского района Ленобласти. Ранее в регионе объявляли опасность дронов…",
+  "tier": "osint",
+  "title": "В Ленинградской области пожар в районе порта Усть-Луга. Это один из самых крупных морских торговых портов России на Балтийском море Читатели…",
+  "uid": "c55312b4cec4cffb",
+  "url": "https://t.me/astrapress/130738",
+  "warning": false
  }
 ]
