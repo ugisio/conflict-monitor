@@ -985,5 +985,26 @@
   "uid": "770373bb8b5a84a5",
   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNeFNucUV0YldsUUlyQmM4WkNCSmJnS0diRldRcVdTQml2TDJqanRKREMwQjhObThGcWNxbTFnTUdmRU42RGd1YzdiREpxbEp2Vy1tbXNHMXVxVmdldmFES2d2SW80d2xYamFBbzZpbjdCNTJCQWs5VUhHVExLeDJ0RlByV2NSRHNnRU9jWVR4VXFtQ3Vnb3BaUlhIdDNZZHRMbmFqblp0QjR1V2kxblN2OHhrQk1ycm13endsQlBZWTItT3o0QzZYVDJCVU1XMGt2d3R0cmYzQQ?oc=5",
   "warning": false
+ },
+ {
+  "first_seen": "2026-11-11T12:31:14+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-11-11T12:04:25+00:00",
+  "reason": "region: baltic, nato, russia · matched “drone” · another report of a story already in the channel",
+  "repeat_of": "NATO Fighter Jets Twice Fail to Shoot Down Unknown Drone Over Lithuania - Мілітарний",
+  "repeats": 0,
+  "source_id": "gnews_latvia_security",
+  "source_name": "Google News — Latvia security",
+  "summary": "",
+  "text": "Baltic nations issue drone alerts and NATO scrambles jets as Russia, Ukraine trade strikes The Globe and Mail",
+  "tier": "news",
+  "title": "Baltic nations issue drone alerts and NATO scrambles jets as Russia, Ukraine trade strikes - The Globe and Mail",
+  "uid": "6aa15ff819c22cd6",
+  "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNR2pyWE52Uzg5US1XM1FJMXhiemdDc2p3dThQT2pRWEItRVZYMXdPRUNjWVVPSVFhSVBHQnJEeEFwVWRlM0I5Wm91cjZXdUtqNVVycUNzS1pwRk9JNGc2cGpxZkVSTHVkVnpoVHFLV1pLMTE2UmJORDdzU1lkTmJpYl9UY3BKMEFYSGNkT3BoQm1KdFAwT2taOGxkMktQTG9ManFTZy1oVVc?oc=5",
+  "warning": false
  }
 ]

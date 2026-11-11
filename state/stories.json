@@ -312,10 +312,11 @@
  },
  {
   "level": 2,
-  "n": 3,
+  "n": 4,
   "source": "ERR News (Estonia, EN)",
   "stems": [
    "ahead",
+   "alert",
    "appro",
    "armed",
    "condi",
@@ -324,9 +325,13 @@
    "fight",
    "force",
    "girls",
+   "issue",
    "kickb",
    "opera",
+   "scram",
    "shoot",
+   "strik",
+   "trade",
    "twice",
    "unkno"
   ],
