@@ -1,1 +1,44 @@
-[]
+[
+ {
+  "first_seen": "2026-11-11T19:31:08+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-11-11T12:59:03+00:00",
+  "reason": "region: kaliningrad, russia · matched “Spy” · another report of a story already in the channel",
+  "repeat_of": "Russia arrests two suspected Polish spies in Kaliningrad, Ifx reports - TVP World",
+  "repeats": 0,
+  "source_id": "gnews_latvia_security",
+  "source_name": "Google News — Latvia security",
+  "summary": "",
+  "text": "Russia’s FSB Claims to Have Uncovered Polish Spy Network in Kaliningrad, Warsaw Calls It a Provocation Мілітарний",
+  "tier": "news",
+  "title": "Russia’s FSB Claims to Have Uncovered Polish Spy Network in Kaliningrad, Warsaw Calls It a Provocation - Мілітарний",
+  "uid": "c67b477988493366",
+  "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZ050MmxwSDVZZ3pkNVdiWVJpYVI0WEJ3cFlpb29nQ2NnZXI2OEVsd3BrNkpnejgzQjMtVmltNVNRVVdlOGUzWllDTVo2eEdlNG1MMlM3ckh3ZXloRzk2SEJ0UUdFa0ZPOGlnRDd2V0sweFFqZHF4Y3U0eVpPM3JrMzg3Q2wwMjVIM210UVBDdldMNzdnb01VZXJlUHdXdHBRX0FLRXlxc2dwYkw1dDRZVHhIaFNjV2FCX1lnV1JNWnFVeWoyZnhWVkhOemFydw?oc=5",
+  "warning": false
+ },
+ {
+  "first_seen": "2026-11-11T19:31:08+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-11-11T15:08:33+00:00",
+  "reason": "region: kaliningrad, russia · matched “arrests two Polish spies in Kaliningrad as espionage” · another report of a story already in the channel",
+  "repeat_of": "Russia arrests two suspected Polish spies in Kaliningrad, Ifx reports - TVP World",
+  "repeats": 0,
+  "source_id": "gnews_latvia_security",
+  "source_name": "Google News — Latvia security",
+  "summary": "",
+  "text": "Russia arrests two Polish spies in Kaliningrad as espionage showdown between the two countries intensifies 파이낸셜뉴스",
+  "tier": "news",
+  "title": "Russia arrests two Polish spies in Kaliningrad as espionage showdown between the two countries intensifies - 파이낸셜뉴스",
+  "uid": "498d4e9e1eda197e",
+  "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAzZE5BNHUtelBJeXdCOXo2RHFKcnBpYVRKazFoYTRkTzZQTmRxMlFzcW5nbmo3M09aUDBwUUxQU0pJbXBHSE1wZXNRdXZxTmVocHF2RmZkM1Q?oc=5",
+  "warning": false
+ }
+]

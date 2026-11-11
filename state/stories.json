@@ -488,22 +488,31 @@
  },
  {
   "level": 2,
-  "n": 8,
+  "n": 10,
   "source": "Google News — Latvia security",
   "stems": [
    "arres",
+   "betwe",
+   "calls",
    "claim",
    "detai",
    "downp",
+   "espio",
    "indep",
+   "inten",
    "inter",
    "lisbo",
+   "netwo",
    "portu",
+   "provo",
    "regre",
    "rutte",
+   "showd",
    "slams",
    "spies",
-   "suspe"
+   "suspe",
+   "uncov",
+   "warsa"
   ],
   "title": "Russia arrests two suspected Polish spies in Kaliningrad, Ifx reports - TVP World",
   "ts": "2026-11-11T06:31:20+00:00"
