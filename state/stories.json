@@ -247,7 +247,7 @@
  },
  {
   "level": 2,
-  "n": 5,
+  "n": 6,
   "source": "Google News — NATO & the Baltics",
   "stems": [
    "airsp",
@@ -267,7 +267,8 @@
    "poten",
    "slava",
    "strik",
-   "trigg"
+   "trigg",
+   "world"
   ],
   "title": "RAF Mildenhall Evacuation: Would an Iranian Strike Trigger NATO Article 5? - Diplomacy and Law",
   "ts": "2026-11-10T12:01:37+00:00"

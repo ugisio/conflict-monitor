@@ -124,5 +124,26 @@
   "uid": "2c4d030ed30310f2",
   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQcHczN3FnVlJDbDEwZ2JkaG11LWdIVkdqOWlBWWl5cEp0d2ZkYkFHck1iVnNoZ2U3eTJtSExuQ09iQlczMW1FNG5sZl9XU3FkZTEzMkotNDRFQW5oUVNYUDh3VGRvaTZHTGJTVjVjSlV1cHRUWlFmdWVVR3VOQzdZSDJNblRsRnlJblZTUkljTlBOaDNkR1E?oc=5",
   "warning": false
+ },
+ {
+  "first_seen": "2026-11-11T00:31:17+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-11-11T00:05:25+00:00",
+  "reason": "region: latvia, lithuania, belarus · matched “threat” · another report of a story already in the channel",
+  "repeat_of": "RAF Mildenhall Evacuation: Would an Iranian Strike Trigger NATO Article 5? - Diplomacy and Law",
+  "repeats": 0,
+  "source_id": "gnews_latvia_security",
+  "source_name": "Google News — Latvia security",
+  "summary": "",
+  "text": "Latvia and Lithuania issue airspace threat warning near Belarus border | World News Hindustan Times",
+  "tier": "news",
+  "title": "Latvia and Lithuania issue airspace threat warning near Belarus border | World News - Hindustan Times",
+  "uid": "ebbc23bb588d3d18",
+  "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNb1lyOHJVTHUyN2RQR1F3M2QwQWZiWGZySnFodFU1RmFVUF84R0hsUnJxQl9KZWU1ZUk4dm9iR0Y4SFljYmNTaWVhUVpUd3dlNFp5OFpiNDlRbnNNV1ZIOTlPdmxEd1JKODFyWlJDVG9HX0xydWJSQWlvYWxfaUQzX19kRDRwN1BjMTk0d1pXVF9Ud1lvSGJxX2ZRYUllRzVXQ21FV2NKcVozX01rRHkzRHJ5UFV3WWNCQndMMk1sOE51VkhRbWNBSEx5WnhSd9IB0wFBVV95cUxPRnJXVFZRTm9qVmtMd2xEN2YzbmNfUlQ0aFhvVXBmRjV6am9GelJoVUh4Q0JjZE5TY3RmY3owVjRrTVZnN2VaaGtCcFBGUWVDLU9FY3NzNkdwSTBOM3NRWm5UalJjTDhpTkxNdDBWb05VbUQ0MUdqLWoxN0VHdVB2bVBhbGZfaUQ0SVN0d2x0V0NvdXhvUXZEMFlLN05CRjgyMk1xZmVUc2RxNnAtRWVyOVR6MXd2R0djNjVSR1A1ZUVuWDA3U2N3Z1AwSGlaNkFZNmZr?oc=5",
+  "warning": false
  }
 ]
