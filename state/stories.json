@@ -229,11 +229,13 @@
  },
  {
   "level": 2,
-  "n": 5,
+  "n": 7,
   "source": "Google News — Latvia security",
   "stems": [
    "alert",
    "armed",
+   "artic",
+   "basic",
    "begin",
    "condu",
    "cross",
@@ -241,14 +243,19 @@
    "drone",
    "evacu",
    "exerc",
+   "facts",
+   "fight",
    "force",
    "holds",
    "hunti",
+   "incid",
+   "lates",
    "mobil",
    "multi",
    "outli",
    "reaso",
    "subma",
+   "sweep",
    "warfa"
   ],
   "title": "NATO holds submarine-hunting drills in Baltic - Arab News",
@@ -256,7 +263,7 @@
  },
  {
   "level": 2,
-  "n": 32,
+  "n": 33,
   "source": "Google News — NATO & the Baltics",
   "stems": [
    "above",
@@ -283,6 +290,7 @@
    "fight",
    "fires",
    "follo",
+   "gulbe",
    "incur",
    "inter",
    "irani",
@@ -297,8 +305,7 @@
    "night",
    "orang",
    "overn",
-   "place",
-   "possi"
+   "place"
   ],
   "title": "RAF Mildenhall Evacuation: Would an Iranian Strike Trigger NATO Article 5? - Diplomacy and Law",
   "ts": "2026-11-10T12:01:37+00:00"
