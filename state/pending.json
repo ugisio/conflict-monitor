@@ -670,5 +670,26 @@
   "uid": "7bf7af52028b1c86",
   "url": "https://eng.lsm.lv/article/society/defence/11.11.2026-latvian-armed-forces-outline-reasons-for-multiple-drone-alerts.a671452/?utm_source=rss&utm_campaign=rss&utm_medium=links",
   "warning": false
+ },
+ {
+  "first_seen": "2026-11-11T09:31:10+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-11-11T09:12:32+00:00",
+  "reason": "region: kaliningrad, russia · matched “arrests two suspected Polish spies” · another report of a story already in the channel",
+  "repeat_of": "Russia arrests two suspected Polish spies in Kaliningrad, Ifx reports - TVP World",
+  "repeats": 0,
+  "source_id": "gnews_latvia_security",
+  "source_name": "Google News — Latvia security",
+  "summary": "",
+  "text": "Russia says it arrests two suspected Polish spies in Kaliningrad Ammon News",
+  "tier": "news",
+  "title": "Russia says it arrests two suspected Polish spies in Kaliningrad - Ammon News",
+  "uid": "c24aaa0ed5c20037",
+  "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9Cd3V1cTdFcVc3bV90amI0cnBYNElCSDFFVzVTMHdNb2l6Z3pNSkg0c0Y2QWFnbTltRjlDNkhhNTZITHVGaDYxcHNoSlY1Zw?oc=5",
+  "warning": false
  }
 ]
