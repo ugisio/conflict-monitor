@@ -40,5 +40,26 @@
   "uid": "498d4e9e1eda197e",
   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAzZE5BNHUtelBJeXdCOXo2RHFKcnBpYVRKazFoYTRkTzZQTmRxMlFzcW5nbmo3M09aUDBwUUxQU0pJbXBHSE1wZXNRdXZxTmVocHF2RmZkM1Q?oc=5",
   "warning": false
+ },
+ {
+  "first_seen": "2026-11-11T20:01:19+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-11-11T19:46:15+00:00",
+  "reason": "region: baltic, russia · matched “Fleet” · another report of a story already in the channel",
+  "repeat_of": "NATO Fighter Jets Twice Fail to Shoot Down Unknown Drone Over Lithuania - Мілітарний",
+  "repeats": 0,
+  "source_id": "gnews_latvia_security",
+  "source_name": "Google News — Latvia security",
+  "summary": "",
+  "text": "Ukraine Strikes Russian Baltic Fleet Ship Capable of Launching Kalibr and Onyx Missiles UNITED24 Media",
+  "tier": "news",
+  "title": "Ukraine Strikes Russian Baltic Fleet Ship Capable of Launching Kalibr and Onyx Missiles - UNITED24 Media",
+  "uid": "f65b04d0b130b1b1",
+  "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxObEduSk9pc1dxVTBvZ2dfZzhvRkViZEFtZXNscEl1YTQ5dWxzTmJNOEVvRWNWQVg0eGgyaFk4S3l2M1pWeXZOMFBEVUQ4TTFmUHZZYzVwbnJKMWNZNHZTLTlSQ001TUlWTXVja2h3Yjdjb0NBcWhySVhEdFJidW0za2E3MFVSVnY0YUxvSmlOLUZjOTdJdmdaa1d5UG9pd3Z6SUpaYU9USUFzZ2dMbXVPWGRZSW9GQmNIUmhPWm03YnNQMGpUT0piMDY4Y2dJQm8?oc=5",
+  "warning": false
  }
 ]
