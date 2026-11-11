@@ -488,11 +488,13 @@
  },
  {
   "level": 2,
-  "n": 6,
+  "n": 7,
   "source": "Google News — Latvia security",
   "stems": [
    "arres",
+   "claim",
    "detai",
+   "indep",
    "inter",
    "spies",
    "suspe"
