@@ -138,12 +138,14 @@
  },
  {
   "level": 2,
-  "n": 7,
+  "n": 8,
   "source": "ASTRA",
   "stems": [
+   "meduz",
    "актив",
    "амери",
    "антон",
+   "арест",
    "атаки",
    "атако",
    "балти",
@@ -161,8 +163,10 @@
    "годам",
    "горит",
    "горсо",
+   "гражд",
    "губер",
    "дании",
+   "двоих",
    "депут",
    "дипло",
    "дрозд",
@@ -176,11 +180,7 @@
    "импер",
    "калин",
    "конта",
-   "крупн",
-   "ленин",
-   "лондо",
-   "мечта",
-   "морск"
+   "крупн"
   ],
   "title": "Калининградский активист Антон Гендриксон покинул Россию из-за угрозы уголовного преследования Бывший депутат горсовета Пионерского Антон Ге…",
   "ts": "2026-11-10T07:01:35+00:00"
@@ -250,7 +250,7 @@
  },
  {
   "level": 2,
-  "n": 12,
+  "n": 14,
   "source": "Google News — NATO & the Baltics",
   "stems": [
    "acros",
@@ -258,13 +258,16 @@
    "airsp",
    "alert",
    "artic",
+   "brief",
    "cause",
    "dauga",
    "decla",
    "drone",
+   "easte",
    "engli",
    "escal",
    "evacu",
+   "excha",
    "fight",
    "incur",
    "irani",
@@ -277,6 +280,7 @@
    "poten",
    "scram",
    "slava",
+   "south",
    "strik",
    "trigg",
    "unide",
@@ -383,5 +387,28 @@
   ],
   "title": "Russia reports attack on its largest Baltic port. Fire detected from space – image - LIGA.net",
   "ts": "2026-11-11T06:01:34+00:00"
+ },
+ {
+  "level": 2,
+  "n": 1,
+  "source": "ERR News (Estonia, EN)",
+  "stems": [
+   "video",
+   "visib"
+  ],
+  "title": "Video: Fire at Russia's Port of Ust-Luga visible from Estonia",
+  "ts": "2026-11-11T06:31:20+00:00"
+ },
+ {
+  "level": 2,
+  "n": 1,
+  "source": "Google News — Latvia security",
+  "stems": [
+   "arres",
+   "spies",
+   "suspe"
+  ],
+  "title": "Russia arrests two suspected Polish spies in Kaliningrad, Ifx reports - TVP World",
+  "ts": "2026-11-11T06:31:20+00:00"
  }
 ]
