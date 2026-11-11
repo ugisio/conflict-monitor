@@ -312,7 +312,7 @@
  },
  {
   "level": 2,
-  "n": 9,
+  "n": 10,
   "source": "ERR News (Estonia, EN)",
   "stems": [
    "ahead",
@@ -488,14 +488,20 @@
  },
  {
   "level": 2,
-  "n": 7,
+  "n": 8,
   "source": "Google News — Latvia security",
   "stems": [
    "arres",
    "claim",
    "detai",
+   "downp",
    "indep",
    "inter",
+   "lisbo",
+   "portu",
+   "regre",
+   "rutte",
+   "slams",
    "spies",
    "suspe"
   ],
@@ -518,5 +524,24 @@
   ],
   "title": "Russia Claims to Have Uncovered Polish Spy Network in Kaliningrad Region - REFORM.news",
   "ts": "2026-11-11T09:01:40+00:00"
+ },
+ {
+  "level": 1,
+  "n": 1,
+  "source": "ASTRA",
+  "stems": [
+   "безоп",
+   "заяви",
+   "кораб",
+   "нефтя",
+   "ноябр",
+   "ракет",
+   "служб",
+   "терми",
+   "ударе",
+   "украи"
+  ],
+  "title": "СБУ заявила об ударе по нефтяным терминалам в Усть-Луге и ракетному кораблю «Буян-М» в ночь на 11 ноября Служба безопасности Украины заявила…",
+  "ts": "2026-11-11T18:01:34+00:00"
  }
 ]
