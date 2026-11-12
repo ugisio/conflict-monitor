@@ -40,5 +40,26 @@
   "uid": "2f377c563c927a25",
   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQ2JTb1lHWFFBN0NkcF9uSkJ6NkdKUG4xekZvNVREMDh6RlpYckF3ZmlvQ2pOajF4T3RMMUJKVmVxTTVKSnJOQkw2ZUZvb0dtQmY5MTR6eEFIS3VkRWlEa0kzRlYtNUs4UE81VnV2YUxRbF9rdzJvTzJEd0RhZldEMXMyUEtVNmd3S1RPMVplUTU5ZEJRRmVLVUVPOWMyOGNfY2lCeHZB?oc=5",
   "warning": false
+ },
+ {
+  "first_seen": "2026-11-12T10:01:24+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-11-12T09:32:25+00:00",
+  "reason": "region: lithuania, nato · matched “Drone” · another report of a story already in the channel",
+  "repeat_of": "NATO Fighter Jets Twice Fail to Shoot Down Unknown Drone Over Lithuania - Мілітарний",
+  "repeats": 0,
+  "source_id": "gnews_latvia_security",
+  "source_name": "Google News — Latvia security",
+  "summary": "",
+  "text": "Lithuania Drone: NATO Fighters Fire Twice and Miss MiGFlug",
+  "tier": "news",
+  "title": "Lithuania Drone: NATO Fighters Fire Twice and Miss - MiGFlug",
+  "uid": "0e6f1677cf039a9f",
+  "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbEx2VkZSdkxjS3pvSlBzcV9fN0NmdmhBN2Q3WnVJbEdGYnBDTTRlZjE5LVAtR0E1YXVfc3FrUnFFSjAyY2Y2cVRNdnc4eVV3V0ZlNHVacThuTjM5TFNaams4Vm1rM3ZqdU1oYXN5cWhxcXVzaEI0ZU9rUDJWMTFUYThwOXJUT2tjMVVWMTU3bU1TVzMxOEM3MUtROTBqWE9jbVE?oc=5",
+  "warning": false
  }
 ]
