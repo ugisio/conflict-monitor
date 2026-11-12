@@ -145,5 +145,26 @@
   "uid": "f834f5b29e42168e",
   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSlFtVVNRdDRHaERTdGpMVllhVHZLOXlILXVzMkI5dlN6ZWdNQUxNVVZZdUhDY1hXQnlyYS1PNFVLdnk0WFg3XzJNc1MwUFVHQ3NMT3dkTkpFQktUUUhXZmNqamxjMVV6aFZveXNta0kyTUxkZDMwbllzMXlrNllJalhwcU9Cb2xXTWFFeWdBY2dDb3lPbkphcHFDcjBlb2ctQ25YLXlfa3ZWSGp5cGVrY2JTZjZ4MnJVYlFNQ1BWX2h1dGJiamc?oc=5",
   "warning": false
+ },
+ {
+  "first_seen": "2026-11-12T15:31:19+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-11-11T17:03:04+00:00",
+  "reason": "region: kaliningrad, russia · matched “arrests two over suspected Polish espionage”",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "gnews_latvia_security",
+  "source_name": "Google News — Latvia security",
+  "summary": "",
+  "text": "Russia arrests two over suspected Polish espionage in Kaliningrad, issues warnings to 10 others Firstpost",
+  "tier": "news",
+  "title": "Russia arrests two over suspected Polish espionage in Kaliningrad, issues warnings to 10 others - Firstpost",
+  "uid": "fa35250223afd988",
+  "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQbHBSVzhrZi1wbHhJQlhrQWpIbWFMWG0zTVd6RFBzRDFLdUJ4eDB1R1plU0VaS2JzaUJ4MzFSZVpYWDlQRGs5ZHdxMzlDVWoyV1AwazU0S3pXWTJQVF9ieWVEYVJVS3NRMXY2MGdvUl9LbUpYOEc5Tzl3Yi1LRU5kMTc0U3hrNWgzWDJuME5JYkRtaXM3ZzNubVJURWdKc3d5TDB0S25yRWhEYy14ZVFEb0dOeW0yclNNWUQzOU9pdTNfdFNnOWNQVmlQRmNCWTNwTXNLV2p3UdIB3AFBVV95cUxQR3dkeElMRmpjczAwZFFHbzNpNk5KYms2YUZ4RzRjb3ViTk9kcmFRZENkRDR3Um16XzlRbmpsSi1jc09VY3I1ZHBTOTZ4QkNPUnlRMUtZRnRGUlBTczRkRGptekNLNGhJc0wwcTNpZ0p6eHEzWmYtMG1KM2hsbjZvenl5T3NaZHBDbURYVDJWSEFjYUJNNzlDSUEweTJOSnBDQXNBZFEyOHd3RE41ajVpZ3VuY2c4WUlETW5vVUlmM1k3MVVWeS1POTB3V0tRQ2QyU0duWWhtd01XMDJH?oc=5",
+  "warning": false
  }
 ]
