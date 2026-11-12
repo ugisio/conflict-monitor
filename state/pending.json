@@ -19,5 +19,26 @@
   "uid": "68efb6a7eb62692a",
   "url": "https://news.err.ee/1610193178/defense-minister-drones-entered-estonian-airspace-from-northeast-and-southeast",
   "warning": false
+ },
+ {
+  "first_seen": "2026-11-12T08:01:20+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-11-12T07:28:00+00:00",
+  "reason": "region: baltic, russia · matched “drone” · another report of a story already in the channel",
+  "repeat_of": "NATO Fighter Jets Twice Fail to Shoot Down Unknown Drone Over Lithuania - Мілітарний",
+  "repeats": 0,
+  "source_id": "gnews_latvia_security",
+  "source_name": "Google News — Latvia security",
+  "summary": "",
+  "text": "Ukraine claims drone hit on Russian Baltic warship TVP World",
+  "tier": "news",
+  "title": "Ukraine claims drone hit on Russian Baltic warship - TVP World",
+  "uid": "2f377c563c927a25",
+  "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQ2JTb1lHWFFBN0NkcF9uSkJ6NkdKUG4xekZvNVREMDh6RlpYckF3ZmlvQ2pOajF4T3RMMUJKVmVxTTVKSnJOQkw2ZUZvb0dtQmY5MTR6eEFIS3VkRWlEa0kzRlYtNUs4UE81VnV2YUxRbF9rdzJvTzJEd0RhZldEMXMyUEtVNmd3S1RPMVplUTU5ZEJRRmVLVUVPOWMyOGNfY2lCeHZB?oc=5",
+  "warning": false
  }
 ]

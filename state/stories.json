@@ -203,7 +203,7 @@
  },
  {
   "level": 2,
-  "n": 13,
+  "n": 14,
   "source": "ERR News (Estonia, EN)",
   "stems": [
    "ahead",
@@ -212,6 +212,7 @@
    "appro",
    "armed",
    "capab",
+   "claim",
    "condi",
    "cover",
    "crude",
@@ -244,8 +245,7 @@
    "today",
    "trade",
    "trigg",
-   "twice",
-   "unkno"
+   "twice"
   ],
   "title": "NATO Fighter Jets Twice Fail to Shoot Down Unknown Drone Over Lithuania - Мілітарний",
   "ts": "2026-11-11T12:01:41+00:00"
