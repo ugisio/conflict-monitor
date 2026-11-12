@@ -124,5 +124,26 @@
   "uid": "a04de5e40c82e76f",
   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdzd0UVJYcEVlWldGNjR4a0xzUklWS256Y0d6UlRySEd2bzVlbmo2OHpMX011VDdmX2NiZXlrbkJMVmxHSm5raHZFdWczRkhKcWlWR2FWY2dOVHVMLTllTEZ6bWFiUkV3WHlpX2V2LVFXX1NBdmV1SWhUeHZwdHhPR3hFSi1yZmNhLVprNm8xdE53d2NKRmc?oc=5",
   "warning": false
+ },
+ {
+  "first_seen": "2026-11-12T14:01:29+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-11-12T13:43:53+00:00",
+  "reason": "region: baltic, russia · matched “strike on Russian warship in Baltic” · single source, held at WATCH until another source corroborates",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "gnews_latvia_security",
+  "source_name": "Google News — Latvia security",
+  "summary": "",
+  "text": "Finland says it detects strike on Russian warship in Baltic Sea Internazionale",
+  "tier": "news",
+  "title": "Finland says it detects strike on Russian warship in Baltic Sea - Internazionale",
+  "uid": "f834f5b29e42168e",
+  "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSlFtVVNRdDRHaERTdGpMVllhVHZLOXlILXVzMkI5dlN6ZWdNQUxNVVZZdUhDY1hXQnlyYS1PNFVLdnk0WFg3XzJNc1MwUFVHQ3NMT3dkTkpFQktUUUhXZmNqamxjMVV6aFZveXNta0kyTUxkZDMwbllzMXlrNllJalhwcU9Cb2xXTWFFeWdBY2dDb3lPbkphcHFDcjBlb2ctQ25YLXlfa3ZWSGp5cGVrY2JTZjZ4MnJVYlFNQ1BWX2h1dGJiamc?oc=5",
+  "warning": false
  }
 ]
