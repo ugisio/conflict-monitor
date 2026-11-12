@@ -103,5 +103,26 @@
   "uid": "626faf584da0c813",
   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQV1dLbXA2aVd6TFFvbHRzbF9PdTNsSGQ0NUVGQ2FJbm1UblZGdHVmVkZQU0lIX0VPbmtILVhNLTN3b0ZkN2NFVVRwX2hqMzJONnlTVDJvSnpxbGRxTHNsdEljMld4dExrclBNeXVRa3I1YTlJS2tmaENhTUZNekV6azBJa3ZZS0tRNWRXVnpaUnp5U3VNSktUSW1PUTN6MEI5d0FGNG5sNDFSNU55bU9DRU1LOTdkbVo3UE0wM1cydzdfZUhOMkExZWpRTVJuS2tYWERfaG5FRzVDQ2pCV3c0dDdXb1c?oc=5",
   "warning": false
+ },
+ {
+  "first_seen": "2026-11-12T12:01:32+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-11-11T14:54:51+00:00",
+  "reason": "region: baltic, russia · matched “drone”",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "gnews_latvia_security",
+  "source_name": "Google News — Latvia security",
+  "summary": "",
+  "text": "Ukrainian drones reportedly hit Russia’s Ust-Luga Baltic Sea port Gwara Media",
+  "tier": "news",
+  "title": "Ukrainian drones reportedly hit Russia’s Ust-Luga Baltic Sea port - Gwara Media",
+  "uid": "a04de5e40c82e76f",
+  "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdzd0UVJYcEVlWldGNjR4a0xzUklWS256Y0d6UlRySEd2bzVlbmo2OHpMX011VDdmX2NiZXlrbkJMVmxHSm5raHZFdWczRkhKcWlWR2FWY2dOVHVMLTllTEZ6bWFiUkV3WHlpX2V2LVFXX1NBdmV1SWhUeHZwdHhPR3hFSi1yZmNhLVprNm8xdE53d2NKRmc?oc=5",
+  "warning": false
  }
 ]
