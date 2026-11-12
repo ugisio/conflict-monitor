@@ -427,17 +427,23 @@
  },
  {
   "level": 2,
-  "n": 1,
+  "n": 2,
   "source": "Google News — Latvia security",
   "stems": [
-   "drone"
+   "allie",
+   "battl",
+   "briga",
+   "bring",
+   "drone",
+   "exper",
+   "warfa"
   ],
   "title": "Ukrainian drones reportedly hit Russia’s Ust-Luga Baltic Sea port - Gwara Media",
   "ts": "2026-11-12T12:01:42+00:00"
  },
  {
   "level": 2,
-  "n": 1,
+  "n": 2,
   "source": "Google News — Latvia security",
   "stems": [
    "detec",
