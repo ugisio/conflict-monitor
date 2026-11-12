@@ -82,5 +82,26 @@
   "uid": "f1693d77410ccab8",
   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQYmh5QWFwUktVdEpFMVpXZDFiWUFDUTc0dDZyYkpydkNJSEdRR09LZE11V2dFQzM1TnNoOXNCM2ExbFBlODBWSW4zYXdsMHptSkxCYzFLX3JGNkFRX0w5OTJNeV9BSnBiN21iN01FNFcwYXRkaENtd21ERkhlQnNlZHRwa2VxWDJoZUpYZTlvdDRCQQ?oc=5",
   "warning": false
+ },
+ {
+  "first_seen": "2026-11-12T11:01:28+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-11-12T10:39:37+00:00",
+  "reason": "region: baltic, russia · matched “Missile Ships on Active Duty in Baltic” · single source, held at WATCH until another source corroborates · another report of a story already in the channel",
+  "repeat_of": "NATO Fighter Jets Twice Fail to Shoot Down Unknown Drone Over Lithuania - Мілітарний",
+  "repeats": 0,
+  "source_id": "gnews_latvia_security",
+  "source_name": "Google News — Latvia security",
+  "summary": "",
+  "text": "Ukraine Hits One of Russia’s Newest Kalibr Missile Ships on Active Duty in Baltic Sea for the First Time UNITED24 Media",
+  "tier": "news",
+  "title": "Ukraine Hits One of Russia’s Newest Kalibr Missile Ships on Active Duty in Baltic Sea for the First Time - UNITED24 Media",
+  "uid": "626faf584da0c813",
+  "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQV1dLbXA2aVd6TFFvbHRzbF9PdTNsSGQ0NUVGQ2FJbm1UblZGdHVmVkZQU0lIX0VPbmtILVhNLTN3b0ZkN2NFVVRwX2hqMzJONnlTVDJvSnpxbGRxTHNsdEljMld4dExrclBNeXVRa3I1YTlJS2tmaENhTUZNekV6azBJa3ZZS0tRNWRXVnpaUnp5U3VNSktUSW1PUTN6MEI5d0FGNG5sNDFSNU55bU9DRU1LOTdkbVo3UE0wM1cydzdfZUhOMkExZWpRTVJuS2tYWERfaG5FRzVDQ2pCV3c0dDdXb1c?oc=5",
+  "warning": false
  }
 ]
