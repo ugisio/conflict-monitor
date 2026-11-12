@@ -1,33 +1,5 @@
 [
  {
-  "level": 1,
-  "n": 1,
-  "source": "LSM (Latvian public media, EN)",
-  "stems": [
-   "carry",
-   "melni",
-   "ready",
-   "regar"
-  ],
-  "title": "Defence Minister Melnis ready to carry on regardless",
-  "ts": "2026-11-09T08:01:38+00:00"
- },
- {
-  "level": 2,
-  "n": 1,
-  "source": "Google News — Latvia security",
-  "stems": [
-   "aircr",
-   "circl",
-   "first",
-   "putin",
-   "twice",
-   "watch"
-  ],
-  "title": "Twice in One Day! Putin Watches As US Spy Aircraft Circles Russia's Kaliningrad | Firstpost Live - Firstpost",
-  "ts": "2026-11-09T08:31:23+00:00"
- },
- {
   "level": 2,
   "n": 10,
   "source": "ASTRA",
