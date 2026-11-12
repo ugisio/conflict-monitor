@@ -61,5 +61,26 @@
   "uid": "0e6f1677cf039a9f",
   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbEx2VkZSdkxjS3pvSlBzcV9fN0NmdmhBN2Q3WnVJbEdGYnBDTTRlZjE5LVAtR0E1YXVfc3FrUnFFSjAyY2Y2cVRNdnc4eVV3V0ZlNHVacThuTjM5TFNaams4Vm1rM3ZqdU1oYXN5cWhxcXVzaEI0ZU9rUDJWMTFUYThwOXJUT2tjMVVWMTU3bU1TVzMxOEM3MUtROTBqWE9jbVE?oc=5",
   "warning": false
+ },
+ {
+  "first_seen": "2026-11-12T10:31:19+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-11-12T04:20:52+00:00",
+  "reason": "region: baltic, russia · matched “Strike Hit Russian Baltic” · single source, held at WATCH until another source corroborates · another report of a story already in the channel",
+  "repeat_of": "NATO Fighter Jets Twice Fail to Shoot Down Unknown Drone Over Lithuania - Мілітарний",
+  "repeats": 0,
+  "source_id": "gnews_latvia_security",
+  "source_name": "Google News — Latvia security",
+  "summary": "",
+  "text": "Ukraine Says Drone Strike Hit Russian Baltic Port and Missile Ship The SOFX Report",
+  "tier": "news",
+  "title": "Ukraine Says Drone Strike Hit Russian Baltic Port and Missile Ship - The SOFX Report",
+  "uid": "f1693d77410ccab8",
+  "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQYmh5QWFwUktVdEpFMVpXZDFiWUFDUTc0dDZyYkpydkNJSEdRR09LZE11V2dFQzM1TnNoOXNCM2ExbFBlODBWSW4zYXdsMHptSkxCYzFLX3JGNkFRX0w5OTJNeV9BSnBiN21iN01FNFcwYXRkaENtd21ERkhlQnNlZHRwa2VxWDJoZUpYZTlvdDRCQQ?oc=5",
+  "warning": false
  }
 ]
