@@ -1,1 +1,23 @@
-[]
+[
+ {
+  "first_seen": "2026-11-12T07:00:03+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-11-12T06:41:00+00:00",
+  "reason": "region: estonia, nato, russia · hybrid incident (sabotage/arson/cyber) → WATCH · matched “entered Estonian airspace” · another report of a story already in the channel",
+  "repeat_of": "NATO Fighter Jets Twice Fail to Shoot Down Unknown Drone Over Lithuania - Мілітарний",
+  "repeats": 0,
+  "source_id": "err_en",
+  "source_name": "ERR News (Estonia, EN)",
+  "summary": "",
+  "text": "Defense Minister Martin Herem said that NATO aircraft were monitoring the situation and Estonia had not authorized the use of its airspace during Ukraine's Wednesday attack on Ust-Luga in Russia.",
+  "tier": "news",
+  "title": "Defense minister: Drones entered Estonian airspace from northeast and southeast",
+  "uid": "68efb6a7eb62692a",
+  "url": "https://news.err.ee/1610193178/defense-minister-drones-entered-estonian-airspace-from-northeast-and-southeast",
+  "warning": false
+ }
+]

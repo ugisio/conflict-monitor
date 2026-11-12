@@ -1,32 +1,5 @@
 [
  {
-  "level": 2,
-  "n": 6,
-  "source": "Google News — Latvia security",
-  "stems": [
-   "apolo",
-   "artic",
-   "begin",
-   "canad",
-   "drone",
-   "durin",
-   "dynam",
-   "enter",
-   "exerc",
-   "expla",
-   "failu",
-   "hunte",
-   "merli",
-   "perma",
-   "posit",
-   "resid",
-   "shoot",
-   "subma"
-  ],
-  "title": "NATO sub hunters in Baltic exercise to face drone attacks - UK Defence Journal",
-  "ts": "2026-11-09T06:31:23+00:00"
- },
- {
   "level": 1,
   "n": 1,
   "source": "LSM (Latvian public media, EN)",
@@ -230,10 +203,11 @@
  },
  {
   "level": 2,
-  "n": 12,
+  "n": 13,
   "source": "ERR News (Estonia, EN)",
   "stems": [
    "ahead",
+   "airsp",
    "alert",
    "appro",
    "armed",
@@ -242,6 +216,7 @@
    "cover",
    "crude",
    "drone",
+   "enter",
    "excha",
    "expla",
    "expor",
@@ -255,12 +230,14 @@
    "kickb",
    "launc",
    "missi",
+   "north",
    "opera",
    "overn",
    "price",
    "probl",
    "scram",
    "shoot",
+   "south",
    "spark",
    "strik",
    "three",
@@ -268,8 +245,7 @@
    "trade",
    "trigg",
    "twice",
-   "unkno",
-   "worke"
+   "unkno"
   ],
   "title": "NATO Fighter Jets Twice Fail to Shoot Down Unknown Drone Over Lithuania - Мілітарний",
   "ts": "2026-11-11T12:01:41+00:00"
