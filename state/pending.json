@@ -208,5 +208,26 @@
   "uid": "5da5b00738e67f8a",
   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRzRvcDFLaGNfNnFZY1N2SnMyWkVZaU9tQVBjTl9Qd3d5Y3BkbVlwQm1CT3d3REVCSTJaRDlYb2I5VDFIQWlpc0lNVFE1LVpEVWMwcnlDR2ZYbUVTVDV2dTllMks4OFpCNHF5bE1BdmFESnBRc0VnNU5XX1RKRFhMR2ZRVXRXVVhzdW82OWY1NEpUanBaLVl5dUdZcEZHTXR2OHBxUjFsVGpjTjd2V1M2WGZaQQ?oc=5",
   "warning": false
+ },
+ {
+  "first_seen": "2026-11-12T17:01:42+00:00",
+  "kind": "post",
+  "lang": "ru",
+  "level": 2,
+  "note": "RU, Belarus opposition media — best coverage of Belarus border/military",
+  "posted": false,
+  "published": "2026-11-12T16:58:01+00:00",
+  "reason": "region: балти, росси · matched “флот” · story escalated from L1 (2 reports so far)",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "tg_nexta",
+  "source_name": "NEXTA Live",
+  "summary": "",
+  "text": "Рука возмездия дотянулась до российского военного флота на Балтике! Служба безопасности Украины заявила о поражении малого ракетного корабля проекта «Буян-М». Это практически новенькое судно: оно было спущено на воду в 2022 году и способно запускать печально известные крылатые ракеты «Калибр». По данным Z-канала «Злой морячок», корабль получил удар возле острова Гогланд в Финском заливе. Авторы сообщили также о наличии погибших и раненых. Но, как утверждает канал, корабль остался на плаву. И это не единственный результат масштабной атаки на Ленинградскую область! По данным СБУ, в порту Усть-Луга поражены нефтяные резервуары, насосные станции и терминалы. Пожар продолжался и сегодня.",
+  "tier": "osint",
+  "title": "Рука возмездия дотянулась до российского военного флота на Балтике! Служба безопасности Украины заявила о поражении малого ракетного корабля…",
+  "uid": "2aad725fb1489221",
+  "url": "https://t.me/nexta_live/126527",
+  "warning": false
  }
 ]
