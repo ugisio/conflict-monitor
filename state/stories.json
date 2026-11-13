@@ -435,15 +435,18 @@
  },
  {
   "level": 2,
-  "n": 2,
+  "n": 3,
   "source": "Google News — Latvia security",
   "stems": [
    "allie",
    "battl",
    "briga",
    "bring",
+   "broke",
    "drone",
    "exper",
+   "large",
+   "massi",
    "warfa"
   ],
   "title": "Ukrainian drones reportedly hit Russia’s Ust-Luga Baltic Sea port - Gwara Media",
@@ -451,10 +454,13 @@
  },
  {
   "level": 2,
-  "n": 2,
+  "n": 5,
   "source": "Google News — Latvia security",
   "stems": [
    "detec",
+   "media",
+   "recor",
+   "reute",
    "strik",
    "warsh"
   ],
@@ -474,5 +480,16 @@
   ],
   "title": "Russia arrests two over suspected Polish espionage in Kaliningrad, issues warnings to 10 others - Firstpost",
   "ts": "2026-11-12T15:31:30+00:00"
+ },
+ {
+  "level": 2,
+  "n": 2,
+  "source": "Google News — Latvia security",
+  "stems": [
+   "corve",
+   "missi"
+  ],
+  "title": "Ukraine Attacked Russian Missile Corvette in the Baltic Sea - Technology Org",
+  "ts": "2026-11-13T00:32:08+00:00"
  }
 ]
