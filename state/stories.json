@@ -50,30 +50,6 @@
  },
  {
   "level": 2,
-  "n": 3,
-  "source": "LSM (Latvian public media, EN)",
-  "stems": [
-   "alert",
-   "compa",
-   "dauga",
-   "drone",
-   "enter",
-   "issue",
-   "launc",
-   "ludza",
-   "munic",
-   "offen",
-   "outle",
-   "overn",
-   "possi",
-   "shelt",
-   "slava"
-  ],
-  "title": "Air threat alert in Ludza municipality of Latvia; possible air threat alert in Augšdaugava and Krāslava municipalities",
-  "ts": "2026-11-10T21:55:49+00:00"
- },
- {
-  "level": 2,
   "n": 1,
   "source": "Google News — Latvia security",
   "stems": [
