@@ -40,5 +40,26 @@
   "uid": "c9410ab86391150d",
   "url": "https://t.me/nexta_live/126558",
   "warning": false
+ },
+ {
+  "first_seen": "2026-11-13T10:31:11+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-11-13T09:57:11+00:00",
+  "reason": "region: baltic, russia · matched “Military Buildup” · single source, held at WATCH until another source corroborates",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "gnews_latvia_security",
+  "source_name": "Google News — Latvia security",
+  "summary": "",
+  "text": "What Russia’s Baltic Military Buildup Looks Like From Space—ICEYE UNITED24 Media",
+  "tier": "news",
+  "title": "What Russia’s Baltic Military Buildup Looks Like From Space—ICEYE - UNITED24 Media",
+  "uid": "7be169183cce6275",
+  "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbE5sUTNZY290M3hPYlgzbjZMbkNxZTNYcUx5MldhbWE2aVU5YmcwT1lkbmVQYVM1a0s1Z193YzhSbDgzQkJrYXpfSmlqRUNRTjVOR2Z6dHU5WkdmaG9kQXNqVGhwTWpxOVl6ZHhJcDhJa1QyRm15bXZJMExUR1hKWFJNcUptYkgzSWZ6c04xYzE5WVBlSVVMMDJlRXZGcTR1d0RvRjdIQm44Z1hMbURCTw?oc=5",
+  "warning": false
  }
 ]
