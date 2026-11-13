@@ -40,5 +40,26 @@
   "uid": "42d936ba67bfb42b",
   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbmJEd2JvTWNJdTB6Q0RiUTVnNFZ3MkIyUGRfTkxwOXB1aEtUNTgzejlQbHZ6YWVYeUhvUTN2anJZNFZfeVZfeVBid1RVTkRKcmJUU2M2SWNmcklZeldUbnVPSlcwZmpFLW9QLXBybHJ4d3pvdDZ6N3I4bnp5RWhZblF3N2ItWFhKMFBWUjNCSzZ3UFpxS1dnM1YtVWhmT3FQREFwQkhKUWJuMU1SeWJR?oc=5",
   "warning": false
+ },
+ {
+  "first_seen": "2026-11-13T23:49:39+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-11-13T22:07:17+00:00",
+  "reason": "region: baltic, russia · matched “Warship” · another report of a story already in the channel",
+  "repeat_of": "Ukraine Attacked Russian Missile Corvette in the Baltic Sea - Technology Org",
+  "repeats": 0,
+  "source_id": "gnews_latvia_security",
+  "source_name": "Google News — Latvia security",
+  "summary": "",
+  "text": "Ukraine Strikes Russian Warship in Baltic Sea 조선일보",
+  "tier": "news",
+  "title": "Ukraine Strikes Russian Warship in Baltic Sea - 조선일보",
+  "uid": "debc45f5ba81661f",
+  "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOckFUdDZCZjZjS281VE1ybklFa1Rsb2ptdUtTRFlCbm5QLU9WaHdxbEVKZnlqRFhmelVpU2pwU0labVZQNEQ3YWpwM3lTOXBEbF9taHotWnp0cmNRSnU3YUtPZHRmZzRiQVJUYTVobmNzREE2RENacmJYdzlIb0J1TkREWTU?oc=5",
+  "warning": false
  }
 ]
