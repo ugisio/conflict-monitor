@@ -291,16 +291,19 @@
  },
  {
   "level": 2,
-  "n": 7,
+  "n": 8,
   "source": "Google News — Latvia security",
   "stems": [
+   "casua",
    "detec",
    "force",
    "media",
+   "multi",
    "recor",
    "reute",
    "strik",
    "talks",
+   "times",
    "warsh"
   ],
   "title": "Finland says it detects strike on Russian warship in Baltic Sea - Internazionale",

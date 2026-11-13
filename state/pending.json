@@ -82,5 +82,26 @@
   "uid": "0ca56eb99d4afc09",
   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNlEtMW5yVGdQUktZYnZqbnlPM3lmQzVOdUtGV3lhdl9pRWl2VWtHT0pGVFkxcDhTZTVsZDJlVWlpMm1FVTVUTVhNYUhjQVAxUEgyU3hRekhVcldURE5kTThUQVZBbkRqdGFaZTFtczAteGVlT3Z3WXhoTXVReXVOalBwUEJXU09HcW85Y0lWMjgzVDZXWURBRWl5OThDckpDODQ2b0Z6Tl9kZXpFUkRtb0930gG3AUFVX3lxTFA5OVpRZ0NQa0NrV0NsQzdKQlZZTzVPc2htVjFHd19qTUZNRTBRX0RGUlF4cUJUUXNCZGtoY2pXdm1mV2QzQ1ZYVTJ1ZXZkQlFtSm5VYTBJUjVsOTdNeHdhSk9fbHRzVmViSUdDME5NbHJPbUE4WFlLeFdxVUZHN3paUUFuUTNyVVpwcF9nekQ3NDAtazlqVkVha0NoRUg3UGUxd0FiWk5JeUdWQ3ZqX3RkNU95REtvNA?oc=5",
   "warning": false
+ },
+ {
+  "first_seen": "2026-11-13T13:31:16+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-11-13T13:22:00+00:00",
+  "reason": "region: baltic, estonia, russia · matched “warship” · another report of a story already in the channel",
+  "repeat_of": "Finland says it detects strike on Russian warship in Baltic Sea - Internazionale",
+  "repeats": 0,
+  "source_id": "err_en",
+  "source_name": "ERR News (Estonia, EN)",
+  "summary": "",
+  "text": "A Russian Baltic Fleet corvette was hit by multiple Ukrainian drones during a large attack on the Ust-Luga port, a senior Estonian military officer said Friday.",
+  "tier": "news",
+  "title": "Officer: Russian warship hit multiple times in Baltic, with casualties",
+  "uid": "66749e7429b388bb",
+  "url": "https://news.err.ee/1610195272/officer-russian-warship-hit-multiple-times-in-baltic-with-casualties",
+  "warning": false
  }
 ]
