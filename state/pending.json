@@ -166,5 +166,26 @@
   "uid": "74a0e1e6ba764d43",
   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOckFUdDZCZjZjS281VE1ybklFa1Rsb2ptdUtTRFlCbm5QLU9WaHdxbEVKZnlqRFhmelVpU2pwU0labVZQNEQ3YWpwM3lTOXBEbF9taHotWnp0cmNRSnU3YUtPZHRmZzRiQVJUYTVobmNzREE2RENacmJYdzlIb0J1TkREWTU?oc=5",
   "warning": false
+ },
+ {
+  "first_seen": "2026-11-13T17:01:25+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-11-13T16:23:09+00:00",
+  "reason": "region: baltic, russia · matched “drone” · another report of a story already in the channel",
+  "repeat_of": "Ukraine Attacked Russian Missile Corvette in the Baltic Sea - Technology Org",
+  "repeats": 0,
+  "source_id": "gnews_latvia_security",
+  "source_name": "Google News — Latvia security",
+  "summary": "",
+  "text": "Ukraine says its drones struck a Russian warship nearly 1,000 kilometers away in the Baltic Latin Times",
+  "tier": "news",
+  "title": "Ukraine says its drones struck a Russian warship nearly 1,000 kilometers away in the Baltic - Latin Times",
+  "uid": "62bab9cb19906fa5",
+  "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSlZ4YThTeF9VV3BkZ2dYaDdzam1hdlROazR4T3pPUW9YakpuNVZaQ2Y3MTl0SVJQMWVkRzBtT0VsVmhxZl92RDI0MENPdmlWV2FUWVVDblNTR2VlUjFsbGc2THI2dlI4czNNeUNWUkZQSVlvY2ZYcjVQczFDclVlVl80Z3dlOXZjZC1NOQ?oc=5",
+  "warning": false
  }
 ]
