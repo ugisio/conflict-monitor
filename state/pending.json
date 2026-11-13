@@ -124,5 +124,26 @@
   "uid": "a6bf12a42a02b26d",
   "url": "https://t.me/astrapress/131029",
   "warning": false
+ },
+ {
+  "first_seen": "2026-11-13T15:31:16+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-11-13T15:30:00+00:00",
+  "reason": "region: lithuania, nato · matched “drone” · another report of a story already in the channel",
+  "repeat_of": "Ukraine Attacked Russian Missile Corvette in the Baltic Sea - Technology Org",
+  "repeats": 0,
+  "source_id": "lrt_en",
+  "source_name": "LRT (Lithuania, EN)",
+  "summary": "",
+  "text": "Last week, NATO fighter jets tried twice to shoot down a stray drone that entered Lithuanian airspace, unsuccessfully. While human lives put at risk by such incursions are invaluable, how sound is the rationale of using missiles worth hundreds of thousands of euros to shoot down relatively cheap drones?",
+  "tier": "news",
+  "title": "Expensive missiles, cheap drones: cost-effectiveness of protecting Lithuania’s airspace",
+  "uid": "7a7587b69f501b85",
+  "url": "https://www.lrt.lt/en/news-in-english/19/3113313/expensive-missiles-cheap-drones-cost-effectiveness-of-protecting-lithuania-s-airspace",
+  "warning": false
  }
 ]
