@@ -286,7 +286,7 @@
  },
  {
   "level": 2,
-  "n": 3,
+  "n": 4,
   "source": "Google News — Latvia security",
   "stems": [
    "airsp",
@@ -296,7 +296,9 @@
    "effec",
    "expen",
    "missi",
-   "prote"
+   "prote",
+   "strik",
+   "warsh"
   ],
   "title": "Ukraine Attacked Russian Missile Corvette in the Baltic Sea - Technology Org",
   "ts": "2026-11-13T00:32:08+00:00"

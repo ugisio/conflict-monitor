@@ -145,5 +145,26 @@
   "uid": "7a7587b69f501b85",
   "url": "https://www.lrt.lt/en/news-in-english/19/3113313/expensive-missiles-cheap-drones-cost-effectiveness-of-protecting-lithuania-s-airspace",
   "warning": false
+ },
+ {
+  "first_seen": "2026-11-13T16:01:28+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-11-13T15:48:21+00:00",
+  "reason": "region: baltic, russia · matched “Drone” · another report of a story already in the channel",
+  "repeat_of": "Ukraine Attacked Russian Missile Corvette in the Baltic Sea - Technology Org",
+  "repeats": 0,
+  "source_id": "gnews_latvia_security",
+  "source_name": "Google News — Latvia security",
+  "summary": "",
+  "text": "Ukraine Drone Strikes Russian Warship in Baltic Sea 조선일보",
+  "tier": "news",
+  "title": "Ukraine Drone Strikes Russian Warship in Baltic Sea - 조선일보",
+  "uid": "74a0e1e6ba764d43",
+  "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOckFUdDZCZjZjS281VE1ybklFa1Rsb2ptdUtTRFlCbm5QLU9WaHdxbEVKZnlqRFhmelVpU2pwU0labVZQNEQ3YWpwM3lTOXBEbF9taHotWnp0cmNRSnU3YUtPZHRmZzRiQVJUYTVobmNzREE2RENacmJYdzlIb0J1TkREWTU?oc=5",
+  "warning": false
  }
 ]
