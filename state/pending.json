@@ -40,5 +40,26 @@
   "uid": "700644265853fdd2",
   "url": "https://t.me/meduzalive/150561",
   "warning": false
+ },
+ {
+  "first_seen": "2026-11-14T09:01:27+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-11-14T08:03:00+00:00",
+  "reason": "region: baltic, estonia, russia · matched “attack on Russian missile ship in Baltic” · single source, held at WATCH until another source corroborates",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "gnews_latvia_security",
+  "source_name": "Google News — Latvia security",
+  "summary": "",
+  "text": "Estonia outlines details of Ukrainian attack on Russian missile ship in Baltic Sea Українська правда",
+  "tier": "news",
+  "title": "Estonia outlines details of Ukrainian attack on Russian missile ship in Baltic Sea - Українська правда",
+  "uid": "26c2ad06f98c90ae",
+  "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5tc0ViZmdWZUtnVlR1d0hDUVRYNUY1Vnd0TC1BZ2dXTjdOZURpQjk0cXNZM1FYa3BIMWlncWpyNjVXaVNZLUhmT2FUZkdTUEFaVFJlYjN0Y09aMG1yb2hwaDZTQmnSAXBBVV95cUxORllqcXpBLXJRVmRQUzMxRWhnTmtzMWVBd2NDeExES1JqQUlJcjlsNHhIYnN6VndrTF84S0dyNDBNT0wyMDVSUEJwRWZpZVRtNlR2U3VDcVVXeVpjVk1YLTA5VndKaXhSYTE1RVVnYzRB?oc=5",
+  "warning": false
  }
 ]
