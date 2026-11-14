@@ -82,5 +82,26 @@
   "uid": "209820f78728203a",
   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9pVmhIUVdMa2tRWkNxTEJ6enVvSjYyQ3FqZ2QxUWQ4MHZsaU1TX3FJXzdGQndXTGJuU01ManpqMEdScWRMNDN2ZUZwMA?oc=5",
   "warning": false
+ },
+ {
+  "first_seen": "2026-11-14T13:01:18+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 1,
+  "note": "",
+  "posted": false,
+  "published": "2026-11-14T12:49:00+00:00",
+  "reason": "region: estonia · matched “conscript” · another report of a story already in the channel",
+  "repeat_of": "Retired commodore: Russian ships here in the Gulf of Finland are no longer safe",
+  "repeats": 0,
+  "source_id": "err_en",
+  "source_name": "ERR News (Estonia, EN)",
+  "summary": "",
+  "text": "Estonia will not find enough conscripts in future because of demographics, meaning conscription should be extended to women, a retired general said.",
+  "tier": "news",
+  "title": "Retired general: Without women, Estonia may run out of conscripts, reservists",
+  "uid": "2289bf202cbcf543",
+  "url": "https://news.err.ee/1610196370/retired-general-without-women-estonia-may-run-out-of-conscripts-reservists",
+  "warning": false
  }
 ]
