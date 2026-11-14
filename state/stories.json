@@ -50,23 +50,6 @@
  },
  {
   "level": 2,
-  "n": 2,
-  "source": "Google News — Latvia security",
-  "stems": [
-   "alleg",
-   "annou",
-   "claim",
-   "disma",
-   "feder",
-   "netwo",
-   "servi",
-   "uncov"
-  ],
-  "title": "Russia Claims to Have Uncovered Polish Spy Network in Kaliningrad Region - REFORM.news",
-  "ts": "2026-11-11T09:01:40+00:00"
- },
- {
-  "level": 2,
   "n": 4,
   "source": "ASTRA",
   "stems": [
