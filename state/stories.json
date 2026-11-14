@@ -178,12 +178,15 @@
  },
  {
   "level": 2,
-  "n": 1,
+  "n": 2,
   "source": "Google News — Latvia security",
   "stems": [
    "detai",
+   "drone",
    "missi",
-   "outli"
+   "outli",
+   "revea",
+   "strik"
   ],
   "title": "Estonia outlines details of Ukrainian attack on Russian missile ship in Baltic Sea - Українська правда",
   "ts": "2026-11-14T09:01:37+00:00"

@@ -103,5 +103,26 @@
   "uid": "2289bf202cbcf543",
   "url": "https://news.err.ee/1610196370/retired-general-without-women-estonia-may-run-out-of-conscripts-reservists",
   "warning": false
+ },
+ {
+  "first_seen": "2026-11-14T16:31:14+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-11-14T14:56:00+00:00",
+  "reason": "region: estonia, russia · matched “drone” · another report of a story already in the channel",
+  "repeat_of": "Estonia outlines details of Ukrainian attack on Russian missile ship in Baltic Sea - Українська правда",
+  "repeats": 0,
+  "source_id": "gnews_latvia_security",
+  "source_name": "Google News — Latvia security",
+  "summary": "",
+  "text": "Estonian military reveals details of Ukrainian drone strike on Russian missile ship in Gulf of Finland The New Voice of Ukraine",
+  "tier": "news",
+  "title": "Estonian military reveals details of Ukrainian drone strike on Russian missile ship in Gulf of Finland - The New Voice of Ukraine",
+  "uid": "00a8c57770be4d1d",
+  "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRGRScllYSnJ0cE9ZbEJnSmpMVWhhbDdzVzlfSXBXazVvNTVKNW1kdkYyWEw3V2ZQSUhWeTdLMU0zeU5pYzBQLS1keDNZVnUyVmhWWlFaZ0dfbjhXeWRMVmFwYjRjUENZeFh0UnFFbEJIcUMwbEtYd0stTGpldHRLSDFObWlCc2I5aTBycElweFZLRjhzbGFPb0pGajZxZG92ZDMxWU14Y9IBowFBVV95cUxNbF9vbHZVdl9QMURRNF9xc0dSUkNMUk9ta19xNFFkX3pHTlcwVk96eHI4RXJaaXZIdkVtNUZ6UmE4NWExaWNUYlFpekFONC0yQy1ZTFlMMFdLdHhWSDR0bjBiS3czV0tZci01X0hTckxjZ19SdlByS1N2NDZEWGIzdk1QQVJqdFRjc0hlT2tHcVlVMnlfZ1lZRzZQS3BXYXRVcGo0?oc=5",
+  "warning": false
  }
 ]
