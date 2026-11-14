@@ -61,5 +61,26 @@
   "uid": "1445feff82cef15a",
   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWWRBN2hjVWRIeHFyX1l3Wnd0WkZ4OTVJV1c1Q2dYSUlxbHA5X25PT1pOUGNRV29pQnlBcng2N2xPaVoybGNZeUFCSkRFaVZ2WHdEYzB4NUd0Q1JpMlRtRjdRVDJ3NDl5X0ROaGFxcnZLS2lBclE3MzhPS21SS1VaTTZxRXVVMTVzUmc?oc=5",
   "warning": false
+ },
+ {
+  "first_seen": "2026-11-14T19:01:22+00:00",
+  "kind": "post",
+  "lang": "en",
+  "level": 1,
+  "note": "EN, conflict news aggregator",
+  "posted": false,
+  "published": "2026-11-14T18:59:58+00:00",
+  "reason": "region: eastern flank, nato · matched “defense spending (in text)”",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "tg_clashreport",
+  "source_name": "Clash Report",
+  "summary": "",
+  "text": "The Pentagon is considering cutting only about 5,000 of its roughly 80,000 troops in Europe, far fewer than the 25,000 initially feared by NATO allies. The shift reflects increased European defense spending and Washington’s reliance on European bases for its ongoing war against Iran. Most reductions would target Germany, while NATO’s eastern flank could be reinforced. Pete Hegseth is expected to submit final recommendations to Trump on December 1. Source: Bloomberg",
+  "tier": "osint",
+  "title": "The Pentagon is considering cutting only about 5,000 of its roughly 80,000 troops in Europe, far fewer than the 25,000 initially feared by N…",
+  "uid": "3887a6f7eb819041",
+  "url": "https://t.me/ClashReport/106142",
+  "warning": false
  }
 ]
