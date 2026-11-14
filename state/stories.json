@@ -51,19 +51,6 @@
  {
   "level": 2,
   "n": 1,
-  "source": "Google News — Latvia security",
-  "stems": [
-   "detec",
-   "image",
-   "large",
-   "space"
-  ],
-  "title": "Russia reports attack on its largest Baltic port. Fire detected from space – image - LIGA.net",
-  "ts": "2026-11-11T06:01:34+00:00"
- },
- {
-  "level": 2,
-  "n": 1,
   "source": "ERR News (Estonia, EN)",
   "stems": [
    "video",
