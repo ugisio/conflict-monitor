@@ -203,7 +203,7 @@
  },
  {
   "level": 2,
-  "n": 9,
+  "n": 10,
   "source": "ERR News (Estonia, EN)",
   "stems": [
    "arres",
@@ -223,6 +223,7 @@
    "first",
    "foili",
    "linke",
+   "maker",
    "membe",
    "respo",
    "roads",
@@ -290,10 +291,13 @@
  },
  {
   "level": 2,
-  "n": 1,
+  "n": 2,
   "source": "Google News — Latvia security",
   "stems": [
+   "bombe",
    "movin",
+   "oppor",
+   "targe",
    "warsh"
   ],
   "title": "How Did Ukraine Hit a Moving Russian Warship in the Baltic? - Eyes Only with Wes O'Donnell",
