@@ -145,5 +145,26 @@
   "uid": "8df2e81867c186be",
   "url": "https://t.me/ClashReport/106216",
   "warning": true
+ },
+ {
+  "first_seen": "2026-11-15T22:01:36+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-11-15T21:44:09+00:00",
+  "reason": "region: estonia, nato, russia · matched “sabotage” · another report of a story already in the channel",
+  "repeat_of": "Estonia's first responders hold school drone attack drills",
+  "repeats": 0,
+  "source_id": "gnews_nato",
+  "source_name": "Google News — NATO & the Baltics",
+  "summary": "",
+  "text": "NATO member Estonia is closing the Russian border! 8 people detained for a sabotage attempt Haberler.com",
+  "tier": "news",
+  "title": "NATO member Estonia is closing the Russian border! 8 people detained for a sabotage attempt - Haberler.com",
+  "uid": "e1bb7f787a5f8212",
+  "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQNC03Ry1vWThsSnQzazRsWTVXdDBFdzBfUjJzS3pmVzhvRGR3TXRleFo5eDB0SkFMem5rdXVzYVh3MGc2cTRPUGVqQzNFT3pLb0JpRm84bG9fWEhhQVpaZkJab3VNTHJjYW9iVHlMdWI0NVNHVTBYOENNQ1VBY3pUNGxxR3hQTWh3UVE?oc=5",
+  "warning": false
  }
 ]
