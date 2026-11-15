@@ -19,5 +19,26 @@
   "uid": "6ae83cac7bad576e",
   "url": "https://news.err.ee/1610196151/russian-ships-in-gulf-of-finland-are-no-longer-safe-says-former-navy-commander",
   "warning": false
+ },
+ {
+  "first_seen": "2026-11-15T09:32:12+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-11-15T09:24:00+00:00",
+  "reason": "region: estonia · matched “drone”",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "err_en",
+  "source_name": "ERR News (Estonia, EN)",
+  "summary": "",
+  "text": "Estonia's emergency services held a large-scale realistic crisis exercise at a high school in western Estonia to practice responding to a drone attack as the threat from unmanned aerial vehicles grows.",
+  "tier": "news",
+  "title": "Estonia's first responders hold school drone attack drills",
+  "uid": "62ae3180f9730590",
+  "url": "https://news.err.ee/1610196698/estonia-s-first-responders-hold-school-drone-attack-drills",
+  "warning": false
  }
 ]
