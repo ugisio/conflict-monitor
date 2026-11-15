@@ -49,20 +49,6 @@
  },
  {
   "level": 2,
-  "n": 1,
-  "source": "Google News — Latvia security",
-  "stems": [
-   "arres",
-   "espio",
-   "issue",
-   "other",
-   "suspe"
-  ],
-  "title": "Russia arrests two over suspected Polish espionage in Kaliningrad, issues warnings to 10 others - Firstpost",
-  "ts": "2026-11-12T15:31:30+00:00"
- },
- {
-  "level": 2,
   "n": 8,
   "source": "Google News — Latvia security",
   "stems": [
@@ -216,34 +202,57 @@
  },
  {
   "level": 2,
-  "n": 1,
+  "n": 3,
   "source": "NEXTA Live",
   "stems": [
    "аркти",
    "атако",
+   "беспи",
    "битве",
    "брита",
    "бывши",
    "велик",
+   "возло",
    "готов",
+   "грани",
+   "декаб",
    "долже",
    "должн",
+   "завод",
+   "задер",
+   "закры",
    "заяви",
+   "иност",
    "лондо",
+   "маргу",
    "минис",
+   "может",
+   "ответ",
+   "погра",
+   "поджо",
+   "попыт",
+   "после",
    "премь",
-   "сунак"
+   "росси",
+   "сообщ",
+   "соцсе",
+   "стран",
+   "сунак",
+   "тсахк",
+   "эстон"
   ],
   "title": "Риши Сунак: Британия должна готовиться к битве за Арктику Бывший премьер-министр Великобритании заявил, что Лондон должен быть готов атакова…",
   "ts": "2026-11-14T20:01:28+00:00"
  },
  {
   "level": 2,
-  "n": 1,
+  "n": 2,
   "source": "ERR News (Estonia, EN)",
   "stems": [
+   "artic",
    "drill",
    "drone",
+   "easte",
    "first",
    "respo",
    "schoo"
@@ -265,5 +274,17 @@
   ],
   "title": "8 detained after attempted arson at Estonian defense company Threod Systems",
   "ts": "2026-11-15T14:01:31+00:00"
+ },
+ {
+  "level": 2,
+  "n": 1,
+  "source": "ERR News (Estonia, EN)",
+  "stems": [
+   "close",
+   "prepa",
+   "sabot"
+  ],
+  "title": "Estonia prepares to close border with Russia after sabotage attacks",
+  "ts": "2026-11-15T15:31:30+00:00"
  }
 ]
