@@ -1,1 +1,23 @@
-[]
+[
+ {
+  "first_seen": "2026-11-15T07:31:11+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-11-14T07:38:00+00:00",
+  "reason": "region: baltic, russia · matched “Navy” · another report of a story already in the channel",
+  "repeat_of": "Retired commodore: Russian ships here in the Gulf of Finland are no longer safe",
+  "repeats": 0,
+  "source_id": "err_en",
+  "source_name": "ERR News (Estonia, EN)",
+  "summary": "",
+  "text": "As long as Russia needs the Baltic oil channel to keep its war machine running, tensions in the Gulf of Finland will not ease, former navy commander, Commodore (ret.) Jüri Saska said.",
+  "tier": "news",
+  "title": "Russian ships in Gulf of Finland are no longer safe, says former Navy commander",
+  "uid": "6ae83cac7bad576e",
+  "url": "https://news.err.ee/1610196151/russian-ships-in-gulf-of-finland-are-no-longer-safe-says-former-navy-commander",
+  "warning": false
+ }
+]
