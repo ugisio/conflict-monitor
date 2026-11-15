@@ -40,5 +40,26 @@
   "uid": "62ae3180f9730590",
   "url": "https://news.err.ee/1610196698/estonia-s-first-responders-hold-school-drone-attack-drills",
   "warning": false
+ },
+ {
+  "first_seen": "2026-11-15T14:01:19+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-11-15T10:06:00+00:00",
+  "reason": "region: latvia, latvian, estonia, russia · matched “arson”",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "err_en",
+  "source_name": "ERR News (Estonia, EN)",
+  "summary": "",
+  "text": "Eight Latvian citizens have been detained after an attempted arson at Estonian unmanned aircraft systems manufacturer Threod Systems, which Estonia's domestic intellegence service has attributed to Russia.",
+  "tier": "news",
+  "title": "8 detained after attempted arson at Estonian defense company Threod Systems",
+  "uid": "d67406a1b4c0c485",
+  "url": "https://news.err.ee/1610196722/8-detained-after-attempted-arson-at-estonian-defense-company-threod-systems",
+  "warning": false
  }
 ]
