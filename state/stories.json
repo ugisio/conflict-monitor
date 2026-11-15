@@ -203,7 +203,7 @@
  },
  {
   "level": 2,
-  "n": 10,
+  "n": 11,
   "source": "ERR News (Estonia, EN)",
   "stems": [
    "arres",
@@ -211,10 +211,12 @@
    "artic",
    "attem",
    "blame",
+   "capac",
    "close",
    "compa",
    "cross",
    "detai",
+   "disab",
    "drill",
    "drone",
    "easte",
@@ -222,9 +224,12 @@
    "facto",
    "first",
    "foili",
+   "justi",
    "linke",
    "maker",
    "membe",
+   "refin",
+   "refus",
    "respo",
    "roads",
    "sabot",
@@ -233,7 +238,9 @@
    "shuts",
    "suspe",
    "syste",
-   "threo"
+   "threo",
+   "today",
+   "zelen"
   ],
   "title": "Estonia's first responders hold school drone attack drills",
   "ts": "2026-11-15T09:32:58+00:00"

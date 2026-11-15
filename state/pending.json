@@ -124,5 +124,26 @@
   "uid": "de083aef65f1b172",
   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQ1piRjQ5TTFfOFhwMkFGak54dGMtamNkaEFkenZ4amp0bXB6VGwyV3BIdzF3dHBYcTlwMDhBYTZpZUZ0V1h3ZG01TW95dWxRSF9oNTlqZDE3amxtTUMwTzBEWFN1OTJqd2Q4Z3AyMS03UlV6bGpYd09MN2ttaVdPNkVsYVJ5M2ZLVmFUQVhudUxmSnRDcXhMM3I3Z3B4R2dDRkhqMjBEb2ZGdjhUZ0poQWRKTDlQS3VH?oc=5",
   "warning": false
+ },
+ {
+  "first_seen": "2026-11-15T21:01:22+00:00",
+  "kind": "post",
+  "lang": "en",
+  "level": 2,
+  "note": "EN, conflict news aggregator",
+  "posted": false,
+  "published": "2026-11-15T20:41:19+00:00",
+  "reason": "official warning about Russia / NATO · matched “escalat (in text)” · another report of a story already in the channel",
+  "repeat_of": "Estonia's first responders hold school drone attack drills",
+  "repeats": 0,
+  "source_id": "tg_clashreport",
+  "source_name": "Clash Report",
+  "summary": "",
+  "text": "Zelensky: As of today, we have disabled more than 55% of Russia’s oil refining capacity. This is our justified response to Russia’s refusal to de-escalate and its strikes on our energy infrastructure.",
+  "tier": "osint",
+  "title": "Zelensky: As of today, we have disabled more than 55% of Russia’s oil refining capacity. This is our justified response to Russia’s refusal …",
+  "uid": "8df2e81867c186be",
+  "url": "https://t.me/ClashReport/106216",
+  "warning": true
  }
 ]
