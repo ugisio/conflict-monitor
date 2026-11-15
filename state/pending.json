@@ -61,5 +61,26 @@
   "uid": "294b7eb27d3a9e71",
   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWTVwaHZDWnN4QzBOMTFfcVZVY0JhcHE3UFNZTjNYRndDaS1CRGVvbUU3dzRFSHpWWl96dnAzSHVKckt4bnBhWUpBTnlKRldkd2Z6Mk5HMlhWQ0hqYnRkOGJJeXhjOFRCSWxTbGpVVmZrbEVZTmlWaFRsLW1NdGZnbUlNUnVXRS02M2x4RUl4VEd0eWJPYlhUbWkzNU1GUQ?oc=5",
   "warning": false
+ },
+ {
+  "first_seen": "2026-11-15T19:31:14+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-11-15T17:43:00+00:00",
+  "reason": "region: estonia, nato, russia · matched “Sabotage” · another report of a story already in the channel",
+  "repeat_of": "Estonia's first responders hold school drone attack drills",
+  "repeats": 0,
+  "source_id": "gnews_nato",
+  "source_name": "Google News — NATO & the Baltics",
+  "summary": "",
+  "text": "NATO Member Estonia to Shut Russia Border Roads After ‘Sabotage Attack’ Newsweek",
+  "tier": "news",
+  "title": "NATO Member Estonia to Shut Russia Border Roads After ‘Sabotage Attack’ - Newsweek",
+  "uid": "d8dc5f7df462a4e1",
+  "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWTVwaHZDWnN4QzBOMTFfcVZVY0JhcHE3UFNZTjNYRndDaS1CRGVvbUU3dzRFSHpWWl96dnAzSHVKckt4bnBhWUpBTnlKRldkd2Z6Mk5HMlhWQ0hqYnRkOGJJeXhjOFRCSWxTbGpVVmZrbEVZTmlWaFRsLW1NdGZnbUlNUnVXRS02M2x4RUl4VEd0eWJPYlhUbWkzNU1GUQ?oc=5",
+  "warning": false
  }
 ]
