@@ -203,7 +203,7 @@
  },
  {
   "level": 2,
-  "n": 6,
+  "n": 8,
   "source": "ERR News (Estonia, EN)",
   "stems": [
    "arres",
@@ -219,12 +219,16 @@
    "drone",
    "easte",
    "eight",
+   "facto",
    "first",
+   "foili",
    "linke",
+   "membe",
    "respo",
    "sabot",
    "schoo",
    "servi",
+   "shuts",
    "suspe",
    "syste",
    "threo"
@@ -282,5 +286,16 @@
   ],
   "title": "📝 Война по расписанию? 📝 В Минске оценили военные приготовления НАТО Европейские политики продолжают запугивать население угрозой нападения …",
   "ts": "2026-11-15T18:01:32+00:00"
+ },
+ {
+  "level": 2,
+  "n": 1,
+  "source": "Google News — Latvia security",
+  "stems": [
+   "movin",
+   "warsh"
+  ],
+  "title": "How Did Ukraine Hit a Moving Russian Warship in the Baltic? - Eyes Only with Wes O'Donnell",
+  "ts": "2026-11-15T18:31:17+00:00"
  }
 ]
