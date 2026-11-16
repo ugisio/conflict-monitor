@@ -481,5 +481,26 @@
   "uid": "d355349cf2e654f5",
   "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPS3ZUV0hGR0VxbjhnNWpGSXloZHVJNFdIekJ5T2dPcjdLc1F3MXhrZURENVVxQUxNNkVTaXloSkxPYThBeGdMemFhbnhERjhCd3hudHpRTl9odUJBUlAyM1JWZ3JhQTUtejZfVUt5WjJxUy14MlAxQ1YyREQtbnVScV9OM2F6VjFwRlNYRm9WTkVaX1JTRXg1RVpQckZhemIzY1MxUjBUb3dlVVpjUU53QUpud1lkQzhoOXRfT1pUeHBkVGVDVUpRRkVYem05bi1reHdsdTktdUNLQ1EyTDQ2czFpRklzRmtnZWlBcWNzWmVFWDVWbEE?oc=5",
   "warning": false
+ },
+ {
+  "first_seen": "2026-11-16T16:31:23+00:00",
+  "kind": "post",
+  "lang": "ru",
+  "level": 2,
+  "note": "RU, independent Russian media in exile",
+  "posted": false,
+  "published": "2026-11-16T16:02:58+00:00",
+  "reason": "region: эстони, росси · matched “диверси” · another report of a story already in the channel",
+  "repeat_of": "Песков пугает Эстонию, которая закрывает границу с Россией, страшной судьбой «Как показывает история, многие страны строили стены, но ничего…",
+  "repeats": 0,
+  "source_id": "tg_novaya",
+  "source_name": "Novaya Gazeta Europe",
+  "summary": "",
+  "text": "🇪🇪 Эстония закроет наземные границы с Россией после попытки диверсии на предприятии по производству БПЛА. Собрали всё, что известно о ситуации С 1 декабря Эстония закроет все три дорожных перехода на границе с Россией, в том числе Нарва — Ивангород, через который в прошлом году зафиксировали более 626 тысяч пересечений. Поводом стала попытка диверсии на эстонском предприятии по производству беспилотников, после которой задержали восемь жителей Латвии. 🚘 Этими наземными погранпереходами для поездок в Россию пользовались многие люди, которые живут и учатся в странах ЕС. Это был самый недорогой способ после закрытия прямого авиасообщения, отмечает юристка Анастасия Буракова. ➡️ «Новая-Европа» рассказывает , что уже объявили власти, какие вопросы остаются открытыми и что известно о возможной диверсии. Ссылка без VPN",
+  "tier": "osint",
+  "title": "🇪🇪 Эстония закроет наземные границы с Россией после попытки диверсии на предприятии по производству БПЛА. Собрали всё, что известно о ситуац…",
+  "uid": "03022a71439d8781",
+  "url": "https://t.me/novaya_europe/69760",
+  "warning": false
  }
 ]
