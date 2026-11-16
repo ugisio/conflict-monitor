@@ -40,5 +40,26 @@
   "uid": "553eb49120fcab4d",
   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPZTVWU0thZk9Nd0lJbGNKcWZWcUJPWVUzbVhua01NdVhmUGZGa25tVEFXRFpCaXVVODNKUjltWkFzTzBoS3BDR3l1YV9OTkJWOHJtNU5LR21RSnV4eW1vUi1scllyblZHaERCTHpJZWJGSVhWaWxFY1JxREZtNnRTZDRLXzBBeDh5SUlfS3ZPd2N6ZEVhM2paRGVkQW9ieGs5ZkNoNUNqek90ZVdkTDRqNkRQMEVYTDQ4TzdCZDB1TXNFRUF5Mm92WHU3NTg0TUJOajEwVkNGXzBJMTd6S1NHVG9DLVY?oc=5",
   "warning": false
+ },
+ {
+  "first_seen": "2026-11-16T08:01:26+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-11-16T01:31:35+00:00",
+  "reason": "region: estonia, russia · matched “arson” · another report of a story already in the channel",
+  "repeat_of": "Estonia's first responders hold school drone attack drills",
+  "repeats": 0,
+  "source_id": "gnews_latvia_security",
+  "source_name": "Google News — Latvia security",
+  "summary": "",
+  "text": "Estonia to close Russian border after suspected drone factory arson DW.com",
+  "tier": "news",
+  "title": "Estonia to close Russian border after suspected drone factory arson - DW.com",
+  "uid": "ab2201c63c3868bd",
+  "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNV0ZGd2FHMU5ibU43TmNCTlpzZ2lzb3UyXzYtZ0M5QzVfVHVOSkowS1Z2S1NHNEFMMkpZX010ZGkxUm53a0dIOGE2TUh2SUNEazF0bEV3N296RVlFbGNLY3ZvcnhKazRyX0VmTnNDYmNMY1Z6QVlsUUpqSU14bWtYNm0xVEFnTmhKUnFF0gGLAUFVX3lxTE1tSDBiTnJlb0dIOE03dFlIbjBKLUo1Z3BzelduSzBTV2owNUZfYk5vVzF6d3JUWmNiVEpqVUMzOGxzR1NRSWVYQzdXZnIwZHJXc1RJWDVUSTJVbkZvSkF2b0N3SFpkVFU1SFdRanBxLUt2ME4zS1gxZmtDQzQwM0pWcXBuS3dWR3FsTnc?oc=5",
+  "warning": false
  }
 ]
