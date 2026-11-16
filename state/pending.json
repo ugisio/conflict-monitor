@@ -418,5 +418,26 @@
   "uid": "a939fda554383063",
   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQ1hFdzBHeHkzR2twemZMd24wdV8zVEhYT2k5bVUwRlhGYjh1OVhGaUZXLUpaTkRxakU5WU1weGdCaFpNRHBTcXhoQUZRbTBNU1JMeGNhS3BOU1U2Q0xkTHlxV3dBUkQwbXl6VVYyRkNGTWhLOUMteTFMYkxFRGlETkdJcnY5UFNvSVpIN3ZBM211bTJEMFRfVlFHRi1JWWVQS0JjaDUyOEJrQUFWOERuR3FQa3NTTkU?oc=5",
   "warning": false
+ },
+ {
+  "first_seen": "2026-11-16T14:31:16+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-11-16T14:19:00+00:00",
+  "reason": "region: estonia, russia · matched “arson (in text)”",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "err_en",
+  "source_name": "ERR News (Estonia, EN)",
+  "summary": "",
+  "text": "Estonia's Ministry of Foreign Affairs has summoned Russia's chargé d'affaires to express its strong condemnation of the attempted arson attack carried out against defense industry company Threod Systems on Saturday night.",
+  "tier": "news",
+  "title": "Foreign Ministry summons Russian chargé d'affaires",
+  "uid": "e03a92eb643171e3",
+  "url": "https://news.err.ee/1610197744/foreign-ministry-summons-russian-charg-d-affaires",
+  "warning": false
  }
 ]
