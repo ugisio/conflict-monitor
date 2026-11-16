@@ -214,15 +214,17 @@
  },
  {
   "level": 2,
-  "n": 2,
+  "n": 3,
   "source": "ERR News (Estonia, EN)",
   "stems": [
    "arson",
    "attem",
    "close",
    "compa",
+   "cross",
    "detai",
    "drone",
+   "foile",
    "maker",
    "membe",
    "sabot",
@@ -325,5 +327,18 @@
   ],
   "title": "Two new US Army battalions arrive in Lithuania for NATO’s eastern flank deployment",
   "ts": "2026-11-16T10:31:34+00:00"
+ },
+ {
+  "level": 2,
+  "n": 2,
+  "source": "LRT (Lithuania, EN)",
+  "stems": [
+   "closi",
+   "consi",
+   "follo",
+   "start"
+  ],
+  "title": "Nausėda: Lithuania may consider closing border with Russia following plot in Estonia",
+  "ts": "2026-11-16T11:01:45+00:00"
  }
 ]
