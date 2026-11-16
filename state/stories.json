@@ -214,19 +214,25 @@
  },
  {
   "level": 2,
-  "n": 3,
+  "n": 4,
   "source": "ERR News (Estonia, EN)",
   "stems": [
    "arson",
    "attem",
+   "briti",
    "close",
    "compa",
    "cross",
    "detai",
    "drone",
+   "easte",
+   "flank",
    "foile",
+   "killi",
    "maker",
    "membe",
+   "missi",
+   "reser",
    "sabot",
    "syste",
    "threo"
@@ -340,5 +346,30 @@
   ],
   "title": "Nausėda: Lithuania may consider closing border with Russia following plot in Estonia",
   "ts": "2026-11-16T11:01:45+00:00"
+ },
+ {
+  "level": 2,
+  "n": 1,
+  "source": "NEXTA Live",
+  "stems": [
+   "грани",
+   "закры",
+   "истор",
+   "котор",
+   "многи",
+   "ничег",
+   "песко",
+   "показ",
+   "пугае",
+   "росси",
+   "стены",
+   "стран",
+   "страш",
+   "строи",
+   "судьб",
+   "эстон"
+  ],
+  "title": "Песков пугает Эстонию, которая закрывает границу с Россией, страшной судьбой «Как показывает история, многие страны строили стены, но ничего…",
+  "ts": "2026-11-16T11:32:01+00:00"
  }
 ]
