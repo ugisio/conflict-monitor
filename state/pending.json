@@ -166,5 +166,26 @@
   "uid": "e1bb7f787a5f8212",
   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQNC03Ry1vWThsSnQzazRsWTVXdDBFdzBfUjJzS3pmVzhvRGR3TXRleFo5eDB0SkFMem5rdXVzYVh3MGc2cTRPUGVqQzNFT3pLb0JpRm84bG9fWEhhQVpaZkJab3VNTHJjYW9iVHlMdWI0NVNHVTBYOENNQ1VBY3pUNGxxR3hQTWh3UVE?oc=5",
   "warning": false
+ },
+ {
+  "first_seen": "2026-11-16T02:31:12+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-11-15T17:01:58+00:00",
+  "reason": "region: estonia, russia · matched “sabotage” · another report of a story already in the channel",
+  "repeat_of": "Estonia's first responders hold school drone attack drills",
+  "repeats": 0,
+  "source_id": "gnews_latvia_security",
+  "source_name": "Google News — Latvia security",
+  "summary": "",
+  "text": "Estonia to close Russia border after 'sabotage' bid Le Monde.fr",
+  "tier": "news",
+  "title": "Estonia to close Russia border after 'sabotage' bid - Le Monde.fr",
+  "uid": "0ee884ce14acecf6",
+  "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMXR5LU1KbU1RcVlPUGxJY1VfVDA5elFPYkhsS3phWW5BVDh3OVFvZ3JiakFRa05hV3Y2N1R4MEhRcUN5TnoyVUdjZm1Yc3dxM1FFQndkN1dOR2pEY1VXQnRITXVQXzR4NHg1LXRtVkFZbXBQQk44VnlQODJsdkV2Z3NfS3lsYjIzaDlwS1hBM05GVXdKMnMwWkVmeUFsck5OelM3WktTbFVaX3ItUWI0ZnZLM3psZXBxTllYUjhWMWw?oc=5",
+  "warning": false
  }
 ]
