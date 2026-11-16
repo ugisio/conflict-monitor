@@ -61,5 +61,26 @@
   "uid": "ab2201c63c3868bd",
   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNV0ZGd2FHMU5ibU43TmNCTlpzZ2lzb3UyXzYtZ0M5QzVfVHVOSkowS1Z2S1NHNEFMMkpZX010ZGkxUm53a0dIOGE2TUh2SUNEazF0bEV3N296RVlFbGNLY3ZvcnhKazRyX0VmTnNDYmNMY1Z6QVlsUUpqSU14bWtYNm0xVEFnTmhKUnFF0gGLAUFVX3lxTE1tSDBiTnJlb0dIOE03dFlIbjBKLUo1Z3BzelduSzBTV2owNUZfYk5vVzF6d3JUWmNiVEpqVUMzOGxzR1NRSWVYQzdXZnIwZHJXc1RJWDVUSTJVbkZvSkF2b0N3SFpkVFU1SFdRanBxLUt2ME4zS1gxZmtDQzQwM0pWcXBuS3dWR3FsTnc?oc=5",
   "warning": false
+ },
+ {
+  "first_seen": "2026-11-16T08:31:13+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 1,
+  "note": "",
+  "posted": false,
+  "published": "2026-11-16T08:16:25+00:00",
+  "reason": "region: latvia, estonia · matched “security chief” · another report of a story already in the channel",
+  "repeat_of": "Estonia's first responders hold school drone attack drills",
+  "repeats": 0,
+  "source_id": "gnews_latvia_security",
+  "source_name": "Google News — Latvia security",
+  "summary": "",
+  "text": "Estonian security chief: 'I hope Latvia will take sufficient measures' / Article LSM",
+  "tier": "news",
+  "title": "Estonian security chief: 'I hope Latvia will take sufficient measures' / Article - LSM",
+  "uid": "81cbccc08974096b",
+  "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQLTFjSGRoUDJidHFOemFrTjF0cm40MWQ5YTQ1aUhyRy1SZ21QUW1nTHFIMWVXWmxtOGx5VVR2aGZMR0dOUDhPa2lkU1hBaDNERTBtYkotNEltTndaa2l0YXV0OEtrUFRHcGZYaFVGX2stOTVVRUp0TXJOMkMzTUt5c2R3ZWpfWDJFbnFzWWJoZ0tIM3hmdGJ4MmRtUVJYLVBCSDhCMEFMS0k5TjFnRjBZeGxXQ3E3eEIxZGRia1p6c29hMEd3OGhtRnl3?oc=5",
+  "warning": false
  }
 ]
