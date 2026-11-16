@@ -1,19 +1,6 @@
 [
  {
   "level": 2,
-  "n": 1,
-  "source": "Google News — Latvia security",
-  "stems": [
-   "build",
-   "iceye",
-   "looks",
-   "space"
-  ],
-  "title": "What Russia’s Baltic Military Buildup Looks Like From Space—ICEYE - UNITED24 Media",
-  "ts": "2026-11-13T10:31:19+00:00"
- },
- {
-  "level": 2,
   "n": 3,
   "source": "ERR News (Estonia, EN)",
   "stems": [
@@ -310,5 +297,33 @@
   ],
   "title": "Construction of Sēlija military training area could cost twice as much – Kučinskis points to an alternative solution - Baltic News Network",
   "ts": "2026-11-16T07:01:31+00:00"
+ },
+ {
+  "level": 1,
+  "n": 1,
+  "source": "LSM (Latvian public media, EN)",
+  "stems": [
+   "ameri",
+   "enjoy",
+   "first",
+   "servi",
+   "volun"
+  ],
+  "title": "First American volunteer enjoying his Latvian military service",
+  "ts": "2026-11-16T10:31:34+00:00"
+ },
+ {
+  "level": 1,
+  "n": 1,
+  "source": "LRT (Lithuania, EN)",
+  "stems": [
+   "arriv",
+   "batta",
+   "deplo",
+   "easte",
+   "flank"
+  ],
+  "title": "Two new US Army battalions arrive in Lithuania for NATO’s eastern flank deployment",
+  "ts": "2026-11-16T10:31:34+00:00"
  }
 ]
