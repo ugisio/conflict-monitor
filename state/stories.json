@@ -430,5 +430,36 @@
   ],
   "title": "Foreign Ministry summons Russian chargé d'affaires",
   "ts": "2026-11-16T14:31:27+00:00"
+ },
+ {
+  "level": 2,
+  "n": 1,
+  "source": "Google News — Latvia security",
+  "stems": [
+   "arson",
+   "attem",
+   "close",
+   "cross",
+   "drone",
+   "facto"
+  ],
+  "title": "Estonia to close Russia border crossings after attempted drone factory arson attack - BBC",
+  "ts": "2026-11-16T22:31:26+00:00"
+ },
+ {
+  "level": 2,
+  "n": 1,
+  "source": "Clash Report",
+  "stems": [
+   "aggre",
+   "burnh",
+   "every",
+   "negot",
+   "prime",
+   "suppo",
+   "those"
+  ],
+  "title": "UK Prime Minister Andy Burnham: We will support Ukraine in those negotiations with everything we have. Everything. If Russian aggression is …",
+  "ts": "2026-11-16T22:31:26+00:00"
  }
 ]
