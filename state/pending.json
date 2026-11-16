@@ -397,5 +397,26 @@
   "uid": "51448124c2d6b05b",
   "url": "https://t.me/nexta_live/126706",
   "warning": false
+ },
+ {
+  "first_seen": "2026-11-16T14:01:29+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-11-16T13:34:00+00:00",
+  "reason": "region: estonia, belarus, nato, russia · matched “invasion of Estonia” · single source, held at WATCH until another source corroborates",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "gnews_nato",
+  "source_name": "Google News — NATO & the Baltics",
+  "summary": "",
+  "text": "Putin’s death, invasion of Estonia, strikes on Belarus: RAND Europe models Russia-NATO war Belsat",
+  "tier": "news",
+  "title": "Putin’s death, invasion of Estonia, strikes on Belarus: RAND Europe models Russia-NATO war - Belsat",
+  "uid": "a939fda554383063",
+  "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQ1hFdzBHeHkzR2twemZMd24wdV8zVEhYT2k5bVUwRlhGYjh1OVhGaUZXLUpaTkRxakU5WU1weGdCaFpNRHBTcXhoQUZRbTBNU1JMeGNhS3BOU1U2Q0xkTHlxV3dBUkQwbXl6VVYyRkNGTWhLOUMteTFMYkxFRGlETkdJcnY5UFNvSVpIN3ZBM211bTJEMFRfVlFHRi1JWWVQS0JjaDUyOEJrQUFWOERuR3FQa3NTTkU?oc=5",
+  "warning": false
  }
 ]
