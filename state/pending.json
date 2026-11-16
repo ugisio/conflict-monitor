@@ -460,5 +460,26 @@
   "uid": "c93c2caf3d02038a",
   "url": "https://t.me/astrapress/131288",
   "warning": false
+ },
+ {
+  "first_seen": "2026-11-16T16:01:27+00:00",
+  "kind": "alert",
+  "lang": "en",
+  "level": 1,
+  "note": "Read via Google News (the embassy site refuses GitHub's servers): headline only - open the link for the full alert.",
+  "posted": false,
+  "published": "2026-11-16T15:53:48+00:00",
+  "reason": "",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "us_embassy_warsaw",
+  "source_name": "US Embassy Warsaw alerts",
+  "summary": "",
+  "text": "Transcript of Secretary Pete Hegseth Hosting Honor Cordon and Meeting With Poland's Minister of National Defense Władysław Kosiniak-Kamysz U.S. Embassy In Poland (.gov)",
+  "tier": "official",
+  "title": "Transcript of Secretary Pete Hegseth Hosting Honor Cordon and Meeting With Poland's Minister of National Defense Władysław Kosiniak-Kamysz - U.S. Embassy In Poland (.gov)",
+  "uid": "d355349cf2e654f5",
+  "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPS3ZUV0hGR0VxbjhnNWpGSXloZHVJNFdIekJ5T2dPcjdLc1F3MXhrZURENVVxQUxNNkVTaXloSkxPYThBeGdMemFhbnhERjhCd3hudHpRTl9odUJBUlAyM1JWZ3JhQTUtejZfVUt5WjJxUy14MlAxQ1YyREQtbnVScV9OM2F6VjFwRlNYRm9WTkVaX1JTRXg1RVpQckZhemIzY1MxUjBUb3dlVVpjUU53QUpud1lkQzhoOXRfT1pUeHBkVGVDVUpRRkVYem05bi1reHdsdTktdUNLQ1EyTDQ2czFpRklzRmtnZWlBcWNzWmVFWDVWbEE?oc=5",
+  "warning": false
  }
 ]
