@@ -227,13 +227,18 @@
  },
  {
   "level": 2,
-  "n": 1,
+  "n": 2,
   "source": "ERR News (Estonia, EN)",
   "stems": [
    "arson",
    "attem",
+   "close",
    "compa",
    "detai",
+   "drone",
+   "maker",
+   "membe",
+   "sabot",
    "syste",
    "threo"
   ],

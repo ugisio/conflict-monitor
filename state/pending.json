@@ -103,5 +103,26 @@
   "uid": "ed6cb5209a390bc9",
   "url": "https://www.lrt.lt/en/news-in-english/19/3116117/lithuania-submits-proposal-to-us-for-permanent-military-base",
   "warning": false
+ },
+ {
+  "first_seen": "2026-11-16T10:01:31+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-11-16T09:30:31+00:00",
+  "reason": "region: estonia, nato, russia · matched “sabotage” · another report of a story already in the channel",
+  "repeat_of": "8 detained after attempted arson at Estonian defense company Threod Systems",
+  "repeats": 0,
+  "source_id": "gnews_nato",
+  "source_name": "Google News — NATO & the Baltics",
+  "summary": "",
+  "text": "NATO member Estonia to close Russia border after attempted 'sabotage' of drone maker CNBC",
+  "tier": "news",
+  "title": "NATO member Estonia to close Russia border after attempted 'sabotage' of drone maker - CNBC",
+  "uid": "b39ac72ac4c22e23",
+  "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQOF84RU1Bb01RbGlqNU00TzBhV3p0YzRHa2duaFd1Z19YRVJITzVRNUtxSHhZaEw3dl9UckdxSC1idU9OYlJ3Y3l2Wm5qSERvUzl2dFlFMW56NnBFUXI0TzVLakJYNDcxOE91SHYwejJLRVh2VFBFbEpMY1JlN09FYg?oc=5",
+  "warning": false
  }
 ]
