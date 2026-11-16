@@ -1,31 +1,6 @@
 [
  {
   "level": 2,
-  "n": 8,
-  "source": "Google News — Latvia security",
-  "stems": [
-   "airsp",
-   "certi",
-   "cheap",
-   "confi",
-   "corve",
-   "drone",
-   "effec",
-   "expen",
-   "kilom",
-   "missi",
-   "multi",
-   "nearl",
-   "prote",
-   "strik",
-   "struc",
-   "warsh"
-  ],
-  "title": "Ukraine Attacked Russian Missile Corvette in the Baltic Sea - Technology Org",
-  "ts": "2026-11-13T00:32:08+00:00"
- },
- {
-  "level": 2,
   "n": 1,
   "source": "Google News — Latvia security",
   "stems": [
