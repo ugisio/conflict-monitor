@@ -1,1 +1,44 @@
-[]
+[
+ {
+  "first_seen": "2026-11-16T07:01:22+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-11-16T06:55:00+00:00",
+  "reason": "region: estonia, russia · matched “arson (in text)” · another report of a story already in the channel",
+  "repeat_of": "Estonia's first responders hold school drone attack drills",
+  "repeats": 0,
+  "source_id": "err_en",
+  "source_name": "ERR News (Estonia, EN)",
+  "summary": "",
+  "text": "Moscow had called plans by Estonia to shut several of its eastern border crossings with Russia after a foiled arson attack attributed to Russia's military intellegence agency \"Russophobia.\"",
+  "tier": "news",
+  "title": "Estonia's proposed eastern border closures are 'Russophobia,' Russian MFA says",
+  "uid": "4eacb4e02ed30d01",
+  "url": "https://news.err.ee/1610197091/estonia-s-proposed-eastern-border-closures-are-russophobia-russian-mfa-says",
+  "warning": false
+ },
+ {
+  "first_seen": "2026-11-16T07:01:23+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 1,
+  "note": "",
+  "posted": false,
+  "published": "2026-11-16T06:49:36+00:00",
+  "reason": "region: baltic · matched “training”",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "gnews_latvia_security",
+  "source_name": "Google News — Latvia security",
+  "summary": "",
+  "text": "Construction of Sēlija military training area could cost twice as much – Kučinskis points to an alternative solution Baltic News Network",
+  "tier": "news",
+  "title": "Construction of Sēlija military training area could cost twice as much – Kučinskis points to an alternative solution - Baltic News Network",
+  "uid": "553eb49120fcab4d",
+  "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPZTVWU0thZk9Nd0lJbGNKcWZWcUJPWVUzbVhua01NdVhmUGZGa25tVEFXRFpCaXVVODNKUjltWkFzTzBoS3BDR3l1YV9OTkJWOHJtNU5LR21RSnV4eW1vUi1scllyblZHaERCTHpJZWJGSVhWaWxFY1JxREZtNnRTZDRLXzBBeDh5SUlfS3ZPd2N6ZEVhM2paRGVkQW9ieGs5ZkNoNUNqek90ZVdkTDRqNkRQMEVYTDQ4TzdCZDB1TXNFRUF5Mm92WHU3NTg0TUJOajEwVkNGXzBJMTd6S1NHVG9DLVY?oc=5",
+  "warning": false
+ }
+]

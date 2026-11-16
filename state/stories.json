@@ -178,7 +178,7 @@
  },
  {
   "level": 2,
-  "n": 13,
+  "n": 14,
   "source": "ERR News (Estonia, EN)",
   "stems": [
    "arres",
@@ -189,6 +189,7 @@
    "capac",
    "close",
    "closi",
+   "closu",
    "compa",
    "cross",
    "detai",
@@ -204,10 +205,12 @@
    "linke",
    "maker",
    "membe",
+   "propo",
    "refin",
    "refus",
    "respo",
    "roads",
+   "russo",
    "sabot",
    "schoo",
    "servi",
@@ -285,5 +288,21 @@
   ],
   "title": "How Did Ukraine Hit a Moving Russian Warship in the Baltic? - Eyes Only with Wes O'Donnell",
   "ts": "2026-11-15T18:31:17+00:00"
+ },
+ {
+  "level": 1,
+  "n": 1,
+  "source": "Google News — Latvia security",
+  "stems": [
+   "alter",
+   "const",
+   "inski",
+   "point",
+   "solut",
+   "train",
+   "twice"
+  ],
+  "title": "Construction of Sēlija military training area could cost twice as much – Kučinskis points to an alternative solution - Baltic News Network",
+  "ts": "2026-11-16T07:01:31+00:00"
  }
 ]
