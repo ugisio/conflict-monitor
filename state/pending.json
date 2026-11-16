@@ -82,5 +82,26 @@
   "uid": "81cbccc08974096b",
   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQLTFjSGRoUDJidHFOemFrTjF0cm40MWQ5YTQ1aUhyRy1SZ21QUW1nTHFIMWVXWmxtOGx5VVR2aGZMR0dOUDhPa2lkU1hBaDNERTBtYkotNEltTndaa2l0YXV0OEtrUFRHcGZYaFVGX2stOTVVRUp0TXJOMkMzTUt5c2R3ZWpfWDJFbnFzWWJoZ0tIM3hmdGJ4MmRtUVJYLVBCSDhCMEFMS0k5TjFnRjBZeGxXQ3E3eEIxZGRia1p6c29hMEd3OGhtRnl3?oc=5",
   "warning": false
+ },
+ {
+  "first_seen": "2026-11-16T09:28:36+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 1,
+  "note": "",
+  "posted": false,
+  "published": "2026-11-16T08:35:00+00:00",
+  "reason": "region: lithuania · matched “Defence Minister (in text)” · another report of a story already in the channel",
+  "repeat_of": "Estonia's first responders hold school drone attack drills",
+  "repeats": 0,
+  "source_id": "lrt_en",
+  "source_name": "LRT (Lithuania, EN)",
+  "summary": "",
+  "text": "Lithuania has submitted proposals to the United States on establishing a permanent American military base in the country, with discussions between the two sides ongoing, Defence Minister Robertas Kaunas said Monday.",
+  "tier": "news",
+  "title": "Lithuania submits proposal to US for permanent military base",
+  "uid": "ed6cb5209a390bc9",
+  "url": "https://www.lrt.lt/en/news-in-english/19/3116117/lithuania-submits-proposal-to-us-for-permanent-military-base",
+  "warning": false
  }
 ]
