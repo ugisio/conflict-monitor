@@ -61,5 +61,26 @@
   "uid": "54da030acda67aa6",
   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1mcDZYTC1TWUZJOGNPVDZXRzFpRXFFN2NyQ0xyM290ZTlpTUFnaEhnRENXbjlqa1hCeldjT09ib2laZllsdFJSNktJZ2o3a2k2U2hBWWg2QkdZRFJnTC0xdERQMmVicFBTOGF4VlVMWUNCSnVDSkNhb25QSnlUVXc?oc=5",
   "warning": false
+ },
+ {
+  "first_seen": "2026-11-17T09:01:30+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-11-17T06:09:50+00:00",
+  "reason": "region: estonia, russia · matched “arson” · another report of a story already in the channel",
+  "repeat_of": "Estonia to close Russia border crossings after attempted drone factory arson attack - BBC",
+  "repeats": 0,
+  "source_id": "gnews_nato",
+  "source_name": "Google News — NATO & the Baltics",
+  "summary": "",
+  "text": "Estonia moves to shut border after Russia linked to arson attack on drone makers Washington Times",
+  "tier": "news",
+  "title": "Estonia moves to shut border after Russia linked to arson attack on drone makers - Washington Times",
+  "uid": "4acf5905a7ebfb4c",
+  "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPcU01SWIzRV9YRnJVaFJoR01BOW5VcDZUOS1TU3pjbTVfTW5UZVJhTDN6Tl90eVcyUEFkVTdXZFlkQm5IX2pnY1BUb1ZNMlk5R19JVThmR1A4TmhhMFBfTlpweXYzeDlWT1FZdUVoWVV2OTI0RS1waks3Q0kySEpnNV9NWHByeUJHaXR0Y1VmQ0V1QTNZZkktMDJJZ2VaTU8tM0EyM3kzX2FRaDJwMVlsTlVTUUVrUQ?oc=5",
+  "warning": false
  }
 ]

@@ -1,21 +1,6 @@
 [
  {
   "level": 2,
-  "n": 2,
-  "source": "Google News — Latvia security",
-  "stems": [
-   "detai",
-   "drone",
-   "missi",
-   "outli",
-   "revea",
-   "strik"
-  ],
-  "title": "Estonia outlines details of Ukrainian attack on Russian missile ship in Baltic Sea - Українська правда",
-  "ts": "2026-11-14T09:01:37+00:00"
- },
- {
-  "level": 2,
   "n": 1,
   "source": "Google News — Latvia security",
   "stems": [
@@ -394,7 +379,7 @@
  },
  {
   "level": 2,
-  "n": 2,
+  "n": 3,
   "source": "Google News — Latvia security",
   "stems": [
    "arson",
@@ -404,6 +389,9 @@
    "cross",
    "drone",
    "facto",
+   "linke",
+   "maker",
+   "moves",
    "sabot"
   ],
   "title": "Estonia to close Russia border crossings after attempted drone factory arson attack - BBC",
