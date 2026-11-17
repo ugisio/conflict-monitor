@@ -372,7 +372,7 @@
  },
  {
   "level": 2,
-  "n": 6,
+  "n": 7,
   "source": "Google News — Latvia security",
   "stems": [
    "arson",
@@ -380,9 +380,11 @@
    "attri",
    "boost",
    "brita",
+   "cargo",
    "close",
    "commi",
    "confr",
+   "conta",
    "cross",
    "drone",
    "easte",
@@ -397,7 +399,10 @@
    "moves",
    "opera",
    "sabot",
+   "shift",
+   "south",
    "stren",
+   "traff",
    "warfa"
   ],
   "title": "Estonia to close Russia border crossings after attempted drone factory arson attack - BBC",
@@ -474,5 +479,17 @@
   ],
   "title": "New Threats from the Kremlin: The Baltic States Are Preparing Evacuation Plans and Strengthening Their Defenses - UA.NEWS",
   "ts": "2026-11-17T11:31:58+00:00"
+ },
+ {
+  "level": 2,
+  "n": 1,
+  "source": "Google News — Latvia security",
+  "stems": [
+   "black",
+   "deplo",
+   "plane"
+  ],
+  "title": "USAF deploys rare RC-135U spy plane over Black Sea and Baltic - Aerospace Global News",
+  "ts": "2026-11-17T14:01:33+00:00"
  }
 ]
