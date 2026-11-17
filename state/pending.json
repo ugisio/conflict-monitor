@@ -82,5 +82,26 @@
   "uid": "6b630f69ce152d1f",
   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbTllOWw1TXVxTEIyQVBwOE1lekdoaXlJMGUtVHE5Q29NbWRxMDhjdWZUeGxReW1VN1REd1E2ZElKS3NwVmIybHBVTGptQ0hsRXhMd1RkbXFRSjg3aEdJRUsyMDBGLV9kZHJ2b1NETXNscFp3clBsTW1xUXB4aUtkREhXQ2xQNnRWZlhBa0M0TjhlbDg3R2poYnpMNzNqMmwtQV9JMW1ySlZlQ0tuUFNHcWJ3d044ekVMY2JxMDdkNGQ?oc=5",
   "warning": false
+ },
+ {
+  "first_seen": "2026-11-17T04:01:22+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 1,
+  "note": "",
+  "posted": false,
+  "published": "2026-11-17T04:00:01+00:00",
+  "reason": "region: estonia, nato, russia · matched “defence minister” · another report of a story already in the channel",
+  "repeat_of": "Two new US Army battalions arrive in Lithuania for NATO’s eastern flank deployment",
+  "repeats": 0,
+  "source_id": "gnews_official_warnings",
+  "source_name": "Google News — official warnings",
+  "summary": "",
+  "text": "‘We are not NATO's flank. We are the centre.’ Estonia's defence minister warns about Russia Defence24.com",
+  "tier": "news",
+  "title": "‘We are not NATO's flank. We are the centre.’ Estonia's defence minister warns about Russia - Defence24.com",
+  "uid": "5b316eb266ba38be",
+  "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcGxkZU4xWEVVWUhmZkVkUUdJTjU0Zm1WbXRDV3FYYV9lWGNVZmtlOFA3bFVobnZvUWN3UUZFLXdJcVZnMzRTal84eEFQOGdRUTRqRVpTTHgwc3Vsem1yLXBTRFRZNE5rczV4SkdaVnA5bEJXWTlrX0NLTUFIVkRqc0RjdGpCdTBBWDlDWEpIYjJMZnQ2OWxJbVNLT1l6cVRFaVBGSDF2OWRFaFpkOFRyZ0NzYzFEbzlnZTJ3?oc=5",
+  "warning": false
  }
 ]

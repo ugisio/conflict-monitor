@@ -344,11 +344,12 @@
  },
  {
   "level": 1,
-  "n": 1,
+  "n": 2,
   "source": "LRT (Lithuania, EN)",
   "stems": [
    "arriv",
    "batta",
+   "centr",
    "deplo",
    "easte",
    "flank"
