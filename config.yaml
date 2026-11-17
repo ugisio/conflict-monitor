@@ -176,6 +176,8 @@ sources:
     url: https://embassies.gov.il/riga/en/announcements
     selector: 'a[href*="/announcements/"]'
     title_selector: "h2, h3"
+    detail_date: "Last updated on:?\\s*(\\d{1,2}/\\d{1,2}/\\d{4})"
+    max_age_days: 14
     tier: official
     base_level: 1
 
@@ -185,6 +187,8 @@ sources:
     url: https://embassies.gov.il/lithuania/en/announcements
     selector: 'a[href*="/announcements/"]'
     title_selector: "h2, h3"
+    detail_date: "Last updated on:?\\s*(\\d{1,2}/\\d{1,2}/\\d{4})"
+    max_age_days: 14
     tier: official
     base_level: 1
 
@@ -194,6 +198,8 @@ sources:
     url: https://embassies.gov.il/estonia/en/announcements
     selector: 'a[href*="/announcements/"]'
     title_selector: "h2, h3"
+    detail_date: "Last updated on:?\\s*(\\d{1,2}/\\d{1,2}/\\d{4})"
+    max_age_days: 14
     tier: official
     base_level: 1
 
@@ -203,6 +209,8 @@ sources:
     url: https://embassies.gov.il/finland/en/announcements
     selector: 'a[href*="/announcements/"]'
     title_selector: "h2, h3"
+    detail_date: "Last updated on:?\\s*(\\d{1,2}/\\d{1,2}/\\d{4})"
+    max_age_days: 14
     tier: official
     base_level: 1
 
@@ -212,6 +220,8 @@ sources:
     url: https://embassies.gov.il/poland/en/announcements
     selector: 'a[href*="/announcements/"]'
     title_selector: "h2, h3"
+    detail_date: "Last updated on:?\\s*(\\d{1,2}/\\d{1,2}/\\d{4})"
+    max_age_days: 14
     tier: official
     base_level: 1
 
