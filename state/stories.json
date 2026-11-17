@@ -1,51 +1,6 @@
 [
  {
   "level": 2,
-  "n": 1,
-  "source": "Google News — NATO & the Baltics",
-  "stems": [
-   "aroun",
-   "briti",
-   "octob",
-   "plane",
-   "sorti"
-  ],
-  "title": "British spy planes flew 17 sorties around Kaliningrad in October: Report - Türkiye Today",
-  "ts": "2026-11-14T18:50:01+00:00"
- },
- {
-  "level": 2,
-  "n": 2,
-  "source": "Google News — NATO & the Baltics",
-  "stems": [
-   "canad",
-   "exerc",
-   "hunte",
-   "insid",
-   "subma"
-  ],
-  "title": "Hide and seek in the Baltic – inside NATO’s submarine hunt - UK Defence Journal",
-  "ts": "2026-11-14T18:50:01+00:00"
- },
- {
-  "level": 1,
-  "n": 1,
-  "source": "Clash Report",
-  "stems": [
-   "consi",
-   "cutti",
-   "feare",
-   "fewer",
-   "initi",
-   "penta",
-   "rough",
-   "troop"
-  ],
-  "title": "The Pentagon is considering cutting only about 5,000 of its roughly 80,000 troops in Europe, far fewer than the 25,000 initially feared by N…",
-  "ts": "2026-11-14T19:01:28+00:00"
- },
- {
-  "level": 2,
   "n": 5,
   "source": "NEXTA Live",
   "stems": [
@@ -372,12 +327,13 @@
  },
  {
   "level": 2,
-  "n": 8,
+  "n": 9,
   "source": "Google News — Latvia security",
   "stems": [
    "arson",
    "attem",
    "attri",
+   "balli",
    "boost",
    "brita",
    "cargo",
@@ -396,6 +352,7 @@
    "fundi",
    "highl",
    "hundr",
+   "inter",
    "kinds",
    "linke",
    "maker",

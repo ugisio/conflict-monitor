@@ -19,5 +19,26 @@
   "uid": "c2cf1e92bad53425",
   "url": "https://t.me/ClashReport/106539",
   "warning": true
+ },
+ {
+  "first_seen": "2026-11-17T19:01:25+00:00",
+  "kind": "post",
+  "lang": "en",
+  "level": 2,
+  "note": "EN, conflict news aggregator",
+  "posted": false,
+  "published": "2026-11-17T18:32:43+00:00",
+  "reason": "official warning about Russia / NATO · matched “escalat (in text)” · another report of a story already in the channel",
+  "repeat_of": "Estonia to close Russia border crossings after attempted drone factory arson attack - BBC",
+  "repeats": 0,
+  "source_id": "tg_clashreport",
+  "source_name": "Clash Report",
+  "summary": "",
+  "text": "Zelensky: Europe can help us with this, not just with interceptors against ballistic missiles, but also with missiles that can put Russia in its place and force it to de-escalate.",
+  "tier": "osint",
+  "title": "Zelensky: Europe can help us with this, not just with interceptors against ballistic missiles, but also with missiles that can put Russia in…",
+  "uid": "b7b0e8cf61066e31",
+  "url": "https://t.me/ClashReport/106543",
+  "warning": true
  }
 ]
