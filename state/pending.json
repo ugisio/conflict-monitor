@@ -40,5 +40,26 @@
   "uid": "33afbc4ab181b36e",
   "url": "https://www.lrt.lt/en/news-in-english/19/3117079/lithuania-s-military-chief-suggests-building-physical-barriers-along-kaliningrad-border",
   "warning": false
+ },
+ {
+  "first_seen": "2026-11-17T08:31:02+00:00",
+  "kind": "alert",
+  "lang": "en",
+  "level": 3,
+  "note": "Read via Google News (the embassy site refuses GitHub's servers): headline only - open the link for the full alert.",
+  "posted": true,
+  "published": "2026-11-17T05:29:24+00:00",
+  "reason": "matched “Security Alert”",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "us_embassy_riga",
+  "source_name": "US Embassy Riga alerts",
+  "summary": "",
+  "text": "Security Alert: U.S. Embassy Riga, November 16, 2026 U.S. Embassy in Latvia (.gov)",
+  "tier": "official",
+  "title": "Security Alert: U.S. Embassy Riga, November 16, 2026 - U.S. Embassy in Latvia (.gov)",
+  "uid": "54da030acda67aa6",
+  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1mcDZYTC1TWUZJOGNPVDZXRzFpRXFFN2NyQ0xyM290ZTlpTUFnaEhnRENXbjlqa1hCeldjT09ib2laZllsdFJSNktJZ2o3a2k2U2hBWWg2QkdZRFJnTC0xdERQMmVicFBTOGF4VlVMWUNCSnVDSkNhb25QSnlUVXc?oc=5",
+  "warning": false
  }
 ]
