@@ -201,14 +201,19 @@
  },
  {
   "level": 2,
-  "n": 3,
+  "n": 4,
   "source": "Rybar",
   "stems": [
+   "антим",
+   "белар",
    "белта",
    "боева",
+   "бывши",
+   "витеб",
    "военн",
    "война",
    "генпр",
+   "геншт",
    "готов",
    "гражд",
    "грани",
@@ -223,22 +228,22 @@
    "минск",
    "напад",
    "насел",
+   "начал",
    "обвин",
+   "облас",
+   "отпра",
    "оцени",
    "подня",
    "полит",
    "полна",
+   "потен",
    "предъ",
+   "преем",
    "приго",
    "продо",
    "псков",
    "распи",
-   "распо",
-   "спецп",
-   "трево",
-   "угроз",
-   "украи",
-   "четве"
+   "распо"
   ],
   "title": "«Использовали гражданского в качестве \"живого щита\"». Генпрокуратура Украины предъявила обвинения четверым военнослужащим псковской дивизии …",
   "ts": "2026-11-16T15:31:58+00:00"
@@ -382,19 +387,22 @@
  },
  {
   "level": 2,
-  "n": 3,
+  "n": 4,
   "source": "Google News — Latvia security",
   "stems": [
    "arson",
    "attem",
+   "attri",
    "close",
    "confr",
    "cross",
    "drone",
    "facto",
+   "highl",
    "linke",
    "maker",
    "moves",
+   "opera",
    "sabot"
   ],
   "title": "Estonia to close Russia border crossings after attempted drone factory arson attack - BBC",
@@ -458,5 +466,18 @@
   ],
   "title": "Lithuania’s military chief suggests building physical barriers along Kaliningrad border",
   "ts": "2026-11-17T08:02:00+00:00"
+ },
+ {
+  "level": 2,
+  "n": 1,
+  "source": "Google News — Latvia security",
+  "stems": [
+   "evacu",
+   "plans",
+   "prepa",
+   "stren"
+  ],
+  "title": "New Threats from the Kremlin: The Baltic States Are Preparing Evacuation Plans and Strengthening Their Defenses - UA.NEWS",
+  "ts": "2026-11-17T11:31:58+00:00"
  }
 ]
