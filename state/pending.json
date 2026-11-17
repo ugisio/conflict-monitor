@@ -82,5 +82,26 @@
   "uid": "4acf5905a7ebfb4c",
   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPcU01SWIzRV9YRnJVaFJoR01BOW5VcDZUOS1TU3pjbTVfTW5UZVJhTDN6Tl90eVcyUEFkVTdXZFlkQm5IX2pnY1BUb1ZNMlk5R19JVThmR1A4TmhhMFBfTlpweXYzeDlWT1FZdUVoWVV2OTI0RS1waks3Q0kySEpnNV9NWHByeUJHaXR0Y1VmQ0V1QTNZZkktMDJJZ2VaTU8tM0EyM3kzX2FRaDJwMVlsTlVTUUVrUQ?oc=5",
   "warning": false
+ },
+ {
+  "first_seen": "2026-11-17T09:31:12+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 1,
+  "note": "",
+  "posted": false,
+  "published": "2026-11-17T08:52:00+00:00",
+  "reason": "region: lithuania · matched “army chief” · another report of a story already in the channel",
+  "repeat_of": "Two new US Army battalions arrive in Lithuania for NATO’s eastern flank deployment",
+  "repeats": 0,
+  "source_id": "lrt_en",
+  "source_name": "LRT (Lithuania, EN)",
+  "summary": "",
+  "text": "The deployment of two US rotational battalions in Lithuania was officially completed on Monday. “I think the entire Lithuanian nation breathed a sigh of relief,” Lithuanian Armed Forces Chief General Raimundas Vaikšnoras told LRT in an interview.",
+  "tier": "news",
+  "title": "Lithuania breathes easy after US troop arrival, says army chief",
+  "uid": "ff3acd323f800c14",
+  "url": "https://www.lrt.lt/en/news-in-english/19/3117122/lithuania-breathes-easy-after-us-troop-arrival-says-army-chief",
+  "warning": false
  }
 ]

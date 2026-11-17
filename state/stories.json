@@ -289,15 +289,18 @@
  },
  {
   "level": 1,
-  "n": 2,
+  "n": 3,
   "source": "LRT (Lithuania, EN)",
   "stems": [
    "arriv",
    "batta",
+   "breat",
    "centr",
+   "chief",
    "deplo",
    "easte",
-   "flank"
+   "flank",
+   "troop"
   ],
   "title": "Two new US Army battalions arrive in Lithuania for NATO’s eastern flank deployment",
   "ts": "2026-11-16T10:31:34+00:00"
