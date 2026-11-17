@@ -244,9 +244,26 @@ def fetch_html_links(src: dict, state: State) -> list[Item]:
         seen.add(url)
         if not matches_any(title, src.get("include")):
             continue
-        items.append(Item(source_id=src["id"], source_name=src["name"], title=title, url=url,
+        published = None
+        if src.get("detail_date") and not state.is_seen(src["id"], Item(source_id=src["id"], source_name="", title=title, url=url).uid):
+            # An undated list page re-exposes old announcements (Israeli embassy pages showed a 28 Sep notice on
+            # 16 Nov as 'new'). For items we have not seen, read the date off the detail page and drop stale ones.
+            published = _detail_date(url, src["detail_date"])
+            if published and too_old(published, src.get("max_age_days")):
+                state.mark_seen(src["id"], Item(source_id=src["id"], source_name="", title=title, url=url).uid)
+                continue
+        items.append(Item(source_id=src["id"], source_name=src["name"], title=title, url=url, published=published,
                           kind="alert", tier=src.get("tier", "official"), note=src.get("note", "")))
     return items[:40]
+
+
+def _detail_date(url: str, pattern: str) -> str | None:
+    """ISO date from a detail page ('Last updated on: 28/09/2026', day first), or None."""
+    try:
+        m = re.search(pattern, norm_ws(BeautifulSoup(http_get(url).text, "lxml").get_text(" ")))
+        return datetime.strptime(m.group(1), "%d/%m/%Y").replace(tzinfo=timezone.utc).isoformat(timespec="seconds") if m else None
+    except Exception:
+        return None
 
 
 # ------------------------------------------------------------------ HTML: text snapshot (diff)
