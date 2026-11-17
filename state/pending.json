@@ -103,5 +103,26 @@
   "uid": "ff3acd323f800c14",
   "url": "https://www.lrt.lt/en/news-in-english/19/3117122/lithuania-breathes-easy-after-us-troop-arrival-says-army-chief",
   "warning": false
+ },
+ {
+  "first_seen": "2026-11-17T10:01:59+00:00",
+  "kind": "alert",
+  "lang": "en",
+  "level": 3,
+  "note": "Read via Google News (the embassy site refuses GitHub's servers): headline only - open the link for the full alert.",
+  "posted": true,
+  "published": "2026-11-17T09:54:40+00:00",
+  "reason": "matched “Security Alert”",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "us_embassy_warsaw",
+  "source_name": "US Embassy Warsaw alerts",
+  "summary": "",
+  "text": "Security Alert: U.S. Embassy Warsaw, November 16, 2026 U.S. Embassy In Poland (.gov)",
+  "tier": "official",
+  "title": "Security Alert: U.S. Embassy Warsaw, November 16, 2026 - U.S. Embassy In Poland (.gov)",
+  "uid": "98b218c7cf3b3966",
+  "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWmU5QmtyRURVeWVrTWM5UnNZbzFCazdVYVJTY0tBM3Rydm4xVFFLMU0yNEUwaDF2X1Bha3JHOGlMWVRaaEJKaldPQzZ3eXZrVzJ2bjdQRDI4Z21SWGoyVnU1TTU1ZTR1UnhObmtpUTJCc1ctZ21Gb1U1SkExaU5mSV9R?oc=5",
+  "warning": false
  }
 ]
