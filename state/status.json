@@ -5,48 +5,48 @@
    "error": "",
    "fail_streak": 0,
    "items_last": 0,
-   "last_ok": "2026-11-17T07:31:09+00:00",
-   "last_run": "2026-11-17T07:31:09+00:00",
+   "last_ok": "2026-11-17T08:01:18+00:00",
+   "last_run": "2026-11-17T08:01:18+00:00",
    "ok": true
   },
   "err_en": {
    "error": "",
    "fail_streak": 0,
-   "items_last": 49,
-   "last_ok": "2026-11-17T07:31:20+00:00",
-   "last_run": "2026-11-17T07:31:20+00:00",
+   "items_last": 50,
+   "last_ok": "2026-11-17T08:01:54+00:00",
+   "last_run": "2026-11-17T08:01:54+00:00",
    "ok": true
   },
   "fcdo_estonia": {
    "error": "",
    "fail_streak": 0,
    "items_last": 0,
-   "last_ok": "2026-11-17T07:31:05+00:00",
-   "last_run": "2026-11-17T07:31:05+00:00",
+   "last_ok": "2026-11-17T08:01:16+00:00",
+   "last_run": "2026-11-17T08:01:16+00:00",
    "ok": true
   },
   "fcdo_latvia": {
    "error": "",
    "fail_streak": 0,
    "items_last": 0,
-   "last_ok": "2026-11-17T07:31:05+00:00",
-   "last_run": "2026-11-17T07:31:05+00:00",
+   "last_ok": "2026-11-17T08:01:16+00:00",
+   "last_run": "2026-11-17T08:01:16+00:00",
    "ok": true
   },
   "fcdo_lithuania": {
    "error": "",
    "fail_streak": 0,
    "items_last": 0,
-   "last_ok": "2026-11-17T07:31:06+00:00",
-   "last_run": "2026-11-17T07:31:06+00:00",
+   "last_ok": "2026-11-17T08:01:17+00:00",
+   "last_run": "2026-11-17T08:01:17+00:00",
    "ok": true
   },
   "germany_latvia": {
    "error": "",
    "fail_streak": 0,
    "items_last": 0,
-   "last_ok": "2026-11-17T07:31:10+00:00",
-   "last_run": "2026-11-17T07:31:10+00:00",
+   "last_ok": "2026-11-17T08:01:18+00:00",
+   "last_run": "2026-11-17T08:01:18+00:00",
    "ok": true
   },
   "gnews_airspace": {
@@ -91,155 +91,155 @@
   },
   "gnews_latvia_security": {
    "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=(Latvia+OR+Baltic+OR+Kaliningrad)+(Russia+OR+Belarus+OR+NATO+OR+border+OR+military+OR+drone+OR+airspace)&hl",
-   "fail_streak": 1,
+   "fail_streak": 2,
    "items_last": 23,
    "last_ok": "2026-11-17T07:01:28+00:00",
-   "last_run": "2026-11-17T07:31:20+00:00",
+   "last_run": "2026-11-17T08:01:55+00:00",
    "ok": false
   },
   "gnews_nato": {
    "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=NATO+(Baltic+OR+Latvia+OR+Estonia+OR+Lithuania+OR+%22eastern+flank%22+OR+%22Article+4%22+OR+%22Article+5%22",
-   "fail_streak": 1,
+   "fail_streak": 2,
    "items_last": 39,
    "last_ok": "2026-11-17T07:01:29+00:00",
-   "last_run": "2026-11-17T07:31:21+00:00",
+   "last_run": "2026-11-17T08:01:55+00:00",
    "ok": false
   },
   "gnews_official_warnings": {
-   "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=Russia%20%28%22defence%20chief%22%20OR%20%22chief%20of%20defence%22%20OR%20%22defence%20minister%22%20OR%20",
-   "fail_streak": 1,
+   "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=Russia+(%22defence+chief%22+OR+%22chief+of+defence%22+OR+%22defence+minister%22+OR+%22prime+minister%22+OR+",
+   "fail_streak": 2,
    "items_last": 1,
    "last_ok": "2026-11-17T07:01:30+00:00",
-   "last_run": "2026-11-17T07:31:22+00:00",
+   "last_run": "2026-11-17T08:01:55+00:00",
    "ok": false
   },
   "israel_emb_estonia": {
    "error": "",
    "fail_streak": 0,
    "items_last": 2,
-   "last_ok": "2026-11-17T07:31:13+00:00",
-   "last_run": "2026-11-17T07:31:13+00:00",
+   "last_ok": "2026-11-17T08:01:50+00:00",
+   "last_run": "2026-11-17T08:01:50+00:00",
    "ok": true
   },
   "israel_emb_finland": {
    "error": "",
    "fail_streak": 0,
    "items_last": 4,
-   "last_ok": "2026-11-17T07:31:14+00:00",
-   "last_run": "2026-11-17T07:31:14+00:00",
+   "last_ok": "2026-11-17T08:01:51+00:00",
+   "last_run": "2026-11-17T08:01:51+00:00",
    "ok": true
   },
   "israel_emb_lithuania": {
    "error": "",
    "fail_streak": 0,
    "items_last": 2,
-   "last_ok": "2026-11-17T07:31:12+00:00",
-   "last_run": "2026-11-17T07:31:12+00:00",
+   "last_ok": "2026-11-17T08:01:49+00:00",
+   "last_run": "2026-11-17T08:01:49+00:00",
    "ok": true
   },
   "israel_emb_poland": {
    "error": "",
    "fail_streak": 0,
    "items_last": 3,
-   "last_ok": "2026-11-17T07:31:15+00:00",
-   "last_run": "2026-11-17T07:31:15+00:00",
+   "last_ok": "2026-11-17T08:01:52+00:00",
+   "last_run": "2026-11-17T08:01:52+00:00",
    "ok": true
   },
   "israel_emb_riga": {
-   "error": "",
-   "fail_streak": 0,
+   "error": "ReadTimeout: HTTPSConnectionPool(host='embassies.gov.il', port=443): Read timed out. (read timeout=30)",
+   "fail_streak": 1,
    "items_last": 4,
    "last_ok": "2026-11-17T07:31:12+00:00",
-   "last_run": "2026-11-17T07:31:12+00:00",
-   "ok": true
+   "last_run": "2026-11-17T08:01:49+00:00",
+   "ok": false
   },
   "lrt_en": {
    "error": "",
    "fail_streak": 0,
    "items_last": 13,
-   "last_ok": "2026-11-17T07:31:20+00:00",
-   "last_run": "2026-11-17T07:31:20+00:00",
+   "last_ok": "2026-11-17T08:01:54+00:00",
+   "last_run": "2026-11-17T08:01:54+00:00",
    "ok": true
   },
   "lsm_en": {
    "error": "",
    "fail_streak": 0,
    "items_last": 24,
-   "last_ok": "2026-11-17T07:31:19+00:00",
-   "last_run": "2026-11-17T07:31:19+00:00",
+   "last_ok": "2026-11-17T08:01:54+00:00",
+   "last_run": "2026-11-17T08:01:54+00:00",
    "ok": true
   },
   "polymarket": {
    "error": "",
    "fail_streak": 0,
    "items_last": 0,
-   "last_ok": "2026-11-17T07:31:30+00:00",
-   "last_run": "2026-11-17T07:31:30+00:00",
+   "last_ok": "2026-11-17T08:02:00+00:00",
+   "last_run": "2026-11-17T08:02:00+00:00",
    "ok": true
   },
   "tg_astra": {
    "error": "",
    "fail_streak": 0,
    "items_last": 16,
-   "last_ok": "2026-11-17T07:31:25+00:00",
-   "last_run": "2026-11-17T07:31:25+00:00",
+   "last_ok": "2026-11-17T08:01:57+00:00",
+   "last_run": "2026-11-17T08:01:57+00:00",
    "ok": true
   },
   "tg_clashreport": {
    "error": "",
    "fail_streak": 0,
    "items_last": 20,
-   "last_ok": "2026-11-17T07:31:23+00:00",
-   "last_run": "2026-11-17T07:31:23+00:00",
+   "last_ok": "2026-11-17T08:01:56+00:00",
+   "last_run": "2026-11-17T08:01:56+00:00",
    "ok": true
   },
   "tg_disclosetv": {
    "error": "",
    "fail_streak": 0,
    "items_last": 20,
-   "last_ok": "2026-11-17T07:31:23+00:00",
-   "last_run": "2026-11-17T07:31:23+00:00",
+   "last_ok": "2026-11-17T08:01:56+00:00",
+   "last_run": "2026-11-17T08:01:56+00:00",
    "ok": true
   },
   "tg_meduza": {
    "error": "",
    "fail_streak": 0,
    "items_last": 17,
-   "last_ok": "2026-11-17T07:31:25+00:00",
-   "last_run": "2026-11-17T07:31:25+00:00",
+   "last_ok": "2026-11-17T08:01:57+00:00",
+   "last_run": "2026-11-17T08:01:57+00:00",
    "ok": true
   },
   "tg_nexta": {
    "error": "",
    "fail_streak": 0,
    "items_last": 13,
-   "last_ok": "2026-11-17T07:31:24+00:00",
-   "last_run": "2026-11-17T07:31:24+00:00",
+   "last_ok": "2026-11-17T08:01:57+00:00",
+   "last_run": "2026-11-17T08:01:57+00:00",
    "ok": true
   },
   "tg_novaya": {
    "error": "",
    "fail_streak": 0,
    "items_last": 14,
-   "last_ok": "2026-11-17T07:31:26+00:00",
-   "last_run": "2026-11-17T07:31:26+00:00",
+   "last_ok": "2026-11-17T08:01:58+00:00",
+   "last_run": "2026-11-17T08:01:58+00:00",
    "ok": true
   },
   "tg_rybar": {
    "error": "",
    "fail_streak": 0,
-   "items_last": 14,
-   "last_ok": "2026-11-17T07:31:27+00:00",
-   "last_run": "2026-11-17T07:31:27+00:00",
+   "items_last": 15,
+   "last_ok": "2026-11-17T08:01:58+00:00",
+   "last_run": "2026-11-17T08:01:58+00:00",
    "ok": true
   },
   "us_embassy_helsinki": {
-   "error": "",
-   "fail_streak": 0,
+   "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=site:fi.usembassy.gov+when:3d&hl=en-US&gl=US&ceid=US:en",
+   "fail_streak": 1,
    "items_last": 0,
    "last_ok": "2026-11-17T07:31:17+00:00",
-   "last_run": "2026-11-17T07:31:17+00:00",
-   "ok": true
+   "last_run": "2026-11-17T08:01:53+00:00",
+   "ok": false
   },
   "us_embassy_riga": {
    "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=site:lv.usembassy.gov+when:3d&hl=en-US&gl=US&ceid=US:en",
@@ -261,32 +261,32 @@
    "error": "",
    "fail_streak": 0,
    "items_last": 0,
-   "last_ok": "2026-11-17T07:31:16+00:00",
-   "last_run": "2026-11-17T07:31:16+00:00",
+   "last_ok": "2026-11-17T08:01:53+00:00",
+   "last_run": "2026-11-17T08:01:53+00:00",
    "ok": true
   },
   "us_embassy_warsaw": {
-   "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=site:pl.usembassy.gov+when:3d&hl=en-US&gl=US&ceid=US:en",
-   "fail_streak": 1,
+   "error": "",
+   "fail_streak": 0,
    "items_last": 1,
-   "last_ok": "2026-11-17T07:01:26+00:00",
-   "last_run": "2026-11-17T07:31:17+00:00",
-   "ok": false
+   "last_ok": "2026-11-17T08:01:53+00:00",
+   "last_run": "2026-11-17T08:01:53+00:00",
+   "ok": true
   },
   "us_state_latvia": {
    "error": "page blocked (403); relying on the advisories RSS feed",
    "fail_streak": 0,
    "items_last": 0,
-   "last_ok": "2026-11-17T07:31:03+00:00",
-   "last_run": "2026-11-17T07:31:03+00:00",
+   "last_ok": "2026-11-17T08:01:15+00:00",
+   "last_run": "2026-11-17T08:01:15+00:00",
    "ok": true
   },
   "us_state_rss": {
    "error": "",
    "fail_streak": 0,
    "items_last": 0,
-   "last_ok": "2026-11-17T07:31:03+00:00",
-   "last_run": "2026-11-17T07:31:03+00:00",
+   "last_ok": "2026-11-17T08:01:16+00:00",
+   "last_run": "2026-11-17T08:01:16+00:00",
    "ok": true
   }
  },
@@ -1394,8 +1394,18 @@
    "title_key": "zelensky russia ally that supplies with ballistic missiles",
    "ts": "2026-11-17T07:01:35+00:00",
    "url": "https://t.me/ClashReport/106428"
+  },
+  {
+   "level": 1,
+   "raw_level": 1,
+   "reason": "region: lithuania, kaliningrad, russia · matched “military chief”",
+   "source": "LRT (Lithuania, EN)",
+   "title": "Lithuania’s military chief suggests building physical barriers along Kaliningrad border",
+   "title_key": "lithuania military chief suggests building physical barriers along",
+   "ts": "2026-11-17T08:02:00+00:00",
+   "url": "https://www.lrt.lt/en/news-in-english/19/3117079/lithuania-s-military-chief-suggests-building-physical-barriers-along-kaliningrad-border"
   }
  ],
- "runs": 2572,
- "status_text": "📟 <b>CURRENT LEVEL: 🔴 L4 URGENT.</b> Embassy closed 30.9.\n<a href=\"https://embassies.gov.il/finland/en/announcements/embassytemporaryclosure\">Israeli Embassy Helsinki announcements</a> · Mon 16 Nov 12:31\n<b>Why L4:</b> matched “Embassy closed”\n<b>Suggested action at L4:</b> Execute your plan.\nLevel = highest of the last 72 h · updated Tue 17 Nov 09:31 · sources OK 26/36 · <a href=\"https://t.me/c/4455291623/25\">📖 Level guide</a>\nScale: ⚫5 Critical 🔴4 Urgent 🟠3 Elevated 🟡2 Watch 🟢1 Info ⚪0 Quiet"
+ "runs": 2573,
+ "status_text": "📟 <b>CURRENT LEVEL: 🔴 L4 URGENT.</b> Embassy closed 30.9.\n<a href=\"https://embassies.gov.il/finland/en/announcements/embassytemporaryclosure\">Israeli Embassy Helsinki announcements</a> · Mon 16 Nov 12:31\n<b>Why L4:</b> matched “Embassy closed”\n<b>Suggested action at L4:</b> Execute your plan.\nLevel = highest of the last 72 h · updated Tue 17 Nov 10:02 · sources OK 25/36 · <a href=\"https://t.me/c/4455291623/25\">📖 Level guide</a>\nScale: ⚫5 Critical 🔴4 Urgent 🟠3 Elevated 🟡2 Watch 🟢1 Info ⚪0 Quiet"
 }

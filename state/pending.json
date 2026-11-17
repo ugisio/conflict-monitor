@@ -19,5 +19,26 @@
   "uid": "7080a74e7f9ebc28",
   "url": "https://t.me/ClashReport/106428",
   "warning": true
+ },
+ {
+  "first_seen": "2026-11-17T08:01:54+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 1,
+  "note": "",
+  "posted": false,
+  "published": "2026-11-17T07:39:00+00:00",
+  "reason": "region: lithuania, kaliningrad, russia · matched “military chief”",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "lrt_en",
+  "source_name": "LRT (Lithuania, EN)",
+  "summary": "",
+  "text": "Lithuania’s Chief of Defence Raimundas Vaikšnoras has suggested installing physical barriers along vulnerable sections of the border with Russia’s Kaliningrad region, saying continuous troop patrols are costly and divert soldiers from military training.",
+  "tier": "news",
+  "title": "Lithuania’s military chief suggests building physical barriers along Kaliningrad border",
+  "uid": "33afbc4ab181b36e",
+  "url": "https://www.lrt.lt/en/news-in-english/19/3117079/lithuania-s-military-chief-suggests-building-physical-barriers-along-kaliningrad-border",
+  "warning": false
  }
 ]

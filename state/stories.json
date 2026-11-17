@@ -1,46 +1,6 @@
 [
  {
   "level": 2,
-  "n": 3,
-  "source": "ERR News (Estonia, EN)",
-  "stems": [
-   "comma",
-   "commo",
-   "consc",
-   "forme",
-   "gener",
-   "longe",
-   "reser",
-   "retir",
-   "ships",
-   "witho",
-   "women"
-  ],
-  "title": "Retired commodore: Russian ships here in the Gulf of Finland are no longer safe",
-  "ts": "2026-11-14T08:01:29+00:00"
- },
- {
-  "level": 1,
-  "n": 1,
-  "source": "Meduza",
-  "stems": [
-   "бонцл",
-   "врачи",
-   "защищ",
-   "мария",
-   "полит",
-   "получ",
-   "приви",
-   "раньш",
-   "тепер",
-   "тюрьм",
-   "фигур"
-  ],
-  "title": "«Раньше врачи прививали себе чуму. Я привила себе тюрьму» Мария Бонцлер защищала фигурантов политических дел — а теперь сама получила 12 лет…",
-  "ts": "2026-11-14T08:01:29+00:00"
- },
- {
-  "level": 2,
   "n": 2,
   "source": "Google News — Latvia security",
   "stems": [
@@ -492,5 +452,20 @@
   ],
   "title": "Zelensky: If Russia has an ally that supplies it with ballistic missiles, then Ukraine also needs clear parity so that we can respond to the…",
   "ts": "2026-11-17T07:01:35+00:00"
+ },
+ {
+  "level": 1,
+  "n": 1,
+  "source": "LRT (Lithuania, EN)",
+  "stems": [
+   "along",
+   "barri",
+   "build",
+   "chief",
+   "physi",
+   "sugge"
+  ],
+  "title": "Lithuania’s military chief suggests building physical barriers along Kaliningrad border",
+  "ts": "2026-11-17T08:02:00+00:00"
  }
 ]
