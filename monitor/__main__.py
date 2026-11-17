@@ -21,6 +21,25 @@ from .telegram import Telegram, format_alert, format_status, guide_text, guide_l
 from . import llm
 
 
+def _skip_for_rate_limit(src: dict, state: State) -> bool:
+    """Be polite to hosts that rate-limit us. Google News is asked at most once an hour per query (its 429s
+    started when more sources were added on 10 Nov), and a source that just got HTTP 429 is left alone for
+    30 min x failures (max 3 h) instead of being hammered every run."""
+    h = state.status.get("health", {}).get(src["id"])
+    if not h or not h.get("last_run"):
+        return False
+    try:
+        age = (now_utc() - datetime.fromisoformat(h["last_run"])).total_seconds() / 60
+    except Exception:
+        return False
+    if "429" in (h.get("error") or "") and not h.get("ok"):
+        return age < min(30 * max(1, h.get("fail_streak", 1)), 180) - 5
+    interval = src.get("min_interval_minutes")
+    if interval is None and "news.google.com" in (src.get("url") or ""):
+        interval = 60
+    return bool(interval) and h.get("ok", False) and age < interval - 5
+
+
 def collect(cfg: dict, state: State, dry: bool = False) -> list[Item]:
     """Fetch every source, keep only new items, classify them.
     The first time a list-type source is seen, its existing items are baselined (marked seen, not reported)
@@ -33,6 +52,9 @@ def collect(cfg: dict, state: State, dry: bool = False) -> list[Item]:
         fn = FETCHERS.get(src["type"])
         if not fn:
             print(f"[skip] unknown source type {src['type']} ({src['id']})")
+            continue
+        if _skip_for_rate_limit(src, state):
+            print(f"[wait] {src['id']:<22} skipped this run (rate-limit courtesy)")
             continue
         try:
             fetched = fn(src, state)
