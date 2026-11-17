@@ -1,1 +1,23 @@
-[]
+[
+ {
+  "first_seen": "2026-11-17T18:31:18+00:00",
+  "kind": "post",
+  "lang": "en",
+  "level": 2,
+  "note": "EN, conflict news aggregator",
+  "posted": false,
+  "published": "2026-11-17T18:24:10+00:00",
+  "reason": "official warning about Russia / NATO · matched “drone” · another report of a story already in the channel",
+  "repeat_of": "Estonia to close Russia border crossings after attempted drone factory arson attack - BBC",
+  "repeats": 0,
+  "source_id": "tg_clashreport",
+  "source_name": "Clash Report",
+  "summary": "",
+  "text": "Zelensky: We need more funding to produce drones. First of all, for the front line and for all kinds of missions, but also for operations like these. Operations that are about justice. Russia must feel the consequences of its war and its refusal to take steps toward de-escalation.",
+  "tier": "osint",
+  "title": "Zelensky: We need more funding to produce drones. First of all, for the front line and for all kinds of missions, but also for operations li…",
+  "uid": "c2cf1e92bad53425",
+  "url": "https://t.me/ClashReport/106539",
+  "warning": true
+ }
+]
