@@ -433,15 +433,17 @@
  },
  {
   "level": 2,
-  "n": 1,
+  "n": 2,
   "source": "Google News — Latvia security",
   "stems": [
    "arson",
    "attem",
    "close",
+   "confr",
    "cross",
    "drone",
-   "facto"
+   "facto",
+   "sabot"
   ],
   "title": "Estonia to close Russia border crossings after attempted drone factory arson attack - BBC",
   "ts": "2026-11-16T22:31:26+00:00"

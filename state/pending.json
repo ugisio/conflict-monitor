@@ -61,5 +61,26 @@
   "uid": "aaae25236b30c269",
   "url": "https://t.me/ClashReport/106363",
   "warning": true
+ },
+ {
+  "first_seen": "2026-11-17T02:01:28+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-11-16T18:36:59+00:00",
+  "reason": "region: estonia, lithuania, russia · matched “sabotage” · another report of a story already in the channel",
+  "repeat_of": "Estonia to close Russia border crossings after attempted drone factory arson attack - BBC",
+  "repeats": 0,
+  "source_id": "gnews_latvia_security",
+  "source_name": "Google News — Latvia security",
+  "summary": "",
+  "text": "Lithuania warns it could close Russia border as Estonia confronts sabotage threat National Security News",
+  "tier": "news",
+  "title": "Lithuania warns it could close Russia border as Estonia confronts sabotage threat - National Security News",
+  "uid": "6b630f69ce152d1f",
+  "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbTllOWw1TXVxTEIyQVBwOE1lekdoaXlJMGUtVHE5Q29NbWRxMDhjdWZUeGxReW1VN1REd1E2ZElKS3NwVmIybHBVTGptQ0hsRXhMd1RkbXFRSjg3aEdJRUsyMDBGLV9kZHJ2b1NETXNscFp3clBsTW1xUXB4aUtkREhXQ2xQNnRWZlhBa0M0TjhlbDg3R2poYnpMNzNqMmwtQV9JMW1ySlZlQ0tuUFNHcWJ3d044ekVMY2JxMDdkNGQ?oc=5",
+  "warning": false
  }
 ]
