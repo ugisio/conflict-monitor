@@ -1,1 +1,23 @@
-[]
+[
+ {
+  "first_seen": "2026-11-17T07:01:30+00:00",
+  "kind": "post",
+  "lang": "en",
+  "level": 2,
+  "note": "EN, conflict news aggregator",
+  "posted": true,
+  "published": "2026-11-17T06:56:35+00:00",
+  "reason": "official warning about Russia / NATO · matched “threat (in text)”",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "tg_clashreport",
+  "source_name": "Clash Report",
+  "summary": "",
+  "text": "Zelensky: If Russia has an ally that supplies it with ballistic missiles, then Ukraine also needs clear parity so that we can respond to the Russian threat on equal terms. Europe has missiles capable of carrying out truly effective strikes.",
+  "tier": "osint",
+  "title": "Zelensky: If Russia has an ally that supplies it with ballistic missiles, then Ukraine also needs clear parity so that we can respond to the…",
+  "uid": "7080a74e7f9ebc28",
+  "url": "https://t.me/ClashReport/106428",
+  "warning": true
+ }
+]
