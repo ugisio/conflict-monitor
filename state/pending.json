@@ -271,5 +271,26 @@
   "uid": "d16294b6607bb6e1",
   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTUVzRmdVcWtQMmZFakxXRmFwRVVFWjQxN2VmeDFHU0NXNXAwRS1QcjFhQWduMTgtTlR2ZG5KaklobUtuM0ZIeEc4YnRjNzJrQWJfdHVRYjc3aVhJSjlsWjRUUFFzN3NQYTZGNnU3MTZHZnF3TXNxZDBWVnlZQ1htOXRROEJ4dXc?oc=5",
   "warning": false
+ },
+ {
+  "first_seen": "2026-11-17T17:31:11+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-11-17T15:39:50+00:00",
+  "reason": "region: baltic, russia, kremlin · matched “Attack on the Baltic” · single source, held at WATCH until another source corroborates",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "gnews_latvia_security",
+  "source_name": "Google News — Latvia security",
+  "summary": "",
+  "text": "The Threat of a Russian Attack on the Baltic States: What Is Holding the Kremlin Back from a Ground Invasion 24 Канал",
+  "tier": "news",
+  "title": "The Threat of a Russian Attack on the Baltic States: What Is Holding the Kremlin Back from a Ground Invasion - 24 Канал",
+  "uid": "592c2791de040785",
+  "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNcTlFQU5ybVliQTRhbHViUkJlWE1EdzVMS2tfQV83d1dLX3pqNkotNEtXTXpIM0JhcWVaM1lGd29hbktOSWMyZUZzSmtCOEg3czNwdnBpLVphVTVYbUwzQkdLUC01bGFOaFliNXkyZDZsWVBSXy14dUFBaktVTnRkWE1rQldvaWpIaXo5bnNXTVZoUml4VWVQdGNJdndCQ3RLQm14TVVzd1pDbWVGbnlybVpId1J3TjhKLWROUmtNbXVYSHVTSWxj?oc=5",
+  "warning": false
  }
 ]
