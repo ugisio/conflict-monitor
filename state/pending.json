@@ -103,5 +103,26 @@
   "uid": "d4f086eb9a39a221",
   "url": "https://news.err.ee/1610199070/seto-leaders-people-want-compensation-if-russian-border-closed",
   "warning": false
+ },
+ {
+  "first_seen": "2026-11-18T13:01:23+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-11-18T11:49:53+00:00",
+  "reason": "region: kaliningrad, russia · planning/hypothetical wording, softened · matched “attack near Kaliningrad” · story escalated from L1 (3 reports so far)",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "gnews_latvia_security",
+  "source_name": "Google News — Latvia security",
+  "summary": "",
+  "text": "'The goal was to halt aid to Ukraine' — Russia planned high casualty false-flag attack near Kaliningrad border, Rzeczpospolita reports The Kyiv Independent",
+  "tier": "news",
+  "title": "'The goal was to halt aid to Ukraine' — Russia planned high casualty false-flag attack near Kaliningrad border, Rzeczpospolita reports - The Kyiv Independent",
+  "uid": "d8bcb6a10493110d",
+  "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQR3huU0Q2ZWNiYVA4WlRfMGRFR2pPbW9hbUFOblZvMWRVYXhMZWo5aTF3RC1xWC10bXVfVEc1em5EdmlhVzV2UTNfTW1TZDEwS1BVLXBOTVc3Y2VJWUxWVGFNXzBYcldfSE5Ca05neWFKNkRwbmlzSmdzRUstalVIdzIwa0dPUmhjZUpNVU8zaS10NkhyYUNTejU3SGwtZDFsUmdRV1ZvaEp3TzZrS0JLOEVUUVVOend2NUF4REN5MVdCNm1WN2M5MFFnZzgxRGYxREZ0a2taMnBEbDBnSlRSVE15b1QxeEFLQktNRjE4SQ?oc=5",
+  "warning": false
  }
 ]
