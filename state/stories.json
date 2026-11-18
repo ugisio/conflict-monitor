@@ -1,20 +1,6 @@
 [
  {
   "level": 2,
-  "n": 3,
-  "source": "ERR News (Estonia, EN)",
-  "stems": [
-   "close",
-   "linke",
-   "prepa",
-   "sabot",
-   "weeks"
-  ],
-  "title": "Estonia prepares to close border with Russia after sabotage attacks",
-  "ts": "2026-11-15T15:31:30+00:00"
- },
- {
-  "level": 2,
   "n": 4,
   "source": "Rybar",
   "stems": [
