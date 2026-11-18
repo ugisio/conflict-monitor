@@ -61,5 +61,26 @@
   "uid": "32b11919f0228d1e",
   "url": "https://news.err.ee/1610199070/leaders-of-the-seto-people-after-compensation-if-russian-border-closed",
   "warning": false
+ },
+ {
+  "first_seen": "2026-11-18T12:01:22+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 1,
+  "note": "",
+  "posted": false,
+  "published": "2026-11-18T11:30:00+00:00",
+  "reason": "region: latvia, rīga · matched “NBS (in text)”",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "lsm_en",
+  "source_name": "LSM (Latvian public media, EN)",
+  "summary": "",
+  "text": "On November 18th at 13:30, a parade of the National Armed Forces (NBS), allied units, and services involved in national defence will take place in Rīga, on the 11th November Embankment , dedicated to the 108th anniversary of the proclamation of the Republic of Latvia.",
+  "tier": "news",
+  "title": "WATCH LIVE: Latvia's 108th independence day military parade",
+  "uid": "4304d611e7c80c3a",
+  "url": "https://eng.lsm.lv/article/features/video/18.11.2026-watch-live-latvias-108th-independence-day-military-parade.a672263/?utm_source=rss&utm_campaign=rss&utm_medium=links",
+  "warning": false
  }
 ]
