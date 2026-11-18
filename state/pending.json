@@ -40,5 +40,26 @@
   "uid": "6b243d365f061ce7",
   "url": "https://t.me/novaya_europe/69827",
   "warning": false
+ },
+ {
+  "first_seen": "2026-11-18T11:01:22+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-11-18T10:48:00+00:00",
+  "reason": "region: estonia, russia · planning/hypothetical wording, softened · matched “border closed”",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "err_en",
+  "source_name": "ERR News (Estonia, EN)",
+  "summary": "",
+  "text": "The Seto Congress has sent an appeal to the PM, urging the government to introduce compensation measures to support Setomaa, which would be adversely affected by Estonia closing its land border with Russia.",
+  "tier": "news",
+  "title": "Leaders of the Seto people after compensation if Russian border closed",
+  "uid": "32b11919f0228d1e",
+  "url": "https://news.err.ee/1610199070/leaders-of-the-seto-people-after-compensation-if-russian-border-closed",
+  "warning": false
  }
 ]
