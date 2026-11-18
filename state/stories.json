@@ -1,34 +1,6 @@
 [
  {
   "level": 2,
-  "n": 4,
-  "source": "ERR News (Estonia, EN)",
-  "stems": [
-   "arson",
-   "attem",
-   "briti",
-   "close",
-   "compa",
-   "cross",
-   "detai",
-   "drone",
-   "easte",
-   "flank",
-   "foile",
-   "killi",
-   "maker",
-   "membe",
-   "missi",
-   "reser",
-   "sabot",
-   "syste",
-   "threo"
-  ],
-  "title": "8 detained after attempted arson at Estonian defense company Threod Systems",
-  "ts": "2026-11-15T14:01:31+00:00"
- },
- {
-  "level": 2,
   "n": 3,
   "source": "ERR News (Estonia, EN)",
   "stems": [
