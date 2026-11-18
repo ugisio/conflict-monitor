@@ -1,1 +1,44 @@
-[]
+[
+ {
+  "first_seen": "2026-11-18T21:01:27+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-11-18T20:01:12+00:00",
+  "reason": "region: kaliningrad, russia · matched “provocat”",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "gnews_latvia_security",
+  "source_name": "Google News — Latvia security",
+  "summary": "",
+  "text": "Poland foils Russian provocation near Kaliningrad border Around Prague",
+  "tier": "news",
+  "title": "Poland foils Russian provocation near Kaliningrad border - Around Prague",
+  "uid": "8482aaa5040e84c0",
+  "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcHpDS1RLcmxuU05jbzF0SjVmYjJFTEVVY0w5MUFlUy1BYXZsNjN0T3hCcGphZUZEcHFqYS1HNkZwb1RJdVp0QUNjbG5vd09CUnQzeXA5OGVKVzdZakhON1dJUmc2c0FhV0lPbFhrLTJNanZKTklvUWw3QTJSc1BicVJTakhwN19uRVZ6VDh4RDRzMjU2N3pDYTA1VldTZmVwVU9v?oc=5",
+  "warning": false
+ },
+ {
+  "first_seen": "2026-11-18T21:01:27+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-11-18T18:40:55+00:00",
+  "reason": "region: latvia, russia · matched “Drone” · story escalated from L1 (3 reports so far)",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "gnews_latvia_security",
+  "source_name": "Google News — Latvia security",
+  "summary": "",
+  "text": "New Challenge for Russia’s Navy: Latvia Parades FOG and RAY Naval Drones for the First Time Мілітарний",
+  "tier": "news",
+  "title": "New Challenge for Russia’s Navy: Latvia Parades FOG and RAY Naval Drones for the First Time - Мілітарний",
+  "uid": "7b2eba8028a074ca",
+  "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSXBYb2R6d0JLNDI2S25zQVZaQXBhQ0NhMUtoWDNudXRCcWZKcVJaSTZjanM4MGJvdEVNZm1EcHQydTRfeWNGUHZXYmdDLTMydlBwLTdUaFJxbmhCbWNLb0Y2LW5hYjVEUEFqSGJtNTlLOWZ5cy1BTTRaMjgtRE92cEdiYTVfdUI4U05mUi1RaEhpcUVTaFc3MWFzWVVqWUFMM3dmaXVBZE1BVDM1QXVyRjZIdEdZOVRBOGJoSDY4QQ?oc=5",
+  "warning": false
+ }
+]
