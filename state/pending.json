@@ -82,5 +82,26 @@
   "uid": "4304d611e7c80c3a",
   "url": "https://eng.lsm.lv/article/features/video/18.11.2026-watch-live-latvias-108th-independence-day-military-parade.a672263/?utm_source=rss&utm_campaign=rss&utm_medium=links",
   "warning": false
+ },
+ {
+  "first_seen": "2026-11-18T12:31:12+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-11-18T10:48:00+00:00",
+  "reason": "region: estonia, russia · planning/hypothetical wording, softened · matched “border closed” · another report of a story already in the channel",
+  "repeat_of": "Leaders of the Seto people after compensation if Russian border closed",
+  "repeats": 0,
+  "source_id": "err_en",
+  "source_name": "ERR News (Estonia, EN)",
+  "summary": "",
+  "text": "The Seto Congress has sent an appeal to the PM, urging the government to introduce compensation measures to support Setomaa, which would be adversely affected by Estonia closing its land border with Russia.",
+  "tier": "news",
+  "title": "Seto leaders: People want compensation if Russian border closed",
+  "uid": "d4f086eb9a39a221",
+  "url": "https://news.err.ee/1610199070/seto-leaders-people-want-compensation-if-russian-border-closed",
+  "warning": false
  }
 ]
