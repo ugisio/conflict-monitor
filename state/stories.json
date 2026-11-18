@@ -330,11 +330,12 @@
  },
  {
   "level": 2,
-  "n": 5,
+  "n": 7,
   "source": "NEXTA Live",
   "stems": [
    "casua",
    "civil",
+   "excla",
    "false",
    "plann",
    "rzecz",
@@ -345,12 +346,14 @@
    "дивер",
    "еврос",
    "жертв",
+   "калин",
    "конце",
    "много",
    "напад",
    "начал",
    "ноябр",
    "обвин",
+   "облас",
    "октяб",
    "плани",
    "польс",
@@ -405,5 +408,24 @@
   ],
   "title": "Poland thwarted a Russian sabotage operation on the border with Kaliningrad - Цензор.НЕТ",
   "ts": "2026-11-18T15:31:23+00:00"
+ },
+ {
+  "level": 2,
+  "n": 2,
+  "source": "Google News — Latvia security",
+  "stems": [
+   "activ",
+   "airsp",
+   "alert",
+   "anoth",
+   "artic",
+   "crash",
+   "drone",
+   "easte",
+   "issue",
+   "myste"
+  ],
+  "title": "Mystery drone crashes into lake in Latvia / Article - LSM",
+  "ts": "2026-11-18T17:01:27+00:00"
  }
 ]
