@@ -50,33 +50,6 @@
  },
  {
   "level": 2,
-  "n": 1,
-  "source": "Google News — NATO & the Baltics",
-  "stems": [
-   "death",
-   "invas",
-   "model",
-   "putin",
-   "strik"
-  ],
-  "title": "Putin’s death, invasion of Estonia, strikes on Belarus: RAND Europe models Russia-NATO war - Belsat",
-  "ts": "2026-11-16T14:01:39+00:00"
- },
- {
-  "level": 2,
-  "n": 1,
-  "source": "ERR News (Estonia, EN)",
-  "stems": [
-   "affai",
-   "charg",
-   "forei",
-   "summo"
-  ],
-  "title": "Foreign Ministry summons Russian chargé d'affaires",
-  "ts": "2026-11-16T14:31:27+00:00"
- },
- {
-  "level": 2,
   "n": 9,
   "source": "Google News — Latvia security",
   "stems": [
