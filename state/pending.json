@@ -40,5 +40,26 @@
   "uid": "7b2eba8028a074ca",
   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSXBYb2R6d0JLNDI2S25zQVZaQXBhQ0NhMUtoWDNudXRCcWZKcVJaSTZjanM4MGJvdEVNZm1EcHQydTRfeWNGUHZXYmdDLTMydlBwLTdUaFJxbmhCbWNLb0Y2LW5hYjVEUEFqSGJtNTlLOWZ5cy1BTTRaMjgtRE92cEdiYTVfdUI4U05mUi1RaEhpcUVTaFc3MWFzWVVqWUFMM3dmaXVBZE1BVDM1QXVyRjZIdEdZOVRBOGJoSDY4QQ?oc=5",
   "warning": false
+ },
+ {
+  "first_seen": "2026-11-19T00:31:12+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-11-18T23:05:00+00:00",
+  "reason": "region: baltic, russia · matched “drone” · another report of a story already in the channel",
+  "repeat_of": "New Challenge for Russia’s Navy: Latvia Parades FOG and RAY Naval Drones for the First Time - Мілітарний",
+  "repeats": 0,
+  "source_id": "gnews_latvia_security",
+  "source_name": "Google News — Latvia security",
+  "summary": "",
+  "text": "Russia mobilised more than 300 personnel and 10 Baltic Fleet ships in anti-drone defence exercises Zona Militar",
+  "tier": "news",
+  "title": "Russia mobilised more than 300 personnel and 10 Baltic Fleet ships in anti-drone defence exercises - Zona Militar",
+  "uid": "bd1b11000c4b3865",
+  "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQbFZEZEpSVXdiUXZMLWU0Vy01STE5Sk95by1UTTBnNnNOUnhQRWlPYzMyakhLVVZySTNoQ0tVcW1UdGcydTNNdWtfNVFKMmU2V2pTS3FBVWJOYkZYLU5DNDkwUjhIeWlNbmFkZENwclVkSVUyX0ppQjVyZWxyMXFMUW05XzlDX3ZhRExpM08xRHBoaHNuY0lDSTlSeXplakFORXA1NVVDVnE2cWltbU10RnpEVGtBbHhYR2hwR2VFd1l5ZkZsQTE2SWhxRjJzNzMwR0xETVlzUTFKUQ?oc=5",
+  "warning": false
  }
 ]
