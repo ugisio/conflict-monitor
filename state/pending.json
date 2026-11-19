@@ -19,5 +19,26 @@
   "uid": "e888ac55b3f9d145",
   "url": "https://www.lrt.lt/en/news-in-english/19/3119081/auditor-lithuania-needs-higher-defence-spending-to-meet-military-goals",
   "warning": false
+ },
+ {
+  "first_seen": "2026-11-19T09:01:41+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 1,
+  "note": "",
+  "posted": false,
+  "published": "2026-11-19T08:40:00+00:00",
+  "reason": "region: baltic · matched “military commander (in text)”",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "err_en",
+  "source_name": "ERR News (Estonia, EN)",
+  "summary": "",
+  "text": "One prerequisite for creating a joint Baltic military force would be an agreement on which units would be placed under a common military commander, when that subordination would take effect and how extensive the commander's decision-making authority would be, Meelis Oidsalu writes.",
+  "tier": "news",
+  "title": "Meelis Oidsalu: Could the Baltic states have a common military?",
+  "uid": "cc87af2e904f0954",
+  "url": "https://news.err.ee/1610199505/meelis-oidsalu-could-the-baltic-states-have-a-common-military",
+  "warning": false
  }
 ]
