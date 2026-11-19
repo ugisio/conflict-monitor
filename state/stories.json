@@ -357,10 +357,14 @@
  },
  {
   "level": 2,
-  "n": 4,
+  "n": 5,
   "source": "LSM (Latvian public media, EN)",
   "stems": [
+   "actua",
+   "appea",
+   "artic",
    "chall",
+   "depot",
    "drone",
    "exerc",
    "first",
@@ -371,6 +375,7 @@
    "parad",
    "perso",
    "ships",
+   "strik",
    "watch"
   ],
   "title": "New Challenge for Russia’s Navy: Latvia Parades FOG and RAY Naval Drones for the First Time - Мілітарний",
