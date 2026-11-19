@@ -49,51 +49,6 @@
   "ts": "2026-11-16T15:31:58+00:00"
  },
  {
-  "level": 1,
-  "n": 1,
-  "source": "LSM (Latvian public media, EN)",
-  "stems": [
-   "ameri",
-   "enjoy",
-   "first",
-   "servi",
-   "volun"
-  ],
-  "title": "First American volunteer enjoying his Latvian military service",
-  "ts": "2026-11-16T10:31:34+00:00"
- },
- {
-  "level": 1,
-  "n": 3,
-  "source": "LRT (Lithuania, EN)",
-  "stems": [
-   "arriv",
-   "batta",
-   "breat",
-   "centr",
-   "chief",
-   "deplo",
-   "easte",
-   "flank",
-   "troop"
-  ],
-  "title": "Two new US Army battalions arrive in Lithuania for NATO’s eastern flank deployment",
-  "ts": "2026-11-16T10:31:34+00:00"
- },
- {
-  "level": 2,
-  "n": 2,
-  "source": "LRT (Lithuania, EN)",
-  "stems": [
-   "closi",
-   "consi",
-   "follo",
-   "start"
-  ],
-  "title": "Nausėda: Lithuania may consider closing border with Russia following plot in Estonia",
-  "ts": "2026-11-16T11:01:45+00:00"
- },
- {
   "level": 2,
   "n": 2,
   "source": "NEXTA Live",
