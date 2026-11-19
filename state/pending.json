@@ -103,5 +103,26 @@
   "uid": "2b59db4c7fc7a6d9",
   "url": "https://www.lrt.lt/en/news-in-english/19/3119388/lithuania-plans-to-cut-foreign-worker-quota-to-24-400-in-2027",
   "warning": false
+ },
+ {
+  "first_seen": "2026-11-19T16:31:09+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-11-19T15:02:35+00:00",
+  "reason": "region: estonia · matched “drone” · another report of a story already in the channel",
+  "repeat_of": "New Challenge for Russia’s Navy: Latvia Parades FOG and RAY Naval Drones for the First Time - Мілітарний",
+  "repeats": 0,
+  "source_id": "gnews_nato",
+  "source_name": "Google News — NATO & the Baltics",
+  "summary": "",
+  "text": "UK Ministry of Defence says £25 million package will equip troops in Estonia with more drones and electronic warfare systems Defence Industry Europe",
+  "tier": "news",
+  "title": "UK Ministry of Defence says £25 million package will equip troops in Estonia with more drones and electronic warfare systems - Defence Industry Europe",
+  "uid": "743dbac8e3bc080c",
+  "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNTEROenpubnRRNjAydk9sWEtPTHFrUm9ESjBFaThiYWhTbVhsSFZVYnJrcTMxV2xKRnBsX25JRUlGTHVnOXFSOVY3SFUtUkx2MlkzdWVpMWpvSGVZWmhkTUU5WnpsZVNVT1d3UEtjckp2YlAzeGVLcFBQZGZXUGhQYmFlSjhSSUk4dzEtdzNFU2NmZVpqYzRSdTdoVEtkWjE4SURobWtCVkh1eXVKeW5GcFhfSUt1WHJtaWR4MGNXLU9qTGcwbHFUZGh2UC1CNUNEbzNCSXdSWF9iRjJqY00zY3czT21jbjQ?oc=5",
+  "warning": false
  }
 ]
