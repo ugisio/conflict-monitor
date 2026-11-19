@@ -82,5 +82,26 @@
   "uid": "5824312e2abf8de6",
   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdGhtdHN2bU9QMU16d3Z4RzlyVzZjSTFhMGhRWnNGVHRmUF9JYlJsejRMM21pTWxXdXhPejdDWUFQVVFDdWc5cmpwMUlEN01QNzNhdzE4TG9vcTRHcDZYSU1DaVBmQm9FaHFLT3FRelJyOGh5ZFJYckZHT2dtR0hyNTFZZ2ZzckNha1NkYlBwbmFNS1RIcGJ2WjFZT0Frb1N6RGlJem1DMDY2VmM?oc=5",
   "warning": false
+ },
+ {
+  "first_seen": "2026-11-19T15:31:11+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 1,
+  "note": "",
+  "posted": false,
+  "published": "2026-11-19T15:18:00+00:00",
+  "reason": "region: lithuania · matched “Social Security (in text)”",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "lrt_en",
+  "source_name": "LRT (Lithuania, EN)",
+  "summary": "",
+  "text": "Lithuania’s Ministry of Social Security and Labour has proposed reducing the annual quota for foreign workers by several hundred, allowing companies to recruit up to 24,400 workers from third countries in 2027.",
+  "tier": "news",
+  "title": "Lithuania plans to cut foreign worker quota to 24,400 in 2027",
+  "uid": "2b59db4c7fc7a6d9",
+  "url": "https://www.lrt.lt/en/news-in-english/19/3119388/lithuania-plans-to-cut-foreign-worker-quota-to-24-400-in-2027",
+  "warning": false
  }
 ]
