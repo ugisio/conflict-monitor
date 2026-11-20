@@ -40,5 +40,26 @@
   "uid": "f36dc132ab30a9e3",
   "url": "https://t.me/astrapress/131741",
   "warning": false
+ },
+ {
+  "first_seen": "2026-11-20T23:01:31+00:00",
+  "kind": "post",
+  "lang": "en",
+  "level": 2,
+  "note": "EN, conflict news aggregator",
+  "posted": false,
+  "published": "2026-11-20T22:34:50+00:00",
+  "reason": "official warning about Russia / NATO · matched “official warning” · another report of a story already in the channel",
+  "repeat_of": "Mr. Kushner: President Trump is prepared to consider providing security guarantees to Ukraine similar to Article 5 of NATO. - Vietnam.vn",
+  "repeats": 0,
+  "source_id": "tg_clashreport",
+  "source_name": "Clash Report",
+  "summary": "",
+  "text": "Zelensky: President Trump told me, \"When I become president, I will end this war in 24 hours,\" something like this. And I said to him, \"God bless, but it will be difficult because Putin will always demonstrate that he wants to end the war, but really he wants to kill us, destroy us and occupy us.\"",
+  "tier": "osint",
+  "title": "Zelensky: President Trump told me, \"When I become president, I will end this war in 24 hours,\" something like this. And I said to him, \"God …",
+  "uid": "73197d2088774bcf",
+  "url": "https://t.me/ClashReport/107083",
+  "warning": true
  }
 ]

@@ -220,17 +220,21 @@
  },
  {
   "level": 2,
-  "n": 1,
+  "n": 2,
   "source": "Google News — NATO & the Baltics",
   "stems": [
    "artic",
+   "becom",
    "consi",
    "guara",
+   "hours",
    "kushn",
    "prepa",
    "provi",
    "simil",
-   "trump"
+   "somet",
+   "trump",
+   "zelen"
   ],
   "title": "Mr. Kushner: President Trump is prepared to consider providing security guarantees to Ukraine similar to Article 5 of NATO. - Vietnam.vn",
   "ts": "2026-11-20T11:31:36+00:00"
