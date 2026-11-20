@@ -4,18 +4,6 @@
   "n": 1,
   "source": "Google News — Latvia security",
   "stems": [
-   "black",
-   "deplo",
-   "plane"
-  ],
-  "title": "USAF deploys rare RC-135U spy plane over Black Sea and Baltic - Aerospace Global News",
-  "ts": "2026-11-17T14:01:33+00:00"
- },
- {
-  "level": 2,
-  "n": 1,
-  "source": "Google News — Latvia security",
-  "stems": [
    "groun",
    "holdi",
    "invas"
@@ -280,7 +268,7 @@
  },
  {
   "level": 1,
-  "n": 1,
+  "n": 2,
   "source": "ERR News (Estonia, EN)",
   "stems": [
    "cheer",
