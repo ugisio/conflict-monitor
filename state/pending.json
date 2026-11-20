@@ -61,5 +61,26 @@
   "uid": "463b436645df8c23",
   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZ1dtZk1URUdfZy1LdVlJdEJkSTBmNnhPUG4wU3QweXdLdEtxWm9TZnhaSmR0dTc5Q1NudGJEd0JZQ05WcUtVSHhuRzVuaXpBNnQwRUtENGdaM3VFMEFWeVR2Q1ZqTjJDY085bTRCN2FjUm5FeUItd0tmdlRpLWkzS0ZNOTZFQW1USW51ZVhnU1VEbGM?oc=5",
   "warning": false
+ },
+ {
+  "first_seen": "2026-11-20T12:31:25+00:00",
+  "kind": "post",
+  "lang": "en",
+  "level": 2,
+  "note": "EN, conflict news aggregator",
+  "posted": true,
+  "published": "2026-11-20T12:15:12+00:00",
+  "reason": "official warning about Russia / NATO · matched “drone”",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "tg_clashreport",
+  "source_name": "Clash Report",
+  "summary": "",
+  "text": "Polish PM Donald Tusk on Russian missile and drone incidents in Polish airspace: Let's not fool ourselves. There is an incident that requires a response, but our allies, for example the United States, do not want to overreact. They do not want that response to trigger another spiral of escalation, and I understand that. But I do not always, to put it mildly, agree with the American side's assessment and interpretation of these incidents.",
+  "tier": "osint",
+  "title": "Polish PM Donald Tusk on Russian missile and drone incidents in Polish airspace: Let's not fool ourselves. There is an incident that require…",
+  "uid": "b32780d62cd09e12",
+  "url": "https://t.me/ClashReport/106955",
+  "warning": true
  }
 ]
