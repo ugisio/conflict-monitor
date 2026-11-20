@@ -19,5 +19,26 @@
   "uid": "2c28e4d83e9f0a28",
   "url": "https://news.err.ee/1610201365/martin-herem-an-information-operation-built-on-sabotage",
   "warning": false
+ },
+ {
+  "first_seen": "2026-11-20T11:31:28+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": true,
+  "published": "2026-11-20T10:50:05+00:00",
+  "reason": "region: article 5, nato · official warning · matched “official warning”",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "gnews_nato",
+  "source_name": "Google News — NATO & the Baltics",
+  "summary": "",
+  "text": "Mr. Kushner: President Trump is prepared to consider providing security guarantees to Ukraine similar to Article 5 of NATO. Vietnam.vn",
+  "tier": "news",
+  "title": "Mr. Kushner: President Trump is prepared to consider providing security guarantees to Ukraine similar to Article 5 of NATO. - Vietnam.vn",
+  "uid": "629dbff49ca6881a",
+  "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbzZZSWI0LWE4SExMSzJUMWJyU090djlWSThfX010WmlRU21FUlVlMVFFYU9VVXI3by01eldTMC02cVVNd3dWcVB3bkJ6NXlhTzlIUS1GWWdlLVZVS0otNXVCS0trYWl0QkpLYkU3d3d0TEV5dWtCMDF2aWFlbHUtWHctZV8tYzk3SlU5Wm0yd0pwT19KbE9uOHNOdDZvODUxSWZuVjMwc1M0WGJBR1ZrUm53NG1sVl8zek95Mw?oc=5",
+  "warning": true
  }
 ]
