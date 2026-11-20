@@ -82,5 +82,26 @@
   "uid": "b32780d62cd09e12",
   "url": "https://t.me/ClashReport/106955",
   "warning": true
+ },
+ {
+  "first_seen": "2026-11-20T13:31:20+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 1,
+  "note": "",
+  "posted": false,
+  "published": "2026-11-20T13:21:00+00:00",
+  "reason": "region: estonia · matched “Town Hall (in text)”",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "err_en",
+  "source_name": "ERR News (Estonia, EN)",
+  "summary": "",
+  "text": "The sights and smells of Estonian Christmas are back in Tallinn's Town Hall Square as its famous holiday market opens for one last season under its current operator.",
+  "tier": "news",
+  "title": "Gallery: Tallinn Christmas Market's one last year of cheer in current form",
+  "uid": "efd5120d1f3993ee",
+  "url": "https://news.err.ee/1610201671/gallery-tallinn-christmas-market-s-one-last-year-of-cheer-in-current-form",
+  "warning": false
  }
 ]
