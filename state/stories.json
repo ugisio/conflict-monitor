@@ -209,15 +209,20 @@
  },
  {
   "level": 2,
-  "n": 1,
+  "n": 2,
   "source": "ERR News (Estonia, EN)",
   "stems": [
    "built",
+   "detai",
+   "gener",
    "herem",
    "infor",
    "marti",
+   "nowak",
    "opera",
-   "sabot"
+   "revea",
+   "sabot",
+   "unfol"
   ],
   "title": "Martin Herem: An information operation built on sabotage",
   "ts": "2026-11-20T08:24:46+00:00"
