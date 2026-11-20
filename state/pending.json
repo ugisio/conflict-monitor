@@ -145,5 +145,26 @@
   "uid": "515ee3ee1d031caf",
   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdTNPMXdHRWlkMzVVVGhKaC1SMVU5cHU0V2VRa1RRSk5GQUJPTUZyY2U4bjBWRUZsc213aldpWHAyT0pwSkdUSlBMcm9HLXR0ZVJJdllGa0NyVUQwOEE1WG9FeXFuNDA3SGVPQ0F6cl9IWi1LRWtZQW1lZmp3VTRtR0FqXzR2ajUtTUtxUHZwTkszdW8yN3BtcXVRdGdxNGtad2ZweWNSOTRIQmIwajJIMEx2NGxzNURrN2xvb0ZCRDY?oc=5",
   "warning": true
+ },
+ {
+  "first_seen": "2026-11-20T16:01:30+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-11-20T15:14:51+00:00",
+  "reason": "official warning about Russia / NATO · matched “defence minister” · another report of a story already in the channel",
+  "repeat_of": "Martin Herem: An information operation built on sabotage",
+  "repeats": 0,
+  "source_id": "gnews_flank_warnings",
+  "source_name": "Google News — eastern flank (PL/FI/NATO)",
+  "summary": "",
+  "text": "Poland prevented Russian false-flag operation at border, says advisor to defence minister Notes From Poland",
+  "tier": "news",
+  "title": "Poland prevented Russian false-flag operation at border, says advisor to defence minister - Notes From Poland",
+  "uid": "90801c9aa45f95d8",
+  "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNN1FuME5lanFSOGRpMm04RmRqR2ZfbkVVejd4WjBLVFlBSEtGUm4xLUpnQi1TUlZoTXBwbEJzRmp1YnZZa1ZUb1JhNGluN2h1eGl6b2NCUjgxTUhVVU5TRzNPNnBmWEFrSkNQYV9CdWxtSVpuenFSdW4yeEF6NDNrSUxNSGtleEl4MndLR3pCRVRNVFBhQmE1NU9mOE5MenpzYjFoMzVkUW5YXzktQmZfZldvOEVaV3RzUVY5VERsT0lQYlppVzFJ?oc=5",
+  "warning": true
  }
 ]
