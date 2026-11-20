@@ -1,1 +1,23 @@
-[]
+[
+ {
+  "first_seen": "2026-11-20T18:31:14+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 1,
+  "note": "",
+  "posted": false,
+  "published": "2026-11-20T17:44:00+00:00",
+  "reason": "region: lithuania, nato · matched “drill”",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "gnews_nato",
+  "source_name": "Google News — NATO & the Baltics",
+  "summary": "",
+  "text": "NATO troops practice river crossing in Germany’s largest-ever Lithuania drills TVP World",
+  "tier": "news",
+  "title": "NATO troops practice river crossing in Germany’s largest-ever Lithuania drills - TVP World",
+  "uid": "3a131326f3ef81a7",
+  "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPM1puQktYZUhUaTRRWEJ5S1Uwdzhwcl81X1RxaHRZOFIwQmFqa04zMFhWaVFxMk1Gd0szZElaamVLSWNoeFhFdDA5aWlEeE53OXczeWx6N0R3bDVGT1RtbE9kc0tGU09IZjFuODRRMmZLbmt4eXJ4RVBxa196dXFiOEMxTjZ4ZHdMRHE1cUkyVHhjUXRGVmc2Z1FrSDczQjhucEEzYkh0YjdnR1dNY2c?oc=5",
+  "warning": false
+ }
+]
