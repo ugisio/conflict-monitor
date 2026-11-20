@@ -40,5 +40,26 @@
   "uid": "629dbff49ca6881a",
   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbzZZSWI0LWE4SExMSzJUMWJyU090djlWSThfX010WmlRU21FUlVlMVFFYU9VVXI3by01eldTMC02cVVNd3dWcVB3bkJ6NXlhTzlIUS1GWWdlLVZVS0otNXVCS0trYWl0QkpLYkU3d3d0TEV5dWtCMDF2aWFlbHUtWHctZV8tYzk3SlU5Wm0yd0pwT19KbE9uOHNOdDZvODUxSWZuVjMwc1M0WGJBR1ZrUm53NG1sVl8zek95Mw?oc=5",
   "warning": true
+ },
+ {
+  "first_seen": "2026-11-20T12:01:28+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-11-20T11:58:02+00:00",
+  "reason": "region: estonia, russia · matched “Threat”",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "gnews_official_warnings",
+  "source_name": "Google News — official warnings",
+  "summary": "",
+  "text": "Estonia Warns of Russian Threat at Stanford Event Wisevoter",
+  "tier": "news",
+  "title": "Estonia Warns of Russian Threat at Stanford Event - Wisevoter",
+  "uid": "463b436645df8c23",
+  "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZ1dtZk1URUdfZy1LdVlJdEJkSTBmNnhPUG4wU3QweXdLdEtxWm9TZnhaSmR0dTc5Q1NudGJEd0JZQ05WcUtVSHhuRzVuaXpBNnQwRUtENGdaM3VFMEFWeVR2Q1ZqTjJDY085bTRCN2FjUm5FeUItd0tmdlRpLWkzS0ZNOTZFQW1USW51ZVhnU1VEbGM?oc=5",
+  "warning": false
  }
 ]

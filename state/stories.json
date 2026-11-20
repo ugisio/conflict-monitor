@@ -4,19 +4,6 @@
   "n": 1,
   "source": "Google News — Latvia security",
   "stems": [
-   "evacu",
-   "plans",
-   "prepa",
-   "stren"
-  ],
-  "title": "New Threats from the Kremlin: The Baltic States Are Preparing Evacuation Plans and Strengthening Their Defenses - UA.NEWS",
-  "ts": "2026-11-17T11:31:58+00:00"
- },
- {
-  "level": 2,
-  "n": 1,
-  "source": "Google News — Latvia security",
-  "stems": [
    "black",
    "deplo",
    "plane"
@@ -263,5 +250,16 @@
   ],
   "title": "Mr. Kushner: President Trump is prepared to consider providing security guarantees to Ukraine similar to Article 5 of NATO. - Vietnam.vn",
   "ts": "2026-11-20T11:31:36+00:00"
+ },
+ {
+  "level": 2,
+  "n": 1,
+  "source": "Google News — official warnings",
+  "stems": [
+   "event",
+   "stanf"
+  ],
+  "title": "Estonia Warns of Russian Threat at Stanford Event - Wisevoter",
+  "ts": "2026-11-20T12:01:36+00:00"
  }
 ]
