@@ -1,1 +1,23 @@
-[]
+[
+ {
+  "first_seen": "2026-11-20T08:24:39+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-11-20T08:11:00+00:00",
+  "reason": "region: estonia, russia · matched “sabotage”",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "err_en",
+  "source_name": "ERR News (Estonia, EN)",
+  "summary": "",
+  "text": "Russia's attacks against Estonian defense industry companies are unlikely to intimidate either the companies themselves or society as a whole. However, the real impact and benefit may lie in the chain of events that follows, and that may have been exactly what the GRU intended to achieve, writes Martin Herem.",
+  "tier": "news",
+  "title": "Martin Herem: An information operation built on sabotage",
+  "uid": "2c28e4d83e9f0a28",
+  "url": "https://news.err.ee/1610201365/martin-herem-an-information-operation-built-on-sabotage",
+  "warning": false
+ }
+]

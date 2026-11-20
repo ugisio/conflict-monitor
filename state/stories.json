@@ -1,20 +1,5 @@
 [
  {
-  "level": 1,
-  "n": 1,
-  "source": "LRT (Lithuania, EN)",
-  "stems": [
-   "along",
-   "barri",
-   "build",
-   "chief",
-   "physi",
-   "sugge"
-  ],
-  "title": "Lithuania’s military chief suggests building physical barriers along Kaliningrad border",
-  "ts": "2026-11-17T08:02:00+00:00"
- },
- {
   "level": 2,
   "n": 1,
   "source": "Google News — Latvia security",
@@ -246,5 +231,20 @@
   ],
   "title": "Lithuania plans to cut foreign worker quota to 24,400 in 2027",
   "ts": "2026-11-19T15:31:16+00:00"
+ },
+ {
+  "level": 2,
+  "n": 1,
+  "source": "ERR News (Estonia, EN)",
+  "stems": [
+   "built",
+   "herem",
+   "infor",
+   "marti",
+   "opera",
+   "sabot"
+  ],
+  "title": "Martin Herem: An information operation built on sabotage",
+  "ts": "2026-11-20T08:24:46+00:00"
  }
 ]
