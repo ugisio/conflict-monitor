@@ -46,25 +46,6 @@
  },
  {
   "level": 2,
-  "n": 2,
-  "source": "Google News — Latvia security",
-  "stems": [
-   "activ",
-   "airsp",
-   "alert",
-   "anoth",
-   "artic",
-   "crash",
-   "drone",
-   "easte",
-   "issue",
-   "myste"
-  ],
-  "title": "Mystery drone crashes into lake in Latvia / Article - LSM",
-  "ts": "2026-11-18T17:01:27+00:00"
- },
- {
-  "level": 2,
   "n": 1,
   "source": "Google News — Latvia security",
   "stems": [
@@ -378,17 +359,22 @@
  },
  {
   "level": 2,
-  "n": 1,
+  "n": 2,
   "source": "Google News — official warnings",
   "stems": [
+   "allie",
    "briti",
+   "bruss",
    "chief",
+   "hybri",
    "intel",
    "missi",
    "putin",
    "reckl",
    "soldi",
    "spark",
+   "tackl",
+   "talks",
    "three",
    "world"
   ],
@@ -423,5 +409,19 @@
   ],
   "title": "Nato slams Russia's 'provocative' attack on Poland as Rutte plans emergency trip to Warsaw - Firstpost",
   "ts": "2026-11-21T14:31:24+00:00"
+ },
+ {
+  "level": 2,
+  "n": 1,
+  "source": "Google News — NATO & the Baltics",
+  "stems": [
+   "aircr",
+   "airsp",
+   "enter",
+   "today",
+   "yeste"
+  ],
+  "title": "Poland yesterday, Finland and Estonia today. More aircraft will enter NATO airspace - Defence24.com",
+  "ts": "2026-11-21T17:01:30+00:00"
  }
 ]
