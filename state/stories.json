@@ -223,7 +223,7 @@
  },
  {
   "level": 3,
-  "n": 20,
+  "n": 25,
   "source": "Google News — Latvia security",
   "stems": [
    "ablaz",
@@ -235,6 +235,7 @@
    "becau",
    "betwe",
    "bound",
+   "burns",
    "burst",
    "calle",
    "calls",
@@ -256,16 +257,15 @@
    "flame",
    "fleet",
    "force",
+   "headl",
    "impos",
+   "media",
    "naval",
    "oblas",
    "possi",
    "prime",
-   "restr",
-   "sabot",
-   "siren",
-   "small",
-   "sound"
+   "ramps",
+   "restr"
   ],
   "title": "Russian cargo ship bursts into flames after suspected Ukrainian drone strike in Baltic Sea - New York Post",
   "ts": "2026-11-21T18:01:30+00:00"
@@ -399,5 +399,22 @@
   ],
   "title": "Poland yesterday, Finland and Estonia today. More aircraft will enter NATO airspace - Defence24.com",
   "ts": "2026-11-21T17:01:30+00:00"
+ },
+ {
+  "level": 2,
+  "n": 1,
+  "source": "Google News — eastern flank (PL/FI/NATO)",
+  "stems": [
+   "aggre",
+   "conse",
+   "gener",
+   "jones",
+   "matth",
+   "misca",
+   "serio",
+   "trigg"
+  ],
+  "title": "General Matthew Jones warns that Russia’s aggression could trigger a miscalculation with serious consequences for NATO. - Informat.ro",
+  "ts": "2026-11-21T22:01:34+00:00"
  }
 ]
