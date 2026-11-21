@@ -259,11 +259,12 @@
  },
  {
   "level": 2,
-  "n": 3,
+  "n": 4,
   "source": "Clash Report",
   "stems": [
    "aircr",
    "airsp",
+   "allie",
    "donal",
    "drone",
    "fight",
@@ -313,20 +314,31 @@
  },
  {
   "level": 2,
-  "n": 1,
+  "n": 2,
   "source": "ASTRA",
   "stems": [
+   "атако",
+   "водах",
+   "грузо",
+   "губер",
+   "дрона",
+   "залив",
    "калин",
    "князе",
    "конст",
+   "котор",
+   "леноб",
    "летни",
    "мужчи",
+   "нейтр",
    "обвин",
    "освоб",
    "ответ",
    "отпра",
+   "судно",
    "убийс",
-   "уголо"
+   "уголо",
+   "финск"
   ],
   "title": "В Калининграде от уголовной ответственности освободили обвиняемого в 11 убийствах Константина Князева. 64-летний мужчина отправился на «СВО»…",
   "ts": "2026-11-20T20:31:17+00:00"
@@ -364,5 +376,19 @@
   ],
   "title": "Exercise Avenger Triad 26 Enhances Security Along NATO’s Eastern Flank - Eurasia Review",
   "ts": "2026-11-21T02:01:31+00:00"
+ },
+ {
+  "level": 2,
+  "n": 1,
+  "source": "Clash Report",
+  "stems": [
+   "candi",
+   "certa",
+   "frenc",
+   "going",
+   "lench"
+  ],
+  "title": "French Presidential Candidate Jean-Luc Mélenchon: Are we going to war? Certainly not. We will not go to war against Russia. You have the rig…",
+  "ts": "2026-11-21T10:31:27+00:00"
  }
 ]
