@@ -1,1 +1,23 @@
-[]
+[
+ {
+  "first_seen": "2026-11-21T07:31:22+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-11-21T07:00:02+00:00",
+  "reason": "region: suwałki, nato · matched “Suwałki” · another report of a story already in the channel",
+  "repeat_of": "Estonia Warns of Russian Threat at Stanford Event - Wisevoter",
+  "repeats": 0,
+  "source_id": "gnews_nato",
+  "source_name": "Google News — NATO & the Baltics",
+  "summary": "",
+  "text": "Where to flee in the event of war? Suwałki Gap is not really NATO’s weakness Defence24.com",
+  "tier": "news",
+  "title": "Where to flee in the event of war? Suwałki Gap is not really NATO’s weakness - Defence24.com",
+  "uid": "3e97986095b11c72",
+  "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOblZ0amtpTkg4NHU0RWlaZWFiN2dfUThLZkVUdm1zZWtRT0NaUjF1dWx3VDd1TlBEdlVNM1E2M1Y1YlgtdG1fdXczbmVRQlFFMlZDYlVscnp2LUgyNXMwTy1xOXlURTdBNVdLLVQwLUg1dnpVQndtemVfRFF2S1JxQ3RXTjdxU3pmcHdMWkU0dk51bk5VNk56ellRMnEtbnQtaGotM0I4aW5FT1Nj?oc=5",
+  "warning": false
+ }
+]
