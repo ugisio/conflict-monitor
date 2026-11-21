@@ -306,11 +306,12 @@
  },
  {
   "level": 3,
-  "n": 7,
+  "n": 8,
   "source": "ASTRA",
   "stems": [
    "атаки",
    "атако",
+   "атаку",
    "балти",
    "беспи",
    "водах",
@@ -344,11 +345,10 @@
    "отпра",
    "очере",
    "перву",
+   "подтв",
    "после",
    "предл",
-   "призв",
-   "приос",
-   "ранее"
+   "призв"
   ],
   "title": "В нейтральных водах Финского залива два украинских беспилотника атаковали грузовое судно, следовавшие в Калининград , сообщил губернатор Лен…",
   "ts": "2026-11-21T11:01:56+00:00"
@@ -400,5 +400,20 @@
   ],
   "title": "French Presidential Candidate Jean-Luc Mélenchon: Are we going to war? Certainly not. We will not go to war against Russia. You have the rig…",
   "ts": "2026-11-21T10:31:27+00:00"
+ },
+ {
+  "level": 2,
+  "n": 3,
+  "source": "Google News — Latvia security",
+  "stems": [
+   "bound",
+   "cargo",
+   "drone",
+   "headi",
+   "lenin",
+   "struc"
+  ],
+  "title": "Leningrad governor reports drone attack on cargo ship bound for Kaliningrad - Anadolu Ajansı",
+  "ts": "2026-11-21T12:57:21+00:00"
  }
 ]
