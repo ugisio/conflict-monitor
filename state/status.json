@@ -5,80 +5,80 @@
    "error": "",
    "fail_streak": 0,
    "items_last": 0,
-   "last_ok": "2026-11-21T15:01:12+00:00",
-   "last_run": "2026-11-21T15:01:12+00:00",
+   "last_ok": "2026-11-21T15:31:00+00:00",
+   "last_run": "2026-11-21T15:31:00+00:00",
    "ok": true
   },
   "err_en": {
    "error": "",
    "fail_streak": 0,
    "items_last": 50,
-   "last_ok": "2026-11-21T15:01:22+00:00",
-   "last_run": "2026-11-21T15:01:22+00:00",
+   "last_ok": "2026-11-21T15:31:10+00:00",
+   "last_run": "2026-11-21T15:31:10+00:00",
    "ok": true
   },
   "fcdo_estonia": {
    "error": "",
    "fail_streak": 0,
    "items_last": 0,
-   "last_ok": "2026-11-21T15:01:10+00:00",
-   "last_run": "2026-11-21T15:01:10+00:00",
+   "last_ok": "2026-11-21T15:30:59+00:00",
+   "last_run": "2026-11-21T15:30:59+00:00",
    "ok": true
   },
   "fcdo_latvia": {
    "error": "",
    "fail_streak": 0,
    "items_last": 0,
-   "last_ok": "2026-11-21T15:01:10+00:00",
-   "last_run": "2026-11-21T15:01:10+00:00",
+   "last_ok": "2026-11-21T15:30:59+00:00",
+   "last_run": "2026-11-21T15:30:59+00:00",
    "ok": true
   },
   "fcdo_lithuania": {
    "error": "",
    "fail_streak": 0,
    "items_last": 0,
-   "last_ok": "2026-11-21T15:01:10+00:00",
-   "last_run": "2026-11-21T15:01:10+00:00",
+   "last_ok": "2026-11-21T15:30:59+00:00",
+   "last_run": "2026-11-21T15:30:59+00:00",
    "ok": true
   },
   "germany_latvia": {
    "error": "",
    "fail_streak": 0,
    "items_last": 0,
-   "last_ok": "2026-11-21T15:01:13+00:00",
-   "last_run": "2026-11-21T15:01:13+00:00",
+   "last_ok": "2026-11-21T15:31:01+00:00",
+   "last_run": "2026-11-21T15:31:01+00:00",
    "ok": true
   },
   "gnews_airspace": {
-   "error": "",
-   "fail_streak": 0,
+   "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=(airspace+OR+NOTAM+OR+%22no-fly%22)+(closed+OR+closure+OR+restrict+OR+violat)+(Latvia+OR+Estonia+OR+Lithuan",
+   "fail_streak": 1,
    "items_last": 0,
    "last_ok": "2026-11-21T14:31:11+00:00",
-   "last_run": "2026-11-21T14:31:11+00:00",
-   "ok": true
+   "last_run": "2026-11-21T15:31:09+00:00",
+   "ok": false
   },
   "gnews_embassy": {
-   "error": "",
-   "fail_streak": 0,
+   "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=(embassy+OR+evacuat+OR+%22leave+now%22+OR+%22ordered+departure%22)+(Latvia+OR+Estonia+OR+Lithuania+OR+Balti",
+   "fail_streak": 1,
    "items_last": 0,
    "last_ok": "2026-11-21T14:31:14+00:00",
-   "last_run": "2026-11-21T14:31:14+00:00",
-   "ok": true
+   "last_run": "2026-11-21T15:31:11+00:00",
+   "ok": false
   },
   "gnews_flank_warnings": {
-   "error": "",
-   "fail_streak": 0,
+   "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=(Poland+OR+Finland+OR+NATO)+(Tusk+OR+Stubb+OR+Rutte+OR+%22defence+minister%22+OR+general)+Russia+(attack+OR",
+   "fail_streak": 1,
    "items_last": 58,
    "last_ok": "2026-11-21T14:31:16+00:00",
-   "last_run": "2026-11-21T14:31:16+00:00",
-   "ok": true
+   "last_run": "2026-11-21T15:31:12+00:00",
+   "ok": false
   },
   "gnews_israel_nsc": {
    "error": "",
    "fail_streak": 0,
    "items_last": 0,
-   "last_ok": "2026-11-21T14:31:02+00:00",
-   "last_run": "2026-11-21T14:31:02+00:00",
+   "last_ok": "2026-11-21T15:31:02+00:00",
+   "last_run": "2026-11-21T15:31:02+00:00",
    "ok": true
   },
   "gnews_israel_region": {
@@ -90,12 +90,12 @@
    "ok": true
   },
   "gnews_latvia_security": {
-   "error": "",
-   "fail_streak": 0,
+   "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=(Latvia+OR+Baltic+OR+Kaliningrad)+(Russia+OR+Belarus+OR+NATO+OR+border+OR+military+OR+drone+OR+airspace)&hl",
+   "fail_streak": 1,
    "items_last": 30,
    "last_ok": "2026-11-21T14:31:13+00:00",
-   "last_run": "2026-11-21T14:31:13+00:00",
-   "ok": true
+   "last_run": "2026-11-21T15:31:11+00:00",
+   "ok": false
   },
   "gnews_nato": {
    "error": "",
@@ -106,187 +106,187 @@
    "ok": true
   },
   "gnews_official_warnings": {
-   "error": "",
-   "fail_streak": 0,
+   "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=Russia%20%28%22defence%20chief%22%20OR%20%22chief%20of%20defence%22%20OR%20%22defence%20minister%22%20OR%20",
+   "fail_streak": 1,
    "items_last": 3,
    "last_ok": "2026-11-21T14:31:15+00:00",
-   "last_run": "2026-11-21T14:31:15+00:00",
-   "ok": true
+   "last_run": "2026-11-21T15:31:12+00:00",
+   "ok": false
   },
   "israel_emb_estonia": {
    "error": "SSLError: HTTPSConnectionPool(host='underconstruction.gov.il', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] ssl/tls alert handshake",
-   "fail_streak": 58,
+   "fail_streak": 59,
    "items_last": 2,
    "last_ok": "2026-11-20T12:01:21+00:00",
-   "last_run": "2026-11-21T15:01:17+00:00",
+   "last_run": "2026-11-21T15:31:05+00:00",
    "ok": false
   },
   "israel_emb_finland": {
    "error": "SSLError: HTTPSConnectionPool(host='underconstruction.gov.il', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] ssl/tls alert handshake",
-   "fail_streak": 58,
+   "fail_streak": 59,
    "items_last": 4,
    "last_ok": "2026-11-20T12:01:22+00:00",
-   "last_run": "2026-11-21T15:01:18+00:00",
+   "last_run": "2026-11-21T15:31:06+00:00",
    "ok": false
   },
   "israel_emb_lithuania": {
    "error": "SSLError: HTTPSConnectionPool(host='underconstruction.gov.il', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] ssl/tls alert handshake",
-   "fail_streak": 58,
+   "fail_streak": 59,
    "items_last": 2,
    "last_ok": "2026-11-20T12:01:20+00:00",
-   "last_run": "2026-11-21T15:01:15+00:00",
+   "last_run": "2026-11-21T15:31:04+00:00",
    "ok": false
   },
   "israel_emb_poland": {
    "error": "SSLError: HTTPSConnectionPool(host='underconstruction.gov.il', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] ssl/tls alert handshake",
-   "fail_streak": 58,
+   "fail_streak": 59,
    "items_last": 3,
    "last_ok": "2026-11-20T12:01:24+00:00",
-   "last_run": "2026-11-21T15:01:19+00:00",
+   "last_run": "2026-11-21T15:31:07+00:00",
    "ok": false
   },
   "israel_emb_riga": {
    "error": "SSLError: HTTPSConnectionPool(host='underconstruction.gov.il', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] ssl/tls alert handshake",
-   "fail_streak": 58,
+   "fail_streak": 59,
    "items_last": 4,
    "last_ok": "2026-11-20T12:01:19+00:00",
-   "last_run": "2026-11-21T15:01:14+00:00",
+   "last_run": "2026-11-21T15:31:03+00:00",
    "ok": false
   },
   "lrt_en": {
    "error": "",
    "fail_streak": 0,
    "items_last": 17,
-   "last_ok": "2026-11-21T15:01:22+00:00",
-   "last_run": "2026-11-21T15:01:22+00:00",
+   "last_ok": "2026-11-21T15:31:10+00:00",
+   "last_run": "2026-11-21T15:31:10+00:00",
    "ok": true
   },
   "lsm_en": {
    "error": "",
    "fail_streak": 0,
    "items_last": 30,
-   "last_ok": "2026-11-21T15:01:22+00:00",
-   "last_run": "2026-11-21T15:01:22+00:00",
+   "last_ok": "2026-11-21T15:31:09+00:00",
+   "last_run": "2026-11-21T15:31:09+00:00",
    "ok": true
   },
   "polymarket": {
    "error": "",
    "fail_streak": 0,
    "items_last": 0,
-   "last_ok": "2026-11-21T15:01:31+00:00",
-   "last_run": "2026-11-21T15:01:31+00:00",
+   "last_ok": "2026-11-21T15:31:19+00:00",
+   "last_run": "2026-11-21T15:31:19+00:00",
    "ok": true
   },
   "tg_astra": {
    "error": "",
    "fail_streak": 0,
-   "items_last": 10,
-   "last_ok": "2026-11-21T15:01:27+00:00",
-   "last_run": "2026-11-21T15:01:27+00:00",
+   "items_last": 11,
+   "last_ok": "2026-11-21T15:31:15+00:00",
+   "last_run": "2026-11-21T15:31:15+00:00",
    "ok": true
   },
   "tg_clashreport": {
    "error": "",
    "fail_streak": 0,
    "items_last": 20,
-   "last_ok": "2026-11-21T15:01:24+00:00",
-   "last_run": "2026-11-21T15:01:24+00:00",
+   "last_ok": "2026-11-21T15:31:13+00:00",
+   "last_run": "2026-11-21T15:31:13+00:00",
    "ok": true
   },
   "tg_disclosetv": {
    "error": "",
    "fail_streak": 0,
-   "items_last": 18,
-   "last_ok": "2026-11-21T15:01:25+00:00",
-   "last_run": "2026-11-21T15:01:25+00:00",
+   "items_last": 17,
+   "last_ok": "2026-11-21T15:31:13+00:00",
+   "last_run": "2026-11-21T15:31:13+00:00",
    "ok": true
   },
   "tg_meduza": {
    "error": "",
    "fail_streak": 0,
    "items_last": 20,
-   "last_ok": "2026-11-21T15:01:26+00:00",
-   "last_run": "2026-11-21T15:01:26+00:00",
+   "last_ok": "2026-11-21T15:31:14+00:00",
+   "last_run": "2026-11-21T15:31:14+00:00",
    "ok": true
   },
   "tg_nexta": {
    "error": "",
    "fail_streak": 0,
    "items_last": 20,
-   "last_ok": "2026-11-21T15:01:25+00:00",
-   "last_run": "2026-11-21T15:01:25+00:00",
+   "last_ok": "2026-11-21T15:31:14+00:00",
+   "last_run": "2026-11-21T15:31:14+00:00",
    "ok": true
   },
   "tg_novaya": {
    "error": "",
    "fail_streak": 0,
    "items_last": 19,
-   "last_ok": "2026-11-21T15:01:27+00:00",
-   "last_run": "2026-11-21T15:01:27+00:00",
+   "last_ok": "2026-11-21T15:31:15+00:00",
+   "last_run": "2026-11-21T15:31:15+00:00",
    "ok": true
   },
   "tg_rybar": {
    "error": "",
    "fail_streak": 0,
    "items_last": 9,
-   "last_ok": "2026-11-21T15:01:28+00:00",
-   "last_run": "2026-11-21T15:01:28+00:00",
+   "last_ok": "2026-11-21T15:31:16+00:00",
+   "last_run": "2026-11-21T15:31:16+00:00",
    "ok": true
   },
   "us_embassy_helsinki": {
    "error": "",
    "fail_streak": 0,
    "items_last": 0,
-   "last_ok": "2026-11-21T15:01:21+00:00",
-   "last_run": "2026-11-21T15:01:21+00:00",
+   "last_ok": "2026-11-21T15:31:08+00:00",
+   "last_run": "2026-11-21T15:31:08+00:00",
    "ok": true
   },
   "us_embassy_riga": {
    "error": "",
    "fail_streak": 0,
    "items_last": 0,
-   "last_ok": "2026-11-21T15:01:09+00:00",
-   "last_run": "2026-11-21T15:01:09+00:00",
+   "last_ok": "2026-11-21T15:30:58+00:00",
+   "last_run": "2026-11-21T15:30:58+00:00",
    "ok": true
   },
   "us_embassy_tallinn": {
    "error": "",
    "fail_streak": 0,
    "items_last": 0,
-   "last_ok": "2026-11-21T15:01:20+00:00",
-   "last_run": "2026-11-21T15:01:20+00:00",
+   "last_ok": "2026-11-21T15:31:08+00:00",
+   "last_run": "2026-11-21T15:31:08+00:00",
    "ok": true
   },
   "us_embassy_vilnius": {
    "error": "",
    "fail_streak": 0,
    "items_last": 0,
-   "last_ok": "2026-11-21T15:01:20+00:00",
-   "last_run": "2026-11-21T15:01:20+00:00",
+   "last_ok": "2026-11-21T15:31:08+00:00",
+   "last_run": "2026-11-21T15:31:08+00:00",
    "ok": true
   },
   "us_embassy_warsaw": {
    "error": "",
    "fail_streak": 0,
    "items_last": 2,
-   "last_ok": "2026-11-21T15:01:20+00:00",
-   "last_run": "2026-11-21T15:01:20+00:00",
+   "last_ok": "2026-11-21T15:31:08+00:00",
+   "last_run": "2026-11-21T15:31:08+00:00",
    "ok": true
   },
   "us_state_latvia": {
    "error": "page blocked (403); relying on the advisories RSS feed",
    "fail_streak": 0,
    "items_last": 0,
-   "last_ok": "2026-11-21T15:01:08+00:00",
-   "last_run": "2026-11-21T15:01:08+00:00",
+   "last_ok": "2026-11-21T15:30:57+00:00",
+   "last_run": "2026-11-21T15:30:57+00:00",
    "ok": true
   },
   "us_state_rss": {
    "error": "",
    "fail_streak": 0,
    "items_last": 0,
-   "last_ok": "2026-11-21T15:01:08+00:00",
-   "last_run": "2026-11-21T15:01:08+00:00",
+   "last_ok": "2026-11-21T15:30:58+00:00",
+   "last_run": "2026-11-21T15:30:58+00:00",
    "ok": true
   }
  },
@@ -1376,6 +1376,6 @@
    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOS3ZCcV9wX3RwbUxnNHVUT0JuYnRPUHlranQzWm5HdzRoWG43VXBIMXowVmtQdTNkVFUzRHVVaWp6bVlqY1Zud25GRmFPODBydUhYUXlrUTVJWkRoaV9nazNWaFBxTmllejdvOWVKTU44a0o0bHZ1eS1fUHY3TFFkYW1qRWZtLUVvdGk4MGVHV2l3TnREQVdwWnJiaUY2bTJWakRnZHVNZUtObG15WmpKbTQ5MXprVDdwUHF0ZFhZcWlFTUJnSHdfaFplONIB0AFBVV95cUxOVmxMWUJkU3JFeEZRT2Y2cnRDelFaYmg0Sk1PMnNqU3dJMHl2enZsSk0wYnBmTHFKSlplZUhKUF81SjR3NnNVeFY2NDVSdEVDMkVQblp2ak90SmVnc191bzNOSVhXZ3loT3JsNTRXSnc4TE5CaGp5SWE1UHl2QzBsYmlGYWNSbHBFdzZVZzFXQ2NHRmZXYVo0S01ENXBrNkFvZy1ma2VMUW1GcGVtVlpQLUowVzBBRXRqczFsT0dXb2dPOVQxY2J2Z1pYSDVuTllM?oc=5"
   }
  ],
- "runs": 2793,
- "status_text": "📟 <b>CURRENT LEVEL: 🟠 L3 ELEVATED.</b> В нейтральных водах Финского залива два украинских беспилотника атаковали грузовое судно, следовавшие в Калининград , сообщил губернатор Лен…\n<a href=\"https://t.me/meduzalive/150891\">Meduza</a> · Sat 21 Nov 13:01 · at L3 since Fri 20 Nov 19:31 (2 items at this level in 72 h)\n<b>Why L3:</b> region: калининград, ленинградск · matched “атаковали грузовое судно, следовавшие в Калининград” · corroborated by Novaya Gazeta Europe · story escalated from L2 (3 reports so far)\n<b>Suggested action at L3:</b> Review your plan; make sure documents and essentials are in order.\nLevel = highest of the last 72 h · updated Sat 21 Nov 17:01 · sources OK 31/36 · <a href=\"https://t.me/c/4455291623/25\">📖 Level guide</a>\nScale: ⚫5 Critical 🔴4 Urgent 🟠3 Elevated 🟡2 Watch 🟢1 Info ⚪0 Quiet"
+ "runs": 2794,
+ "status_text": "📟 <b>CURRENT LEVEL: 🟠 L3 ELEVATED.</b> В нейтральных водах Финского залива два украинских беспилотника атаковали грузовое судно, следовавшие в Калининград , сообщил губернатор Лен…\n<a href=\"https://t.me/meduzalive/150891\">Meduza</a> · Sat 21 Nov 13:01 · at L3 since Fri 20 Nov 19:31 (2 items at this level in 72 h)\n<b>Why L3:</b> region: калининград, ленинградск · matched “атаковали грузовое судно, следовавшие в Калининград” · corroborated by Novaya Gazeta Europe · story escalated from L2 (3 reports so far)\n<b>Suggested action at L3:</b> Review your plan; make sure documents and essentials are in order.\nLevel = highest of the last 72 h · updated Sat 21 Nov 17:31 · sources OK 26/36 · <a href=\"https://t.me/c/4455291623/25\">📖 Level guide</a>\nScale: ⚫5 Critical 🔴4 Urgent 🟠3 Elevated 🟡2 Watch 🟢1 Info ⚪0 Quiet"
 }

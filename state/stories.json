@@ -310,15 +310,20 @@
  },
  {
   "level": 2,
-  "n": 3,
+  "n": 4,
   "source": "Google News — Latvia security",
   "stems": [
    "calle",
    "calls",
+   "check",
    "close",
    "curta",
+   "decem",
    "decri",
-   "prime"
+   "prime",
+   "sabot",
+   "suspe",
+   "talli"
   ],
   "title": "Latvia’s Prime Minister Calls on EU to Close Its Borders to All Russian Citizens - UNITED24 Media",
   "ts": "2026-11-21T00:01:39+00:00"

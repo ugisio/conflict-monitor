@@ -607,5 +607,26 @@
   "uid": "1921bef21b975d51",
   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOS3ZCcV9wX3RwbUxnNHVUT0JuYnRPUHlranQzWm5HdzRoWG43VXBIMXowVmtQdTNkVFUzRHVVaWp6bVlqY1Zud25GRmFPODBydUhYUXlrUTVJWkRoaV9nazNWaFBxTmllejdvOWVKTU44a0o0bHZ1eS1fUHY3TFFkYW1qRWZtLUVvdGk4MGVHV2l3TnREQVdwWnJiaUY2bTJWakRnZHVNZUtObG15WmpKbTQ5MXprVDdwUHF0ZFhZcWlFTUJnSHdfaFplONIB0AFBVV95cUxOVmxMWUJkU3JFeEZRT2Y2cnRDelFaYmg0Sk1PMnNqU3dJMHl2enZsSk0wYnBmTHFKSlplZUhKUF81SjR3NnNVeFY2NDVSdEVDMkVQblp2ak90SmVnc191bzNOSVhXZ3loT3JsNTRXSnc4TE5CaGp5SWE1UHl2QzBsYmlGYWNSbHBFdzZVZzFXQ2NHRmZXYVo0S01ENXBrNkFvZy1ma2VMUW1GcGVtVlpQLUowVzBBRXRqczFsT0dXb2dPOVQxY2J2Z1pYSDVuTllM?oc=5",
   "warning": true
+ },
+ {
+  "first_seen": "2026-11-21T15:31:13+00:00",
+  "kind": "post",
+  "lang": "en",
+  "level": 2,
+  "note": "EN, conflict news aggregator",
+  "posted": false,
+  "published": "2026-11-21T15:21:19+00:00",
+  "reason": "region: estonia, russia · hybrid incident (sabotage/arson/cyber) → WATCH · matched “Close All Border” · another report of a story already in the channel",
+  "repeat_of": "Latvia’s Prime Minister Calls on EU to Close Its Borders to All Russian Citizens - UNITED24 Media",
+  "repeats": 0,
+  "source_id": "tg_clashreport",
+  "source_name": "Clash Report",
+  "summary": "",
+  "text": "Estonia to Close All Borders With Russia Over Suspected GRU Sabotage All five checkpoints will close on December 1, as Tallinn says Russian military intelligence ordered an attempted arson attack at a defense facility near the capital. READ MORE",
+  "tier": "osint",
+  "title": "Estonia to Close All Borders With Russia Over Suspected GRU Sabotage All five checkpoints will close on December 1, as Tallinn says Russian …",
+  "uid": "b5485086f5c0b580",
+  "url": "https://t.me/ClashReport/107155",
+  "warning": false
  }
 ]
