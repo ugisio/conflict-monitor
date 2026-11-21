@@ -259,16 +259,20 @@
  },
  {
   "level": 2,
-  "n": 1,
+  "n": 3,
   "source": "Clash Report",
   "stems": [
+   "aircr",
    "airsp",
    "donal",
    "drone",
+   "fight",
    "incid",
    "missi",
    "ourse",
-   "requi"
+   "requi",
+   "respo",
+   "scram"
   ],
   "title": "Polish PM Donald Tusk on Russian missile and drone incidents in Polish airspace: Let's not fool ourselves. There is an incident that require…",
   "ts": "2026-11-20T12:31:32+00:00"
@@ -341,15 +345,18 @@
  },
  {
   "level": 1,
-  "n": 1,
+  "n": 2,
   "source": "Google News — NATO & the Baltics",
   "stems": [
    "along",
    "aveng",
+   "backs",
+   "closi",
    "easte",
    "enhan",
    "exerc",
    "flank",
+   "herem",
    "triad"
   ],
   "title": "Exercise Avenger Triad 26 Enhances Security Along NATO’s Eastern Flank - Eurasia Review",
