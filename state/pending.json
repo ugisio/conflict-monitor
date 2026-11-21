@@ -376,5 +376,26 @@
   "uid": "cb5821531edc10aa",
   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMWlZaHZHLW5CcGFjNDJJcVJqMktnUENEaHR1RmUzdXRzd2xLcV85VTlCMkVlT3M0aXRYa2N1NUFucDRyM19tZW1vYmUwdktpa2xoRTFrN1Z3QzVZbXFfQnF3Q0NULW5KQTJRZjNoT3hVZDRfSUJRa1RsVXJXUmZJWUVsdTJVeW14UU1LRnRpZWR1NjUxRE9MdjdIS2UzVG5vMHc?oc=5",
   "warning": true
+ },
+ {
+  "first_seen": "2026-11-21T23:01:31+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-11-21T22:50:45+00:00",
+  "reason": "region: baltic, nato, russia · matched “Drone” · another report of a story already in the channel",
+  "repeat_of": "Russian cargo ship bursts into flames after suspected Ukrainian drone strike in Baltic Sea - New York Post",
+  "repeats": 0,
+  "source_id": "gnews_nato",
+  "source_name": "Google News — NATO & the Baltics",
+  "summary": "",
+  "text": "Glenn Diesen Uses Baltic Drone Attack to Fuel Claims of NATO Involvement in Russia’s War DisinfoWatch",
+  "tier": "news",
+  "title": "Glenn Diesen Uses Baltic Drone Attack to Fuel Claims of NATO Involvement in Russia’s War - DisinfoWatch",
+  "uid": "7595b0a65e5c9a66",
+  "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTFZFTThZdXJmWXN1NkJBODZ2ZTlMYmMyOWcyR092TTN1WFJXWGx0d3I2djNJeHBjSkhxY3JvY2dKTkw3Qi1NM2xUSGkxVy1fSmQtQXFRbWF0dEdWbzVDei1WNlYzQ2hvdkwzaFUzcUllZW56aGpJLW14cWEtMFpwb3p3aWd5eFc2Y25Ud1dGQXlCVU96YllZMUZxdEpFcWVlVndJQmNsTlFmWW9uUTIweVRjZ29paU9WZTlaaFFn?oc=5",
+  "warning": false
  }
 ]
