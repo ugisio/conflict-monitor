@@ -145,5 +145,26 @@
   "uid": "0ba4ce4e44c211f8",
   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSk5OMEI0Z0Q3T0ZLLXZsQ2FTOVZhYXZGeXprcTcwaHdvTWpkRUZaQ25uaDFCSGRyTXR0UEEwR25FSnNDM2ZqZHZmR0lkd2VKUExCRkRHQnVWRFhIRUdaOW0wT0xvUHZhdF9iNWNFR0c5NFh6Zk1xUmJuUm1fdmN0MVpsMV9GMkNsMmZvNXRSZTlkYk9NWk5pcUUzZVNIZE1RNkVtMVRxbUkteUVCbGc?oc=5",
   "warning": false
+ },
+ {
+  "first_seen": "2026-11-21T04:01:23+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-11-21T03:48:04+00:00",
+  "reason": "region: article 4, nato, russia · matched “Invokes Article 4” · single source, held at WATCH until another source corroborates · another report of a story already in the channel",
+  "repeat_of": "Mr. Kushner: President Trump is prepared to consider providing security guarantees to Ukraine similar to Article 5 of NATO. - Vietnam.vn",
+  "repeats": 0,
+  "source_id": "gnews_nato",
+  "source_name": "Google News — NATO & the Baltics",
+  "summary": "",
+  "text": "Poland Invokes Article 4 After Russian Missiles Crash on Its Soil — and Demands NATO Act Latin Times",
+  "tier": "news",
+  "title": "Poland Invokes Article 4 After Russian Missiles Crash on Its Soil — and Demands NATO Act - Latin Times",
+  "uid": "83e8af03362ac86a",
+  "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQcTZVNTRLdGtBUk9IU0xFN2tTazl4SUNBMnZvQm1rQldtZ2NMZ3Zlbi1TdUVHZ3NHSXFGY3Y5RVMybnZvSUx3LXdSVmNmZi1YOFFmbi1EcEFYWkg1bkEyNEpHbHFOcFVNalcwaGktY1RHRDBDSmJCX0t1TGVySlZjUThCRQ?oc=5",
+  "warning": false
  }
 ]
