@@ -124,5 +124,26 @@
   "uid": "c88c508988fc6046",
   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQeU5KSE9iVEk1aUVlNnFFVVpfVzh6NVBKVUk2RDQyczI3dE9FQVRSNHRNZzVMYldHOERSZXNOeTlzUktYNXFhMWp3ZWhndlpJb1N1Q0hCVHNnbm9MdUh6NUE4SHpCTUU0YkN6eVN5ZWJaNG5mLWdzQnA2OTR5Z0hUREtlSUhQWHZHaDN6U3A3N3FRUWVJblE?oc=5",
   "warning": false
+ },
+ {
+  "first_seen": "2026-11-21T02:01:24+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 1,
+  "note": "",
+  "posted": false,
+  "published": "2026-11-21T01:43:45+00:00",
+  "reason": "region: eastern flank, nato · matched “Exercise”",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "gnews_nato",
+  "source_name": "Google News — NATO & the Baltics",
+  "summary": "",
+  "text": "Exercise Avenger Triad 26 Enhances Security Along NATO’s Eastern Flank Eurasia Review",
+  "tier": "news",
+  "title": "Exercise Avenger Triad 26 Enhances Security Along NATO’s Eastern Flank - Eurasia Review",
+  "uid": "0ba4ce4e44c211f8",
+  "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSk5OMEI0Z0Q3T0ZLLXZsQ2FTOVZhYXZGeXprcTcwaHdvTWpkRUZaQ25uaDFCSGRyTXR0UEEwR25FSnNDM2ZqZHZmR0lkd2VKUExCRkRHQnVWRFhIRUdaOW0wT0xvUHZhdF9iNWNFR0c5NFh6Zk1xUmJuUm1fdmN0MVpsMV9GMkNsMmZvNXRSZTlkYk9NWk5pcUUzZVNIZE1RNkVtMVRxbUkteUVCbGc?oc=5",
+  "warning": false
  }
 ]
