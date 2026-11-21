@@ -247,21 +247,25 @@
  },
  {
   "level": 2,
-  "n": 4,
+  "n": 6,
   "source": "Clash Report",
   "stems": [
    "aircr",
    "airsp",
    "allie",
+   "cargo",
    "donal",
    "drone",
    "fight",
+   "headi",
    "incid",
    "missi",
    "ourse",
+   "overn",
    "requi",
    "respo",
-   "scram"
+   "scram",
+   "targe"
   ],
   "title": "Polish PM Donald Tusk on Russian missile and drone incidents in Polish airspace: Let's not fool ourselves. There is an incident that require…",
   "ts": "2026-11-20T12:31:32+00:00"
