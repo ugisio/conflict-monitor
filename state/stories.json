@@ -46,18 +46,6 @@
  },
  {
   "level": 2,
-  "n": 1,
-  "source": "Google News — Latvia security",
-  "stems": [
-   "opera",
-   "sabot",
-   "thwar"
-  ],
-  "title": "Poland thwarted a Russian sabotage operation on the border with Kaliningrad - Цензор.НЕТ",
-  "ts": "2026-11-18T15:31:23+00:00"
- },
- {
-  "level": 2,
   "n": 2,
   "source": "Google News — Latvia security",
   "stems": [
@@ -363,7 +351,7 @@
  },
  {
   "level": 2,
-  "n": 10,
+  "n": 12,
   "source": "Google News — Latvia security",
   "stems": [
    "bound",
