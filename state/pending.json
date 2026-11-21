@@ -82,5 +82,26 @@
   "uid": "334838f6f6e2b9ab",
   "url": "https://news.err.ee/1610202649/pm-defense-minister-herem-backs-closing-eastern-border-with-russia",
   "warning": false
+ },
+ {
+  "first_seen": "2026-11-21T10:02:09+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 1,
+  "note": "",
+  "posted": false,
+  "published": "2026-11-20T13:21:00+00:00",
+  "reason": "region: estonia · matched “Town Hall” · another report of a story already in the channel",
+  "repeat_of": "Gallery: Tallinn Christmas Market's one last year of cheer in current form",
+  "repeats": 0,
+  "source_id": "err_en",
+  "source_name": "ERR News (Estonia, EN)",
+  "summary": "",
+  "text": "The sights and smells of Estonian Christmas are back in Tallinn's Town Hall Square after lights on the central Christmas tree were switched on Friday evening, officially opening the famous holiday market for one last season under its current operator.",
+  "tier": "news",
+  "title": "Gallery: Lights lit on Town Hall Square tree as Tallinn Christmas Market opens",
+  "uid": "ed78d578638d9bbb",
+  "url": "https://news.err.ee/1610201671/gallery-lights-lit-on-town-hall-square-tree-as-tallinn-christmas-market-opens",
+  "warning": false
  }
 ]
