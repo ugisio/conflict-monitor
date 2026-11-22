@@ -223,7 +223,7 @@
  },
  {
   "level": 3,
-  "n": 37,
+  "n": 38,
   "source": "Google News — Latvia security",
   "stems": [
    "aband",
@@ -245,6 +245,7 @@
    "calls",
    "cargo",
    "catch",
+   "caugh",
    "chann",
    "check",
    "claim",
@@ -264,8 +265,7 @@
    "evacu",
    "excla",
    "explo",
-   "first",
-   "flame"
+   "first"
   ],
   "title": "Russian cargo ship bursts into flames after suspected Ukrainian drone strike in Baltic Sea - New York Post",
   "ts": "2026-11-21T18:01:30+00:00"
@@ -453,5 +453,16 @@
   ],
   "title": "Чтобы не провоцировать Россию, Германия изменила план переброски войск на учения в Литву, — Bild Немецкий таблоид, который цитируют ведущие …",
   "ts": "2026-11-22T07:22:37+00:00"
+ },
+ {
+  "level": 2,
+  "n": 1,
+  "source": "Google News — Latvia security",
+  "stems": [
+   "siren",
+   "sound"
+  ],
+  "title": "An air-raid siren sounded in Kaliningrad, Russia - Цензор.НЕТ",
+  "ts": "2026-11-22T07:31:16+00:00"
  }
 ]
