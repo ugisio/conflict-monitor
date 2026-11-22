@@ -171,7 +171,7 @@
  },
  {
   "level": 3,
-  "n": 52,
+  "n": 53,
   "source": "Google News — Latvia security",
   "stems": [
    "aband",
@@ -187,6 +187,7 @@
    "becau",
    "betwe",
    "blast",
+   "blaze",
    "bound",
    "brief",
    "burns",
@@ -212,8 +213,7 @@
    "denie",
    "detec",
    "diese",
-   "discl",
-   "drone"
+   "discl"
   ],
   "title": "Russian cargo ship bursts into flames after suspected Ukrainian drone strike in Baltic Sea - New York Post",
   "ts": "2026-11-21T18:01:30+00:00"

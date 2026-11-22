@@ -649,5 +649,26 @@
   "uid": "06ac7b91a6bbc8b4",
   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQYXU4TkF4STQ4NnozVHZKR2NqNFJYU2NGcGg0NDdxZ19QWF9reHdFRWhnWC00S2czanNVU2tlWGRNeUdtZk1YVVlhNVhIVnI1bXd1VnNJa3pRWVlpMnRHYmg3aHF3YnNWajJiRUZfc21ESzVJWEJvdzNjWFQzcDhZdnljTTlmendKWXF4Z09tdk1fajVHbFFFLQ?oc=5",
   "warning": false
+ },
+ {
+  "first_seen": "2026-11-22T16:01:21+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-11-22T09:23:00+00:00",
+  "reason": "region: baltic, estonia, russia · matched “Drone” · another report of a story already in the channel",
+  "repeat_of": "Russian cargo ship bursts into flames after suspected Ukrainian drone strike in Baltic Sea - New York Post",
+  "repeats": 0,
+  "source_id": "gnews_nato",
+  "source_name": "Google News — NATO & the Baltics",
+  "summary": "",
+  "text": "Russian Ship Hit by Drones in Baltic Still Smolders as Finland, Estonia Help Put Out Blaze The Moscow Times",
+  "tier": "news",
+  "title": "Russian Ship Hit by Drones in Baltic Still Smolders as Finland, Estonia Help Put Out Blaze - The Moscow Times",
+  "uid": "c564f09747a57346",
+  "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOOUJpQzdpRzctaFJyeUZXdldtNTZuU0NQMmNwUGJkWFpMYkl6akstREpsRk00OExDb3pjZTdPcnN6OU5BWFFGeldJRVQ2ZVZwT0M2NEIyZER3WU1vM2cwR2RmcFJtbFF0ZWlDbXF4QTJGN1gzaWFwc21OYVpocHg5TFFDdU1kUll2T0E4eXZHcE1iMlpuNmZfZFFBWjZXQ0lZcE5UYkhSUlVIUQ?oc=5",
+  "warning": false
  }
 ]
