@@ -171,7 +171,7 @@
  },
  {
   "level": 3,
-  "n": 53,
+  "n": 54,
   "source": "Google News — Latvia security",
   "stems": [
    "aband",
@@ -476,5 +476,17 @@
   ],
   "title": "‘Every inch’: Rutte delivers chilling warning to Putin as Russian incursions raise fears of NATO war - London Business News",
   "ts": "2026-11-22T15:01:38+00:00"
+ },
+ {
+  "level": 2,
+  "n": 1,
+  "source": "Google News — Latvia security",
+  "stems": [
+   "drone",
+   "start",
+   "towin"
+  ],
+  "title": "Russia starts towing ship hit by drones in Baltic, Finland says - Reuters",
+  "ts": "2026-11-22T16:31:21+00:00"
  }
 ]
