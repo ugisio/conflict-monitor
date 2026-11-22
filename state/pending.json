@@ -502,5 +502,26 @@
   "uid": "d312696ab0f87071",
   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQX043cFBkUVo0YVUzRURPS2ZEc2dtbHJKblBXdktWUUdVTGVtQzhodFV1THRTRW15V2NyMFBLaFdqaFd2UnFKV05hSmpzanZzWVNTRVlkQk11NGVsbmNGNEhNcktheGowTVd4QUh5SjhIYzBvWlNxSEF4Q2lfUzcxd2tzWTBManEzR2RMbUJrR0VKMkFkM2J6Ti0wa2YtUFpLU1k0a2k4MkFEaG5UNDgxVjBZTU8xQ1ZqMm9B0gG3AUFVX3lxTE1IZU4wMGdtQmdHY1pkNVMtNjU4WEs1dHR2SFEzZm9NVEcxTkE1YlU2aDVGZU83TU1LQTdkSzZYSkxlYUR3c1FGTXBZcExXWkZQTVZLSEhIOWxiQ1lVcUdXX1NjWFhjOHd1MXIzVi1aeGV0OTRhbURSVmlnUTA5blNPbXZyeXRwZE4tWGFsczVvRUhKWm5HTnh4cVpJSU5HLW5lQzRWaENlVi1iREp2Tm82X2ZhZXF0OA?oc=5",
   "warning": false
+ },
+ {
+  "first_seen": "2026-11-22T00:01:33+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-11-21T22:59:43+00:00",
+  "reason": "region: estonia, nato · matched “Drone” · another report of a story already in the channel",
+  "repeat_of": "Russian cargo ship bursts into flames after suspected Ukrainian drone strike in Baltic Sea - New York Post",
+  "repeats": 0,
+  "source_id": "gnews_nato",
+  "source_name": "Google News — NATO & the Baltics",
+  "summary": "",
+  "text": "Estonia Issues Drone Alert as NATO Jets Scrambled; Finland Restricts Airspace and Shipping in Gulf of Finland Avi-Go",
+  "tier": "news",
+  "title": "Estonia Issues Drone Alert as NATO Jets Scrambled; Finland Restricts Airspace and Shipping in Gulf of Finland - Avi-Go",
+  "uid": "4ff7eb6e3e5e7447",
+  "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1LcF9uODNwa2hNanhHbFNKclZsajNVa25tMFNaNHFRYU1hMmpoZ0k0ektJZFNkVFBiUWtNNTJrNi0xR3FvZy13VTMxV2FpYlBlX3BGTXpHc1h2UjhzSGo2RXZxZjBDNGFXWnFuUEtiTmI2V28?oc=5",
+  "warning": false
  }
 ]
