@@ -502,5 +502,26 @@
   "uid": "53a502f45d5b64f5",
   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPLTNKRmxZS1QycXZ4LUl2TDA2R2huR1E4QjN1cW90LWYxekFIZUxfLVNoNUIwWEExZ3J6SndsNEFWclBoZkJMUF9kdWxsYndjTEp5UzJJb0Y2RzRldDZIajFJODRjLV9fNDFCZi1MSjUwYjQ3UmNtQ2JVTHB5M3I0eDBER0RIV0hlVE9IY0dOVV9hdlNXcWZ5Q3l2Y1JnQUh0eWg0V214X1IyODJyUDNGSw?oc=5",
   "warning": false
+ },
+ {
+  "first_seen": "2026-11-22T13:31:10+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-11-22T13:05:31+00:00",
+  "reason": "region: kaliningrad, nato · matched “Drone” · another report of a story already in the channel",
+  "repeat_of": "Russian cargo ship bursts into flames after suspected Ukrainian drone strike in Baltic Sea - New York Post",
+  "repeats": 0,
+  "source_id": "gnews_latvia_security",
+  "source_name": "Google News — Latvia security",
+  "summary": "",
+  "text": "NATO Reconnaissance Aircraft Monitors Kaliningrad Region During Drone Attack Militarnyi",
+  "tier": "news",
+  "title": "NATO Reconnaissance Aircraft Monitors Kaliningrad Region During Drone Attack - Militarnyi",
+  "uid": "0216ae0330763a91",
+  "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZEN4NldSMklVcTdWUkdYVGVQbUM4aEczdEJkNlNUX3JEMUdUbE9TNEt0a2hEM3RKalE2ZGlDaVFJaGFqVWNIYjhpVEtWdU9ILUZuX2JkSFpjYmJQTGhLY1hPWHZIT1NwVkdOVkVqNG1KenI4a0RqWlVGUFRLdFpILS1YN1dXSWtINDRCQzE1V2d1QmRqOHkweXNsWlhHYVEwVlA4S2RHQ3NHeVBh?oc=5",
+  "warning": false
  }
 ]
