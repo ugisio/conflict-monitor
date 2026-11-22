@@ -481,5 +481,26 @@
   "uid": "0875a9088d1d8d2c",
   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPT0pZbllldDYwLWNvSGlUT1Z2RE5PWU9rZ0RwVGRHZnVWY3lPRnZKdDY3YWtvd2lqN19FVXRNb2JZbUVpSmwwQXZsNTlEUWJId3JlcjdDQURDZERVdFcxa2l0RWhnWldOTWtvQmhIX2t6SHRHcS1udzlhc3RXQnJ2Mkx1V3ZwXzZ3amgtT1Q3U2pMNzlwLUNfWXVNVXpoTzNSVmpLZTRTOA?oc=5",
   "warning": false
+ },
+ {
+  "first_seen": "2026-11-22T13:01:19+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-11-22T12:10:23+00:00",
+  "reason": "region: estonia, russia · matched “threatens” · another report of a story already in the channel",
+  "repeat_of": "Putin's recklessness could spark World War Three, warns defence intelligence chief after Russian missiles hit near British soldiers - Daily Mail",
+  "repeats": 0,
+  "source_id": "gnews_nato",
+  "source_name": "Google News — NATO & the Baltics",
+  "summary": "",
+  "text": "Russia threatens retaliation as Estonia seals entire border with Putin’s regime London Business News",
+  "tier": "news",
+  "title": "Russia threatens retaliation as Estonia seals entire border with Putin’s regime - London Business News",
+  "uid": "53a502f45d5b64f5",
+  "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPLTNKRmxZS1QycXZ4LUl2TDA2R2huR1E4QjN1cW90LWYxekFIZUxfLVNoNUIwWEExZ3J6SndsNEFWclBoZkJMUF9kdWxsYndjTEp5UzJJb0Y2RzRldDZIajFJODRjLV9fNDFCZi1MSjUwYjQ3UmNtQ2JVTHB5M3I0eDBER0RIV0hlVE9IY0dOVV9hdlNXcWZ5Q3l2Y1JnQUh0eWg0V214X1IyODJyUDNGSw?oc=5",
+  "warning": false
  }
 ]
