@@ -174,7 +174,7 @@
  },
  {
   "level": 3,
-  "n": 10,
+  "n": 11,
   "source": "ASTRA",
   "stems": [
    "атаки",
@@ -198,6 +198,7 @@
    "загор",
    "закры",
    "залив",
+   "кадры",
    "калин",
    "князе",
    "конст",
@@ -215,15 +216,14 @@
    "неско",
    "обвин",
    "облас",
-   "обсуж",
-   "объяв"
+   "обсуж"
   ],
   "title": "В нейтральных водах Финского залива два украинских беспилотника атаковали грузовое судно, следовавшие в Калининград , сообщил губернатор Лен…",
   "ts": "2026-11-21T11:01:56+00:00"
  },
  {
   "level": 3,
-  "n": 34,
+  "n": 36,
   "source": "Google News — Latvia security",
   "stems": [
    "aband",
@@ -238,6 +238,7 @@
    "betwe",
    "blast",
    "bound",
+   "brief",
    "burns",
    "burst",
    "calle",
@@ -249,7 +250,9 @@
    "claim",
    "close",
    "compa",
+   "confl",
    "curta",
+   "damag",
    "decem",
    "decla",
    "decri",
@@ -262,10 +265,7 @@
    "explo",
    "first",
    "flame",
-   "fleet",
-   "force",
-   "glenn",
-   "headl"
+   "fleet"
   ],
   "title": "Russian cargo ship bursts into flames after suspected Ukrainian drone strike in Baltic Sea - New York Post",
   "ts": "2026-11-21T18:01:30+00:00"
