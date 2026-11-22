@@ -397,5 +397,26 @@
   "uid": "b4873a5a73512bcf",
   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcmVRQno2LU43S3RjQzBsV1lvbElCRFNaQWUxQ0FmdUxFa3pDNWZ0ZTVRTW1UdTV5TzNhNkZNbkxoZU91TnVIZjdCeW1uTVNhVkc0Wng4YTFrcm4tU0Q0T2dnZzkwd0VTRnU5dnp0VXNyTjl6RWt0RzNJWVBSY3pRdWZzak1PT09jWmZOcGtLMUp3QUp6NldWYWhDTFpiNnJPX0h3Q253?oc=5",
   "warning": false
+ },
+ {
+  "first_seen": "2026-11-22T12:01:18+00:00",
+  "kind": "post",
+  "lang": "en",
+  "level": 1,
+  "note": "EN, conflict news aggregator",
+  "posted": false,
+  "published": "2026-11-22T11:54:39+00:00",
+  "reason": "region: lithuania, russia · matched “exercise”",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "tg_clashreport",
+  "source_name": "Clash Report",
+  "summary": "",
+  "text": "NEW: Germany changed its plan for sending troops to Lithuania, moving tanks to the “Grand Eagle 26” exercise by rail instead of driving through Poland, to avoid provoking Russia, Bild reports. READ MORE",
+  "tier": "osint",
+  "title": "NEW: Germany changed its plan for sending troops to Lithuania, moving tanks to the “Grand Eagle 26” exercise by rail instead of driving thro…",
+  "uid": "04c9b71047fcee89",
+  "url": "https://t.me/ClashReport/107233",
+  "warning": false
  }
 ]
