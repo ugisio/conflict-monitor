@@ -1,1 +1,44 @@
-[]
+[
+ {
+  "first_seen": "2026-11-22T06:31:05+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-11-22T05:22:50+00:00",
+  "reason": "region: kaliningrad · matched “drone” · another report of a story already in the channel",
+  "repeat_of": "Russian cargo ship bursts into flames after suspected Ukrainian drone strike in Baltic Sea - New York Post",
+  "repeats": 0,
+  "source_id": "gnews_latvia_security",
+  "source_name": "Google News — Latvia security",
+  "summary": "",
+  "text": "Was Kaliningrad attacked by drones? Explosions were reported at Baltiysk, but no strike is confirmed Nacionale",
+  "tier": "news",
+  "title": "Was Kaliningrad attacked by drones? Explosions were reported at Baltiysk, but no strike is confirmed - Nacionale",
+  "uid": "813a99de7b1c6296",
+  "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSm1TOW5ZQkYyeGh1YU13b0xrd2s3UXZCYWZGcXRHSjFPeW80MmlCOVoySlpnNDdsREVxOENNTk5MdEJ2U2hMYXVTcjVHcnBCTTBmRTlnRUlrNVZFR0JHQmF6YmN6RDZ2TzV4MlhuNVlobjdsWW1QblhFNjF0aUhENkdpekVhV1NMMGZQbENRODNVbXRfVll5QnJjVDFDaWxJc0ZsejFVMHNHRnV6UnZXdFBSSzd2NWt3clp1bA?oc=5",
+  "warning": false
+ },
+ {
+  "first_seen": "2026-11-22T06:31:07+00:00",
+  "kind": "post",
+  "lang": "ru",
+  "level": 1,
+  "note": "RU, Belarus opposition media — best coverage of Belarus border/military",
+  "posted": false,
+  "published": "2026-11-22T06:16:01+00:00",
+  "reason": "region: литв, калининград, росси · matched “атаки россиян. Под завалами остаются люди. 2️⃣ В Литв (in text)” · another report of a story already in the channel",
+  "repeat_of": "В нейтральных водах Финского залива два украинских беспилотника атаковали грузовое судно, следовавшие в Калининград , сообщил губернатор Лен…",
+  "repeats": 0,
+  "source_id": "tg_nexta",
+  "source_name": "NEXTA Live",
+  "summary": "",
+  "text": "❤️ Здравствуйте! Главное к этому часу 1️⃣ На видео — жилой дом в Дымере под Киевом. А вернее, то, что осталось от дома после атаки россиян. Под завалами остаются люди. 2️⃣ В Литве утверждают, что не причастны к происшествию на границе Калининградской области и не пропускали через свою территорию беспилотники. 3️⃣ Иран ударил по Бахрейну, где находится военная база США. 4️⃣ В Турции полагают, что Израиль может начать военную операцию против Сирии. 5️⃣️ ️️️️️ Трамп сравнил свою встречу с Си и Путиным с Ялтинской конференцией.",
+  "tier": "osint",
+  "title": "❤️ Здравствуйте! Главное к этому часу 1️⃣ На видео — жилой дом в Дымере под Киевом. А вернее, то, что осталось от дома после атаки россиян. …",
+  "uid": "302b17c348f739a5",
+  "url": "https://t.me/nexta_live/127019",
+  "warning": false
+ }
+]
