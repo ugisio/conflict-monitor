@@ -712,5 +712,26 @@
   "uid": "0a990aa686f6c645",
   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTXUxa0FLT1o3Tzh4MUR0MV9ZenU1LU9PZl9QSzhsQXlOQThFNUxWbWFXRXZTOHFpb1lJdG1GTV9hOUZsc2x4YzBOSzV3ZHZkV2pyNjNIaTVWZEViQ2lLb3JkcjJsbGhVNXFmWXQ5c0pDTkVXeG9IbmlKV3AxYUtfNE5DVnhWX3lvNmg0SF9SZ1lHQzEtSnY1REsycUlvWFVEOFlBSXR3?oc=5",
   "warning": false
+ },
+ {
+  "first_seen": "2026-11-22T17:31:20+00:00",
+  "kind": "post",
+  "lang": "ru",
+  "level": 1,
+  "note": "RU, independent; incidents inside Russia (Pskov, Leningrad region, Kaliningrad)",
+  "posted": false,
+  "published": "2026-11-22T17:10:17+00:00",
+  "reason": "region: балти, росси · matched “атакованная накануне в Балти (in text)” · another report of a story already in the channel",
+  "repeat_of": "Чтобы не провоцировать Россию, Германия изменила план переброски войск на учения в Литву, — Bild Немецкий таблоид, который цитируют ведущие …",
+  "repeats": 0,
+  "source_id": "tg_astra",
+  "source_name": "ASTRA",
+  "summary": "",
+  "text": "Спутниковые снимки, как утверждается, атакованного в ливийском Бенгази российского корвета «Меркурий» публикует «Радио Свобода» Как пишет Naval News, «Меркурий», как и Sparta II, атакованная накануне в Балтийском море, использовался российскими властями для…",
+  "tier": "osint",
+  "title": "Спутниковые снимки, как утверждается, атакованного в ливийском Бенгази российского корвета «Меркурий» публикует «Радио Свобода» Как пишет Na…",
+  "uid": "d7241271236893cb",
+  "url": "https://t.me/astrapress/131936",
+  "warning": false
  }
 ]
