@@ -1,18 +1,5 @@
 [
  {
-  "level": 2,
-  "n": 1,
-  "source": "Google News — Latvia security",
-  "stems": [
-   "futil",
-   "troop",
-   "visit",
-   "warne"
-  ],
-  "title": "Russia warned attack on Estonia would be futile as CDS visits troops in Baltic state - Forces News",
-  "ts": "2026-11-19T11:31:20+00:00"
- },
- {
   "level": 1,
   "n": 1,
   "source": "LRT (Lithuania, EN)",
@@ -197,7 +184,7 @@
  },
  {
   "level": 3,
-  "n": 43,
+  "n": 46,
   "source": "Google News — Latvia security",
   "stems": [
    "aband",
