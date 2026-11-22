@@ -1,18 +1,5 @@
 [
  {
-  "level": 1,
-  "n": 1,
-  "source": "LRT (Lithuania, EN)",
-  "stems": [
-   "forei",
-   "plans",
-   "quota",
-   "worke"
-  ],
-  "title": "Lithuania plans to cut foreign worker quota to 24,400 in 2027",
-  "ts": "2026-11-19T15:31:16+00:00"
- },
- {
   "level": 2,
   "n": 3,
   "source": "ERR News (Estonia, EN)",
@@ -462,10 +449,12 @@
  },
  {
   "level": 2,
-  "n": 1,
+  "n": 2,
   "source": "Google News — Latvia security",
   "stems": [
    "comme",
+   "react",
+   "strik",
    "vesse"
   ],
   "title": "Estonia comments on Ukrainian attack on Russian vessel in Baltic Sea - Українська правда",

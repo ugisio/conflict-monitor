@@ -628,5 +628,26 @@
   "uid": "d41d41380bf89e4a",
   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE95el83Y1V4ZDBrS3E2YkhZelVvOUw3SWNLNEpDYWg3VURGZUdKZnB4VlA3NFJCX2ZQOXZ6VWxWN1laZzV6Qk42aGp5eDlJZjZxWGc0?oc=5",
   "warning": true
+ },
+ {
+  "first_seen": "2026-11-22T15:31:16+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-11-22T15:10:00+00:00",
+  "reason": "region: baltic, estonia, russia · matched “strike on Russian vessel in Baltic” · single source, held at WATCH until another source corroborates · another report of a story already in the channel",
+  "repeat_of": "Estonia comments on Ukrainian attack on Russian vessel in Baltic Sea - Українська правда",
+  "repeats": 0,
+  "source_id": "gnews_latvia_security",
+  "source_name": "Google News — Latvia security",
+  "summary": "",
+  "text": "Estonia reacts to Ukraine's strike on Russian vessel in Baltic Sea RBC-Ukraine",
+  "tier": "news",
+  "title": "Estonia reacts to Ukraine's strike on Russian vessel in Baltic Sea - RBC-Ukraine",
+  "uid": "06ac7b91a6bbc8b4",
+  "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQYXU4TkF4STQ4NnozVHZKR2NqNFJYU2NGcGg0NDdxZ19QWF9reHdFRWhnWC00S2czanNVU2tlWGRNeUdtZk1YVVlhNVhIVnI1bXd1VnNJa3pRWVlpMnRHYmg3aHF3YnNWajJiRUZfc21ESzVJWEJvdzNjWFQzcDhZdnljTTlmendKWXF4Z09tdk1fajVHbFFFLQ?oc=5",
+  "warning": false
  }
 ]
