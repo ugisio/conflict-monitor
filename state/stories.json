@@ -420,9 +420,13 @@
  },
  {
   "level": 2,
-  "n": 1,
+  "n": 2,
   "source": "Google News — Latvia security",
   "stems": [
+   "alert",
+   "apart",
+   "build",
+   "killi",
    "siren",
    "sound"
   ],
@@ -431,26 +435,34 @@
  },
  {
   "level": 2,
-  "n": 2,
+  "n": 4,
   "source": "Clash Report",
   "stems": [
+   "bengh",
+   "cargo",
    "chang",
+   "coast",
    "drivi",
    "drone",
    "eagle",
    "exerc",
+   "explo",
    "germa",
    "grand",
    "inste",
    "kamik",
+   "libya",
    "movin",
    "power",
    "risin",
    "sendi",
+   "slamm",
    "tanks",
    "tensi",
    "tests",
-   "troop"
+   "today",
+   "troop",
+   "watch"
   ],
   "title": "Germany Tests AI-Powered Kamikaze Drones Near Belarus Border Amid Rising NATO Tensions - The 420.in",
   "ts": "2026-11-22T18:01:31+00:00"
@@ -506,5 +518,18 @@
   ],
   "title": "Russia starts towing ship hit by drones in Baltic, Finland says - Reuters",
   "ts": "2026-11-22T16:31:21+00:00"
+ },
+ {
+  "level": 2,
+  "n": 1,
+  "source": "Google News — Latvia security",
+  "stems": [
+   "alleg",
+   "disin",
+   "flags",
+   "oblas"
+  ],
+  "title": "Poland flags Russian disinformation over alleged Ukrainian attack in Kaliningrad Oblast - Українська правда",
+  "ts": "2026-11-22T18:31:25+00:00"
  }
 ]
