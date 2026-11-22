@@ -607,5 +607,26 @@
   "uid": "bfddbb94090290a3",
   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBpOTMxRzNIa3k0TGZQSDQ1TkNkSncxT3hpbjR1SkQtbFFQa1VtTEFHS0lJRHRZcllEWXJyamthZmxpcjI4UnFkcWtyVktBWjY0Unl2YmNad2tNN0xLRzdEQ1NxSFnSAXBBVV95cUxNVkY3eW4xQmZWTFU2VS1SUE4yMldYWUhNM3pKSnc4TkFHbXota3lMS1F5Q2NDREl2clNYQnJ0VkpSQlFRR0ZxMXliaHZMNmROYlk3ZnAwc1lWVVN6ZXlYby1id3pfSmo0OVlBVHRRd2p2?oc=5",
   "warning": false
+ },
+ {
+  "first_seen": "2026-11-22T15:01:29+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": true,
+  "published": "2026-11-22T13:37:13+00:00",
+  "reason": "official warning about Russia / NATO · matched “official warning”",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "gnews_nato",
+  "source_name": "Google News — NATO & the Baltics",
+  "summary": "",
+  "text": "‘Every inch’: Rutte delivers chilling warning to Putin as Russian incursions raise fears of NATO war London Business News",
+  "tier": "news",
+  "title": "‘Every inch’: Rutte delivers chilling warning to Putin as Russian incursions raise fears of NATO war - London Business News",
+  "uid": "d41d41380bf89e4a",
+  "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE95el83Y1V4ZDBrS3E2YkhZelVvOUw3SWNLNEpDYWg3VURGZUdKZnB4VlA3NFJCX2ZQOXZ6VWxWN1laZzV6Qk42aGp5eDlJZjZxWGc0?oc=5",
+  "warning": true
  }
 ]
