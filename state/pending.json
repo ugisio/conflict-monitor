@@ -649,5 +649,26 @@
   "uid": "fd0fc47b57aa8653",
   "url": "https://t.me/rybar/84858",
   "warning": false
+ },
+ {
+  "first_seen": "2026-11-22T05:31:16+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-11-22T05:24:42+00:00",
+  "reason": "region: lithuania, kaliningrad, russia · matched “attack on the Kaliningrad” · single source, held at WATCH until another source corroborates",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "gnews_latvia_security",
+  "source_name": "Google News — Latvia security",
+  "summary": "",
+  "text": "Lithuania denied involvement in the attack on the Kaliningrad Region following Russia’s accusations Українські Національні Новини (УНН)",
+  "tier": "news",
+  "title": "Lithuania denied involvement in the attack on the Kaliningrad Region following Russia’s accusations - Українські Національні Новини (УНН)",
+  "uid": "b3f0c54efba81958",
+  "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMGFRclIyYmNLRVpjSUJRQUw4NUJPNm5oWVFROE92Q2ZOUkRFMVdnUnhHTWN3ZmxRcmRjNlgzY3RSMlFDS19yYVNXNzlCVUxvM1ZfWnVLR05nekVWM0RITE9wUWxsclItdWxZWXBvUEJrU2JPNkF1NG12R1Q3dkNrTFJaa3R5MnZRS0FTWWZIeWVJTWNtY1d0bjhDdW1SeHl0TTJJMTZQVUI5czlaX0J3M2JlYmgwbjIzQVNOMHFn0gG8AUFVX3lxTE80NG14RUdNeFBEbVUxdnY2LUZYeURLSThMb2QxY2JWWWRzX19qVTRaVERIM05mQnFYb3pnSzBWa2YzR0FmQUxTT3lLTnpza3hJU1pReUtrekZCeUZUcHRsSDZMcXJLSGYyZGNaV1BKVFM0ejJaQld4ZF93eGtBbzNXRzdhb1FpRHFFcGVDOXBPOFlnVVN3MFc0MzZpTlJqZnBNa1lpbDhsN1R5Tk0wMXp5ZXdNcWx2UGlQQzV5?oc=5",
+  "warning": false
  }
 ]
