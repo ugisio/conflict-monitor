@@ -184,11 +184,12 @@
  },
  {
   "level": 3,
-  "n": 49,
+  "n": 52,
   "source": "Google News — Latvia security",
   "stems": [
    "aband",
    "ablaz",
+   "accus",
    "activ",
    "aircr",
    "airpo",
@@ -225,8 +226,7 @@
    "detec",
    "diese",
    "discl",
-   "drone",
-   "durin"
+   "drone"
   ],
   "title": "Russian cargo ship bursts into flames after suspected Ukrainian drone strike in Baltic Sea - New York Post",
   "ts": "2026-11-21T18:01:30+00:00"
@@ -459,5 +459,16 @@
   ],
   "title": "Will Russia retaliate against Lithuania over Kaliningrad? What Moscow has threatened and what NATO says - Nacionale",
   "ts": "2026-11-22T12:31:23+00:00"
+ },
+ {
+  "level": 2,
+  "n": 1,
+  "source": "Google News — Latvia security",
+  "stems": [
+   "comme",
+   "vesse"
+  ],
+  "title": "Estonia comments on Ukrainian attack on Russian vessel in Baltic Sea - Українська правда",
+  "ts": "2026-11-22T14:31:21+00:00"
  }
 ]
