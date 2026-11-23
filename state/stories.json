@@ -1,21 +1,5 @@
 [
  {
-  "level": 1,
-  "n": 1,
-  "source": "Google News — NATO & the Baltics",
-  "stems": [
-   "cross",
-   "drill",
-   "germa",
-   "large",
-   "pract",
-   "river",
-   "troop"
-  ],
-  "title": "NATO troops practice river crossing in Germany’s largest-ever Lithuania drills - TVP World",
-  "ts": "2026-11-20T18:31:22+00:00"
- },
- {
   "level": 3,
   "n": 18,
   "source": "ASTRA",
@@ -650,12 +634,15 @@
  },
  {
   "level": 2,
-  "n": 1,
+  "n": 2,
   "source": "Google News — official warnings",
   "stems": [
+   "leave",
    "respo",
    "rutte",
-   "separ"
+   "separ",
+   "unifi",
+   "vulne"
   ],
   "title": "Rutte warns against a separate EU army: it could slow the response to a Russian attack - Mezha.net",
   "ts": "2026-11-23T17:01:32+00:00"

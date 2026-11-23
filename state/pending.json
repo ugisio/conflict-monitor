@@ -1,1 +1,23 @@
-[]
+[
+ {
+  "first_seen": "2026-11-23T19:01:25+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-11-23T18:50:00+00:00",
+  "reason": "official warning about Russia / NATO · matched “official warning” · another report of a story already in the channel",
+  "repeat_of": "Rutte warns against a separate EU army: it could slow the response to a Russian attack - Mezha.net",
+  "repeats": 0,
+  "source_id": "gnews_official_warnings",
+  "source_name": "Google News — official warnings",
+  "summary": "",
+  "text": "Rutte warns unified European army could leave NATO vulnerable to Russian attack RBC-Ukraine",
+  "tier": "news",
+  "title": "Rutte warns unified European army could leave NATO vulnerable to Russian attack - RBC-Ukraine",
+  "uid": "a6238a03cd50c39c",
+  "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaVduODVfWFkyV01tbjJKemNqeTNzUXEwcENMSVJwRGVxdGxZVmoxeTRRVVY1dzktSnlIenFlWHE4Yy1UeFV6OXQ3eW4wbU1zajFYRXo1czU2Vjg0cVg1ZW0weURFY3c5cEdnZ2djX1J5Wnh3M2hLR3VMR2hXRTloVVRCTzMwZnFYcmRsRVR4U005aXVxbnFXbw?oc=5",
+  "warning": true
+ }
+]
