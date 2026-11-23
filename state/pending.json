@@ -397,5 +397,26 @@
   "uid": "f04464a47129e9af",
   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNek9xdEVHWDA1d0hiSGh5UUFmZGIxUzVfMlRvQUhpR3dPY2NuRmNzNUlOSXo0dWZTdXdlX1RGNHFGc2pTZTRPcTROcE1iRE9DOHV1dzd5S2FnRUJWQkV2VFptTWw4N045OHppbWRIbTJhZFZPTzcyLWhORHM1MlUtcEE4UFB2MGkxV1VDN2RlcThxakpsOUJpSEtXa3hNRnl6Z3NSMkFvMW5LSGF0ZTZxR2x1ZDV2UnV5aUxzLXpmOA?oc=5",
   "warning": false
+ },
+ {
+  "first_seen": "2026-11-23T14:01:28+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 1,
+  "note": "",
+  "posted": false,
+  "published": "2026-11-23T13:38:00+00:00",
+  "reason": "region: estonia · matched “exercise” · another report of a story already in the channel",
+  "repeat_of": "Germany Tests AI-Powered Kamikaze Drones Near Belarus Border Amid Rising NATO Tensions - The 420.in",
+  "repeats": 0,
+  "source_id": "err_en",
+  "source_name": "ERR News (Estonia, EN)",
+  "summary": "",
+  "text": "Exercise Pikne 2026 begins in Estonia on November 23, bringing together the Estonian Defense Forces, the Estonian Defense League and allied troops from France and the United Kingdom for three weeks of training.",
+  "tier": "news",
+  "title": "Estonia launches multinational exercise with UK and French forces",
+  "uid": "6149dd33934c662b",
+  "url": "https://news.err.ee/1610203576/estonia-launches-multinational-exercise-with-uk-and-french-forces",
+  "warning": false
  }
 ]

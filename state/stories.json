@@ -1,24 +1,6 @@
 [
  {
   "level": 1,
-  "n": 3,
-  "source": "ERR News (Estonia, EN)",
-  "stems": [
-   "cheer",
-   "chris",
-   "curre",
-   "galle",
-   "light",
-   "marke",
-   "opens",
-   "squar",
-   "talli"
-  ],
-  "title": "Gallery: Tallinn Christmas Market's one last year of cheer in current form",
-  "ts": "2026-11-20T13:31:30+00:00"
- },
- {
-  "level": 1,
   "n": 1,
   "source": "Google News — NATO & the Baltics",
   "stems": [
@@ -348,7 +330,7 @@
  },
  {
   "level": 2,
-  "n": 17,
+  "n": 18,
   "source": "Clash Report",
   "stems": [
    "accus",
@@ -378,6 +360,8 @@
    "exerc",
    "explo",
    "expos",
+   "force",
+   "frenc",
    "germa",
    "grand",
    "incur",
@@ -386,11 +370,9 @@
    "invol",
    "kamik",
    "lanes",
+   "launc",
    "libya",
-   "medit",
-   "missi",
-   "movin",
-   "power"
+   "medit"
   ],
   "title": "Germany Tests AI-Powered Kamikaze Drones Near Belarus Border Amid Rising NATO Tensions - The 420.in",
   "ts": "2026-11-22T18:01:31+00:00"
