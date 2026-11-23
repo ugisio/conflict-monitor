@@ -145,5 +145,26 @@
   "uid": "040169acadbbf5ef",
   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSUlDRW9uVDJsVnFXV3VWOFNzbWxPZVFRN0xWajJ4eWtmRVBpcDhnb2NQbmpFNDhOMlZuYlV5QTQ2VnJVWndGcmlsbjR0QzIzVTZYbmdFS1VRVVZiSU1SSTNpRGp2RTdDMEVlQnJEX0RPOUR5Z003X19hbS1yUGxUdWVYYTBVQ3VpblYxU3g1ZkJFZW1SUEd1U050Zm1QdEdjUTg3SDVGQzhwSGlmV185Tkd3V19KbVB5ZnBPUg?oc=5",
   "warning": false
+ },
+ {
+  "first_seen": "2026-11-23T10:01:29+00:00",
+  "kind": "post",
+  "lang": "ru",
+  "level": 2,
+  "note": "RU, Belarus opposition media — best coverage of Belarus border/military",
+  "posted": true,
+  "published": "2026-11-23T09:56:06+00:00",
+  "reason": "official warning about Russia / NATO · matched “военные корабл (in text)”",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "tg_nexta",
+  "source_name": "NEXTA Live",
+  "summary": "",
+  "text": "⚡️ Зеленский задал партнёрам очень прямой вопрос: зачем придумывать сложные гарантии безопасности, если можно просто принять Украину в НАТО? Вступление страны в Альянс было бы гораздо дешевле и надёжнее для всех. Президент Украины требует и конкретики: какие страны защитят Украину в случае нового нападения России? Что именно предпримут союзники? Чьи войска будут заранее размещены на украинской территории? При этом он напомнил, что Украина не только обороняется, но и отвечает на российские атаки: «От Западной Сибири, где горят нефтеперерабатывающие заводы, до побережья Ливии, где тонут военные корабли».",
+  "tier": "osint",
+  "title": "⚡️ Зеленский задал партнёрам очень прямой вопрос: зачем придумывать сложные гарантии безопасности, если можно просто принять Украину в НАТО?…",
+  "uid": "85cd350be239f195",
+  "url": "https://t.me/nexta_live/127099",
+  "warning": true
  }
 ]
