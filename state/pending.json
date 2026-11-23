@@ -145,5 +145,26 @@
   "uid": "6a48fa62b34771bc",
   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE12VFVRZWlldHVoekFzcmhPdk5oRm80a1ppTjM2Y05ERDVDbDduTE92UWttS2RaRXlvUTROOFJQSWxZSDFZSUJ0YWszbEFNUDZyTjJjbWtn?oc=5",
   "warning": false
+ },
+ {
+  "first_seen": "2026-11-23T04:31:10+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": true,
+  "published": "2026-11-21T16:34:00+00:00",
+  "reason": "official warning about Russia / NATO · matched “Escalat”",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "gnews_flank_warnings",
+  "source_name": "Google News — eastern flank (PL/FI/NATO)",
+  "summary": "",
+  "text": "Macron Warns of Escalating Russian Aggression Across Europe Newsweek",
+  "tier": "news",
+  "title": "Macron Warns of Escalating Russian Aggression Across Europe - Newsweek",
+  "uid": "719dbd46cf90b669",
+  "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQLVpGdk1adG5ldTVMY3V0ZWNMZm9SVDdORXRSbDV2NnVIajZCSDRhNmt5Z0lobHZJNXV1b3dvYnZBOE1VTWlpQnV4d0gtMlJJZkNpMXpYdV9DMl84eWdwRU90dE8xbHJ0VlRZeEFmWkd1eDVNem9hZmdtTlRpcEpYWm91QVVSSDdFeE9Wckw0SnVXTHFKWGxKNw?oc=5",
+  "warning": true
  }
 ]
