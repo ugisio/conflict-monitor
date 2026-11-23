@@ -330,7 +330,7 @@
  },
  {
   "level": 2,
-  "n": 23,
+  "n": 24,
   "source": "Clash Report",
   "stems": [
    "accus",
@@ -357,11 +357,13 @@
    "drivi",
    "drone",
    "eagle",
+   "easte",
    "escal",
    "evide",
    "exerc",
    "explo",
    "expos",
+   "flank",
    "force",
    "frenc",
    "furth",
@@ -370,9 +372,7 @@
    "incur",
    "inste",
    "inves",
-   "invol",
-   "joint",
-   "kamik"
+   "invol"
   ],
   "title": "Germany Tests AI-Powered Kamikaze Drones Near Belarus Border Amid Rising NATO Tensions - The 420.in",
   "ts": "2026-11-22T18:01:31+00:00"
@@ -449,13 +449,16 @@
  },
  {
   "level": 2,
-  "n": 1,
+  "n": 2,
   "source": "Google News — eastern flank (PL/FI/NATO)",
   "stems": [
    "acros",
    "aggre",
+   "diplo",
    "escal",
-   "macro"
+   "macro",
+   "ongoi",
+   "summo"
   ],
   "title": "Macron Warns of Escalating Russian Aggression Across Europe - Newsweek",
   "ts": "2026-11-23T04:31:17+00:00"
