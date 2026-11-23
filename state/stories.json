@@ -435,13 +435,14 @@
  },
  {
   "level": 2,
-  "n": 7,
+  "n": 10,
   "source": "Clash Report",
   "stems": [
    "airsp",
    "alleg",
    "bengh",
    "breac",
+   "bring",
    "cargo",
    "chang",
    "coast",
@@ -456,24 +457,27 @@
    "grand",
    "inste",
    "inves",
+   "invol",
    "kamik",
+   "lanes",
    "libya",
    "missi",
    "movin",
    "power",
+   "prepa",
    "risin",
    "rutte",
+   "sanct",
    "sendi",
+   "shipp",
    "slamm",
+   "strik",
    "suspe",
    "tanks",
    "tensi",
    "tests",
    "today",
-   "towin",
-   "troop",
-   "warsh",
-   "watch"
+   "towin"
   ],
   "title": "Germany Tests AI-Powered Kamikaze Drones Near Belarus Border Amid Rising NATO Tensions - The 420.in",
   "ts": "2026-11-22T18:01:31+00:00"
@@ -583,5 +587,24 @@
   ],
   "title": "S. Korea conducts evacuation drills in Latvia amid political uncertainty - Yonhap News Agency",
   "ts": "2026-11-23T05:31:23+00:00"
+ },
+ {
+  "level": 2,
+  "n": 1,
+  "source": "Clash Report",
+  "stems": [
+   "agenc",
+   "armed",
+   "befor",
+   "belie",
+   "intel",
+   "launc",
+   "nucle",
+   "satel",
+   "space",
+   "weste"
+  ],
+  "title": "NEW: Western intelligence agencies believe Russia could launch a nuclear-armed satellite into space before the end of 2026. The satellite, r…",
+  "ts": "2026-11-23T07:31:28+00:00"
  }
 ]
