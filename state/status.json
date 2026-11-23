@@ -5,48 +5,48 @@
    "error": "",
    "fail_streak": 0,
    "items_last": 0,
-   "last_ok": "2026-11-23T15:31:07+00:00",
-   "last_run": "2026-11-23T15:31:07+00:00",
+   "last_ok": "2026-11-23T16:01:18+00:00",
+   "last_run": "2026-11-23T16:01:18+00:00",
    "ok": true
   },
   "err_en": {
-   "error": "HTTPError: 403 Client Error: Forbidden for url: https://news.err.ee/rss",
-   "fail_streak": 1,
+   "error": "",
+   "fail_streak": 0,
    "items_last": 44,
-   "last_ok": "2026-11-23T15:01:29+00:00",
-   "last_run": "2026-11-23T15:31:18+00:00",
-   "ok": false
+   "last_ok": "2026-11-23T16:01:28+00:00",
+   "last_run": "2026-11-23T16:01:28+00:00",
+   "ok": true
   },
   "fcdo_estonia": {
    "error": "",
    "fail_streak": 0,
    "items_last": 0,
-   "last_ok": "2026-11-23T15:31:04+00:00",
-   "last_run": "2026-11-23T15:31:04+00:00",
+   "last_ok": "2026-11-23T16:01:15+00:00",
+   "last_run": "2026-11-23T16:01:15+00:00",
    "ok": true
   },
   "fcdo_latvia": {
    "error": "",
    "fail_streak": 0,
    "items_last": 0,
-   "last_ok": "2026-11-23T15:31:04+00:00",
-   "last_run": "2026-11-23T15:31:04+00:00",
+   "last_ok": "2026-11-23T16:01:14+00:00",
+   "last_run": "2026-11-23T16:01:14+00:00",
    "ok": true
   },
   "fcdo_lithuania": {
    "error": "",
    "fail_streak": 0,
    "items_last": 0,
-   "last_ok": "2026-11-23T15:31:05+00:00",
-   "last_run": "2026-11-23T15:31:05+00:00",
+   "last_ok": "2026-11-23T16:01:15+00:00",
+   "last_run": "2026-11-23T16:01:15+00:00",
    "ok": true
   },
   "germany_latvia": {
    "error": "",
    "fail_streak": 0,
    "items_last": 0,
-   "last_ok": "2026-11-23T15:31:09+00:00",
-   "last_run": "2026-11-23T15:31:09+00:00",
+   "last_ok": "2026-11-23T16:01:19+00:00",
+   "last_run": "2026-11-23T16:01:19+00:00",
    "ok": true
   },
   "gnews_airspace": {
@@ -66,12 +66,12 @@
    "ok": true
   },
   "gnews_flank_warnings": {
-   "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=(Poland+OR+Finland+OR+NATO)+(Tusk+OR+Stubb+OR+Rutte+OR+%22defence+minister%22+OR+general)+Russia+(attack+OR",
-   "fail_streak": 1,
-   "items_last": 27,
-   "last_ok": "2026-11-23T14:31:15+00:00",
-   "last_run": "2026-11-23T15:31:22+00:00",
-   "ok": false
+   "error": "",
+   "fail_streak": 0,
+   "items_last": 26,
+   "last_ok": "2026-11-23T16:01:29+00:00",
+   "last_run": "2026-11-23T16:01:29+00:00",
+   "ok": true
   },
   "gnews_israel_nsc": {
    "error": "",
@@ -85,8 +85,8 @@
    "error": "",
    "fail_streak": 0,
    "items_last": 0,
-   "last_ok": "2026-11-23T15:01:28+00:00",
-   "last_run": "2026-11-23T15:01:28+00:00",
+   "last_ok": "2026-11-23T16:01:25+00:00",
+   "last_run": "2026-11-23T16:01:25+00:00",
    "ok": true
   },
   "gnews_latvia_security": {
@@ -117,144 +117,144 @@
    "error": "",
    "fail_streak": 0,
    "items_last": 2,
-   "last_ok": "2026-11-23T15:31:13+00:00",
-   "last_run": "2026-11-23T15:31:13+00:00",
+   "last_ok": "2026-11-23T16:01:23+00:00",
+   "last_run": "2026-11-23T16:01:23+00:00",
    "ok": true
   },
   "israel_emb_finland": {
    "error": "",
    "fail_streak": 0,
    "items_last": 4,
-   "last_ok": "2026-11-23T15:31:14+00:00",
-   "last_run": "2026-11-23T15:31:14+00:00",
+   "last_ok": "2026-11-23T16:01:23+00:00",
+   "last_run": "2026-11-23T16:01:23+00:00",
    "ok": true
   },
   "israel_emb_lithuania": {
    "error": "",
    "fail_streak": 0,
    "items_last": 2,
-   "last_ok": "2026-11-23T15:31:12+00:00",
-   "last_run": "2026-11-23T15:31:12+00:00",
+   "last_ok": "2026-11-23T16:01:22+00:00",
+   "last_run": "2026-11-23T16:01:22+00:00",
    "ok": true
   },
   "israel_emb_poland": {
    "error": "",
    "fail_streak": 0,
    "items_last": 3,
-   "last_ok": "2026-11-23T15:31:15+00:00",
-   "last_run": "2026-11-23T15:31:15+00:00",
+   "last_ok": "2026-11-23T16:01:24+00:00",
+   "last_run": "2026-11-23T16:01:24+00:00",
    "ok": true
   },
   "israel_emb_riga": {
    "error": "",
    "fail_streak": 0,
    "items_last": 4,
-   "last_ok": "2026-11-23T15:31:10+00:00",
-   "last_run": "2026-11-23T15:31:10+00:00",
+   "last_ok": "2026-11-23T16:01:21+00:00",
+   "last_run": "2026-11-23T16:01:21+00:00",
    "ok": true
   },
   "lrt_en": {
    "error": "",
    "fail_streak": 0,
-   "items_last": 11,
-   "last_ok": "2026-11-23T15:31:18+00:00",
-   "last_run": "2026-11-23T15:31:18+00:00",
+   "items_last": 9,
+   "last_ok": "2026-11-23T16:01:28+00:00",
+   "last_run": "2026-11-23T16:01:28+00:00",
    "ok": true
   },
   "lsm_en": {
    "error": "",
    "fail_streak": 0,
-   "items_last": 19,
-   "last_ok": "2026-11-23T15:31:18+00:00",
-   "last_run": "2026-11-23T15:31:18+00:00",
+   "items_last": 18,
+   "last_ok": "2026-11-23T16:01:27+00:00",
+   "last_run": "2026-11-23T16:01:27+00:00",
    "ok": true
   },
   "polymarket": {
    "error": "",
    "fail_streak": 0,
    "items_last": 0,
-   "last_ok": "2026-11-23T15:31:30+00:00",
-   "last_run": "2026-11-23T15:31:30+00:00",
+   "last_ok": "2026-11-23T16:01:36+00:00",
+   "last_run": "2026-11-23T16:01:36+00:00",
    "ok": true
   },
   "tg_astra": {
    "error": "",
    "fail_streak": 0,
-   "items_last": 15,
-   "last_ok": "2026-11-23T15:31:26+00:00",
-   "last_run": "2026-11-23T15:31:26+00:00",
+   "items_last": 16,
+   "last_ok": "2026-11-23T16:01:32+00:00",
+   "last_run": "2026-11-23T16:01:32+00:00",
    "ok": true
   },
   "tg_clashreport": {
    "error": "",
    "fail_streak": 0,
    "items_last": 20,
-   "last_ok": "2026-11-23T15:31:23+00:00",
-   "last_run": "2026-11-23T15:31:23+00:00",
+   "last_ok": "2026-11-23T16:01:30+00:00",
+   "last_run": "2026-11-23T16:01:30+00:00",
    "ok": true
   },
   "tg_disclosetv": {
    "error": "",
    "fail_streak": 0,
-   "items_last": 10,
-   "last_ok": "2026-11-23T15:31:23+00:00",
-   "last_run": "2026-11-23T15:31:23+00:00",
+   "items_last": 11,
+   "last_ok": "2026-11-23T16:01:30+00:00",
+   "last_run": "2026-11-23T16:01:30+00:00",
    "ok": true
   },
   "tg_meduza": {
    "error": "",
    "fail_streak": 0,
    "items_last": 20,
-   "last_ok": "2026-11-23T15:31:25+00:00",
-   "last_run": "2026-11-23T15:31:25+00:00",
+   "last_ok": "2026-11-23T16:01:31+00:00",
+   "last_run": "2026-11-23T16:01:31+00:00",
    "ok": true
   },
   "tg_nexta": {
    "error": "",
    "fail_streak": 0,
    "items_last": 20,
-   "last_ok": "2026-11-23T15:31:24+00:00",
-   "last_run": "2026-11-23T15:31:24+00:00",
+   "last_ok": "2026-11-23T16:01:31+00:00",
+   "last_run": "2026-11-23T16:01:31+00:00",
    "ok": true
   },
   "tg_novaya": {
    "error": "",
    "fail_streak": 0,
    "items_last": 16,
-   "last_ok": "2026-11-23T15:31:26+00:00",
-   "last_run": "2026-11-23T15:31:26+00:00",
+   "last_ok": "2026-11-23T16:01:33+00:00",
+   "last_run": "2026-11-23T16:01:33+00:00",
    "ok": true
   },
   "tg_rybar": {
    "error": "",
    "fail_streak": 0,
    "items_last": 12,
-   "last_ok": "2026-11-23T15:31:27+00:00",
-   "last_run": "2026-11-23T15:31:27+00:00",
+   "last_ok": "2026-11-23T16:01:33+00:00",
+   "last_run": "2026-11-23T16:01:33+00:00",
    "ok": true
   },
   "us_embassy_helsinki": {
-   "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=site:fi.usembassy.gov+when:3d&hl=en-US&gl=US&ceid=US:en",
-   "fail_streak": 1,
+   "error": "",
+   "fail_streak": 0,
    "items_last": 0,
-   "last_ok": "2026-11-23T15:01:28+00:00",
-   "last_run": "2026-11-23T15:31:16+00:00",
-   "ok": false
+   "last_ok": "2026-11-23T16:01:26+00:00",
+   "last_run": "2026-11-23T16:01:26+00:00",
+   "ok": true
   },
   "us_embassy_riga": {
    "error": "",
    "fail_streak": 0,
    "items_last": 0,
-   "last_ok": "2026-11-23T15:31:04+00:00",
-   "last_run": "2026-11-23T15:31:04+00:00",
+   "last_ok": "2026-11-23T16:01:13+00:00",
+   "last_run": "2026-11-23T16:01:13+00:00",
    "ok": true
   },
   "us_embassy_tallinn": {
    "error": "",
    "fail_streak": 0,
    "items_last": 0,
-   "last_ok": "2026-11-23T15:31:15+00:00",
-   "last_run": "2026-11-23T15:31:15+00:00",
+   "last_ok": "2026-11-23T16:01:25+00:00",
+   "last_run": "2026-11-23T16:01:25+00:00",
    "ok": true
   },
   "us_embassy_vilnius": {
@@ -269,24 +269,24 @@
    "error": "",
    "fail_streak": 0,
    "items_last": 1,
-   "last_ok": "2026-11-23T15:31:16+00:00",
-   "last_run": "2026-11-23T15:31:16+00:00",
+   "last_ok": "2026-11-23T16:01:26+00:00",
+   "last_run": "2026-11-23T16:01:26+00:00",
    "ok": true
   },
   "us_state_latvia": {
    "error": "page blocked (403); relying on the advisories RSS feed",
    "fail_streak": 0,
    "items_last": 0,
-   "last_ok": "2026-11-23T15:31:03+00:00",
-   "last_run": "2026-11-23T15:31:03+00:00",
+   "last_ok": "2026-11-23T16:01:12+00:00",
+   "last_run": "2026-11-23T16:01:12+00:00",
    "ok": true
   },
   "us_state_rss": {
    "error": "",
    "fail_streak": 0,
    "items_last": 0,
-   "last_ok": "2026-11-23T15:31:03+00:00",
-   "last_run": "2026-11-23T15:31:03+00:00",
+   "last_ok": "2026-11-23T16:01:13+00:00",
+   "last_run": "2026-11-23T16:01:13+00:00",
    "ok": true
   }
  },
@@ -1496,6 +1496,6 @@
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZGFfd2JjS3lEaENIOXZsQjZhR18ycTlCTG9xQ2JwOGhkWE1KX0RiQkhMYUdRM29IOUFTZ19NM1lqeHFXRlRudHhYb3dqNU9iQzBmUUcwbV9tV3k1QmRISkpweG9MTFN6VWV4RjlyZUNWekZITmFLbDR4MkRPQ1M4bER4VEtjUDNwNWVMUzUzbXNzcWRTRDdCZQ?oc=5"
   }
  ],
- "runs": 2897,
- "status_text": "📟 <b>CURRENT LEVEL: 🟠 L3 ELEVATED.</b> Russian cargo ship bursts into flames after suspected Ukrainian drone strike in Baltic Sea\n<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOVk4tX1I2UTUyWEdScVRCemg2WGJON003SVJBMm1JUjkzd1NFLXVmcmJGRHhZV19YU0p5RFpVYTdiQ0xWT0NGZWxsM01MSnVhTzdENlhFb0wyVWJjeWFRamI4ZGU1eUx2UXhtMVhtQ2l1eGJpLTR5QV8xa3A3bEtKYlBxWjlQa19pek5aWGM3SWlzWWxFanhtT2M0cE9QMlRKWGU4OTNiZV85TzNmUS0xTjlWanN2NXg0b2dQSg?oc=5\">New York Post via Google News — Latvia security</a> · Sat 21 Nov 20:01 · at L3 since Fri 20 Nov 19:31 (3 items at this level in 72 h)\n<b>Why L3:</b> region: baltic, russia · matched “strike in Baltic” · corroborated by Clash Report · story escalated from L2 (5 reports so far)\n<b>Suggested action at L3:</b> Review your plan; make sure documents and essentials are in order.\nLevel = highest of the last 72 h · updated Mon 23 Nov 17:31 · sources OK 30/36 · <a href=\"https://t.me/c/4455291623/25\">📖 Level guide</a>\nScale: ⚫5 Critical 🔴4 Urgent 🟠3 Elevated 🟡2 Watch 🟢1 Info ⚪0 Quiet"
+ "runs": 2898,
+ "status_text": "📟 <b>CURRENT LEVEL: 🟠 L3 ELEVATED.</b> Russian cargo ship bursts into flames after suspected Ukrainian drone strike in Baltic Sea\n<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOVk4tX1I2UTUyWEdScVRCemg2WGJON003SVJBMm1JUjkzd1NFLXVmcmJGRHhZV19YU0p5RFpVYTdiQ0xWT0NGZWxsM01MSnVhTzdENlhFb0wyVWJjeWFRamI4ZGU1eUx2UXhtMVhtQ2l1eGJpLTR5QV8xa3A3bEtKYlBxWjlQa19pek5aWGM3SWlzWWxFanhtT2M0cE9QMlRKWGU4OTNiZV85TzNmUS0xTjlWanN2NXg0b2dQSg?oc=5\">New York Post via Google News — Latvia security</a> · Sat 21 Nov 20:01 · at L3 since Fri 20 Nov 19:31 (3 items at this level in 72 h)\n<b>Why L3:</b> region: baltic, russia · matched “strike in Baltic” · corroborated by Clash Report · story escalated from L2 (5 reports so far)\n<b>Suggested action at L3:</b> Review your plan; make sure documents and essentials are in order.\nLevel = highest of the last 72 h · updated Mon 23 Nov 18:01 · sources OK 33/36 · <a href=\"https://t.me/c/4455291623/25\">📖 Level guide</a>\nScale: ⚫5 Critical 🔴4 Urgent 🟠3 Elevated 🟡2 Watch 🟢1 Info ⚪0 Quiet"
 }

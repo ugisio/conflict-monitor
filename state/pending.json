@@ -649,5 +649,26 @@
   "uid": "6279d050f3966e95",
   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZGFfd2JjS3lEaENIOXZsQjZhR18ycTlCTG9xQ2JwOGhkWE1KX0RiQkhMYUdRM29IOUFTZ19NM1lqeHFXRlRudHhYb3dqNU9iQzBmUUcwbV9tV3k1QmRISkpweG9MTFN6VWV4RjlyZUNWekZITmFLbDR4MkRPQ1M4bER4VEtjUDNwNWVMUzUzbXNzcWRTRDdCZQ?oc=5",
   "warning": false
+ },
+ {
+  "first_seen": "2026-11-23T16:01:31+00:00",
+  "kind": "post",
+  "lang": "ru",
+  "level": 2,
+  "note": "RU, independent Russian media based in Riga",
+  "posted": false,
+  "published": "2026-11-23T15:33:13+00:00",
+  "reason": "region: балти, литв, беларус · matched “учения (in text)” · another report of a story already in the channel",
+  "repeat_of": "Москва начала готовиться к транспортной блокаде Калининграда Российские власти начали готовиться к попыткам транспортной блокады Калининград…",
+  "repeats": 0,
+  "source_id": "tg_meduza",
+  "source_name": "Meduza",
+  "summary": "",
+  "text": "Германия отправила танки в Литву на поездах, а не по дорогам Польши, «чтобы не провоцировать Путина» — Bild Военная техника из Германии отправилась на учения «Grand Eagle 26» в Литве по железной дороге, а не собственным ходом по дорогам Польши, утверждает таблоид. По слова его источников, «снимки немецких танков, движущихся в направлении Балтии вблизи границы с Беларусью, стали бы пропагандистским подарком для Путина». Министерство обороны Германии сообщило, что «смена вида транспортировки не является чем-то необычным и должна отрабатываться, поскольку она должна быть возможна и в случае реальной угрозы». @meduzalive",
+  "tier": "osint",
+  "title": "Германия отправила танки в Литву на поездах, а не по дорогам Польши, «чтобы не провоцировать Путина» — Bild Военная техника из Германии отпр…",
+  "uid": "9592a58f7e428b13",
+  "url": "https://t.me/meduzalive/150976",
+  "warning": false
  }
 ]
