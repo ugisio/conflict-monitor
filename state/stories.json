@@ -471,14 +471,20 @@
  },
  {
   "level": 2,
-  "n": 1,
+  "n": 3,
   "source": "Google News — embassies Baltics",
   "stems": [
    "condu",
+   "corps",
    "drill",
    "evacu",
+   "exerc",
+   "force",
    "korea",
+   "marin",
+   "naval",
    "polit",
+   "recon",
    "uncer"
   ],
   "title": "S. Korea conducts evacuation drills in Latvia amid political uncertainty - Yonhap News Agency",
@@ -691,5 +697,17 @@
   ],
   "title": "Daily Memo: Ukrainian Drone Attacks in the Baltic and Mediterranean Seas - Geopolitical Futures",
   "ts": "2026-11-23T20:31:21+00:00"
+ },
+ {
+  "level": 2,
+  "n": 1,
+  "source": "Google News — NATO & the Baltics",
+  "stems": [
+   "artic",
+   "calls",
+   "guara"
+  ],
+  "title": "Merz calls for NATO Article 5-like security guarantees for Ukraine - Apa.az",
+  "ts": "2026-11-23T23:31:22+00:00"
  }
 ]
