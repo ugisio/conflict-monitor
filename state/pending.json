@@ -670,5 +670,26 @@
   "uid": "9592a58f7e428b13",
   "url": "https://t.me/meduzalive/150976",
   "warning": false
+ },
+ {
+  "first_seen": "2026-11-23T17:01:25+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": true,
+  "published": "2026-11-23T15:11:57+00:00",
+  "reason": "official warning about Russia / NATO · matched “official warning”",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "gnews_official_warnings",
+  "source_name": "Google News — official warnings",
+  "summary": "",
+  "text": "Rutte warns against a separate EU army: it could slow the response to a Russian attack Mezha.net",
+  "tier": "news",
+  "title": "Rutte warns against a separate EU army: it could slow the response to a Russian attack - Mezha.net",
+  "uid": "3af2b31326a193ea",
+  "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdFNGX1BKdGgtQTFIamdRY2RYdHFoY0hNWWpWME1DY2c4NV8xaEVHaVUwUWZEdk04bDJ0dmMxVFRxTi0xaWZLaWJSZWo4ZGxXZnA1d0U2LTNtdnA4MGFENmwxX2FkejZkWkNsMzFrWW5vMC1WdGprbUFWUU1jRHdxR2tjZk4?oc=5",
+  "warning": true
  }
 ]
