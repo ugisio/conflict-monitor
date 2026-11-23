@@ -187,5 +187,26 @@
   "uid": "d6ddaa23434f06f7",
   "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE5CSEdFQWh2dl8xbDdCX2pKSUFULWVpX2dVZmFjaUdScUVSSU93aWNZa2VOYUxLNzEtUGJn0gE7QVVfeXFMTkJIR0VBaHZ2XzFsN0JfakpJQVQtZWlfZ1VmYWNpR1JxRVJJT3dpY1lrZU5hTEs3MS1QYmc?oc=5",
   "warning": false
+ },
+ {
+  "first_seen": "2026-11-23T05:31:15+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-11-23T05:07:59+00:00",
+  "reason": "region: latvia · planning/hypothetical wording, softened · matched “evacuation”",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "gnews_embassy",
+  "source_name": "Google News — embassies Baltics",
+  "summary": "",
+  "text": "S. Korea conducts evacuation drills in Latvia amid political uncertainty Yonhap News Agency",
+  "tier": "news",
+  "title": "S. Korea conducts evacuation drills in Latvia amid political uncertainty - Yonhap News Agency",
+  "uid": "ade8ccb71e1aaaf1",
+  "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5rWXQyYS1OcldRS0JFSnl2cm01eTRhQ0Q4RXZQRUVOYVVRUzdzMFZxbU16X3M0NnJoNmRPdzdnazdjOFBXOU5uUHFrRDRfelZQWHVOVXhIZHRNUQ?oc=5",
+  "warning": false
  }
 ]
