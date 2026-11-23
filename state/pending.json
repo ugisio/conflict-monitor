@@ -187,5 +187,26 @@
   "uid": "7dcd916de9310bcf",
   "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxOZ1FQT3V4QkhYRTBnNExpYjRtZ0NrWlVYMEgzc2l2NWt2YUJYM2syVW5iVGxFLVlmYW4tZUZ6Z29sTTlDalhqOUt3MmdJX0dIbVAtOUJ5aDhFVVR3SnhvdjhJSDI1aUt2Sy0tdlVzb3BEYm9sZXRkUUxOWHROR3h5VVhtekZVbjZSYk1ZeFRmMzdiNlZsVEtwZy1JSjcyVUc2a3o5ODJNSXVwekdIZWVXb0RTb1JZbnFGejlRSWJxRzBRNHFERWtLbk1LbDFGeWV2OXBJRkNUT2M4elBGQmRRUEV2eWFoR3pwd1ZFaUdoZFB3WnhxVUdrVDJ5enhlb3gyRW1md2lpeGRpUzVybU5KNDJHUVluTVczV2h0a0UyMHZhSjA1?oc=5",
   "warning": false
+ },
+ {
+  "first_seen": "2026-11-23T10:39:15+00:00",
+  "kind": "post",
+  "lang": "en",
+  "level": 2,
+  "note": "EN, conflict news aggregator",
+  "posted": false,
+  "published": "2026-11-23T10:34:33+00:00",
+  "reason": "official warning about Russia / NATO · matched “threat (in text)” · another report of a story already in the channel",
+  "repeat_of": "NEW: Western intelligence agencies believe Russia could launch a nuclear-armed satellite into space before the end of 2026. The satellite, r…",
+  "repeats": 0,
+  "source_id": "tg_clashreport",
+  "source_name": "Clash Report",
+  "summary": "",
+  "text": "Zelensky: Does anyone here still believe that one day Russia will simply become peaceful and safe again? Just look at the last 100 years of Russian history. There were maybe a few years when Russia was truly not a threat. The rest was all about threats. Cold wars, hybrid wars, trade wars, ideological wars, hot wars, different forms, but always wars, always threats. And there is no reason to believe that Russia will become a different country in one year or five years.",
+  "tier": "osint",
+  "title": "Zelensky: Does anyone here still believe that one day Russia will simply become peaceful and safe again? Just look at the last 100 years of …",
+  "uid": "238a37417863b27f",
+  "url": "https://t.me/ClashReport/107316",
+  "warning": true
  }
 ]
