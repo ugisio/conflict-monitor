@@ -166,5 +166,26 @@
   "uid": "719dbd46cf90b669",
   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQLVpGdk1adG5ldTVMY3V0ZWNMZm9SVDdORXRSbDV2NnVIajZCSDRhNmt5Z0lobHZJNXV1b3dvYnZBOE1VTWlpQnV4d0gtMlJJZkNpMXpYdV9DMl84eWdwRU90dE8xbHJ0VlRZeEFmWkd1eDVNem9hZmdtTlRpcEpYWm91QVVSSDdFeE9Wckw0SnVXTHFKWGxKNw?oc=5",
   "warning": true
+ },
+ {
+  "first_seen": "2026-11-23T05:01:26+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-11-23T04:07:04+00:00",
+  "reason": "region: suwałki, russia · matched “Suwałki”",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "gnews_nato",
+  "source_name": "Google News — NATO & the Baltics",
+  "summary": "",
+  "text": "In What Scenario Might Russia Invade The “Suwałki Gap/Corridor”? Howl.Link",
+  "tier": "news",
+  "title": "In What Scenario Might Russia Invade The “Suwałki Gap/Corridor”? - Howl.Link",
+  "uid": "d6ddaa23434f06f7",
+  "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE5CSEdFQWh2dl8xbDdCX2pKSUFULWVpX2dVZmFjaUdScUVSSU93aWNZa2VOYUxLNzEtUGJn0gE7QVVfeXFMTkJIR0VBaHZ2XzFsN0JfakpJQVQtZWlfZ1VmYWNpR1JxRVJJT3dpY1lrZU5hTEs3MS1QYmc?oc=5",
+  "warning": false
  }
 ]
