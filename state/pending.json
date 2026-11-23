@@ -208,5 +208,26 @@
   "uid": "238a37417863b27f",
   "url": "https://t.me/ClashReport/107316",
   "warning": true
+ },
+ {
+  "first_seen": "2026-11-23T11:01:27+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-11-23T08:22:48+00:00",
+  "reason": "official warning about Russia / NATO · matched “nuclear” · another report of a story already in the channel",
+  "repeat_of": "NEW: Western intelligence agencies believe Russia could launch a nuclear-armed satellite into space before the end of 2026. The satellite, r…",
+  "repeats": 0,
+  "source_id": "gnews_flank_warnings",
+  "source_name": "Google News — eastern flank (PL/FI/NATO)",
+  "summary": "",
+  "text": "NATO intelligence warns Russia may launch nuclear-armed Sputnik-S satellite in December – media Interfax-Ukraine",
+  "tier": "news",
+  "title": "NATO intelligence warns Russia may launch nuclear-armed Sputnik-S satellite in December – media - Interfax-Ukraine",
+  "uid": "2fb5a76562ff809d",
+  "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1tbGgybkJoaTk5S1RsUWdjLThGSW4wNTFXMmF1Vy11R2RZMmpEak1JRGstb1EzQ3hFeUE1OGhuUnhWR0xZTmt5ZlJzWjM4Q2tMMjdMRDhEME9Sbm8zamZnUC1B0gFnQVVfeXFMT2lna2xoeWEtSnY4XzVwLThxdmpBbW9jMF9JWEtUOG5obWN6b2NCY1NtYktDQzU2NVRsN25XdkRydUNLYjZhWDVVZTlRNFM1Uzc1VHRlX3liTjVMLTV5S2RjblhLWkNuRQ?oc=5",
+  "warning": true
  }
 ]
