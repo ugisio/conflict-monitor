@@ -124,5 +124,26 @@
   "uid": "66758f069fd24ff3",
   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1LTVBsWG5yWDRQanBUT0s3ekRGY1Y2MVhENW9oazNvcThaU3l3V2F3ak9kMzRSTUVZbTNkTVBSRnpYX2VFT3BmMTJfdDFqMEk4dE16NERR?oc=5",
   "warning": true
+ },
+ {
+  "first_seen": "2026-11-23T00:01:22+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-11-22T22:56:35+00:00",
+  "reason": "region: baltic, russia · matched “warship” · another report of a story already in the channel",
+  "repeat_of": "Germany Tests AI-Powered Kamikaze Drones Near Belarus Border Amid Rising NATO Tensions - The 420.in",
+  "repeats": 0,
+  "source_id": "gnews_latvia_security",
+  "source_name": "Google News — Latvia security",
+  "summary": "",
+  "text": "Russian warships hit in Libya and Baltic Sea as investigation exposes alleged rape of Ukrainian POWs Ynetnews",
+  "tier": "news",
+  "title": "Russian warships hit in Libya and Baltic Sea as investigation exposes alleged rape of Ukrainian POWs - Ynetnews",
+  "uid": "6a48fa62b34771bc",
+  "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE12VFVRZWlldHVoekFzcmhPdk5oRm80a1ppTjM2Y05ERDVDbDduTE92UWttS2RaRXlvUTROOFJQSWxZSDFZSUJ0YWszbEFNUDZyTjJjbWtn?oc=5",
+  "warning": false
  }
 ]

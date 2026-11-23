@@ -435,10 +435,11 @@
  },
  {
   "level": 2,
-  "n": 6,
+  "n": 7,
   "source": "Clash Report",
   "stems": [
    "airsp",
+   "alleg",
    "bengh",
    "breac",
    "cargo",
@@ -450,9 +451,11 @@
    "eagle",
    "exerc",
    "explo",
+   "expos",
    "germa",
    "grand",
    "inste",
+   "inves",
    "kamik",
    "libya",
    "missi",
@@ -469,6 +472,7 @@
    "today",
    "towin",
    "troop",
+   "warsh",
    "watch"
   ],
   "title": "Germany Tests AI-Powered Kamikaze Drones Near Belarus Border Amid Rising NATO Tensions - The 420.in",
