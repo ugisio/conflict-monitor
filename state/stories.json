@@ -433,16 +433,25 @@
  },
  {
   "level": 2,
-  "n": 2,
+  "n": 3,
   "source": "Google News — eastern flank (PL/FI/NATO)",
   "stems": [
    "acros",
    "aggre",
+   "airsp",
+   "conse",
    "diplo",
    "escal",
+   "feder",
+   "lodge",
    "macro",
+   "membe",
    "ongoi",
-   "summo"
+   "prote",
+   "regar",
+   "summo",
+   "union",
+   "viola"
   ],
   "title": "Macron Warns of Escalating Russian Aggression Across Europe - Newsweek",
   "ts": "2026-11-23T04:31:17+00:00"
@@ -660,5 +669,15 @@
   ],
   "title": "RAF Poseidon Strengthens NATO's Submarine-Hunting Capability in the Baltic Sea - Royal Air Force",
   "ts": "2026-11-23T17:31:26+00:00"
+ },
+ {
+  "level": 2,
+  "n": 1,
+  "source": "Google News — Latvia security",
+  "stems": [
+   "hosti"
+  ],
+  "title": "Russia threatens ‘hostile’ Estonia with ‘open war’ - Al Jazeera",
+  "ts": "2026-11-23T19:31:23+00:00"
  }
 ]
