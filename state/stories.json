@@ -1,45 +1,6 @@
 [
  {
   "level": 2,
-  "n": 3,
-  "source": "Google News — NATO & the Baltics",
-  "stems": [
-   "artic",
-   "becom",
-   "consi",
-   "crash",
-   "deman",
-   "guara",
-   "hours",
-   "invok",
-   "kushn",
-   "missi",
-   "prepa",
-   "provi",
-   "simil",
-   "somet",
-   "trump",
-   "zelen"
-  ],
-  "title": "Mr. Kushner: President Trump is prepared to consider providing security guarantees to Ukraine similar to Article 5 of NATO. - Vietnam.vn",
-  "ts": "2026-11-20T11:31:36+00:00"
- },
- {
-  "level": 2,
-  "n": 2,
-  "source": "Google News — official warnings",
-  "stems": [
-   "event",
-   "reall",
-   "stanf",
-   "weakn",
-   "where"
-  ],
-  "title": "Estonia Warns of Russian Threat at Stanford Event - Wisevoter",
-  "ts": "2026-11-20T12:01:36+00:00"
- },
- {
-  "level": 2,
   "n": 6,
   "source": "Clash Report",
   "stems": [
@@ -412,13 +373,14 @@
  },
  {
   "level": 2,
-  "n": 14,
+  "n": 15,
   "source": "Clash Report",
   "stems": [
    "airsp",
    "alert",
    "alleg",
    "allia",
+   "armed",
    "artic",
    "bengh",
    "breac",
@@ -453,8 +415,7 @@
    "power",
    "prepa",
    "reaff",
-   "rejec",
-   "risin"
+   "rejec"
   ],
   "title": "Germany Tests AI-Powered Kamikaze Drones Near Belarus Border Amid Rising NATO Tensions - The 420.in",
   "ts": "2026-11-22T18:01:31+00:00"
