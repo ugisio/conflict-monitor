@@ -2,29 +2,6 @@
  {
   "level": 2,
   "n": 3,
-  "source": "ERR News (Estonia, EN)",
-  "stems": [
-   "advis",
-   "built",
-   "detai",
-   "false",
-   "gener",
-   "herem",
-   "infor",
-   "marti",
-   "nowak",
-   "opera",
-   "preve",
-   "revea",
-   "sabot",
-   "unfol"
-  ],
-  "title": "Martin Herem: An information operation built on sabotage",
-  "ts": "2026-11-20T08:24:46+00:00"
- },
- {
-  "level": 2,
-  "n": 3,
   "source": "Google News — NATO & the Baltics",
   "stems": [
    "artic",
@@ -435,7 +412,7 @@
  },
  {
   "level": 2,
-  "n": 10,
+  "n": 11,
   "source": "Clash Report",
   "stems": [
    "airsp",
@@ -461,6 +438,7 @@
    "kamik",
    "lanes",
    "libya",
+   "medit",
    "missi",
    "movin",
    "power",
@@ -470,14 +448,13 @@
    "sanct",
    "sendi",
    "shipp",
+   "ships",
    "slamm",
    "strik",
    "suspe",
+   "sweep",
    "tanks",
-   "tensi",
-   "tests",
-   "today",
-   "towin"
+   "tensi"
   ],
   "title": "Germany Tests AI-Powered Kamikaze Drones Near Belarus Border Amid Rising NATO Tensions - The 420.in",
   "ts": "2026-11-22T18:01:31+00:00"

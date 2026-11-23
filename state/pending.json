@@ -82,5 +82,26 @@
   "uid": "904653cd8e709b3c",
   "url": "https://t.me/ClashReport/107280",
   "warning": true
+ },
+ {
+  "first_seen": "2026-11-23T08:31:17+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-11-23T08:24:54+00:00",
+  "reason": "region: baltic, russia · matched “Drone” · another report of a story already in the channel",
+  "repeat_of": "Germany Tests AI-Powered Kamikaze Drones Near Belarus Border Amid Rising NATO Tensions - The 420.in",
+  "repeats": 0,
+  "source_id": "gnews_latvia_security",
+  "source_name": "Google News — Latvia security",
+  "summary": "",
+  "text": "Five Russian Ships Hit in Just 12 Days as Drone Attacks Sweep From Baltic to Mediterranean Seas UNITED24 Media",
+  "tier": "news",
+  "title": "Five Russian Ships Hit in Just 12 Days as Drone Attacks Sweep From Baltic to Mediterranean Seas - UNITED24 Media",
+  "uid": "46574391d0abfcb3",
+  "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNeDgwZjVmWDNZa3BjLVBwdWY1NHk5cTJzQjdackpqZTNDTFdpVWJvby12ck80SVRZTGRDNG5adlR2Y0lwVEtDRXRXcml0U2VtVTdRbWI2V0ZrallWZ2VCQUEzVEFGVUpNRFNmQnZwZlJFWkFCXzE3TjluSVRScmlxbE44Y1NrSEgzWDV2aERrNU9EVW9BMklLd0ZXRndONHpTQTMwRkRHSU9Sa2NhN3g2WGhJdXZtMk42MFVIMXJ1RFJSRi1wVWRIWDRxRW9zbWQzOTdlT2FweWhrUQ?oc=5",
+  "warning": false
  }
 ]
