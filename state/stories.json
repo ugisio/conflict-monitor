@@ -330,7 +330,7 @@
  },
  {
   "level": 2,
-  "n": 21,
+  "n": 23,
   "source": "Clash Report",
   "stems": [
    "accus",
@@ -340,6 +340,7 @@
    "alleg",
    "allia",
    "armed",
+   "arson",
    "artic",
    "bengh",
    "breac",
@@ -370,9 +371,8 @@
    "inste",
    "inves",
    "invol",
-   "kamik",
-   "lanes",
-   "launc"
+   "joint",
+   "kamik"
   ],
   "title": "Germany Tests AI-Powered Kamikaze Drones Near Belarus Border Amid Rising NATO Tensions - The 420.in",
   "ts": "2026-11-22T18:01:31+00:00"
@@ -605,5 +605,32 @@
   ],
   "title": "Swiftstrike and Naturik receive funding for Baltic Sea C-UAS - Unmanned airspace",
   "ts": "2026-11-23T13:31:20+00:00"
+ },
+ {
+  "level": 2,
+  "n": 1,
+  "source": "Google News — Latvia security",
+  "stems": [
+   "conse",
+   "follo",
+   "libya",
+   "painf",
+   "vesse"
+  ],
+  "title": "Kremlin warns Ukraine of 'painful' consequences following attack on Russian vessels in Libya, Baltic Sea - Anadolu Ajansı",
+  "ts": "2026-11-23T15:31:30+00:00"
+ },
+ {
+  "level": 2,
+  "n": 1,
+  "source": "Google News — NATO & the Baltics",
+  "stems": [
+   "billi",
+   "expor",
+   "strik",
+   "weake"
+  ],
+  "title": "Strikes on the Baltic Sea and Arms Exports: How Ukraine Can Weaken Russia and Earn Billions - 24 Канал",
+  "ts": "2026-11-23T15:31:30+00:00"
  }
 ]
