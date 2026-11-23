@@ -166,5 +166,26 @@
   "uid": "85cd350be239f195",
   "url": "https://t.me/nexta_live/127099",
   "warning": true
+ },
+ {
+  "first_seen": "2026-11-23T10:31:16+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-11-23T09:53:34+00:00",
+  "reason": "region: article 5, nato, russia · matched “incursions into Poland” · single source, held at WATCH until another source corroborates · another report of a story already in the channel",
+  "repeat_of": "Germany Tests AI-Powered Kamikaze Drones Near Belarus Border Amid Rising NATO Tensions - The 420.in",
+  "repeats": 0,
+  "source_id": "gnews_official_warnings",
+  "source_name": "Google News — official warnings",
+  "summary": "",
+  "text": "Start of World War 3? NATO chief Rutte reaffirms the Western alliance's Article 5 commitment after Russian missile incursions into Poland The Economic Times",
+  "tier": "news",
+  "title": "Start of World War 3? NATO chief Rutte reaffirms the Western alliance's Article 5 commitment after Russian missile incursions into Poland - The Economic Times",
+  "uid": "7dcd916de9310bcf",
+  "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxOZ1FQT3V4QkhYRTBnNExpYjRtZ0NrWlVYMEgzc2l2NWt2YUJYM2syVW5iVGxFLVlmYW4tZUZ6Z29sTTlDalhqOUt3MmdJX0dIbVAtOUJ5aDhFVVR3SnhvdjhJSDI1aUt2Sy0tdlVzb3BEYm9sZXRkUUxOWHROR3h5VVhtekZVbjZSYk1ZeFRmMzdiNlZsVEtwZy1JSjcyVUc2a3o5ODJNSXVwekdIZWVXb0RTb1JZbnFGejlRSWJxRzBRNHFERWtLbk1LbDFGeWV2OXBJRkNUT2M4elBGQmRRUEV2eWFoR3pwd1ZFaUdoZFB3WnhxVUdrVDJ5enhlb3gyRW1md2lpeGRpUzVybU5KNDJHUVluTVczV2h0a0UyMHZhSjA1?oc=5",
+  "warning": false
  }
 ]
