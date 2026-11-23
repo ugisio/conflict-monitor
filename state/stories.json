@@ -348,9 +348,11 @@
  },
  {
   "level": 2,
-  "n": 15,
+  "n": 17,
   "source": "Clash Report",
   "stems": [
+   "accus",
+   "activ",
    "airsp",
    "alert",
    "alleg",
@@ -367,6 +369,7 @@
    "coast",
    "commi",
    "confi",
+   "denie",
    "dispu",
    "drivi",
    "drone",
@@ -387,10 +390,7 @@
    "medit",
    "missi",
    "movin",
-   "power",
-   "prepa",
-   "reaff",
-   "rejec"
+   "power"
   ],
   "title": "Germany Tests AI-Powered Kamikaze Drones Near Belarus Border Amid Rising NATO Tensions - The 420.in",
   "ts": "2026-11-22T18:01:31+00:00"
@@ -603,5 +603,18 @@
   ],
   "title": "Москва начала готовиться к транспортной блокаде Калининграда Российские власти начали готовиться к попыткам транспортной блокады Калининград…",
   "ts": "2026-11-23T12:31:26+00:00"
+ },
+ {
+  "level": 2,
+  "n": 1,
+  "source": "Google News — Latvia security",
+  "stems": [
+   "fundi",
+   "natur",
+   "recei",
+   "swift"
+  ],
+  "title": "Swiftstrike and Naturik receive funding for Baltic Sea C-UAS - Unmanned airspace",
+  "ts": "2026-11-23T13:31:20+00:00"
  }
 ]
