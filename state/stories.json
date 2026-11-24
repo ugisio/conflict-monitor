@@ -50,33 +50,6 @@
  },
  {
   "level": 2,
-  "n": 12,
-  "source": "Google News — Latvia security",
-  "stems": [
-   "bound",
-   "cargo",
-   "catch",
-   "detec",
-   "drift",
-   "drone",
-   "escal",
-   "fight",
-   "fligh",
-   "headi",
-   "lenin",
-   "restr",
-   "scram",
-   "shipp",
-   "struc",
-   "tensi",
-   "tight",
-   "water"
-  ],
-  "title": "Leningrad governor reports drone attack on cargo ship bound for Kaliningrad - Anadolu Ajansı",
-  "ts": "2026-11-21T12:57:21+00:00"
- },
- {
-  "level": 2,
   "n": 4,
   "source": "Google News — official warnings",
   "stems": [
