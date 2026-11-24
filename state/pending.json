@@ -355,5 +355,26 @@
   "uid": "a6e70d490cfa77b8",
   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVDZmY25ob2RuN0RwbUFRS2NwSU9YanR2NFpPMGlYVWx2eFYxTFBUelp5OU8zZUIyRmFzNDAzOFJ2alNxaTV4ZlJ2SnBjZ0ZUVXZZYTNCbllhdVFwRVM5Qk5DTk5JTEVlUWxnU2xFd0MtdS0zaG42cTI4WDBxbW9KMWI4NXM2SE1QSDBnMjJibTllODQ?oc=5",
   "warning": false
+ },
+ {
+  "first_seen": "2026-11-24T17:01:21+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-11-24T15:31:07+00:00",
+  "reason": "region: estonia, nato, russia · matched “Threatens”",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "gnews_nato",
+  "source_name": "Google News — NATO & the Baltics",
+  "summary": "",
+  "text": "Russia Threatens “Open War” with Estonia, a Former Soviet Republic Turned NATO Member Democracy Now!",
+  "tier": "news",
+  "title": "Russia Threatens “Open War” with Estonia, a Former Soviet Republic Turned NATO Member - Democracy Now!",
+  "uid": "6eafa450c16d7d80",
+  "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPRXA1SGVVUTZJNDRtMFJOYmNBYkdPTkNWRi1KZWk2THZSenk4Zk84Q1RkS3hnQkg0Z2pHT1oxVFIweUw3RF9XX2luVGoyYkVlREE4dHg1TWpXV1hfYzdpdXA4S2RqVGVJR2tKTGNtcmV1TURfMGtzMkpkb09XeTBRcmRWa1ktRmN1Y0gyNWdDd2RPOXZvdHdOdEpoRjVaQk03QkZTZXU4T0xiVDRjSTZiSVJTanBRQ215V3VjX1RzUHpvYk10V1dxR0Mxc3k?oc=5",
+  "warning": false
  }
 ]
