@@ -40,5 +40,26 @@
   "uid": "a0786b3aea57bd5b",
   "url": "https://www.lrt.lt/en/news-in-english/19/3124066/lithuanian-prepaid-sim-cards-found-in-russian-drones-used-against-ukraine-media",
   "warning": false
+ },
+ {
+  "first_seen": "2026-11-24T09:02:01+00:00",
+  "kind": "post",
+  "lang": "ru",
+  "level": 2,
+  "note": "RU, Belarus opposition media — best coverage of Belarus border/military",
+  "posted": false,
+  "published": "2026-11-24T08:58:53+00:00",
+  "reason": "region: эстони, росси · matched “поджог (in text)” · another report of a story already in the channel",
+  "repeat_of": "⚡️ Зеленский задал партнёрам очень прямой вопрос: зачем придумывать сложные гарантии безопасности, если можно просто принять Украину в НАТО?…",
+  "repeats": 0,
+  "source_id": "tg_nexta",
+  "source_name": "NEXTA Live",
+  "summary": "",
+  "text": "⚡️ Теперь точно: Эстония закрывает границу с Россией Правительство страны официально приняло решение о закрытии всех пяти автомобильных КПП с 1 декабря. Ранее об этом предупреждал глава МИД Эстонии Маргус Цахкна. Причина — угроза безопасности после поджогов…",
+  "tier": "osint",
+  "title": "⚡️ Теперь точно: Эстония закрывает границу с Россией Правительство страны официально приняло решение о закрытии всех пяти автомобильных КПП …",
+  "uid": "6c5632bbcc14b838",
+  "url": "https://t.me/nexta_live/127149",
+  "warning": false
  }
 ]
