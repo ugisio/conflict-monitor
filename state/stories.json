@@ -506,9 +506,10 @@
  },
  {
   "level": 2,
-  "n": 5,
+  "n": 6,
   "source": "Google News — Latvia security",
   "stems": [
+   "allie",
    "armed",
    "belie",
    "cards",
@@ -523,6 +524,7 @@
    "intel",
    "launc",
    "medit",
+   "missi",
    "month",
    "nucle",
    "prepa",
@@ -531,6 +533,7 @@
    "seeks",
    "space",
    "spark",
+   "train",
    "weapo"
   ],
   "title": "Daily Memo: Ukrainian Drone Attacks in the Baltic and Mediterranean Seas - Geopolitical Futures",
@@ -616,16 +619,23 @@
  },
  {
   "level": 1,
-  "n": 2,
+  "n": 3,
   "source": "Google News — embassies Baltics",
   "stems": [
+   "deman",
+   "dismi",
    "embas",
+   "emplo",
    "entry",
+   "envoy",
    "flags",
    "fraud",
    "hunga",
    "nairo",
    "promi",
+   "prote",
+   "socia",
+   "summo",
    "suspe",
    "visas"
   ],
@@ -645,5 +655,17 @@
   ],
   "title": "Russia Threatens “Open War” with Estonia, a Former Soviet Republic Turned NATO Member - Democracy Now!",
   "ts": "2026-11-24T17:01:28+00:00"
+ },
+ {
+  "level": 2,
+  "n": 1,
+  "source": "Google News — Latvia security",
+  "stems": [
+   "closi",
+   "consi",
+   "cross"
+  ],
+  "title": "Latvia Considering Closing Border Crossings with Russia - Мілітарний",
+  "ts": "2026-11-24T19:01:35+00:00"
  }
 ]
