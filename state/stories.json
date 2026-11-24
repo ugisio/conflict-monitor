@@ -613,9 +613,11 @@
  },
  {
   "level": 2,
-  "n": 1,
+  "n": 2,
   "source": "Google News — Latvia security",
   "stems": [
+   "close",
+   "compl",
    "conse",
    "follo",
    "libya",
@@ -703,5 +705,22 @@
   ],
   "title": "Merz calls for NATO Article 5-like security guarantees for Ukraine - Apa.az",
   "ts": "2026-11-23T23:31:22+00:00"
+ },
+ {
+  "level": 2,
+  "n": 1,
+  "source": "LRT (Lithuania, EN)",
+  "stems": [
+   "denie",
+   "germa",
+   "large",
+   "propa",
+   "putin",
+   "reach",
+   "tanks",
+   "unnot"
+  ],
+  "title": "Putin denied a propaganda gift as German tanks reach Lithuania largely unnoticed",
+  "ts": "2026-11-24T06:01:36+00:00"
  }
 ]
