@@ -414,7 +414,7 @@
  },
  {
   "level": 2,
-  "n": 5,
+  "n": 6,
   "source": "Google News — eastern flank (PL/FI/NATO)",
   "stems": [
    "accus",
@@ -436,6 +436,7 @@
    "plann",
    "prote",
    "regar",
+   "rutte",
    "summo",
    "union",
    "viola"
@@ -636,12 +637,15 @@
  },
  {
   "level": 2,
-  "n": 2,
+  "n": 3,
   "source": "Google News — official warnings",
   "stems": [
+   "backs",
    "leave",
+   "moldo",
    "respo",
    "rutte",
+   "sandu",
    "separ",
    "unifi",
    "vulne"
