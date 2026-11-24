@@ -82,5 +82,26 @@
   "uid": "6b9c37bb76d2a385",
   "url": "https://www.lrt.lt/en/news-in-english/19/3124146/lithuanian-presidential-aide-kaliningrad-warnings-reflect-russian-fears-not-escalation",
   "warning": true
+ },
+ {
+  "first_seen": "2026-11-24T10:01:25+00:00",
+  "kind": "post",
+  "lang": "ru",
+  "level": 2,
+  "note": "RU, independent; incidents inside Russia (Pskov, Leningrad region, Kaliningrad)",
+  "posted": false,
+  "published": "2026-11-24T09:33:11+00:00",
+  "reason": "region: эстони, росси · matched “БПЛА” · another report of a story already in the channel",
+  "repeat_of": "Москва начала готовиться к транспортной блокаде Калининграда Российские власти начали готовиться к попыткам транспортной блокады Калининград…",
+  "repeats": 0,
+  "source_id": "tg_astra",
+  "source_name": "ASTRA",
+  "summary": "",
+  "text": "Финляндия и Эстония участвуют в спасательной операции после атаки БПЛА на российское судно Sparta II «Спасательная операция на грузовом судне Sparta II продолжается при участии нескольких подразделений. Руководит спасательными работами пограничная служба…",
+  "tier": "osint",
+  "title": "Финляндия и Эстония участвуют в спасательной операции после атаки БПЛА на российское судно Sparta II «Спасательная операция на грузовом судн…",
+  "uid": "1c8afc6b9275a646",
+  "url": "https://t.me/astrapress/132104",
+  "warning": false
  }
 ]
