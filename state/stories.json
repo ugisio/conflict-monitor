@@ -98,25 +98,6 @@
   "ts": "2026-11-21T18:01:30+00:00"
  },
  {
-  "level": 1,
-  "n": 2,
-  "source": "Google News — NATO & the Baltics",
-  "stems": [
-   "along",
-   "aveng",
-   "backs",
-   "closi",
-   "easte",
-   "enhan",
-   "exerc",
-   "flank",
-   "herem",
-   "triad"
-  ],
-  "title": "Exercise Avenger Triad 26 Enhances Security Along NATO’s Eastern Flank - Eurasia Review",
-  "ts": "2026-11-21T02:01:31+00:00"
- },
- {
   "level": 2,
   "n": 1,
   "source": "Clash Report",
@@ -433,21 +414,26 @@
  },
  {
   "level": 2,
-  "n": 4,
+  "n": 5,
   "source": "Google News — eastern flank (PL/FI/NATO)",
   "stems": [
+   "accus",
    "acros",
    "aggre",
    "airsp",
+   "closu",
    "conse",
    "diplo",
+   "drone",
    "escal",
    "feder",
    "going",
+   "letti",
    "lodge",
    "macro",
    "membe",
    "ongoi",
+   "plann",
    "prote",
    "regar",
    "summo",

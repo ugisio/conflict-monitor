@@ -187,5 +187,26 @@
   "uid": "42d198098ff1372a",
   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUTlYSEtJX3ZIakZiNVczQ0FIYWotanAyV2VPUUxVX1REZEl0U0toVUVWTC1hRDJXcGc4UlJWT181dmc5VFJNdFNSZS1tak9jM2YwVVpTRkhNNGxMNGQ2emEtU3kweE9oaGRWaE9tNEdlZFMyaDFZYWJDX3d4R1h5VkJYMmJIb0dPeUNZTjhWNkJHM2tMRDlaRHJjOFNTNDNPOUtfa2JueU9hYVNkbm9R?oc=5",
   "warning": false
+ },
+ {
+  "first_seen": "2026-11-24T02:31:11+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-11-23T22:09:00+00:00",
+  "reason": "region: estonia, russia · matched “drone” · another report of a story already in the channel",
+  "repeat_of": "Macron Warns of Escalating Russian Aggression Across Europe - Newsweek",
+  "repeats": 0,
+  "source_id": "gnews_airspace",
+  "source_name": "Google News — airspace / NOTAM",
+  "summary": "",
+  "text": "Russia protests Estonia’s planned land border closure and again accuses it of letting Ukrainian drones use its airspace Meduza",
+  "tier": "news",
+  "title": "Russia protests Estonia’s planned land border closure and again accuses it of letting Ukrainian drones use its airspace - Meduza",
+  "uid": "abead37bb85ca68a",
+  "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOcEt6Qi1fSXN2YUQ5RF9idDZ4bkwzSE11bm1ZMGNUTGg3OG1UZzBEU0lla2djS19ZUkRGY0RJcXlxT1hVUnhQM1VTLU5pb0Q2Z2RSNkNYQm10NUJ1N2loUGwzLTNyMzByenYtcERyeGNlUktvdXZXSVpwWWNFNW9HQy1FdlJDQXk3VkI2WERFc1lGQktUbkpwNWRiRjk2UU1BTS0xSjJRbXNsMjFfMWhZRzRhbkVKY1dNaUFjTWN1ZF9ZeTZKQjUtQUJJQWNMZHNzQjhtWDVxa242RHJ5RjFDbWF2eUFyZUxpTmtyd9IB8gFBVV95cUxPLWY3VXVMVmtTMjZ1SE13Wno3dWtvSFhIbkV4OVZPV01nejJ6STctbXpQejVVSTNwRXJPS0VZb2RQWHFNYWNGU2h1RGF2S2VybnJTOFZSaDVPa1VXdmU1MW11dEJ2YXI5VldSMmRsdXJ6MHpPbXdSWkJ1NmtIN1JFZnBBR0xXZkVHQ2l0cUJWZ0UzMERJLWRuQjRqTkJpT2xOdEJqdWRpRHVFUzRNdHJtZGZLZFJHd3pSUHJfT0xEdnVhd2tJU3hua1dzQmhaSjlDODlNMDZOQ0xPM2gwNzJvV2trQldKckx1YWNib2Ntd3Z2QQ?oc=5",
+  "warning": false
  }
 ]
