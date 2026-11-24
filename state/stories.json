@@ -684,12 +684,17 @@
  },
  {
   "level": 2,
-  "n": 1,
+  "n": 2,
   "source": "Google News — Latvia security",
   "stems": [
+   "claim",
    "daily",
+   "disin",
    "drone",
-   "medit"
+   "medit",
+   "reinf",
+   "seeks",
+   "spark"
   ],
   "title": "Daily Memo: Ukrainian Drone Attacks in the Baltic and Mediterranean Seas - Geopolitical Futures",
   "ts": "2026-11-23T20:31:21+00:00"

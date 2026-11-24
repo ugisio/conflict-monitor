@@ -1,1 +1,23 @@
-[]
+[
+ {
+  "first_seen": "2026-11-24T07:01:21+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-11-24T06:24:16+00:00",
+  "reason": "region: kaliningrad, nato · matched “Drone” · another report of a story already in the channel",
+  "repeat_of": "Daily Memo: Ukrainian Drone Attacks in the Baltic and Mediterranean Seas - Geopolitical Futures",
+  "repeats": 0,
+  "source_id": "gnews_latvia_security",
+  "source_name": "Google News — Latvia security",
+  "summary": "",
+  "text": "Poland Seeks NATO Reinforcement as Kaliningrad Drone Claims Spark Disinformation Warning Around Prague",
+  "tier": "news",
+  "title": "Poland Seeks NATO Reinforcement as Kaliningrad Drone Claims Spark Disinformation Warning - Around Prague",
+  "uid": "cbc1a65b7a80ea91",
+  "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNHpDTWFNUzZLbndMcFVMZ0dZb193RldPeTF0SF9LTFFuMHUxT0poTzFJdUtvbUg0My1IMWtkdDFiNHZvUlpkTW9kZWRGQVczVmVoZ0x4R1JvVVhmRHpoSTJfeS1WQ0RQRDhGYXZ0Z2h6RXZBdl9MTXdGanlXcHBhdUljdV9QUjY0aG9KT1Q3dDhRWU5jYkRoOGFtUVhVRmd4UjRzV2Z3?oc=5",
+  "warning": false
+ }
+]
