@@ -61,5 +61,26 @@
   "uid": "6c5632bbcc14b838",
   "url": "https://t.me/nexta_live/127149",
   "warning": false
+ },
+ {
+  "first_seen": "2026-11-24T09:31:19+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": true,
+  "published": "2026-11-24T09:14:00+00:00",
+  "reason": "region: lithuania, kaliningrad, nato, russia · official warning · matched “escalat”",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "lrt_en",
+  "source_name": "LRT (Lithuania, EN)",
+  "summary": "",
+  "text": "Recent events in Russia’s Kaliningrad region likely reflect Moscow’s fears of a possible Ukrainian attack on the exclave rather than an attempt to provoke NATO, Lithuanian President Gitanas Nausėda’s chief national security adviser Deividas Matulionis said Tuesday.",
+  "tier": "news",
+  "title": "Lithuanian presidential aide: Kaliningrad warnings reflect Russian fears, not escalation",
+  "uid": "6b9c37bb76d2a385",
+  "url": "https://www.lrt.lt/en/news-in-english/19/3124146/lithuanian-presidential-aide-kaliningrad-warnings-reflect-russian-fears-not-escalation",
+  "warning": true
  }
 ]
