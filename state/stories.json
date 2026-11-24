@@ -99,20 +99,6 @@
  },
  {
   "level": 2,
-  "n": 1,
-  "source": "Clash Report",
-  "stems": [
-   "candi",
-   "certa",
-   "frenc",
-   "going",
-   "lench"
-  ],
-  "title": "French Presidential Candidate Jean-Luc Mélenchon: Are we going to war? Certainly not. We will not go to war against Russia. You have the rig…",
-  "ts": "2026-11-21T10:31:27+00:00"
- },
- {
-  "level": 2,
   "n": 12,
   "source": "Google News — Latvia security",
   "stems": [
@@ -670,14 +656,21 @@
  },
  {
   "level": 2,
-  "n": 1,
+  "n": 2,
   "source": "Google News — Latvia security",
   "stems": [
    "capab",
+   "crews",
+   "dynam",
+   "exerc",
+   "germa",
    "hunti",
+   "merli",
    "posei",
    "stren",
-   "subma"
+   "subma",
+   "swedi",
+   "train"
   ],
   "title": "RAF Poseidon Strengthens NATO's Submarine-Hunting Capability in the Baltic Sea - Royal Air Force",
   "ts": "2026-11-23T17:31:26+00:00"

@@ -103,5 +103,26 @@
   "uid": "1c8afc6b9275a646",
   "url": "https://t.me/astrapress/132104",
   "warning": false
+ },
+ {
+  "first_seen": "2026-11-24T10:31:17+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-11-24T10:01:05+00:00",
+  "reason": "region: baltic, nato · matched “submarine” · another report of a story already in the channel",
+  "repeat_of": "RAF Poseidon Strengthens NATO's Submarine-Hunting Capability in the Baltic Sea - Royal Air Force",
+  "repeats": 0,
+  "source_id": "gnews_latvia_security",
+  "source_name": "Google News — Latvia security",
+  "summary": "",
+  "text": "RAF P-8A Poseidon crews train against German and Swedish submarines in NATO’s Dynamic Merlin exercise in the Baltic Sea Defence Industry Europe",
+  "tier": "news",
+  "title": "RAF P-8A Poseidon crews train against German and Swedish submarines in NATO’s Dynamic Merlin exercise in the Baltic Sea - Defence Industry Europe",
+  "uid": "bde9494df08be4f9",
+  "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOM05abWdkZkRFTmlQeFN2OUt3QXdOemhRZ0RvTDZKM3RjVHdseTQ4MF9kRi14S0xoRW9aRDdFak9OOUZ3WHlzZExpYnRWMWVGYUw5Z2JyQVlQOFd0dXY5Vkc5UTBmcUxMNEcwUEM4c19lMWpJMTNDU1M5c0xVY0ZuTFVBeHhmbHUwOVlfM3Z4MnZzZXBxRVlHcHI0d2UwZ2lqbnZ0bHdFTHBpZ0Y5SFJVVDNHYkVnY3RSQWNhNi1LY29nZFhid2J3V2JIa3BSVkI4Vi04Um4yQW54NnNYdjYyWQ?oc=5",
+  "warning": false
  }
 ]
