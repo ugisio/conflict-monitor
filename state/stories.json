@@ -1,24 +1,6 @@
 [
  {
   "level": 2,
-  "n": 2,
-  "source": "Google News — eastern flank (PL/FI/NATO)",
-  "stems": [
-   "actio",
-   "aggre",
-   "conse",
-   "gener",
-   "jones",
-   "matth",
-   "misca",
-   "serio",
-   "trigg"
-  ],
-  "title": "General Matthew Jones warns that Russia’s aggression could trigger a miscalculation with serious consequences for NATO. - Informat.ro",
-  "ts": "2026-11-21T22:01:34+00:00"
- },
- {
-  "level": 2,
   "n": 1,
   "source": "Google News — Latvia security",
   "stems": [
@@ -667,5 +649,22 @@
   ],
   "title": "Latvia Considering Closing Border Crossings with Russia - Мілітарний",
   "ts": "2026-11-24T19:01:35+00:00"
+ },
+ {
+  "level": 2,
+  "n": 2,
+  "source": "Google News — NATO & the Baltics",
+  "stems": [
+   "belgi",
+   "deplo",
+   "drone",
+   "missi",
+   "nasam",
+   "rocke",
+   "targe",
+   "train"
+  ],
+  "title": "Belgian F-16s deploy with anti-drone rockets for NATO air defence mission in the Baltics - Zona Militar",
+  "ts": "2026-11-24T22:01:42+00:00"
  }
 ]
