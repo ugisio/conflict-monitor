@@ -50,20 +50,6 @@
  },
  {
   "level": 2,
-  "n": 1,
-  "source": "Google News — NATO & the Baltics",
-  "stems": [
-   "aircr",
-   "airsp",
-   "enter",
-   "today",
-   "yeste"
-  ],
-  "title": "Poland yesterday, Finland and Estonia today. More aircraft will enter NATO airspace - Defence24.com",
-  "ts": "2026-11-21T17:01:30+00:00"
- },
- {
-  "level": 2,
   "n": 2,
   "source": "Google News — eastern flank (PL/FI/NATO)",
   "stems": [
