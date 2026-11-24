@@ -250,5 +250,26 @@
   "uid": "c88d458bf14eec60",
   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE13SVVWRUtMMkRQM2RjN2M1Q0lIc2dGQkh6R1pzUFZlWUxNUjJMVkc5VFdEa1ppOEZ0dlpPWHpNWUhZWnBYSUlIWGdvanU5eTduY3RWcWVoMUE0dmNqWm5sVlV5WktWdDRGSXpoZmZ5MA?oc=5",
   "warning": true
+ },
+ {
+  "first_seen": "2026-11-24T05:31:14+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-11-24T04:42:59+00:00",
+  "reason": "official warning about Russia / NATO · planning/hypothetical wording, softened · matched “Nuclear Strike” · another report of a story already in the channel",
+  "repeat_of": "NEW: Western intelligence agencies believe Russia could launch a nuclear-armed satellite into space before the end of 2026. The satellite, r…",
+  "repeats": 0,
+  "source_id": "gnews_official_warnings",
+  "source_name": "Google News — official warnings",
+  "summary": "",
+  "text": "Medvedev Warns Russia Could Launch Preventive Nuclear Strike cwibc.co.id",
+  "tier": "news",
+  "title": "Medvedev Warns Russia Could Launch Preventive Nuclear Strike - cwibc.co.id",
+  "uid": "aeeac639b30422fb",
+  "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBmQ0lJUWk5U2F0YWFOR284SkFMc1g5RDBZMVpZcTUwVk9QbzNrQ0FRNGotdnd6TVVsc2Zzd0dlRjNhSVRJTmIzX29ncWgtZHFTQy15bXE0Qks1ZnMtR3dtUEFnU0xvbV9EUG9pSWJpUGlrdw?oc=5",
+  "warning": true
  }
 ]
