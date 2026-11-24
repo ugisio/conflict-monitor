@@ -50,51 +50,6 @@
  },
  {
   "level": 2,
-  "n": 4,
-  "source": "Google News — official warnings",
-  "stems": [
-   "allie",
-   "briti",
-   "bruss",
-   "chief",
-   "deadl",
-   "entir",
-   "false",
-   "hybri",
-   "intel",
-   "missi",
-   "plann",
-   "putin",
-   "reckl",
-   "regim",
-   "retal",
-   "seals",
-   "soldi",
-   "spark",
-   "tackl",
-   "talks",
-   "three",
-   "world"
-  ],
-  "title": "Putin's recklessness could spark World War Three, warns defence intelligence chief after Russian missiles hit near British soldiers - Daily Mail",
-  "ts": "2026-11-21T13:31:24+00:00"
- },
- {
-  "level": 1,
-  "n": 1,
-  "source": "ERR News (Estonia, EN)",
-  "stems": [
-   "block",
-   "grave",
-   "nniku",
-   "quarr",
-   "train"
-  ],
-  "title": "New sand and gravel quarry blocked at Männiku quarry due to EDF training area",
-  "ts": "2026-11-21T13:31:24+00:00"
- },
- {
-  "level": 2,
   "n": 1,
   "source": "Google News — eastern flank (PL/FI/NATO)",
   "stems": [
@@ -593,21 +548,26 @@
  },
  {
   "level": 2,
-  "n": 2,
+  "n": 3,
   "source": "Google News — Latvia security",
   "stems": [
    "capab",
    "crews",
+   "denie",
    "dynam",
    "exerc",
    "germa",
    "hunti",
    "merli",
+   "oppor",
    "posei",
+   "propa",
    "stren",
    "subma",
    "swedi",
-   "train"
+   "tanks",
+   "train",
+   "trans"
   ],
   "title": "RAF Poseidon Strengthens NATO's Submarine-Hunting Capability in the Baltic Sea - Royal Air Force",
   "ts": "2026-11-23T17:31:26+00:00"
@@ -624,20 +584,26 @@
  },
  {
   "level": 2,
-  "n": 3,
+  "n": 4,
   "source": "Google News — Latvia security",
   "stems": [
+   "belie",
    "cards",
    "claim",
    "daily",
    "disin",
    "drone",
+   "equip",
    "found",
+   "launc",
    "medit",
+   "nucle",
    "prepa",
    "reinf",
+   "satel",
    "seeks",
-   "spark"
+   "spark",
+   "weapo"
   ],
   "title": "Daily Memo: Ukrainian Drone Attacks in the Baltic and Mediterranean Seas - Geopolitical Futures",
   "ts": "2026-11-23T20:31:21+00:00"
