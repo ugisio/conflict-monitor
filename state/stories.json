@@ -684,14 +684,17 @@
  },
  {
   "level": 2,
-  "n": 2,
+  "n": 3,
   "source": "Google News — Latvia security",
   "stems": [
+   "cards",
    "claim",
    "daily",
    "disin",
    "drone",
+   "found",
    "medit",
+   "prepa",
    "reinf",
    "seeks",
    "spark"

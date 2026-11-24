@@ -19,5 +19,26 @@
   "uid": "cbc1a65b7a80ea91",
   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNHpDTWFNUzZLbndMcFVMZ0dZb193RldPeTF0SF9LTFFuMHUxT0poTzFJdUtvbUg0My1IMWtkdDFiNHZvUlpkTW9kZWRGQVczVmVoZ0x4R1JvVVhmRHpoSTJfeS1WQ0RQRDhGYXZ0Z2h6RXZBdl9MTXdGanlXcHBhdUljdV9QUjY0aG9KT1Q3dDhRWU5jYkRoOGFtUVhVRmd4UjRzV2Z3?oc=5",
   "warning": false
+ },
+ {
+  "first_seen": "2026-11-24T07:31:23+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-11-24T07:21:00+00:00",
+  "reason": "region: lithuania, russia · matched “drone” · another report of a story already in the channel",
+  "repeat_of": "Daily Memo: Ukrainian Drone Attacks in the Baltic and Mediterranean Seas - Geopolitical Futures",
+  "repeats": 0,
+  "source_id": "lrt_en",
+  "source_name": "LRT (Lithuania, EN)",
+  "summary": "",
+  "text": "Lithuanian prepaid SIM cards were found in Russian drones used in attacks on Ukraine in 2025, Lithuanian news portal 15min.lt reported Tuesday, citing Ukrainian military intelligence data.",
+  "tier": "news",
+  "title": "Lithuanian prepaid SIM cards found in Russian drones used against Ukraine – media",
+  "uid": "a0786b3aea57bd5b",
+  "url": "https://www.lrt.lt/en/news-in-english/19/3124066/lithuanian-prepaid-sim-cards-found-in-russian-drones-used-against-ukraine-media",
+  "warning": false
  }
 ]
