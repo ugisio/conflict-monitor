@@ -433,7 +433,7 @@
  },
  {
   "level": 2,
-  "n": 3,
+  "n": 4,
   "source": "Google News — eastern flank (PL/FI/NATO)",
   "stems": [
    "acros",
@@ -443,6 +443,7 @@
    "diplo",
    "escal",
    "feder",
+   "going",
    "lodge",
    "macro",
    "membe",

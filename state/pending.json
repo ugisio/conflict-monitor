@@ -166,5 +166,26 @@
   "uid": "7ee7c0874e6e5a50",
   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNYWdpOUQyTjdTTThPZ1VzcHN5Y2tyQWFxUnFNUDRoS0pSbnlfUzRtVk95Tkh6VUVIdjQyRnNQRm1VVnhlbUJudERqemJFMWRGX3l4NlB6Z1JZV3phLTdBY2ZKWlctdnd1cGdPUzlmdUdTWFE0S3d6WGprTmRSVVowRnphUkRDVWlJamtFRy14bVhWQUpWSHp3ZXZ2c0lMYVlvME41N2F1SnBwWDAzY0JrTFR3?oc=5",
   "warning": false
+ },
+ {
+  "first_seen": "2026-11-24T00:31:17+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-11-23T23:35:34+00:00",
+  "reason": "region: estonia, russia · matched “escalat” · another report of a story already in the channel",
+  "repeat_of": "Macron Warns of Escalating Russian Aggression Across Europe - Newsweek",
+  "repeats": 0,
+  "source_id": "gnews_nato",
+  "source_name": "Google News — NATO & the Baltics",
+  "summary": "",
+  "text": "Is Russia going to war with Estonia? Moscow warns of 'open war' as border row escalates Nacionale",
+  "tier": "news",
+  "title": "Is Russia going to war with Estonia? Moscow warns of 'open war' as border row escalates - Nacionale",
+  "uid": "42d198098ff1372a",
+  "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUTlYSEtJX3ZIakZiNVczQ0FIYWotanAyV2VPUUxVX1REZEl0U0toVUVWTC1hRDJXcGc4UlJWT181dmc5VFJNdFNSZS1tak9jM2YwVVpTRkhNNGxMNGQ2emEtU3kweE9oaGRWaE9tNEdlZFMyaDFZYWJDX3d4R1h5VkJYMmJIb0dPeUNZTjhWNkJHM2tMRDlaRHJjOFNTNDNPOUtfa2JueU9hYVNkbm9R?oc=5",
+  "warning": false
  }
 ]
