@@ -51,21 +51,6 @@
  {
   "level": 2,
   "n": 1,
-  "source": "Google News — eastern flank (PL/FI/NATO)",
-  "stems": [
-   "emerg",
-   "plans",
-   "provo",
-   "rutte",
-   "slams",
-   "warsa"
-  ],
-  "title": "Nato slams Russia's 'provocative' attack on Poland as Rutte plans emergency trip to Warsaw - Firstpost",
-  "ts": "2026-11-21T14:31:24+00:00"
- },
- {
-  "level": 2,
-  "n": 1,
   "source": "Google News — NATO & the Baltics",
   "stems": [
    "aircr",
@@ -584,24 +569,30 @@
  },
  {
   "level": 2,
-  "n": 4,
+  "n": 5,
   "source": "Google News — Latvia security",
   "stems": [
+   "armed",
    "belie",
    "cards",
    "claim",
    "daily",
+   "deplo",
    "disin",
    "drone",
+   "early",
    "equip",
    "found",
+   "intel",
    "launc",
    "medit",
+   "month",
    "nucle",
    "prepa",
    "reinf",
    "satel",
    "seeks",
+   "space",
    "spark",
    "weapo"
   ],

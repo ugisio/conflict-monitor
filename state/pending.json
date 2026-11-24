@@ -292,5 +292,26 @@
   "uid": "84b2149a2d73c6e5",
   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPY0t5bC16OUhPb3pKeWdabmRIVzQ2SnZyWDFrM2hya1BjcUZXRWQzUGJUc2ZQdWdaQ1VxN18xYnI3SjZocElQSUpERVh1RzBGMWV1dVJtWl9lVmMzblhXNXZaVFlqREpHWko0Q2NOSFI1T0xIY3lyZFdYclJRZ1RRc2lJRUVtMG9IMEcwV2ZYdENwYmRjTjZ5bzMzVnFmcExsd3IwMlFSZVZwR1RHbXVwMU9WeFk1NlRNeVUydg?oc=5",
   "warning": false
+ },
+ {
+  "first_seen": "2026-11-24T14:31:21+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-11-24T13:44:07+00:00",
+  "reason": "official warning about Russia / NATO · matched “nuclear” · another report of a story already in the channel",
+  "repeat_of": "Daily Memo: Ukrainian Drone Attacks in the Baltic and Mediterranean Seas - Geopolitical Futures",
+  "repeats": 0,
+  "source_id": "gnews_flank_warnings",
+  "source_name": "Google News — eastern flank (PL/FI/NATO)",
+  "summary": "",
+  "text": "Intelligence warns Russia could deploy nuclear-armed satellite as early as next month; NATO vows to defend space security 联合早报",
+  "tier": "news",
+  "title": "Intelligence warns Russia could deploy nuclear-armed satellite as early as next month; NATO vows to defend space security - 联合早报",
+  "uid": "948b5fa99674953e",
+  "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQNEI0bXFQZzhselpsS0xaVXg5NDh6RFVNN2l6a3AtVTdIeHB6dWFPbUlhbno5R1BTdFpsaExOd0FEc2Fta2VTSW40MW9pTjhjM0szbTVDUTMwNDQyOHNqYmlBTmEwMzhXWmItTDNfUTlpZzNaSXhvRFlCSTlMaFhXRE5ETHp2VTBYVUFjcGdiYWN4Sk5BUTVmVFIwRUtpV2ptZUo3ZWZIeF83SnBBVUVoOGh5aG1NcXlpTHNzNWduYllVTzE4UW9NS2hrcUtVVm84dEE?oc=5",
+  "warning": true
  }
 ]
