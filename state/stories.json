@@ -589,13 +589,15 @@
  },
  {
   "level": 2,
-  "n": 3,
+  "n": 4,
   "source": "Google News — NATO & the Baltics",
   "stems": [
    "belgi",
    "deplo",
+   "drill",
    "drone",
    "equip",
+   "holds",
    "missi",
    "nasam",
    "rocke",
@@ -624,17 +626,25 @@
  },
  {
   "level": 2,
-  "n": 2,
+  "n": 3,
   "source": "Google News — eastern flank (PL/FI/NATO)",
   "stems": [
+   "canno",
+   "chanc",
    "civil",
    "destr",
+   "enoug",
+   "exact",
    "explo",
    "found",
+   "fried",
    "germa",
+   "knows",
+   "often",
    "popul",
    "poten",
    "prepa",
+   "right",
    "rutte",
    "squad",
    "urges"
@@ -662,5 +672,16 @@
   ],
   "title": "📝 Наверстывают упущенное 📝 Бундесвер осваивает войну беспилотников Европейские армии постепенно пересматривают свои представления о современ…",
   "ts": "2026-11-25T10:01:43+00:00"
+ },
+ {
+  "level": 2,
+  "n": 1,
+  "source": "ERR News (Estonia, EN)",
+  "stems": [
+   "close",
+   "rushe"
+  ],
+  "title": "Latvian PM: Estonia rushed to close its border with Russia",
+  "ts": "2026-11-25T11:01:39+00:00"
  }
 ]
