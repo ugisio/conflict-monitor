@@ -5,48 +5,48 @@
    "error": "",
    "fail_streak": 0,
    "items_last": 0,
-   "last_ok": "2026-11-25T09:31:02+00:00",
-   "last_run": "2026-11-25T09:31:02+00:00",
+   "last_ok": "2026-11-25T10:01:25+00:00",
+   "last_run": "2026-11-25T10:01:25+00:00",
    "ok": true
   },
   "err_en": {
    "error": "",
    "fail_streak": 0,
    "items_last": 50,
-   "last_ok": "2026-11-25T09:31:12+00:00",
-   "last_run": "2026-11-25T09:31:12+00:00",
+   "last_ok": "2026-11-25T10:01:34+00:00",
+   "last_run": "2026-11-25T10:01:34+00:00",
    "ok": true
   },
   "fcdo_estonia": {
    "error": "",
    "fail_streak": 0,
    "items_last": 0,
-   "last_ok": "2026-11-25T09:31:00+00:00",
-   "last_run": "2026-11-25T09:31:00+00:00",
+   "last_ok": "2026-11-25T10:01:24+00:00",
+   "last_run": "2026-11-25T10:01:24+00:00",
    "ok": true
   },
   "fcdo_latvia": {
    "error": "",
    "fail_streak": 0,
    "items_last": 0,
-   "last_ok": "2026-11-25T09:30:59+00:00",
-   "last_run": "2026-11-25T09:30:59+00:00",
+   "last_ok": "2026-11-25T10:01:23+00:00",
+   "last_run": "2026-11-25T10:01:23+00:00",
    "ok": true
   },
   "fcdo_lithuania": {
    "error": "",
    "fail_streak": 0,
    "items_last": 0,
-   "last_ok": "2026-11-25T09:31:00+00:00",
-   "last_run": "2026-11-25T09:31:00+00:00",
+   "last_ok": "2026-11-25T10:01:24+00:00",
+   "last_run": "2026-11-25T10:01:24+00:00",
    "ok": true
   },
   "germany_latvia": {
    "error": "",
    "fail_streak": 0,
    "items_last": 0,
-   "last_ok": "2026-11-25T09:31:03+00:00",
-   "last_run": "2026-11-25T09:31:03+00:00",
+   "last_ok": "2026-11-25T10:01:26+00:00",
+   "last_run": "2026-11-25T10:01:26+00:00",
    "ok": true
   },
   "gnews_airspace": {
@@ -61,8 +61,8 @@
    "error": "",
    "fail_streak": 0,
    "items_last": 6,
-   "last_ok": "2026-11-25T09:01:56+00:00",
-   "last_run": "2026-11-25T09:01:56+00:00",
+   "last_ok": "2026-11-25T10:01:35+00:00",
+   "last_run": "2026-11-25T10:01:35+00:00",
    "ok": true
   },
   "gnews_flank_warnings": {
@@ -106,187 +106,187 @@
    "ok": true
   },
   "gnews_official_warnings": {
-   "error": "",
-   "fail_streak": 0,
+   "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=Russia%20%28%22defence%20chief%22%20OR%20%22chief%20of%20defence%22%20OR%20%22defence%20minister%22%20OR%20",
+   "fail_streak": 1,
    "items_last": 18,
    "last_ok": "2026-11-25T09:01:56+00:00",
-   "last_run": "2026-11-25T09:01:56+00:00",
-   "ok": true
+   "last_run": "2026-11-25T10:01:35+00:00",
+   "ok": false
   },
   "israel_emb_estonia": {
    "error": "",
    "fail_streak": 0,
    "items_last": 2,
-   "last_ok": "2026-11-25T09:31:07+00:00",
-   "last_run": "2026-11-25T09:31:07+00:00",
+   "last_ok": "2026-11-25T10:01:30+00:00",
+   "last_run": "2026-11-25T10:01:30+00:00",
    "ok": true
   },
   "israel_emb_finland": {
    "error": "",
    "fail_streak": 0,
    "items_last": 4,
-   "last_ok": "2026-11-25T09:31:08+00:00",
-   "last_run": "2026-11-25T09:31:08+00:00",
+   "last_ok": "2026-11-25T10:01:31+00:00",
+   "last_run": "2026-11-25T10:01:31+00:00",
    "ok": true
   },
   "israel_emb_lithuania": {
    "error": "",
    "fail_streak": 0,
    "items_last": 2,
-   "last_ok": "2026-11-25T09:31:06+00:00",
-   "last_run": "2026-11-25T09:31:06+00:00",
+   "last_ok": "2026-11-25T10:01:29+00:00",
+   "last_run": "2026-11-25T10:01:29+00:00",
    "ok": true
   },
   "israel_emb_poland": {
    "error": "",
    "fail_streak": 0,
    "items_last": 3,
-   "last_ok": "2026-11-25T09:31:08+00:00",
-   "last_run": "2026-11-25T09:31:08+00:00",
+   "last_ok": "2026-11-25T10:01:32+00:00",
+   "last_run": "2026-11-25T10:01:32+00:00",
    "ok": true
   },
   "israel_emb_riga": {
    "error": "",
    "fail_streak": 0,
    "items_last": 4,
-   "last_ok": "2026-11-25T09:31:05+00:00",
-   "last_run": "2026-11-25T09:31:05+00:00",
+   "last_ok": "2026-11-25T10:01:28+00:00",
+   "last_run": "2026-11-25T10:01:28+00:00",
    "ok": true
   },
   "lrt_en": {
    "error": "",
    "fail_streak": 0,
-   "items_last": 18,
-   "last_ok": "2026-11-25T09:31:12+00:00",
-   "last_run": "2026-11-25T09:31:12+00:00",
+   "items_last": 20,
+   "last_ok": "2026-11-25T10:01:34+00:00",
+   "last_run": "2026-11-25T10:01:34+00:00",
    "ok": true
   },
   "lsm_en": {
    "error": "",
    "fail_streak": 0,
    "items_last": 39,
-   "last_ok": "2026-11-25T09:31:11+00:00",
-   "last_run": "2026-11-25T09:31:11+00:00",
+   "last_ok": "2026-11-25T10:01:33+00:00",
+   "last_run": "2026-11-25T10:01:33+00:00",
    "ok": true
   },
   "polymarket": {
    "error": "",
    "fail_streak": 0,
    "items_last": 0,
-   "last_ok": "2026-11-25T09:31:22+00:00",
-   "last_run": "2026-11-25T09:31:22+00:00",
+   "last_ok": "2026-11-25T10:01:43+00:00",
+   "last_run": "2026-11-25T10:01:43+00:00",
    "ok": true
   },
   "tg_astra": {
    "error": "",
    "fail_streak": 0,
-   "items_last": 10,
-   "last_ok": "2026-11-25T09:31:17+00:00",
-   "last_run": "2026-11-25T09:31:17+00:00",
+   "items_last": 11,
+   "last_ok": "2026-11-25T10:01:39+00:00",
+   "last_run": "2026-11-25T10:01:39+00:00",
    "ok": true
   },
   "tg_clashreport": {
    "error": "",
    "fail_streak": 0,
    "items_last": 20,
-   "last_ok": "2026-11-25T09:31:15+00:00",
-   "last_run": "2026-11-25T09:31:15+00:00",
+   "last_ok": "2026-11-25T10:01:36+00:00",
+   "last_run": "2026-11-25T10:01:36+00:00",
    "ok": true
   },
   "tg_disclosetv": {
    "error": "",
    "fail_streak": 0,
    "items_last": 14,
-   "last_ok": "2026-11-25T09:31:15+00:00",
-   "last_run": "2026-11-25T09:31:15+00:00",
+   "last_ok": "2026-11-25T10:01:36+00:00",
+   "last_run": "2026-11-25T10:01:36+00:00",
    "ok": true
   },
   "tg_meduza": {
    "error": "",
    "fail_streak": 0,
    "items_last": 13,
-   "last_ok": "2026-11-25T09:31:17+00:00",
-   "last_run": "2026-11-25T09:31:17+00:00",
+   "last_ok": "2026-11-25T10:01:38+00:00",
+   "last_run": "2026-11-25T10:01:38+00:00",
    "ok": true
   },
   "tg_nexta": {
    "error": "",
    "fail_streak": 0,
-   "items_last": 20,
-   "last_ok": "2026-11-25T09:31:16+00:00",
-   "last_run": "2026-11-25T09:31:16+00:00",
+   "items_last": 15,
+   "last_ok": "2026-11-25T10:01:37+00:00",
+   "last_run": "2026-11-25T10:01:37+00:00",
    "ok": true
   },
   "tg_novaya": {
    "error": "",
    "fail_streak": 0,
-   "items_last": 19,
-   "last_ok": "2026-11-25T09:31:18+00:00",
-   "last_run": "2026-11-25T09:31:18+00:00",
+   "items_last": 18,
+   "last_ok": "2026-11-25T10:01:39+00:00",
+   "last_run": "2026-11-25T10:01:39+00:00",
    "ok": true
   },
   "tg_rybar": {
    "error": "",
    "fail_streak": 0,
-   "items_last": 14,
-   "last_ok": "2026-11-25T09:31:19+00:00",
-   "last_run": "2026-11-25T09:31:19+00:00",
+   "items_last": 15,
+   "last_ok": "2026-11-25T10:01:40+00:00",
+   "last_run": "2026-11-25T10:01:40+00:00",
    "ok": true
   },
   "us_embassy_helsinki": {
    "error": "",
    "fail_streak": 0,
    "items_last": 0,
-   "last_ok": "2026-11-25T09:31:10+00:00",
-   "last_run": "2026-11-25T09:31:10+00:00",
+   "last_ok": "2026-11-25T10:01:33+00:00",
+   "last_run": "2026-11-25T10:01:33+00:00",
    "ok": true
   },
   "us_embassy_riga": {
    "error": "",
    "fail_streak": 0,
    "items_last": 0,
-   "last_ok": "2026-11-25T09:30:59+00:00",
-   "last_run": "2026-11-25T09:30:59+00:00",
+   "last_ok": "2026-11-25T10:01:23+00:00",
+   "last_run": "2026-11-25T10:01:23+00:00",
    "ok": true
   },
   "us_embassy_tallinn": {
    "error": "",
    "fail_streak": 0,
    "items_last": 0,
-   "last_ok": "2026-11-25T09:31:09+00:00",
-   "last_run": "2026-11-25T09:31:09+00:00",
+   "last_ok": "2026-11-25T10:01:32+00:00",
+   "last_run": "2026-11-25T10:01:32+00:00",
    "ok": true
   },
   "us_embassy_vilnius": {
-   "error": "",
-   "fail_streak": 0,
+   "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=site:lt.usembassy.gov+when:3d&hl=en-US&gl=US&ceid=US:en",
+   "fail_streak": 1,
    "items_last": 0,
    "last_ok": "2026-11-25T09:31:10+00:00",
-   "last_run": "2026-11-25T09:31:10+00:00",
-   "ok": true
+   "last_run": "2026-11-25T10:01:32+00:00",
+   "ok": false
   },
   "us_embassy_warsaw": {
    "error": "",
    "fail_streak": 0,
    "items_last": 0,
-   "last_ok": "2026-11-25T09:31:10+00:00",
-   "last_run": "2026-11-25T09:31:10+00:00",
+   "last_ok": "2026-11-25T10:01:33+00:00",
+   "last_run": "2026-11-25T10:01:33+00:00",
    "ok": true
   },
   "us_state_latvia": {
    "error": "page blocked (403); relying on the advisories RSS feed",
    "fail_streak": 0,
    "items_last": 0,
-   "last_ok": "2026-11-25T09:30:58+00:00",
-   "last_run": "2026-11-25T09:30:58+00:00",
+   "last_ok": "2026-11-25T10:01:22+00:00",
+   "last_run": "2026-11-25T10:01:22+00:00",
    "ok": true
   },
   "us_state_rss": {
    "error": "",
    "fail_streak": 0,
    "items_last": 0,
-   "last_ok": "2026-11-25T09:30:58+00:00",
-   "last_run": "2026-11-25T09:30:58+00:00",
+   "last_ok": "2026-11-25T10:01:23+00:00",
+   "last_run": "2026-11-25T10:01:23+00:00",
    "ok": true
   }
  },
@@ -1414,8 +1414,18 @@
    "title_key": "mark rutte urges nato prepare civilian population well",
    "ts": "2026-11-25T09:31:22+00:00",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRWJDSXAxRjVkWnhKcm9vdmhQemk4bmgyM0V5WXA2SC0tWlpqaGRWekJYa0w5Sk9pMWFqcWdYeGY0RDdMMndJRWNEYklxajNKUjFQS1lMU0JGOHFiUW81VFBKdzRmZmp0REFoZHh4RXVOZHE4TGxubWNVbW54WHZlejIxTXp1YzBpWmVqUzFiQVR4SldCbENEaDVqdnVQajgyUUwtbDd0QTFlaE5PdUR3cUloVThsZw?oc=5"
+  },
+  {
+   "level": 1,
+   "raw_level": 1,
+   "reason": "region: белорус · matched “беспилотник”",
+   "source": "Rybar",
+   "title": "📝 Наверстывают упущенное 📝 Бундесвер осваивает войну беспилотников Европейские армии постепенно пересматривают свои представления о современ…",
+   "title_key": "наверстывают упущенное бундесвер осваивает войну беспилотников европейские армии",
+   "ts": "2026-11-25T10:01:43+00:00",
+   "url": "https://t.me/rybar/84935"
   }
  ],
- "runs": 2985,
- "status_text": "📟 <b>CURRENT LEVEL: 🟡 L2 WATCH.</b> Mark Rutte urges NATO to prepare the civilian population as well for a potential war with Russia\n<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPRWJDSXAxRjVkWnhKcm9vdmhQemk4bmgyM0V5WXA2SC0tWlpqaGRWekJYa0w5Sk9pMWFqcWdYeGY0RDdMMndJRWNEYklxajNKUjFQS1lMU0JGOHFiUW81VFBKdzRmZmp0REFoZHh4RXVOZHE4TGxubWNVbW54WHZlejIxTXp1YzBpWmVqUzFiQVR4SldCbENEaDVqdnVQajgyUUwtbDd0QTFlaE5PdUR3cUloVThsZw?oc=5\">Informat.ro via Google News — eastern flank (PL/FI/NATO)</a> · Wed 25 Nov 11:31 · at L2 since Sun 22 Nov 14:31 (29 items at this level in 72 h)\n<b>Why L2:</b> official warning about Russia / NATO · matched “official warning”\n<b>Suggested action at L2:</b> Stay aware.\nLevel = highest of the last 72 h · updated Wed 25 Nov 11:31 · sources OK 36/36 · <a href=\"https://t.me/c/4455291623/25\">📖 Level guide</a>\nScale: ⚫5 Critical 🔴4 Urgent 🟠3 Elevated 🟡2 Watch 🟢1 Info ⚪0 Quiet"
+ "runs": 2986,
+ "status_text": "📟 <b>CURRENT LEVEL: 🟡 L2 WATCH.</b> Mark Rutte urges NATO to prepare the civilian population as well for a potential war with Russia\n<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPRWJDSXAxRjVkWnhKcm9vdmhQemk4bmgyM0V5WXA2SC0tWlpqaGRWekJYa0w5Sk9pMWFqcWdYeGY0RDdMMndJRWNEYklxajNKUjFQS1lMU0JGOHFiUW81VFBKdzRmZmp0REFoZHh4RXVOZHE4TGxubWNVbW54WHZlejIxTXp1YzBpWmVqUzFiQVR4SldCbENEaDVqdnVQajgyUUwtbDd0QTFlaE5PdUR3cUloVThsZw?oc=5\">Informat.ro via Google News — eastern flank (PL/FI/NATO)</a> · Wed 25 Nov 11:31 · at L2 since Sun 22 Nov 14:31 (29 items at this level in 72 h)\n<b>Why L2:</b> official warning about Russia / NATO · matched “official warning”\n<b>Suggested action at L2:</b> Stay aware.\nLevel = highest of the last 72 h · updated Wed 25 Nov 12:01 · sources OK 34/36 · <a href=\"https://t.me/c/4455291623/25\">📖 Level guide</a>\nScale: ⚫5 Critical 🔴4 Urgent 🟠3 Elevated 🟡2 Watch 🟢1 Info ⚪0 Quiet"
 }
