@@ -334,5 +334,26 @@
   "uid": "2339304b7c2f8621",
   "url": "https://t.me/meduzalive/151084",
   "warning": false
+ },
+ {
+  "first_seen": "2026-11-25T16:01:31+00:00",
+  "kind": "post",
+  "lang": "en",
+  "level": 2,
+  "note": "EN, conflict news aggregator",
+  "posted": false,
+  "published": "2026-11-25T15:49:26+00:00",
+  "reason": "region: article 5, nato, russia · official warning · matched “official warning” · another report of a story already in the channel",
+  "repeat_of": "Mark Rutte urges NATO to prepare the civilian population as well for a potential war with Russia - Informat.ro",
+  "repeats": 0,
+  "source_id": "tg_clashreport",
+  "source_name": "Clash Report",
+  "summary": "",
+  "text": "Q: Jared Kushner said that Russia might be open to Article 5-like security guarantees. Russia said they are not. NATO's Rutte: Jared Kushner and Steve Witkoff are working Herculean hours to get this work to an end under President Trump's leadership.",
+  "tier": "osint",
+  "title": "Q: Jared Kushner said that Russia might be open to Article 5-like security guarantees. Russia said they are not. NATO's Rutte: Jared Kushner…",
+  "uid": "a17ece85f94bcf41",
+  "url": "https://t.me/ClashReport/107543",
+  "warning": true
  }
 ]
