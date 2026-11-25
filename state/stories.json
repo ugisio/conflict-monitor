@@ -50,16 +50,6 @@
  },
  {
   "level": 2,
-  "n": 1,
-  "source": "Google News — Latvia security",
-  "stems": [
-   "retal"
-  ],
-  "title": "Will Russia retaliate against Lithuania over Kaliningrad? What Moscow has threatened and what NATO says - Nacionale",
-  "ts": "2026-11-22T12:31:23+00:00"
- },
- {
-  "level": 2,
   "n": 2,
   "source": "Google News — Latvia security",
   "stems": [
@@ -517,21 +507,33 @@
  },
  {
   "level": 2,
-  "n": 1,
+  "n": 2,
   "source": "Novaya Gazeta Europe",
   "stems": [
    "spart",
+   "атаки",
    "атако",
    "балти",
+   "войне",
+   "главн",
+   "грани",
    "дроны",
+   "закры",
    "зелен",
    "калин",
+   "обвин",
+   "обост",
+   "отнош",
+   "подго",
    "подтв",
+   "польш",
    "росси",
    "следо",
+   "стран",
    "судно",
    "сухог",
-   "украи"
+   "украи",
+   "эскал"
   ],
   "title": "Зеленский подтвердил, что российское судно в Балтийском море атаковали украинские дроны Российский сухогруз Sparta II, следовавший в Калинин…",
   "ts": "2026-11-24T15:31:19+00:00"
