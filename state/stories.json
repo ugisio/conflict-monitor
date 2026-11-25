@@ -589,19 +589,57 @@
  },
  {
   "level": 2,
-  "n": 2,
+  "n": 3,
   "source": "Google News — NATO & the Baltics",
   "stems": [
    "belgi",
    "deplo",
    "drone",
+   "equip",
    "missi",
    "nasam",
    "rocke",
    "targe",
-   "train"
+   "train",
+   "troop"
   ],
   "title": "Belgian F-16s deploy with anti-drone rockets for NATO air defence mission in the Baltics - Zona Militar",
   "ts": "2026-11-24T22:01:42+00:00"
+ },
+ {
+  "level": 2,
+  "n": 1,
+  "source": "Google News — Latvia security",
+  "stems": [
+   "abili",
+   "bolst",
+   "drill",
+   "durin",
+   "hunti",
+   "posei",
+   "subma"
+  ],
+  "title": "RAF Poseidons bolster NATO’s submarine-hunting abilities during Baltic drill - ADS Advance",
+  "ts": "2026-11-25T09:31:22+00:00"
+ },
+ {
+  "level": 2,
+  "n": 2,
+  "source": "Google News — eastern flank (PL/FI/NATO)",
+  "stems": [
+   "civil",
+   "destr",
+   "explo",
+   "found",
+   "germa",
+   "popul",
+   "poten",
+   "prepa",
+   "rutte",
+   "squad",
+   "urges"
+  ],
+  "title": "Mark Rutte urges NATO to prepare the civilian population as well for a potential war with Russia - Informat.ro",
+  "ts": "2026-11-25T09:31:22+00:00"
  }
 ]
