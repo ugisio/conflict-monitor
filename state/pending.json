@@ -166,5 +166,26 @@
   "uid": "b5c87dd90c072ba4",
   "url": "https://t.me/ClashReport/107504",
   "warning": true
+ },
+ {
+  "first_seen": "2026-11-25T12:01:31+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 1,
+  "note": "",
+  "posted": false,
+  "published": "2026-11-25T10:28:00+00:00",
+  "reason": "region: latvia · matched “Visa” · another report of a story already in the channel",
+  "repeat_of": "Hungary embassy flags suspected fraudsters promising Latvia Type D visas - The Star, Kenya",
+  "repeats": 0,
+  "source_id": "gnews_embassy",
+  "source_name": "Google News — embassies Baltics",
+  "summary": "",
+  "text": "Hungary Embassy Flags Fake Agents Promising Latvia Type D Visas https://streamlinefeed.co.ke/",
+  "tier": "news",
+  "title": "Hungary Embassy Flags Fake Agents Promising Latvia Type D Visas - https://streamlinefeed.co.ke/",
+  "uid": "e924702a44ffdd33",
+  "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNV3g0WWo1OUJyLWlrZExOSi01eVZ2TUhlalRjUjYwSWtBTVlZZmo5R0VJanhvZ25kbW0yV29Ta19YMDU3Z3J6Zmxmc2dNc0NORURaYVZPOXdZM1I1WDdsLWxacktLOGxfa09iNW8zRlVtcFRjNno0dXAwZjRrSkQ3TlJySzRfbkVQUTlTd05PZE5MNnFDdGVSVnFhRzZHQQ?oc=5",
+  "warning": false
  }
 ]
