@@ -271,5 +271,26 @@
   "uid": "51a35bc99e4b6279",
   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE14YTlsOGp4dkZRTnBEQUdPR3NiaFFITVNuaUcycXpZSm51RjRGMWtIVHlOVHZud1Z0LUYwT2hnMUNfczB6dWwxVWQ5X0xOY0daU3lUZzFFcm50M0Y4SnkzdFE3MWJRWVB0S2VSWUt3VXM3QmU1WWx2Z09xZXRkWWc?oc=5",
   "warning": true
+ },
+ {
+  "first_seen": "2026-11-25T15:01:35+00:00",
+  "kind": "post",
+  "lang": "ru",
+  "level": 2,
+  "note": "RU, independent; incidents inside Russia (Pskov, Leningrad region, Kaliningrad)",
+  "posted": false,
+  "published": "2026-11-25T15:01:09+00:00",
+  "reason": "official warning about Russia / NATO · matched “official warning” · another report of a story already in the channel",
+  "repeat_of": "Зеленский подтвердил, что российское судно в Балтийском море атаковали украинские дроны Российский сухогруз Sparta II, следовавший в Калинин…",
+  "repeats": 0,
+  "source_id": "tg_astra",
+  "source_name": "ASTRA",
+  "summary": "",
+  "text": "Четырехсторонняя встреча по Украине может состояться до Рождества Рабочая встреча по урегулированию войны с участием Украины, США, Европы и России может пройти до Рождества, заявил руководитель Офиса президента Украины Кирилл Буданов. По его словам, участие европейских представителей в переговорах в определенном формате вполне возможно. Кроме того, он сообщил, что первый этап обмена пленными ожидается в ближайшее время: «Конец ноября, начало декабря. Это более-менее реальные даты, когда первые военнопленные должны вернуться».",
+  "tier": "osint",
+  "title": "Четырехсторонняя встреча по Украине может состояться до Рождества Рабочая встреча по урегулированию войны с участием Украины, США, Европы и …",
+  "uid": "cd5640229801cb46",
+  "url": "https://t.me/astrapress/132210",
+  "warning": true
  }
 ]
