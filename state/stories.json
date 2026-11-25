@@ -629,11 +629,12 @@
  },
  {
   "level": 2,
-  "n": 4,
+  "n": 5,
   "source": "Google News — eastern flank (PL/FI/NATO)",
   "stems": [
    "aggre",
    "bruta",
+   "calle",
    "canno",
    "chanc",
    "civil",
@@ -692,5 +693,17 @@
   ],
   "title": "Latvian PM: Estonia rushed to close its border with Russia",
   "ts": "2026-11-25T11:01:39+00:00"
+ },
+ {
+  "level": 2,
+  "n": 1,
+  "source": "ERR News (Estonia, EN)",
+  "stems": [
+   "airsp",
+   "parli",
+   "using"
+  ],
+  "title": "Defense minister in parliament: Ukraine not using Estonian airspace to attack Russia",
+  "ts": "2026-11-25T14:31:19+00:00"
  }
 ]
