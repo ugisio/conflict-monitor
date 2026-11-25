@@ -208,5 +208,26 @@
   "uid": "360315e824e238bf",
   "url": "https://t.me/novaya_europe/70142",
   "warning": false
+ },
+ {
+  "first_seen": "2026-11-25T14:01:32+00:00",
+  "kind": "post",
+  "lang": "en",
+  "level": 2,
+  "note": "EN, conflict news aggregator",
+  "posted": false,
+  "published": "2026-11-25T13:44:56+00:00",
+  "reason": "official warning about Russia / NATO · matched “escalat (in text)” · another report of a story already in the channel",
+  "repeat_of": "Mark Rutte urges NATO to prepare the civilian population as well for a potential war with Russia - Informat.ro",
+  "repeats": 0,
+  "source_id": "tg_clashreport",
+  "source_name": "Clash Report",
+  "summary": "",
+  "text": "German Foreign Minister Johann Wadephul on Russia and the AfD: If Russia continues its brutal war of aggression against Ukraine and its shadow war against Europe and escalates daily, then more German engagement is needed for a Europe worth protecting and a deterrent NATO. When you imagine what is happening in Ukraine right now, this terror against the civilian population, this merciless killing of innocent people, of children, of the civilian population in Ukraine, that the AfD can think of nothing but laughing.",
+  "tier": "osint",
+  "title": "German Foreign Minister Johann Wadephul on Russia and the AfD: If Russia continues its brutal war of aggression against Ukraine and its shad…",
+  "uid": "60ecd27f2f27b8f6",
+  "url": "https://t.me/ClashReport/107522",
+  "warning": true
  }
 ]

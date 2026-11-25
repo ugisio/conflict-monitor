@@ -629,19 +629,24 @@
  },
  {
   "level": 2,
-  "n": 3,
+  "n": 4,
   "source": "Google News — eastern flank (PL/FI/NATO)",
   "stems": [
+   "aggre",
+   "bruta",
    "canno",
    "chanc",
    "civil",
+   "conti",
    "destr",
    "enoug",
    "exact",
    "explo",
+   "forei",
    "found",
    "fried",
    "germa",
+   "johan",
    "knows",
    "often",
    "popul",
@@ -650,7 +655,8 @@
    "right",
    "rutte",
    "squad",
-   "urges"
+   "urges",
+   "wadep"
   ],
   "title": "Mark Rutte urges NATO to prepare the civilian population as well for a potential war with Russia - Informat.ro",
   "ts": "2026-11-25T09:31:22+00:00"
