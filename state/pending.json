@@ -1,1 +1,23 @@
-[]
+[
+ {
+  "first_seen": "2026-11-25T18:31:30+00:00",
+  "kind": "post",
+  "lang": "en",
+  "level": 2,
+  "note": "EN, conflict news aggregator",
+  "posted": false,
+  "published": "2026-11-25T18:03:11+00:00",
+  "reason": "region: baltic, nato, russia · matched “nuclear strike (in text)”",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "tg_clashreport",
+  "source_name": "Clash Report",
+  "summary": "",
+  "text": "Finland and Norway secretly sought to avert a military confrontation with Russia in the Baltic Sea. Finnish President Alexander Stubb and Norwegian Prime Minister Jonas Gahr Støre used a Russian oligarch as an intermediary before speaking directly with Putin on October 27, reassuring him that NATO had no intention of imposing a naval blockade. Moscow had previously warned NATO it was prepared to launch preemptive nuclear strikes to defend its Baltic interests. Russia ships more than 60% of its seaborne oil through the Baltic, where tensions have escalated over Western efforts to intercept Russian shadow-fleet tankers. Source: WSJ",
+  "tier": "osint",
+  "title": "Finland and Norway secretly sought to avert a military confrontation with Russia in the Baltic Sea. Finnish President Alexander Stubb and No…",
+  "uid": "ada91120cc5953ad",
+  "url": "https://t.me/ClashReport/107553",
+  "warning": false
+ }
+]

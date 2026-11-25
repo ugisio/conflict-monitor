@@ -1,19 +1,6 @@
 [
  {
   "level": 2,
-  "n": 1,
-  "source": "Google News — Latvia security",
-  "stems": [
-   "alleg",
-   "disin",
-   "flags",
-   "oblas"
-  ],
-  "title": "Poland flags Russian disinformation over alleged Ukrainian attack in Kaliningrad Oblast - Українська правда",
-  "ts": "2026-11-22T18:31:25+00:00"
- },
- {
-  "level": 2,
   "n": 6,
   "source": "Google News — eastern flank (PL/FI/NATO)",
   "stems": [
@@ -664,5 +651,21 @@
   ],
   "title": "Кризис вокруг Калининграда. Может ли эскалация в Балтийском регионе превратить его еще в один очаг войны? 21 ноября в Калининградской област…",
   "ts": "2026-11-25T15:31:23+00:00"
+ },
+ {
+  "level": 2,
+  "n": 1,
+  "source": "Clash Report",
+  "stems": [
+   "alexa",
+   "avert",
+   "confr",
+   "norwa",
+   "secre",
+   "sough",
+   "stubb"
+  ],
+  "title": "Finland and Norway secretly sought to avert a military confrontation with Russia in the Baltic Sea. Finnish President Alexander Stubb and No…",
+  "ts": "2026-11-25T18:31:37+00:00"
  }
 ]
