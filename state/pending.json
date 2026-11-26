@@ -40,5 +40,26 @@
   "uid": "02ed8182ece47a8c",
   "url": "https://t.me/nexta_live/127284",
   "warning": false
+ },
+ {
+  "first_seen": "2026-11-26T19:31:16+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": true,
+  "published": "2026-11-26T18:39:56+00:00",
+  "reason": "official warning about Russia / NATO · matched “escalat”",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "gnews_flank_warnings",
+  "source_name": "Google News — eastern flank (PL/FI/NATO)",
+  "summary": "",
+  "text": "Trump and NATO chief warn against Russian escalation as wars spread Howl.Link",
+  "tier": "news",
+  "title": "Trump and NATO chief warn against Russian escalation as wars spread - Howl.Link",
+  "uid": "700f6beabb9fa76b",
+  "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE9RMGVjLWI3NElHcHJsaHpHOGRtNjI3MmY2T1pTRkhianBuTWdsZ0xOS0lITURjWkd6YXkw?oc=5",
+  "warning": true
  }
 ]

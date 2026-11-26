@@ -1,16 +1,6 @@
 [
  {
   "level": 2,
-  "n": 1,
-  "source": "Google News — Latvia security",
-  "stems": [
-   "hosti"
-  ],
-  "title": "Russia threatens ‘hostile’ Estonia with ‘open war’ - Al Jazeera",
-  "ts": "2026-11-23T19:31:23+00:00"
- },
- {
-  "level": 2,
   "n": 6,
   "source": "Google News — Latvia security",
   "stems": [
@@ -554,5 +544,18 @@
   ],
   "title": "GPS disruptions reported in Estonia, Sweden and Finland when drone attacked Russian vessel - Українська правда",
   "ts": "2026-11-26T18:31:22+00:00"
+ },
+ {
+  "level": 2,
+  "n": 1,
+  "source": "Google News — eastern flank (PL/FI/NATO)",
+  "stems": [
+   "chief",
+   "escal",
+   "sprea",
+   "trump"
+  ],
+  "title": "Trump and NATO chief warn against Russian escalation as wars spread - Howl.Link",
+  "ts": "2026-11-26T19:31:24+00:00"
  }
 ]
