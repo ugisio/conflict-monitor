@@ -82,5 +82,26 @@
   "uid": "55c4bf890d3edbee",
   "url": "https://t.me/novaya_europe/70163",
   "warning": false
+ },
+ {
+  "first_seen": "2026-11-26T02:01:27+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-11-25T23:05:00+00:00",
+  "reason": "region: baltic, nato · matched “submarine” · another report of a story already in the channel",
+  "repeat_of": "RAF Poseidons bolster NATO’s submarine-hunting abilities during Baltic drill - ADS Advance",
+  "repeats": 0,
+  "source_id": "gnews_latvia_security",
+  "source_name": "Google News — Latvia security",
+  "summary": "",
+  "text": "RAF P-8A Poseidons take part in NATO submarine-hunting exercise in the Baltic Sea Zona Militar",
+  "tier": "news",
+  "title": "RAF P-8A Poseidons take part in NATO submarine-hunting exercise in the Baltic Sea - Zona Militar",
+  "uid": "ed009c0adfd53b55",
+  "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNOFhEejBMOUxrLVVGRnBDQ21GV1pnQ2dneUpFSlM1bnhVZWFqLWFQQVBYR21lSkhRRzhMb2hRRmtxeTV3UDhmak1kYXZiRHc2cW1KSVcwTkViRlZJdF9fc21QZGRrc20wYXRyeUpTR3FDdHZWMkVsaHpROTEzZ0NGdF9KeHJqdjNFMlNHcUxWOXhrTWM5X0IxWnY2aXBHbkIxWDlpOUZTLXBvbmlMcjVwNXE2MDktVDFxTm1TYjJqbWUtUm8?oc=5",
+  "warning": false
  }
 ]
