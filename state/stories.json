@@ -448,16 +448,19 @@
  },
  {
   "level": 2,
-  "n": 2,
+  "n": 3,
   "source": "Google News — Latvia security",
   "stems": [
    "abili",
    "bolst",
+   "civil",
    "drill",
    "durin",
    "exerc",
+   "fligh",
    "hunti",
    "posei",
+   "restr",
    "subma"
   ],
   "title": "RAF Poseidons bolster NATO’s submarine-hunting abilities during Baltic drill - ADS Advance",
@@ -465,7 +468,7 @@
  },
  {
   "level": 2,
-  "n": 8,
+  "n": 9,
   "source": "Google News — eastern flank (PL/FI/NATO)",
   "stems": [
    "aggre",
@@ -477,6 +480,7 @@
    "chanc",
    "chief",
    "civil",
+   "close",
    "conti",
    "destr",
    "enoug",
@@ -489,6 +493,7 @@
    "gener",
    "germa",
    "guara",
+   "guard",
    "jared",
    "johan",
    "knows",
@@ -505,9 +510,7 @@
    "secre",
    "squad",
    "talks",
-   "trump",
-   "urges",
-   "wadep"
+   "trump"
   ],
   "title": "Mark Rutte urges NATO to prepare the civilian population as well for a potential war with Russia - Informat.ro",
   "ts": "2026-11-25T09:31:22+00:00"
@@ -651,5 +654,17 @@
   ],
   "title": "Tsahkna: Russia is responsible for possible escalation in the Baltic Sea - Mezha.net",
   "ts": "2026-11-25T19:01:40+00:00"
+ },
+ {
+  "level": 2,
+  "n": 1,
+  "source": "Google News — Latvia security",
+  "stems": [
+   "payme",
+   "pensi",
+   "retir"
+  ],
+  "title": "Russia threatens to cut off military pension payments to retirees in Latvia - RTE.ie",
+  "ts": "2026-11-26T07:31:16+00:00"
  }
 ]
