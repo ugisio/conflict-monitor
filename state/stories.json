@@ -1,43 +1,6 @@
 [
  {
   "level": 2,
-  "n": 3,
-  "source": "Google News — Latvia security",
-  "stems": [
-   "close",
-   "compl",
-   "conse",
-   "follo",
-   "leade",
-   "libya",
-   "painf",
-   "ships",
-   "targe",
-   "urges",
-   "vesse"
-  ],
-  "title": "Kremlin warns Ukraine of 'painful' consequences following attack on Russian vessels in Libya, Baltic Sea - Anadolu Ajansı",
-  "ts": "2026-11-23T15:31:30+00:00"
- },
- {
-  "level": 2,
-  "n": 2,
-  "source": "Google News — NATO & the Baltics",
-  "stems": [
-   "billi",
-   "expor",
-   "pisto",
-   "right",
-   "sprea",
-   "strik",
-   "targe",
-   "weake"
-  ],
-  "title": "Strikes on the Baltic Sea and Arms Exports: How Ukraine Can Weaken Russia and Earn Billions - 24 Канал",
-  "ts": "2026-11-23T15:31:30+00:00"
- },
- {
-  "level": 2,
   "n": 4,
   "source": "Google News — official warnings",
   "stems": [
