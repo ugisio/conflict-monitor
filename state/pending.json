@@ -145,5 +145,26 @@
   "uid": "8d847359faa7ea43",
   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOamdxV3QzdEtEZkFqYVUzNE1fV3F5Q0F6R0hqTmFWckRJNklVcDBSOFI4Sy0wel9RMy15aVVBWVYwaXRBVWZGUWxDRWxocU1LMExtVGkydEpUUXRtWFZNV2VEczdWMlViTVA5MmUzcnpVcXFsUmc3Mk5jdU5CYXdDT25xWXVKX1V0a3pGal9Kc0ZiNWFoaU9wdVZhZDN6UlBuRVRVT2ZWTnltTC1Zay1tTEQtZ1puWkFydWtuaTVCd1NGX0JWWWh1R0RZMjJJVVBydklLSlQ4d2vSAdgBQVVfeXFMTmpncVd0M3RLRGZBamFVMzRNX1dxeUNBekdIak5hVnJESTZJVXAwUjhSOEstMHpfUTMteWlVQVlWMGl0QVVmRlFsQ0VsaHFNSzBMbVRpMnRKVFF0bVhWTVdlRHM3VjJVYk1QOTJlM3J6VXFxbFJnNzJOY3VOQmF3Q09ucVl1Sl9VdGt6RmpfSnNGYjVhaGlPcHVWYWQzelJQbkVUVU9mVk55bUwtWWstbUxELWdablpBcnVrbmk1QndTRl9CVllodUdEWTIySVVQcnZJS0pUOHdr?oc=5",
   "warning": false
+ },
+ {
+  "first_seen": "2026-11-26T12:01:27+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-11-26T11:15:44+00:00",
+  "reason": "official warning about Russia / NATO · matched “official warning” · another report of a story already in the channel",
+  "repeat_of": "Tsahkna: Russia is responsible for possible escalation in the Baltic Sea - Mezha.net",
+  "repeats": 0,
+  "source_id": "gnews_nato",
+  "source_name": "Google News — NATO & the Baltics",
+  "summary": "",
+  "text": "Trump and Rutte Warn Moscow Against Wider War as Europe Seeks Security Assurances EU Today",
+  "tier": "news",
+  "title": "Trump and Rutte Warn Moscow Against Wider War as Europe Seeks Security Assurances - EU Today",
+  "uid": "dffcea6b76180e9d",
+  "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBTRXlTbkk3aEgzQnBudHF0VlFWa0RTTXJ5NC05WjRHMTRfNWNPYTQ1SU9tV1p2YnVxdFhwc09MMmRValNvbDFoMkhNRWpRS0dmbmUwQVpMQmJPNTZTLWJScW51d05JVDNuTVl0X05Tcl92LWJqMUotR2R2Sk4?oc=5",
+  "warning": true
  }
 ]
