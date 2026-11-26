@@ -124,5 +124,26 @@
   "uid": "c09661e07c5cdc38",
   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOa1g1OXlaWjZLMTk5UUotdXRUOVpMVFBTSlY1TGJIUWY5X3ZhLUlZek1TTW9Dbm1Hbk5DMmNDenEySm1QQzhPOTB2YWtDbktjMld3dWM3RGMyQjR4X1FoOTZ1bWhUcmg2d25KSHBHQl9JdGo4clIxRmpXU1lPNC04cW5hQ3pzUnhVaUQ0OHNYbTRMNVpPRHcyQVlLMnd0UdIBowFBVV95cUxPZFFQakI2NURRMEloenhsRWZpNlJhdU1RbERGVml5ZFhLMHZKQWhhaFdfd2QxT3l3T01kOHN5Q3F6Vi04MUlDZXVjNllwRmxRSGpZUm9FTkpGYXRMYUxlN0xzUWJCMmNQZlF3Yzlyb3FYSEwzNlFLSTFSclZmSGtrTjRUUlVLdlgzSW11dmdoSVdRTm12UUlnOXVfX2JLNnduamtZ?oc=5",
   "warning": true
+ },
+ {
+  "first_seen": "2026-11-26T11:31:13+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-11-24T14:52:50+00:00",
+  "reason": "region: latvia, russia · matched “threat”",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "gnews_embassy",
+  "source_name": "Google News — embassies Baltics",
+  "summary": "",
+  "text": "Russia cites the head of missions of Latvia for the threat of layoffs in its Embassy in Moscow Demócrata",
+  "tier": "news",
+  "title": "Russia cites the head of missions of Latvia for the threat of layoffs in its Embassy in Moscow - Demócrata",
+  "uid": "8d847359faa7ea43",
+  "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOamdxV3QzdEtEZkFqYVUzNE1fV3F5Q0F6R0hqTmFWckRJNklVcDBSOFI4Sy0wel9RMy15aVVBWVYwaXRBVWZGUWxDRWxocU1LMExtVGkydEpUUXRtWFZNV2VEczdWMlViTVA5MmUzcnpVcXFsUmc3Mk5jdU5CYXdDT25xWXVKX1V0a3pGal9Kc0ZiNWFoaU9wdVZhZDN6UlBuRVRVT2ZWTnltTC1Zay1tTEQtZ1puWkFydWtuaTVCd1NGX0JWWWh1R0RZMjJJVVBydklLSlQ4d2vSAdgBQVVfeXFMTmpncVd0M3RLRGZBamFVMzRNX1dxeUNBekdIak5hVnJESTZJVXAwUjhSOEstMHpfUTMteWlVQVlWMGl0QVVmRlFsQ0VsaHFNSzBMbVRpMnRKVFF0bVhWTVdlRHM3VjJVYk1QOTJlM3J6VXFxbFJnNzJOY3VOQmF3Q09ucVl1Sl9VdGt6RmpfSnNGYjVhaGlPcHVWYWQzelJQbkVUVU9mVk55bUwtWWstbUxELWdablpBcnVrbmk1QndTRl9CVllodUdEWTIySVVQcnZJS0pUOHdr?oc=5",
+  "warning": false
  }
 ]
