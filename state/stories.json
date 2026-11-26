@@ -512,13 +512,20 @@
  },
  {
   "level": 2,
-  "n": 1,
+  "n": 2,
   "source": "Google News — eastern flank (PL/FI/NATO)",
   "stems": [
+   "addin",
+   "along",
+   "amend",
    "chief",
    "escal",
+   "expan",
+   "joint",
+   "rutte",
    "sprea",
-   "trump"
+   "trump",
+   "unila"
   ],
   "title": "Trump and NATO chief warn against Russian escalation as wars spread - Howl.Link",
   "ts": "2026-11-26T19:31:24+00:00"

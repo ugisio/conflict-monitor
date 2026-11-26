@@ -82,5 +82,26 @@
   "uid": "31c72d3a43b84d98",
   "url": "https://t.me/nexta_live/127291",
   "warning": true
+ },
+ {
+  "first_seen": "2026-11-26T22:01:22+00:00",
+  "kind": "post",
+  "lang": "en",
+  "level": 2,
+  "note": "EN, conflict news aggregator",
+  "posted": false,
+  "published": "2026-11-26T21:42:00+00:00",
+  "reason": "official warning about Russia / NATO · matched “warship (in text)” · another report of a story already in the channel",
+  "repeat_of": "Trump and NATO chief warn against Russian escalation as wars spread - Howl.Link",
+  "repeats": 0,
+  "source_id": "tg_clashreport",
+  "source_name": "Clash Report",
+  "summary": "",
+  "text": "Trump unilaterally amended a joint statement with NATO chief Mark Rutte, adding Ukraine alongside Russia in a warning against expanding the war. The original statement referred only to Russia. The move came days after Ukraine struck a Russian warship in Libya, highlighting tensions over Kyiv’s long-range strikes. Source: POLITICO",
+  "tier": "osint",
+  "title": "Trump unilaterally amended a joint statement with NATO chief Mark Rutte, adding Ukraine alongside Russia in a warning against expanding the …",
+  "uid": "3a3126824adf1a95",
+  "url": "https://t.me/ClashReport/107681",
+  "warning": true
  }
 ]
