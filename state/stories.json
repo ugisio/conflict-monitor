@@ -1,27 +1,6 @@
 [
  {
   "level": 2,
-  "n": 3,
-  "source": "Google News — embassies Baltics",
-  "stems": [
-   "condu",
-   "corps",
-   "drill",
-   "evacu",
-   "exerc",
-   "force",
-   "korea",
-   "marin",
-   "naval",
-   "polit",
-   "recon",
-   "uncer"
-  ],
-  "title": "S. Korea conducts evacuation drills in Latvia amid political uncertainty - Yonhap News Agency",
-  "ts": "2026-11-23T05:31:23+00:00"
- },
- {
-  "level": 2,
   "n": 4,
   "source": "Clash Report",
   "stems": [
@@ -486,7 +465,7 @@
  },
  {
   "level": 2,
-  "n": 7,
+  "n": 8,
   "source": "Google News — eastern flank (PL/FI/NATO)",
   "stems": [
    "aggre",
@@ -496,12 +475,14 @@
    "calle",
    "canno",
    "chanc",
+   "chief",
    "civil",
    "conti",
    "destr",
    "enoug",
    "exact",
    "explo",
+   "follo",
    "forei",
    "found",
    "fried",
@@ -523,6 +504,7 @@
    "rutte",
    "secre",
    "squad",
+   "talks",
    "trump",
    "urges",
    "wadep"
