@@ -61,5 +61,26 @@
   "uid": "700f6beabb9fa76b",
   "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE9RMGVjLWI3NElHcHJsaHpHOGRtNjI3MmY2T1pTRkhianBuTWdsZ0xOS0lITURjWkd6YXkw?oc=5",
   "warning": true
+ },
+ {
+  "first_seen": "2026-11-26T20:01:24+00:00",
+  "kind": "post",
+  "lang": "ru",
+  "level": 2,
+  "note": "RU, Belarus opposition media — best coverage of Belarus border/military",
+  "posted": false,
+  "published": "2026-11-26T19:50:28+00:00",
+  "reason": "official warning about Russia / NATO · matched “эскалац (in text)” · another report of a story already in the channel",
+  "repeat_of": "⚡️ На встрече в Китае Трамп уговаривал Путина прекратить войну — и не только в Украине, но и по всей Европе «Во время моих переговоров в Кит…",
+  "repeats": 0,
+  "source_id": "tg_nexta",
+  "source_name": "NEXTA Live",
+  "summary": "",
+  "text": "Закрытая встреча Трампа и Рютте: президент США принял генсека НАТО в своей резиденции Мар-а-Лаго Неформальная обстановка, улыбки, а вот прессы не было. Зато по итогам встречи эта парочка выступила с совместным заявлением: «Мы обсудили, насколько важно, чтобы Россия воздерживалась от любых действий — намеренных или непреднамеренных, — которые могли бы привести к эскалации войны, и подчеркнули необходимость как можно скорее найти мирное решение этого конфликта». О чём ещё говорили, неизвестно. Возможно, скоро узнаем. Из утечек.",
+  "tier": "osint",
+  "title": "Закрытая встреча Трампа и Рютте: президент США принял генсека НАТО в своей резиденции Мар-а-Лаго Неформальная обстановка, улыбки, а вот прес…",
+  "uid": "31c72d3a43b84d98",
+  "url": "https://t.me/nexta_live/127291",
+  "warning": true
  }
 ]
