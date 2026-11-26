@@ -1,1 +1,44 @@
-[]
+[
+ {
+  "first_seen": "2026-11-26T18:31:14+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-11-26T14:17:00+00:00",
+  "reason": "region: estonia, russia · matched “drone”",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "gnews_latvia_security",
+  "source_name": "Google News — Latvia security",
+  "summary": "",
+  "text": "GPS disruptions reported in Estonia, Sweden and Finland when drone attacked Russian vessel Українська правда",
+  "tier": "news",
+  "title": "GPS disruptions reported in Estonia, Sweden and Finland when drone attacked Russian vessel - Українська правда",
+  "uid": "e72810130c41bc9d",
+  "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9BckI2eVZ3M0FXdUdmS2pyeVpZTnJXVjZEZ2FjV1J6NFJ6ZzZFeE9PREZGaFlHQlZmdi1mSlhKS0Q5UzZ5RmVoMDZyOEpkUDlpcDZKNUxWeGpGbnBXb3c1VzZrUnXSAXBBVV95cUxNeUZtSDZpa3hQMFJ3QURxNFpKWVpZVVY2bFlGM2gza2laWklHV0hOSF9BQmlweWllWVRnWC1zajljcGFscW5wdUh6MGIwNkp1b3kxTmJKWGdoVjA4OUhMM2VFOUt6dEpNc2MzMnZyWUNM?oc=5",
+  "warning": false
+ },
+ {
+  "first_seen": "2026-11-26T18:31:17+00:00",
+  "kind": "post",
+  "lang": "ru",
+  "level": 2,
+  "note": "RU, Belarus opposition media — best coverage of Belarus border/military",
+  "posted": false,
+  "published": "2026-11-26T18:03:43+00:00",
+  "reason": "region: балти, литв, росси, кремл · matched “угроз (in text)” · another report of a story already in the channel",
+  "repeat_of": "⚡️ На встрече в Китае Трамп уговаривал Путина прекратить войну — и не только в Украине, но и по всей Европе «Во время моих переговоров в Кит…",
+  "repeats": 0,
+  "source_id": "tg_nexta",
+  "source_name": "NEXTA Live",
+  "summary": "",
+  "text": "НЕТ ВОЙНЕ В БАЛТИКЕ Ситуация накаляется с каждой минутой. Россия усиливает военное присутствие в Балтике. Между Польшей и Литвой уже стоят «Искандеры», системы ПВО и силы Балтийского флота. Военные глушат связь и навигацию. Со стороны Кремля сыплются бесконечные угрозы. Балтийская республиканская партия выступает против ввязывания Янтарного Края в агрессивную войну Кремля. И анонсирует серию антивоенных митингов. Организаторы призывают всех неравнодушных прийти к посольству Российской Федерации в Праге в эту субботу, чтобы сказать: мы не хотим, чтобы Калиниградская область стала вторым фронтом. А её жители — жертвами амбиций Москвы. Балтике нужен мир. Кёнигсбергу нужна свобода. 28 ноября 2026 года, с 11:00 до 12:00 Прага, площадь Бориса Немцова Náměstí Borise Němcova",
+  "tier": "osint",
+  "title": "НЕТ ВОЙНЕ В БАЛТИКЕ Ситуация накаляется с каждой минутой. Россия усиливает военное присутствие в Балтике. Между Польшей и Литвой уже стоят «…",
+  "uid": "02ed8182ece47a8c",
+  "url": "https://t.me/nexta_live/127284",
+  "warning": false
+ }
+]
