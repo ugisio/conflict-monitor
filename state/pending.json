@@ -208,5 +208,26 @@
   "uid": "b5a9093655c48b32",
   "url": "https://embassies.gov.il/finland/en/announcements/embassyclosure",
   "warning": false
+ },
+ {
+  "first_seen": "2026-11-26T15:31:16+00:00",
+  "kind": "post",
+  "lang": "ru",
+  "level": 2,
+  "note": "RU, Belarus opposition media — best coverage of Belarus border/military",
+  "posted": true,
+  "published": "2026-11-26T15:08:18+00:00",
+  "reason": "official warning about Russia / NATO · matched “official warning”",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "tg_nexta",
+  "source_name": "NEXTA Live",
+  "summary": "",
+  "text": "⚡️ На встрече в Китае Трамп уговаривал Путина прекратить войну — и не только в Украине, но и по всей Европе «Во время моих переговоров в Китае с президентом России Владимиром Путиным я много говорил о том, что хотел бы, чтобы президент Путин прекратил любую военную агрессию против территорий по всей Европе, в надежде на то, что Россия и Украина смогут заключить соглашение, причём как можно скорее», — признался в Truth Social президент США. В последний раз Трамп встречался с Путиным 19 ноября на саммите в Китае.",
+  "tier": "osint",
+  "title": "⚡️ На встрече в Китае Трамп уговаривал Путина прекратить войну — и не только в Украине, но и по всей Европе «Во время моих переговоров в Кит…",
+  "uid": "23b1e11ecff1c676",
+  "url": "https://t.me/nexta_live/127274",
+  "warning": true
  }
 ]
