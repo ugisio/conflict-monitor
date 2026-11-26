@@ -1,41 +1,6 @@
 [
  {
   "level": 2,
-  "n": 6,
-  "source": "Google News — Latvia security",
-  "stems": [
-   "allie",
-   "armed",
-   "belie",
-   "cards",
-   "claim",
-   "daily",
-   "deplo",
-   "disin",
-   "drone",
-   "early",
-   "equip",
-   "found",
-   "intel",
-   "launc",
-   "medit",
-   "missi",
-   "month",
-   "nucle",
-   "prepa",
-   "reinf",
-   "satel",
-   "seeks",
-   "space",
-   "spark",
-   "train",
-   "weapo"
-  ],
-  "title": "Daily Memo: Ukrainian Drone Attacks in the Baltic and Mediterranean Seas - Geopolitical Futures",
-  "ts": "2026-11-23T20:31:21+00:00"
- },
- {
-  "level": 2,
   "n": 1,
   "source": "Google News — NATO & the Baltics",
   "stems": [
