@@ -1,27 +1,6 @@
 [
  {
   "level": 2,
-  "n": 4,
-  "source": "Google News — official warnings",
-  "stems": [
-   "backs",
-   "fight",
-   "leave",
-   "moldo",
-   "packa",
-   "respo",
-   "rutte",
-   "sanct",
-   "sandu",
-   "separ",
-   "unifi",
-   "vulne"
-  ],
-  "title": "Rutte warns against a separate EU army: it could slow the response to a Russian attack - Mezha.net",
-  "ts": "2026-11-23T17:01:32+00:00"
- },
- {
-  "level": 2,
   "n": 3,
   "source": "Google News — Latvia security",
   "stems": [
@@ -466,12 +445,14 @@
  },
  {
   "level": 2,
-  "n": 3,
+  "n": 5,
   "source": "Google News — Latvia security",
   "stems": [
    "assur",
+   "chief",
    "discu",
    "escal",
+   "expan",
    "impor",
    "possi",
    "refra",
