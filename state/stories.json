@@ -615,12 +615,17 @@
  },
  {
   "level": 2,
-  "n": 1,
+  "n": 2,
   "source": "Google News — Latvia security",
   "stems": [
+   "discu",
    "escal",
+   "impor",
    "possi",
+   "refra",
    "respo",
+   "rutte",
+   "trump",
    "tsahk"
   ],
   "title": "Tsahkna: Russia is responsible for possible escalation in the Baltic Sea - Mezha.net",
@@ -637,5 +642,17 @@
   ],
   "title": "Russia threatens to cut off military pension payments to retirees in Latvia - RTE.ie",
   "ts": "2026-11-26T07:31:16+00:00"
+ },
+ {
+  "level": 2,
+  "n": 1,
+  "source": "LSM (Latvian public media, EN)",
+  "stems": [
+   "agric",
+   "blood",
+   "grain"
+  ],
+  "title": "Latvian agriculture minister wary of Russian 'blood grain' ban",
+  "ts": "2026-11-26T09:31:23+00:00"
  }
 ]
