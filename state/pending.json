@@ -166,5 +166,26 @@
   "uid": "dffcea6b76180e9d",
   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBTRXlTbkk3aEgzQnBudHF0VlFWa0RTTXJ5NC05WjRHMTRfNWNPYTQ1SU9tV1p2YnVxdFhwc09MMmRValNvbDFoMkhNRWpRS0dmbmUwQVpMQmJPNTZTLWJScW51d05JVDNuTVl0X05Tcl92LWJqMUotR2R2Sk4?oc=5",
   "warning": true
+ },
+ {
+  "first_seen": "2026-11-26T13:01:24+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-11-26T10:50:02+00:00",
+  "reason": "region: baltic, russia · matched “Nuclear”",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "gnews_latvia_security",
+  "source_name": "Google News — Latvia security",
+  "summary": "",
+  "text": "Nuclear brinkmanship around the Baltic. Russia issues threats, while the Nordics seek to ease tensions Defence24.com",
+  "tier": "news",
+  "title": "Nuclear brinkmanship around the Baltic. Russia issues threats, while the Nordics seek to ease tensions - Defence24.com",
+  "uid": "596871d48f8c1567",
+  "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOMnF0M3dmejB1SWZ0WHJJRHJTSlA5TVRxUnFPaTc5V2pJZUFFUTBVUm1UVU9iMmVwblNOajF4UWxvd0dTVkV6MEhLNmxyUXlidDJ3dWVySnZxS3NqTEVyY0J3UW1pblZueldBX3NtbUVPUEh0WXltNjYzME5wbkJNTjFFaTlIRWF5ZGtjUG9kRk82Qm4wY3BZVXFlVHJNOEVydXdoN1VBSFItUWdMVkV5MGVpOEk5OHFGOHZfWVdMTS0wRC14azI0QXZ6OHFBMW1RbVNv?oc=5",
+  "warning": false
  }
 ]
