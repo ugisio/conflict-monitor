@@ -124,5 +124,26 @@
   "uid": "730d8f0e050e2205",
   "url": "https://t.me/astrapress/132250",
   "warning": false
+ },
+ {
+  "first_seen": "2026-11-26T05:31:12+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-11-25T14:57:44+00:00",
+  "reason": "official warning about Russia / NATO · matched “official warning” · another report of a story already in the channel",
+  "repeat_of": "Mark Rutte urges NATO to prepare the civilian population as well for a potential war with Russia - Informat.ro",
+  "repeats": 0,
+  "source_id": "gnews_official_warnings",
+  "source_name": "Google News — official warnings",
+  "summary": "",
+  "text": "NATO Secretary General Mark Rutte warns on Ukraine war risks ahead of Trump meeting Fox News",
+  "tier": "news",
+  "title": "NATO Secretary General Mark Rutte warns on Ukraine war risks ahead of Trump meeting - Fox News",
+  "uid": "e7772ab5097c1c55",
+  "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA4c21sV01qenRhZEpRa01Yck5TUmwtekI4YzZJQWpkd0VndUFuNFpaTGd6ZkpZcDJnaTVaclFJR0N1emJYX2pYRzVjSXJ2US1MOUFmdGdn?oc=5",
+  "warning": true
  }
 ]
