@@ -187,5 +187,26 @@
   "uid": "596871d48f8c1567",
   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOMnF0M3dmejB1SWZ0WHJJRHJTSlA5TVRxUnFPaTc5V2pJZUFFUTBVUm1UVU9iMmVwblNOajF4UWxvd0dTVkV6MEhLNmxyUXlidDJ3dWVySnZxS3NqTEVyY0J3UW1pblZueldBX3NtbUVPUEh0WXltNjYzME5wbkJNTjFFaTlIRWF5ZGtjUG9kRk82Qm4wY3BZVXFlVHJNOEVydXdoN1VBSFItUWdMVkV5MGVpOEk5OHFGOHZfWVdMTS0wRC14azI0QXZ6OHFBMW1RbVNv?oc=5",
   "warning": false
+ },
+ {
+  "first_seen": "2026-11-26T13:31:16+00:00",
+  "kind": "alert",
+  "lang": "en",
+  "level": 4,
+  "note": "",
+  "posted": true,
+  "published": "2026-11-26T00:00:00+00:00",
+  "reason": "matched “Embassy closed”",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "israel_emb_finland",
+  "source_name": "Israeli Embassy Helsinki announcements",
+  "summary": "",
+  "text": "",
+  "tier": "official",
+  "title": "Embassy closed 30.11.",
+  "uid": "b5a9093655c48b32",
+  "url": "https://embassies.gov.il/finland/en/announcements/embassyclosure",
+  "warning": false
  }
 ]
