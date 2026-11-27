@@ -1,22 +1,6 @@
 [
  {
   "level": 2,
-  "n": 1,
-  "source": "Google News — embassies Baltics",
-  "stems": [
-   "evacu",
-   "korea",
-   "persi",
-   "plans",
-   "polit",
-   "tests",
-   "uncer"
-  ],
-  "title": "Korea tests Latvia evacuation plans as political uncertainty persists - Korea JoongAng Daily",
-  "ts": "2026-11-24T11:31:24+00:00"
- },
- {
-  "level": 2,
   "n": 3,
   "source": "Novaya Gazeta Europe",
   "stems": [
@@ -392,23 +376,27 @@
   "ts": "2026-11-26T11:31:19+00:00"
  },
  {
-  "level": 2,
-  "n": 9,
+  "level": 3,
+  "n": 13,
   "source": "Google News — Latvia security",
   "stems": [
    "acros",
    "aircr",
    "airsp",
+   "alarm",
    "alert",
    "appea",
    "aroun",
+   "brief",
    "brink",
    "decla",
    "deplo",
    "drone",
+   "easte",
    "enter",
    "entry",
    "fight",
+   "flank",
    "follo",
    "issue",
    "nordi",
@@ -419,10 +407,11 @@
    "sends",
    "south",
    "tensi",
+   "viola",
    "while"
   ],
-  "title": "Nuclear brinkmanship around the Baltic. Russia issues threats, while the Nordics seek to ease tensions - Defence24.com",
-  "ts": "2026-11-26T13:01:31+00:00"
+  "title": "NATO jets scrambled after drone briefly enters Latvian airspace - Euronews.com",
+  "ts": "2026-11-27T11:31:28+00:00"
  },
  {
   "level": 2,
@@ -614,5 +603,17 @@
   ],
   "title": "Lithuania may need to spend at least 5% of GDP on defence until 2040, minister says",
   "ts": "2026-11-27T10:31:32+00:00"
+ },
+ {
+  "level": 2,
+  "n": 1,
+  "source": "LSM (Latvian public media, EN)",
+  "stems": [
+   "closu",
+   "lines",
+   "lorri"
+  ],
+  "title": "Estonian border closure could mean lines of lorries on Latvia-Russia border",
+  "ts": "2026-11-27T11:31:28+00:00"
  }
 ]
