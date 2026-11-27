@@ -2,18 +2,6 @@
  {
   "level": 2,
   "n": 1,
-  "source": "LRT (Lithuania, EN)",
-  "stems": [
-   "escal",
-   "fears",
-   "refle"
-  ],
-  "title": "Lithuanian presidential aide: Kaliningrad warnings reflect Russian fears, not escalation",
-  "ts": "2026-11-24T09:31:29+00:00"
- },
- {
-  "level": 2,
-  "n": 1,
   "source": "Google News — embassies Baltics",
   "stems": [
    "evacu",
@@ -474,7 +462,7 @@
  },
  {
   "level": 2,
-  "n": 4,
+  "n": 5,
   "source": "Google News — Latvia security",
   "stems": [
    "airsp",
@@ -533,21 +521,30 @@
  },
  {
   "level": 2,
-  "n": 1,
+  "n": 2,
   "source": "NEXTA Live",
   "stems": [
+   "astra",
+   "osint",
    "алекс",
+   "анали",
    "атаке",
+   "атаки",
+   "вероя",
    "главн",
    "губер",
    "дроно",
    "здрав",
+   "кварт",
    "ленин",
    "масси",
    "облас",
    "петер",
+   "повре",
    "подве",
+   "ранен",
    "санкт",
+   "шувал",
    "этому"
   ],
   "title": "❤️ Здравствуйте! Главное к этому часу 1️⃣ Санкт-Петербург и Ленинградская область подверглись массированной атаке дронов. Губернатор Алексан…",
