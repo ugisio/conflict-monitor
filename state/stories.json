@@ -393,17 +393,30 @@
  },
  {
   "level": 2,
-  "n": 2,
+  "n": 9,
   "source": "Google News — Latvia security",
   "stems": [
    "acros",
+   "aircr",
+   "airsp",
    "alert",
+   "appea",
    "aroun",
    "brink",
+   "decla",
+   "deplo",
+   "drone",
+   "enter",
+   "entry",
+   "fight",
+   "follo",
    "issue",
    "nordi",
    "nucle",
+   "possi",
    "poten",
+   "scram",
+   "sends",
    "south",
    "tensi",
    "while"
@@ -462,7 +475,7 @@
  },
  {
   "level": 2,
-  "n": 5,
+  "n": 6,
   "source": "Google News — Latvia security",
   "stems": [
    "airsp",
@@ -471,8 +484,11 @@
    "drone",
    "enter",
    "fight",
+   "incur",
    "inter",
    "launc",
+   "ludza",
+   "night",
    "promp",
    "respo",
    "scram",
@@ -486,7 +502,7 @@
  },
  {
   "level": 2,
-  "n": 2,
+  "n": 4,
   "source": "Google News — eastern flank (PL/FI/NATO)",
   "stems": [
    "addin",
@@ -496,10 +512,12 @@
    "escal",
    "expan",
    "joint",
+   "restr",
    "rutte",
    "sprea",
    "trump",
-   "unila"
+   "unila",
+   "urgin"
   ],
   "title": "Trump and NATO chief warn against Russian escalation as wars spread - Howl.Link",
   "ts": "2026-11-26T19:31:24+00:00"
@@ -584,5 +602,17 @@
   ],
   "title": "Almost quarter of a billion euros of Estonia's defense budget may go unused",
   "ts": "2026-11-27T10:01:46+00:00"
+ },
+ {
+  "level": 1,
+  "n": 1,
+  "source": "LRT (Lithuania, EN)",
+  "stems": [
+   "least",
+   "spend",
+   "until"
+  ],
+  "title": "Lithuania may need to spend at least 5% of GDP on defence until 2040, minister says",
+  "ts": "2026-11-27T10:31:32+00:00"
  }
 ]
