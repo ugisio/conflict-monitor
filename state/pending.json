@@ -61,5 +61,26 @@
   "uid": "a5b07034bff3d831",
   "url": "https://t.me/nexta_live/127303",
   "warning": false
+ },
+ {
+  "first_seen": "2026-11-27T08:31:22+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-11-27T06:09:00+00:00",
+  "reason": "region: latvia, latvian · hybrid incident (sabotage/arson/cyber) → WATCH · matched “enters Latvian airspace” · another report of a story already in the channel",
+  "repeat_of": "GPS disruptions reported in Estonia, Sweden and Finland when drone attacked Russian vessel - Українська правда",
+  "repeats": 0,
+  "source_id": "gnews_latvia_security",
+  "source_name": "Google News — Latvia security",
+  "summary": "",
+  "text": "Unidentified drone enters Latvian airspace: military launches interceptor UAV Українська правда",
+  "tier": "news",
+  "title": "Unidentified drone enters Latvian airspace: military launches interceptor UAV - Українська правда",
+  "uid": "9cd9b049a0e856bf",
+  "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8zN1h4SkJHbk9tOWkwT3BGcHRhYXYwU0MtYTROckhVbnJIT0VLZFFzeW90WUd6NnNxcVJfTWlUWlRFUXpzRV8ybDFvc2NwS3NyczBpTGl1Nzl2SG1EeEEyZDRIQWbSAXBBVV95cUxOM0xtLXg0SnV3djV6SHBpTXFlOVUwLW9iZ0MtS3VHTEtqaG14Sm1vd1N2bmlzUVpvXzJ0YmM0bURUd0dSelFLTTRxZmUtS0doeTI4bWN4OHRLT09GUUxyNFl0Qy1Fdk9mUnp6TlpNeG1V?oc=5",
+  "warning": false
  }
 ]
