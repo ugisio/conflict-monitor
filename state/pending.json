@@ -166,5 +166,26 @@
   "uid": "0ae43a957c92f59b",
   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMlU0OGNaOUp4a1pLY0hjbVg0VFhJMkhZdDg2eVY4bndUa2tkOFlRazdWcEE3NXZ6bjVtQWVBbDFRcC00a0U0elZpYXFHblFVMlFPYm9rb1NOSkRnRENSanhZNkVVQlJVYlNhTlVBaFpUenUzWVN2X2NjOXdadjBHMWFEUFNiMU82SmhYSC1kb1VxMmFUWmhMbzVuMnFlSVR1aml6MnZBeFBsMWNxLXNfRG5CR0dXQTJZeFEzOA?oc=5",
   "warning": false
+ },
+ {
+  "first_seen": "2026-11-27T05:18:03+00:00",
+  "kind": "post",
+  "lang": "ru",
+  "level": 2,
+  "note": "RU, Belarus opposition media — best coverage of Belarus border/military",
+  "posted": false,
+  "published": "2026-11-27T05:15:26+00:00",
+  "reason": "region: латви, ленинградск · matched “дрон”",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "tg_nexta",
+  "source_name": "NEXTA Live",
+  "summary": "",
+  "text": "❤️ Здравствуйте! Главное к этому часу 1️⃣ Санкт-Петербург и Ленинградская область подверглись массированной атаке дронов. Губернатор Александр Дрозденко сообщил, что ПВО продолжает отражать атаку. 2️⃣ В Тульской области загорелся завод, связанный с топливом для «Искандеров». 3️⃣ Ночью 27 ноября в восточной Латвии объявляли воздушную тревогу, а военные применили дрон-перехватчик. К утру обе тревоги отменили. Что именно представляло угрозу и удалось ли перехватить воздушный объект, пока неизвестно. 4️⃣ Ким Чен Ын с супругой пришёл на концерт Ларисы Долиной в Пхеньяне. 5️⃣ «Победа наступит, когда я захочу», — Трамп о войне с Ираном.",
+  "tier": "osint",
+  "title": "❤️ Здравствуйте! Главное к этому часу 1️⃣ Санкт-Петербург и Ленинградская область подверглись массированной атаке дронов. Губернатор Алексан…",
+  "uid": "208c83eae5ca3573",
+  "url": "https://t.me/nexta_live/127296",
+  "warning": false
  }
 ]
