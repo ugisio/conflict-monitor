@@ -40,5 +40,26 @@
   "uid": "01a65cebe7af949b",
   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNazNKRzNrTlBIZkxsaGhZVVdMR2syUjd2d2JNbHQ4MFBwVjI1UTlMaDBQaVJYZndTdjNRZDlfd3NTOTVSOGdVWlZOM0hrRkI3R2lTWUx6WnlhTU9VZ1VtQnJaYjFLMHVPWHJvYks0d20wLWJCUHZZMXl3M1hLU1I3TWJqZVZsSjEw?oc=5",
   "warning": false
+ },
+ {
+  "first_seen": "2026-11-27T07:31:13+00:00",
+  "kind": "post",
+  "lang": "ru",
+  "level": 2,
+  "note": "RU, Belarus opposition media — best coverage of Belarus border/military",
+  "posted": false,
+  "published": "2026-11-27T07:25:11+00:00",
+  "reason": "region: латви, нато · hybrid incident (sabotage/arson/cyber) → WATCH · matched “нарушил воздушное пространств” · another report of a story already in the channel",
+  "repeat_of": "⚡️ На встрече в Китае Трамп уговаривал Путина прекратить войну — и не только в Украине, но и по всей Европе «Во время моих переговоров в Кит…",
+  "repeats": 0,
+  "source_id": "tg_nexta",
+  "source_name": "NEXTA Live",
+  "summary": "",
+  "text": "🚨 Неизвестный дрон нарушил воздушное пространство Латвии Ночью 27 ноября беспилотник заметили возле восточной границы страны. Он ненадолго залетел на территорию Латвии, после чего в Лудзенском крае объявили оранжевый уровень воздушной угрозы. В готовность привели истребители НАТО и подразделения ПВО, а латвийские военные запустили дрон-перехватчик, который впоследствии вернулся на стартовую площадку. Позднее предупреждение объявили и в Балвском крае. К 03:30 воздушная угроза была устранена, обе тревоги отменены. Происхождение беспилотника и обстоятельства его дальнейшего полёта пока не уточняются.",
+  "tier": "osint",
+  "title": "🚨 Неизвестный дрон нарушил воздушное пространство Латвии Ночью 27 ноября беспилотник заметили возле восточной границы страны. Он ненадолго з…",
+  "uid": "a5b07034bff3d831",
+  "url": "https://t.me/nexta_live/127303",
+  "warning": false
  }
 ]
