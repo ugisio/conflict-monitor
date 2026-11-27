@@ -1,1 +1,44 @@
-[]
+[
+ {
+  "first_seen": "2026-11-27T06:31:22+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-11-26T07:28:47+00:00",
+  "reason": "region: latvia, russia · matched “threatens” · another report of a story already in the channel",
+  "repeat_of": "Russia threatens to cut off military pension payments to retirees in Latvia - RTE.ie",
+  "repeats": 0,
+  "source_id": "gnews_latvia_security",
+  "source_name": "Google News — Latvia security",
+  "summary": "",
+  "text": "Latvia: Russia threatens to cut off military pensions RTE.ie",
+  "tier": "news",
+  "title": "Latvia: Russia threatens to cut off military pensions - RTE.ie",
+  "uid": "2565669e16369ff4",
+  "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPa0FtUjIxUkNpcGxKOVFCdmU1cld1dzk4M1ZUUGw5ZUJVVVZwNjFQWWdPbUtyWm9ZZjR1U3lMLVkzbFFKOEF2UnpLMUxFb2NkMG11NGJubExiemV0QkhXM0RybkdsWHZSR3h4VDY3RFhNcVN6UjJBbnZwV014MEhuYnNrbVo2UQ?oc=5",
+  "warning": false
+ },
+ {
+  "first_seen": "2026-11-27T06:31:22+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-11-27T05:51:50+00:00",
+  "reason": "region: latvia, nato · matched “drone” · another report of a story already in the channel",
+  "repeat_of": "GPS disruptions reported in Estonia, Sweden and Finland when drone attacked Russian vessel - Українська правда",
+  "repeats": 0,
+  "source_id": "gnews_latvia_security",
+  "source_name": "Google News — Latvia security",
+  "summary": "",
+  "text": "Nato fighter jets scrambled as drone violates Latvia's airspace LBC",
+  "tier": "news",
+  "title": "Nato fighter jets scrambled as drone violates Latvia's airspace - LBC",
+  "uid": "01a65cebe7af949b",
+  "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNazNKRzNrTlBIZkxsaGhZVVdMR2syUjd2d2JNbHQ4MFBwVjI1UTlMaDBQaVJYZndTdjNRZDlfd3NTOTVSOGdVWlZOM0hrRkI3R2lTWUx6WnlhTU9VZ1VtQnJaYjFLMHVPWHJvYks0d20wLWJCUHZZMXl3M1hLU1I3TWJqZVZsSjEw?oc=5",
+  "warning": false
+ }
+]

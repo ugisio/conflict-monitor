@@ -4,23 +4,6 @@
   "n": 1,
   "source": "LRT (Lithuania, EN)",
   "stems": [
-   "denie",
-   "germa",
-   "large",
-   "propa",
-   "putin",
-   "reach",
-   "tanks",
-   "unnot"
-  ],
-  "title": "Putin denied a propaganda gift as German tanks reach Lithuania largely unnoticed",
-  "ts": "2026-11-24T06:01:36+00:00"
- },
- {
-  "level": 2,
-  "n": 1,
-  "source": "LRT (Lithuania, EN)",
-  "stems": [
    "escal",
    "fears",
    "refle"
@@ -385,7 +368,7 @@
  },
  {
   "level": 2,
-  "n": 1,
+  "n": 2,
   "source": "Google News — Latvia security",
   "stems": [
    "payme",
@@ -491,15 +474,17 @@
  },
  {
   "level": 2,
-  "n": 2,
+  "n": 3,
   "source": "Google News — Latvia security",
   "stems": [
    "airsp",
    "brief",
    "disru",
    "drone",
+   "fight",
    "promp",
    "respo",
+   "scram",
    "swede",
    "unide",
    "vesse",
