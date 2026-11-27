@@ -502,5 +502,26 @@
   "uid": "519917e4d3106d0f",
   "url": "https://t.me/ClashReport/107767",
   "warning": true
+ },
+ {
+  "first_seen": "2026-11-27T14:31:18+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 1,
+  "note": "",
+  "posted": false,
+  "published": "2026-11-27T13:31:00+00:00",
+  "reason": "region: baltic, estonia · matched “National Guard”",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "gnews_latvia_security",
+  "source_name": "Google News — Latvia security",
+  "summary": "",
+  "text": "News - Maryland National Guard and Estonian Defense Force participate in Baltic Blitz 26 DVIDS",
+  "tier": "news",
+  "title": "News - Maryland National Guard and Estonian Defense Force participate in Baltic Blitz 26 - DVIDS",
+  "uid": "7421f08043ad7c8c",
+  "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNT2pITVBiWnNNU2g1REFQU0MxZm50TXNleUh5SnpCUE9Mc2RVTmN2WDlSNXBxT3BodWVyWWZlaXVCNDhNQkk1Ymxlb3RoUWtEcWVJdmp4MGlwS1A4WVRpRkdDLW1JOThHSGVfMWlfVnpvRGpicTJwTFhUaVBZdVA4RU1JQ0FjTlR3c1MtUW9ldE9LN0dndzRWODFQZ05kOE5ndUxJemFuSWRGQXdNOG54ZDZNR2w5dw?oc=5",
+  "warning": false
  }
 ]
