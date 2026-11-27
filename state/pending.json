@@ -124,5 +124,26 @@
   "uid": "c82a50525197c278",
   "url": "https://t.me/astrapress/132360",
   "warning": false
+ },
+ {
+  "first_seen": "2026-11-27T10:01:37+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 1,
+  "note": "",
+  "posted": false,
+  "published": "2026-11-27T09:50:00+00:00",
+  "reason": "region: estonia · matched “defense budget”",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "err_en",
+  "source_name": "ERR News (Estonia, EN)",
+  "summary": "",
+  "text": "Estonia could end the year with around €240 million or 10 percent of its defense budget unspent amid procurement and delivery delays.",
+  "tier": "news",
+  "title": "Almost quarter of a billion euros of Estonia's defense budget may go unused",
+  "uid": "091f2e1bfd5bc031",
+  "url": "https://news.err.ee/1610208736/almost-quarter-of-a-billion-euros-of-estonia-s-defense-budget-may-go-unused",
+  "warning": false
  }
 ]
