@@ -1,1 +1,23 @@
-[]
+[
+ {
+  "first_seen": "2026-11-27T18:31:25+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-11-27T17:07:00+00:00",
+  "reason": "region: latvia, nato · matched “Drone” · another report of a story already in the channel",
+  "repeat_of": "NATO jets scrambled after drone briefly enters Latvian airspace - Euronews.com",
+  "repeats": 0,
+  "source_id": "gnews_nato",
+  "source_name": "Google News — NATO & the Baltics",
+  "summary": "",
+  "text": "Latvia's Interceptor Drone Came Home This Time As NATO Jets Scrambled DroneXL",
+  "tier": "news",
+  "title": "Latvia's Interceptor Drone Came Home This Time As NATO Jets Scrambled - DroneXL",
+  "uid": "f7460e449e0ac785",
+  "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWkhMbUZsRlV3ZFRfZElxU2tzMWxBQjcxVXpmZS1lb2kzQmpWc2o1YnBsSkZqQVNvaWFhdlpBOWltT1Jtb1VVYl9OZmowS1RnQjhwMjRNcng3eHVRQU5IclZaWC0tQWpLM0VLcUNzd1NHQVJwMFhpZGtQWmZQOG1sblpzX1FSUmppMEdqNExSaEJnZw?oc=5",
+  "warning": false
+ }
+]

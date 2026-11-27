@@ -294,7 +294,7 @@
  },
  {
   "level": 3,
-  "n": 16,
+  "n": 17,
   "source": "Google News — Latvia security",
   "stems": [
    "accep",
@@ -324,6 +324,7 @@
    "follo",
    "frenc",
    "grain",
+   "inter",
    "issue",
    "lench",
    "means",
@@ -335,8 +336,7 @@
    "poten",
    "scram",
    "sends",
-   "south",
-   "tensi"
+   "south"
   ],
   "title": "NATO jets scrambled after drone briefly enters Latvian airspace - Euronews.com",
   "ts": "2026-11-27T11:31:28+00:00"
