@@ -520,12 +520,15 @@
  },
  {
   "level": 2,
-  "n": 1,
+  "n": 3,
   "source": "LSM (Latvian public media, EN)",
   "stems": [
    "alert",
+   "artic",
+   "balvu",
    "ludza",
-   "munic"
+   "munic",
+   "possi"
   ],
   "title": "Air threat alert in Ludza municipality of Latvia",
   "ts": "2026-11-27T01:01:35+00:00"
