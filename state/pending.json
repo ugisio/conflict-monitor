@@ -19,5 +19,26 @@
   "uid": "f7460e449e0ac785",
   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWkhMbUZsRlV3ZFRfZElxU2tzMWxBQjcxVXpmZS1lb2kzQmpWc2o1YnBsSkZqQVNvaWFhdlpBOWltT1Jtb1VVYl9OZmowS1RnQjhwMjRNcng3eHVRQU5IclZaWC0tQWpLM0VLcUNzd1NHQVJwMFhpZGtQWmZQOG1sblpzX1FSUmppMEdqNExSaEJnZw?oc=5",
   "warning": false
+ },
+ {
+  "first_seen": "2026-11-27T20:01:24+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-11-27T18:48:22+00:00",
+  "reason": "region: estonia, russia · matched “close border” · single source, held at WATCH until another source corroborates",
+  "repeat_of": "",
+  "repeats": 0,
+  "source_id": "gnews_embassy",
+  "source_name": "Google News — embassies Baltics",
+  "summary": "",
+  "text": "Estonia will close border with Russia 'to secure Europe,' foreign minister says during Baku visit AOL.co.uk",
+  "tier": "news",
+  "title": "Estonia will close border with Russia 'to secure Europe,' foreign minister says during Baku visit - AOL.co.uk",
+  "uid": "ff6a500e30bce3ca",
+  "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbjEzRWtoRjJkQzc0cHZ6Q1FmemdsMDdWeEttbEJKanBTNU5pdEk3XzR0U2w3ejg2S2hKUjdNV3dydjBIQjVuc2VJNnU3bnVzb25NelpWaFotdnI2UEplZVQyWmJHdmhVY0R0UDBBenFpVGF0NFlTVlJoanU2ZU9DWVh0b09tVFk?oc=5",
+  "warning": false
  }
 ]
