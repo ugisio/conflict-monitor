@@ -481,5 +481,26 @@
   "uid": "15ea584466831de2",
   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNM0JvTXRDYUFCMHV2RC1wUHJYZTI4Ykk2bjljQ2Z2TlNUSlVDb2R2MmF6SUtjeHNhY3FnVXQ3TWszelN2U2V0VGdPcEF4azkzVjhRM202bEVraUdvXzBHa2hxVGI2cnNscUcwMTBfSzVLZFFUd2lneUxKdGc4Y2NNbFc3NVlMWFJEeXc?oc=5",
   "warning": false
+ },
+ {
+  "first_seen": "2026-11-27T13:01:33+00:00",
+  "kind": "post",
+  "lang": "en",
+  "level": 2,
+  "note": "EN, conflict news aggregator",
+  "posted": false,
+  "published": "2026-11-27T12:36:28+00:00",
+  "reason": "region: baltic, russia · official warning · matched “nuclear” · another report of a story already in the channel",
+  "repeat_of": "NATO jets scrambled after drone briefly enters Latvian airspace - Euronews.com",
+  "repeats": 0,
+  "source_id": "tg_clashreport",
+  "source_name": "Clash Report",
+  "summary": "",
+  "text": "French Presidential Candidate Jean-Luc Mélenchon: The doctrine of French nuclear deterrence means that we will never accept a conflict on the soil of Europe, which extends to the Baltic states and beyond. Consequently, we must legitimately be concerned about those who are arming themselves around us. Because going to war with Russia is absurd.",
+  "tier": "osint",
+  "title": "French Presidential Candidate Jean-Luc Mélenchon: The doctrine of French nuclear deterrence means that we will never accept a conflict on th…",
+  "uid": "519917e4d3106d0f",
+  "url": "https://t.me/ClashReport/107767",
+  "warning": true
  }
 ]
