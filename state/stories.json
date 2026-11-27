@@ -1,27 +1,6 @@
 [
  {
   "level": 2,
-  "n": 4,
-  "source": "Google News — NATO & the Baltics",
-  "stems": [
-   "belgi",
-   "deplo",
-   "drill",
-   "drone",
-   "equip",
-   "holds",
-   "missi",
-   "nasam",
-   "rocke",
-   "targe",
-   "train",
-   "troop"
-  ],
-  "title": "Belgian F-16s deploy with anti-drone rockets for NATO air defence mission in the Baltics - Zona Militar",
-  "ts": "2026-11-24T22:01:42+00:00"
- },
- {
-  "level": 2,
   "n": 3,
   "source": "Google News — Latvia security",
   "stems": [
