@@ -487,13 +487,19 @@
  },
  {
   "level": 2,
-  "n": 1,
+  "n": 2,
   "source": "Google News — Latvia security",
   "stems": [
+   "airsp",
+   "brief",
    "disru",
    "drone",
+   "promp",
+   "respo",
    "swede",
-   "vesse"
+   "unide",
+   "vesse",
+   "viola"
   ],
   "title": "GPS disruptions reported in Estonia, Sweden and Finland when drone attacked Russian vessel - Українська правда",
   "ts": "2026-11-26T18:31:22+00:00"

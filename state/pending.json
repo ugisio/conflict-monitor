@@ -187,5 +187,26 @@
   "uid": "208c83eae5ca3573",
   "url": "https://t.me/nexta_live/127296",
   "warning": false
+ },
+ {
+  "first_seen": "2026-11-27T05:31:14+00:00",
+  "kind": "news",
+  "lang": "en",
+  "level": 2,
+  "note": "",
+  "posted": false,
+  "published": "2026-11-27T05:22:14+00:00",
+  "reason": "region: latvia, nato · matched “violated airspace” · single source, held at WATCH until another source corroborates · another report of a story already in the channel",
+  "repeat_of": "GPS disruptions reported in Estonia, Sweden and Finland when drone attacked Russian vessel - Українська правда",
+  "repeats": 0,
+  "source_id": "gnews_nato",
+  "source_name": "Google News — NATO & the Baltics",
+  "summary": "",
+  "text": "Latvia says unidentified drone briefly violated airspace, prompting NATO response Investing.com Nigeria",
+  "tier": "news",
+  "title": "Latvia says unidentified drone briefly violated airspace, prompting NATO response - Investing.com Nigeria",
+  "uid": "ba99bf2eac83cc46",
+  "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPeWZnQ2dBSkVEdTl5aGZ3UzVEOC1CalFZOGJMRGlpY3Yxd3Z4NkFCMWVnRGxqQWhKeGpXd2FOek1wMkZGZTFMMTQzUV9uUjZqdEd2UmRyM3FNcE5qd0M3dzZkM1ZsTDBrT3pvZ2Mwb002ckRxdm9wSkVwdXFOaEJXQVF0ZW5sdGVVemdMdkprV1JPTU44V21UYmkxNGxJOWx4NXlQVjFIWGtNanJlMjdnc0ZlUkx1YkNrbWxub0pjSWItMzl0b3pJclBDYzh2ZkNKMnBUYl9yeXg?oc=5",
+  "warning": false
  }
 ]
