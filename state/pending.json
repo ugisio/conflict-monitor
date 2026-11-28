@@ -19,5 +19,26 @@
   "uid": "792fe921e0b67c01",
   "url": "https://t.me/astrapress/132467",
   "warning": false
+ },
+ {
+  "first_seen": "2026-11-28T14:01:40+00:00",
+  "kind": "post",
+  "lang": "ru",
+  "level": 2,
+  "note": "RU, independent Russian media in exile",
+  "posted": false,
+  "published": "2026-11-28T14:00:27+00:00",
+  "reason": "region: калининград · matched “воздушной тревог” · single source, held at WATCH until another source corroborates · another report of a story already in the channel",
+  "repeat_of": "Беларусь проверяет народное ополчение у границы с Литвой. Добровольцам выдали автоматы В Ошмянском и Вороновском районах Гродненской области…",
+  "repeats": 0,
+  "source_id": "tg_novaya",
+  "source_name": "Novaya Gazeta Europe",
+  "summary": "",
+  "text": "Жители Калининградской области после воздушной тревоги потребовали раскрыть адреса убежищ. В начале войны власти запретили публиковать эти сведения в соцсетях Жители Калининградской области после срабатывания сирен вечером 21 ноября потребовали от губернатора…",
+  "tier": "osint",
+  "title": "Жители Калининградской области после воздушной тревоги потребовали раскрыть адреса убежищ. В начале войны власти запретили публиковать эти с…",
+  "uid": "8061f047160ddaa9",
+  "url": "https://t.me/novaya_europe/70267",
+  "warning": false
  }
 ]
