@@ -1,18 +1,6 @@
 [
  {
   "level": 2,
-  "n": 1,
-  "source": "ERR News (Estonia, EN)",
-  "stems": [
-   "airsp",
-   "parli",
-   "using"
-  ],
-  "title": "Defense minister in parliament: Ukraine not using Estonian airspace to attack Russia",
-  "ts": "2026-11-25T14:31:19+00:00"
- },
- {
-  "level": 2,
   "n": 4,
   "source": "NEXTA Live",
   "stems": [
