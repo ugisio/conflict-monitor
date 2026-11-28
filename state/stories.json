@@ -1,29 +1,6 @@
 [
  {
   "level": 2,
-  "n": 5,
-  "source": "Google News — Latvia security",
-  "stems": [
-   "assur",
-   "chief",
-   "discu",
-   "escal",
-   "expan",
-   "impor",
-   "possi",
-   "refra",
-   "respo",
-   "rutte",
-   "seeks",
-   "trump",
-   "tsahk",
-   "wider"
-  ],
-  "title": "Tsahkna: Russia is responsible for possible escalation in the Baltic Sea - Mezha.net",
-  "ts": "2026-11-25T19:01:40+00:00"
- },
- {
-  "level": 2,
   "n": 2,
   "source": "Google News — Latvia security",
   "stems": [
